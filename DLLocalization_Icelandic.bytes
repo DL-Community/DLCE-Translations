@@ -95,8 +95,10 @@ Notað
 Nota
 Ókeypis Endurlífgun: {0}/{1}
 Viltu eyða {0} gems til að fá leiðarlínuna fyrir þessa umferð?
-Unable to claim daily free gems, time verification failed.
+Ekki hægt að eigna gems, tímastaðfesting mistókst.
 Advanced Settings
+This setting only applies to the current level.
+Global
 
 Verðlaun
 Verðlaun: {0}
