@@ -97,8 +97,7 @@ Reprises gratuites : {0}/{1}
 Voulez-vous dépenser {0} gemmes et débloquer la ligne de guidage pour cette fois ?
 Impossible d’obtenir les gemmes gratuites du jour, la vérification temporelle a échoué.
 Paramètres avancés
-This setting only applies to the current level.
-Global
+This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 
 Récompenses
 Récompenses : {0}

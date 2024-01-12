@@ -97,8 +97,7 @@ Nota
 Viltu eyða {0} gems til að fá leiðarlínuna fyrir þessa umferð?
 Ekki hægt að eigna gems, tímastaðfesting mistókst.
 Advanced Settings
-This setting only applies to the current level.
-Global
+This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 
 Verðlaun
 Verðlaun: {0}

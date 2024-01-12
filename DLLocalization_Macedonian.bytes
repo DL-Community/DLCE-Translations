@@ -97,8 +97,7 @@ Game Center
 Да потрошите {0} дијамамти за да уклучите беспрекинета линија?
 Не е можно да збирате дневни дијамамти, времна верификација е потрошена.
 Повеќе Поставки
-Оваа поставка аплицира на стазата.
-Глобал
+This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 
 Награди
 Награди: {0}

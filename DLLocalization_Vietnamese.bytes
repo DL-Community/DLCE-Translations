@@ -97,8 +97,7 @@ Hồi sinh miễn phí: {0}/{1}
 Bạn muốn mở khóa đường dẫn hướng trong vòng này với {0} đá quý, đúng chứ?
 Không thể nào nhặt được đá quý, xác minh thời gian đã thất bại.
 Advanced Settings
-This setting only applies to the current level.
-Global
+This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 
 Phần thưởng
 Phần thưởng: {0}
