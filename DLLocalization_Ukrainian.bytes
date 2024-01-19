@@ -81,29 +81,29 @@ YouTube
 Перш ніж використовувати програму, ви повинні прийняти нашу Ліцензійну угоду кінцевого користувача та Політику конфіденційності.
 Прийняти та продовжити
 Вийти з гри
-DSP Buffer Size
-Audio Output Latency
-Touch Input Latency
+Розмір Буфера DSP
+Затримка Аудіовиходу
+Натисніть Затримка Введення
 v#Version# BETA BUILD
 Гіроскоп
 Game Center
 Масштабування Інтерфейсу 
-Claim
-Daily Free Gems
-Claim after {0}h {1}m
-Equipped
-Equip
-Free Revivals: {0}/{1}
-Do you want to spend {0} gems to unlock the guidance line in this round?
-Unable to claim daily free gems, time verification failed.
+Зібрати
+Щоденні безкоштовні дорогоцінні камені
+Заберіть через {0} год {1} хв
+Вибранно
+Вибрати
+Безкоштовні відродження: {0}/{1}
+Хочете витратити {0} дорогоцінних каменів, щоб розблокувати навігаційну лінію в цьому раунді?
+Неможливо отримати безкоштовні щоденні дорогоцінні камені, не вдалося перевірити час
 Розширені Налаштування
-This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
+Цей параметр застосовується лише до поточного рівня, дозволяючи індивідуальні налаштування для кожного рівня на основі глобальної затримки музики.
 
-Rewards
-Rewards: {0}
-Collected {0} diamonds in level: {1}
-Collected {0} crowns in level: {1}
-Completed level: {0}
+Нагороди
+Нагороди: {0}
+Зібрано {0} алмазів на рівні: {1}
+Зібрано {0} корон на рівні: {1}
+Завершений рівень: {0}
 
 Торкніться будь-де, щоб змінити напрямок.
 Ця гра створена для гри з увімкненою музикою.
