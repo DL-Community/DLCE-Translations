@@ -98,13 +98,11 @@ Voulez-vous dépenser {0} gemmes et débloquer la ligne de guidage pour cette fo
 Impossible d’obtenir les gemmes gratuites du jour, la vérification temporelle a échoué.
 Paramètres avancés
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
-
 Récompenses
 Récompenses : {0}
 {0} diamants récoltés dans le niveau : {1}
 {0} couronnes récoltées dans le niveau : {1}
 Niveau terminé : {0}
-
 Appuyez n’importe où pour changer de direction.
 Ce jeu est conçu pour être joué avec la musique.
 Ne balayez pas. Ça ne marche pas.
@@ -112,7 +110,6 @@ Dans les airs, inutile d’appuyer.
 N’appuyez pas en entrant dans la pyramide à 45°.
 Vous pouvez changer votre skin en cliquant sur le cube lévitant.
 Collect all diamonds and crowns to perfectly complete the levels.
-
 RÉALISATIONS
 [Masqué] 
 Terminé : #x#
@@ -134,7 +131,6 @@ Fête du 2e anniversaire
 Joyeux Noël…\net 2e anniversaire
 Gemless Master
 Encounter a dungeon escaper in <b>The Adventure</b>
-
 AFFECTATION DES TOUCHES
 En attente d'une touche\nAppuyez sur la touche souhaitée, ou sur un bouton de souris pour effacer
 Retour
@@ -171,7 +167,6 @@ Alt (gauche)
 CTRL (droit)
 CTRL (gauche)
 Menu
-
 Terminé
 Checkpoint
 Joyeux Noël
@@ -185,7 +180,6 @@ Suis ta propre étoile ! — Dante
 Une fois que vous aurez goûté au vol, vous\nmarcherez à jamais les yeux tournés vers le ciel\n\t\t\t\t\t\t\t\t ― Léonard de Vinci
 Tu n’es pas seul.
 N’ayez pas de regret en matière\nd’amour et de nourriture.
-
 Normal
 Casque
 Papier
@@ -212,7 +206,6 @@ Squelette à bombe
 Ballon
 Ballon ardent
 Pyramide
-
 Unnamed Level
 Le début
 Le temps

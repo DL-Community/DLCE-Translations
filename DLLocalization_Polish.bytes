@@ -98,13 +98,11 @@ Czy chcesz wydać {0} klejnotów, aby odblkować linię pomocniczą w trakcie te
 Nie można zebrać darmowych dziennych klejnotów, weryfikacja czasu nie powiodła się.
 Advanced Settings
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
-
 Nagrody
 Nagrody: {0}
 Zebrano {0} diamentów w poziomie: {1}
 Zebrano {0} koron w poziomie: {1}
 Ukończono poziom: {0}
-
 Stuknij w dowolnym miejscu, aby zmienić kierunek linii.
 Zalecamy grę przy włączonej muzyce.
 Nie próbuj przesuwać palcem. To nie działa.
@@ -112,7 +110,6 @@ Stukanie podczas lotu nie jest konieczne.
 Nie stukaj w ekran podczas wchodzenia do piramidy pod kątem 45°.
 Możesz zmienić skórkę swojej postaci, klikając w latający sześcian.
 Zbierz wszystkie diamenty i korony, aby ukończyć poziom.
-
 OSIĄGNIĘCIA
 [Ukryte] 
 Ukończono: #x#
@@ -134,7 +131,6 @@ Szczęśliwej drugiej rocznicy!
 Wesołych Świąt......\noraz drugiej rocznicy
 Hojny Podróżnik
 Spotkaj zamkowego uciekiniera w poziomie <b>Przygoda</b>
-
 USTAWIENIA KLAWISZY
 Oczekiwanie na ingerencję użytkownika\nWybierz klawisz, który chcesz ustawić, lub naciśnij dowolny przycisk myszy, aby zresetować ustawienie
 Powrót
@@ -171,7 +167,6 @@ Alt (lewy)
 Control (prawy)
 Control (lewy)
 Menu
-
 Ukończono
 Checkpoint
 Wesołych Świąt
@@ -185,7 +180,6 @@ Podążaj za swoją własną gwiazdą! -Dante
 Kiedy już zasmakujesz lotu, będziesz chodzić z oczami skierowanymi w górę \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
 Nie jesteś sam.
 Nie żałuj niczego w sprawach\nmiłości i jedzenia.
-
 Normalna
 Słuchawki
 Papier
@@ -212,7 +206,6 @@ Wybukościec
 Balon
 Ognista Piłka
 Piramida
-
 Poziom bez nazwy
 Początek
 Czas

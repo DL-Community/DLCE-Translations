@@ -98,13 +98,11 @@ Viltu eyða {0} gems til að fá leiðarlínuna fyrir þessa umferð?
 Ekki hægt að eigna gems, tímastaðfesting mistókst.
 Advanced Settings
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
-
 Verðlaun
 Verðlaun: {0}
 Safnaði {0} demöntum í: {1}
 Safnaði {0} kórónum í: {1}
 Kláraði borð: {0}
-
 Ýttu hvar sem er til að breyta stefnu
 Leikurinn er hannaður til að spila með tónlist.
 Ekki strjúka. Það virkar ekki.
@@ -112,7 +110,6 @@ Ekki þarf að ýta meðan flugs.
 Ekki ýta þegar þú kemur inn í Pýramídan á 45°.
 Þú getur breytt útlitinu þínu með því að ýta á fljótandi kubinnn.
 Collect all diamonds and crowns to perfectly complete the levels.
-
 AFREK
 [Falin] 
 Kláruð: #x#
@@ -134,7 +131,6 @@ Annað Afmælis Partíið
 Gleðileg Jól......\nog annað Afmælið
 Gemless Master
 Encounter a dungeon escaper in <b>The Adventure</b>
-
 LYKLAVÖRPUN
 Bíður eftir Inntaki\nÝttu á lykilinn sem þú vilt nota, eða ýttu á músatakka til að eyða stillinguni
 Til Baka
@@ -171,7 +167,6 @@ Vinstri Alt
 Hægri CTRL
 Vinstri CTRL
 Valmynd
-
 Klárað
 Mark
 Gleðileg Jól
@@ -185,7 +180,6 @@ Fylgdu þinnar eigin stjörnu! -Dante
 Þegar þú flýgur, þú munt labba með augun til himins \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
 Þú ert ekki aleinn.
 Ekki sjá eftir neinu í málefnum\naf ást og mat.
-
 Venjulegt
 Heyrnartól
 Pappír
@@ -212,7 +206,6 @@ Bombu Beinagrind
 Blaðra
 Eldbolti
 Pýramídi
-
 Ónefnt Borð
 Upphafið
 Tíminn

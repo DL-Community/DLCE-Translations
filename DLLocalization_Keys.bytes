@@ -98,13 +98,11 @@ HintPathPurchaseText
 DailyCoinsTimeIncorrect
 Advanced Settings
 This setting only applies to the current level.
-
 Rewards
 REWARD: {0}
 COLLECT_DIAMONTS_IN_LEVEL
 COLLECT_CROWNS_IN_LEVEL
 COMPLETED_IN_LEVEL
-
 Tutorial_TapWithMusic
 Tutorial_Headphones
 Tutorial_DontSwipe
@@ -112,7 +110,6 @@ Tutorial_DontTapWhenFlying
 Tutorial_DontTapWhenRotate45
 Tutorial_SkinButton
 Tutorial_CollectDiamondAndCrown
-
 ACHIEVEMENTS
 HiddenAchievement
 Achievements completed:
@@ -134,7 +131,6 @@ XmasAchievement
 XmasAchievementDescription
 AdventureSecretAchievement
 AdventureSecretAchievementDescription
-
 KeyMapping
 KeyMapping.WaitInput
 InputType.Back
@@ -171,7 +167,6 @@ KeyCode.LeftAlt
 KeyCode.RightControl
 KeyCode.LeftControl
 KeyCode.Menu
-
 Completed
 Checkpoint
 Merry Christmas
@@ -185,7 +180,6 @@ DuckTitle
 Dream of Sky description
 Alone Word
 DessertWonderlandEndText
-
 Normal
 Headphone
 Paper
@@ -212,7 +206,6 @@ BombSkeleton
 Balloon
 Fireball
 Pyramid
-
 Unnamed Level
 The Beginning
 The Time
