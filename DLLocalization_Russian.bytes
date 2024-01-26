@@ -97,7 +97,7 @@ Game Center
 Вы хотите потратить {0} кристаллов, чтобы разблокировать вспомогательную линию в этом раунде?
 Время истекло, невозможно собрать ежедневные бесплатные кристаллы.
 Расширенные настройки
-This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
+Настройка применяется только к этому уровню, позволяя индивидуальную настройку каждого уровня в зависимости от звуковой задержки.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 Награды
 Награды: {0}
 Собранно {0} алмазов в уровне: {1}
@@ -276,3 +276,5 @@ All About Us
 Апокалипсис
 Путешествие
 Математика
+Новый уровень скачается.
+Не оставьте от сети.

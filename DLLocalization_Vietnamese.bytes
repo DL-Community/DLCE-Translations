@@ -97,7 +97,7 @@ Hồi sinh miễn phí: {0}/{1}
 Bạn muốn mở khóa đường dẫn hướng trong vòng này với {0} đá quý, đúng chứ?
 Không thể nào nhặt được đá quý, xác minh thời gian đã thất bại.
 Cài đặt nâng cao
-Cài đặt này chỉ áp dụng cho cấp độ hiện tại, cho phép điều chỉnh riêng cho từng cấp độ dựa trên độ trễ âm nhạc chung.
+Cài đặt này chỉ áp dụng cho cấp độ hiện tại, cho phép điều chỉnh riêng cho từng cấp độ dựa trên độ trễ âm nhạc chung.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 Phần thưởng
 Phần thưởng: {0}
 Đã thu được {0} kim cương trong cấp độ: {1}
@@ -276,3 +276,5 @@ Cuộc phiêu lưu
 Đoạn diệt
 Hành trình
 Toán học
+New level is downloading
+Please stay connected to the internet
