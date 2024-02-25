@@ -65,10 +65,10 @@ Continue
 SearchLevels
 New Content
 DeleteData
-DeleteData_IMPORTANT
+DeleteData_RestartGame
 DeleteData_Warning
 DeleteData_Description
-DeleteData_Delete
+Delete
 DeleteData_DeletingData
 Accessibility
 ShareGameText
@@ -284,3 +284,4 @@ Starry Sky
 The starry expanse promises delightful surprises
 Input HUD
 DownloadLevelFailed
+Clear Cache

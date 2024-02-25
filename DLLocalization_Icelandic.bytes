@@ -65,7 +65,7 @@ Halda áfram
 Leita
 Ný Efni
 Eyða Gögnum
-MIKILVÆGT
+Data reseted, please restart the game.
 Leikgögnin mun eyðast þegar þetta ferli klárast. Vinsamlegast farið varlega.
 Hafði í huga að þegar þessu ferli klárast, Dansandi Línu gögnin (þetta inniheldur öll persónuupplýsingar og öll önnur gögn framleitt við notkun Dansandi Línu Vara) mun eyðast endanlega og eru ekki endurheimtanleg. Vinsamlegast veldu og farðu varlega.
 EYÐA
@@ -284,3 +284,4 @@ Starry Sky
 The starry expanse promises delightful surprises
 Input HUD
 Failed to download level
+Clear Cache

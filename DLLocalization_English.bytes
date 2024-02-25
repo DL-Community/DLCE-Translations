@@ -65,16 +65,16 @@ Continue
 Search
 New Contents
 Delete Data
-IMPORTANT
+Data reseted, please restart the game.
 Your game data will be deleted once this process is complete. Please proceed with caution.
 Please bear in mind that once you complete this process, your Dancing Line data (this includes any personal information and any other data generated through using Dancing Line Products) will be deleted permanently and will not be recoverable. Please choose and proceed carefully.
-DELETE
+Delete
 Deleting Data...\nYour cloud and local saves will be cleared
 Accessibility
 Can you beat X% in DancingLine? Come Play With Me!
 Developer Options
 Debug Logging
-Export Logs
+View Debug Logs
 Restore Default
 Status Bar
 Legal & Privacy
@@ -284,3 +284,4 @@ Starry Sky
 The starry expanse promises delightful surprises
 Input HUD
 Failed to download level
+Clear Cache
