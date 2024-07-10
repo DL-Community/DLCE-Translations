@@ -297,3 +297,6 @@ Clear Cache Description
 UpdateRequired
 AdConfigsLoadFailed
 Retry
+GameInitStatus.InitAddressables
+GameInitStatus.InitLevels
+GameInitStatus.InitConfigs
