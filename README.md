@@ -1,5 +1,5 @@
 # README!!!
-- You are NOT allowed to share any content in this repo in any form
+- You are NOT allowed to share any content of this repo in any form with anyone else.
 - Don't make too many commits, if there are many phrases to translate, consider to download the file and edit, then paste it back instead.
 - Edit the phrases line by line, DO NOT **add new** OR **delete lines**, just simply replace the original untranslated text to the translated one, make sure the line numbers remain the same as before.
 - It is recommended to come back and check for new phrases regularly when you are free.
