@@ -1,5 +1,5 @@
 # README!!!
-- If some lines are missing (empty), go to the English translation file for the phrase.
+- If some lines are missing (empty), go to the English translation file for the phrase, the last line is always empty.
 - You are NOT allowed to share any content of this repo in any form with anyone else.
 - Don't make too many commits, if there are many phrases to translate, consider to download the file and edit, then paste it back instead.
 - Edit the phrases line by line, DO NOT **add new** OR **delete lines**, just simply replace the original untranslated text to the translated one, make sure the line numbers remain the same as before.
