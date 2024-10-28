@@ -31,14 +31,14 @@ Alto
 Ultra
 Ultra+
 Altíssimo
-Anti-aliasing
+Configuração Anti-aliasing
 Sons
 VSync
 Sincronização
 Ajuste Automático
 Delay da Música
 Mostrar Toques na Gameplay
-Confirmação da Saída
+Confirmar Saída
 Tens certeza que queres sair do jogo?
 Sobre
 Versão
@@ -49,8 +49,8 @@ Nosso Canal do YouTube
 Termos de Uso
 Política de Privacidade
 Nosso Servidor do Discord
-WINDOWED (Tela Cheia)
-WINDOWED
+Windowed (Tela Cheia)
+Windowed
 Vertical
 Horizontal
 Resolução da Tela
@@ -65,11 +65,11 @@ Novidades!
 Apagar dados do jogo
 Dados apagados. Por favor, feche o app e abra-o novamente.
 Ao confirmar, TODOS os dados do jogo serão apagados. Por favor, prossiga com CUIDADO.
-Por favor, esteja avisado que, ao completar este processo, TODO o seu progresso no jogo, incluindo informações pessoais e quaisquer outras informações geradas utilizando os produtos do Dancing Line, serão apagados PERMANENTEMENTE. NENHUM método de recuperação dos dados estarão disponíveis!
+ATENÇÃO: Ao completar este processo, TODO o seu progresso no jogo, incluindo informações pessoais e quaisquer outras informações geradas utilizando os produtos do Dancing Line, serão apagados PERMANENTEMENTE. NENHUM método de recuperação dos dados estarão disponíveis!
 Apagar meus dados
 Apagando seus dados... \nSeu progresso armazenado na núvem e no dispositivo será apagado.
 Acessibilidade
-Podes passar dos X% no Dancing Line? Venha jogar comigo!
+Podes passar dos X% neste nível do Dancing Line? Venha jogar comigo!
 Opções para Desenvolvedores
 Log de Debug
 Vizualizar Logs de Debug
@@ -86,8 +86,8 @@ v#VERSÃO# BETA
 Efeito Giroscópio
 Seu Game Center
 Ajuste da Interface de Usuário
-Coletar
-Gemas Grátis
+Resgatar
+Gemas Grátis Diárias
 Próxima recompensa em {0}h e {1}m!
 Equipado
 Equipar
@@ -105,8 +105,8 @@ Siga o rítmo, e toque em qualquer lugar para mudar a direção da linha.
 Esse jogo foi feito para ser jogado com a música ligada!
 Não deslise na tela.
 Não é necessário tocar na tela enquanto a linha está voando.
-Não toque na tela enquanto a linha estiver entrando na pirâmide em 45•.
-É possível trocar a skin da linha: toque no cubo voador!
+Não toque na tela enquanto a linha estiver entrando na pirâmide em 45 graus.
+Para trocar a skin da linha, toque no cubo voador!
 Colete todos os diamantes e as coroas para completar um nível perfeitamente!
 Conquistas
 [Escondido]
@@ -128,8 +128,8 @@ Encontre a paz no nível A Guerra
 Feliz aniversário
 Feliz natal... \ne feliz segundo aniversário!
 Gemless Master
-Encontre um fugitivo da masmorra no nível A Aventura Caótica
-KEYMAPPING
+Encontre um fugitivo da masmorra no nível A Aventura
+Keymapping
 \nPressione a tecla que desejas utilizar!
 Voltar
 Pausar
@@ -333,4 +333,10 @@ Da terça-feira ao sábado
 Regras
 Conclua este nível perfeitamente para ganhar notas musicais!
 O Desafio Musical acabou. Mais desafios em breve!
-• Neste evento, sua missão é completar o nível perfeitamente com apenas um cubo! Lembre-se: sem 
+• Neste evento, sua missão é completar o nível perfeitamente com apenas um cubo! Lembre-se: não é permitido reviver! \n\n• Linhas-guias não estão disponíveis neste evento! \n\n• Depois de completar o nível, não esqueça de retornar para resgatar suas recompensas!
+Ocorreu um erro ao conectar com a Internet.
+Robô
+Item resgatado!
+Item #item# resgatado com sucesso!
+Gostarias de resgatar #item#?
+A Loja Musical atualiza toda segunda-feira!
