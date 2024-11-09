@@ -49,6 +49,8 @@ YouTube
 EULA
 Privacy Policy
 Discord
+Display Mode
+Exclusive Fullscreen
 Fullscreen Windowed
 Windowed
 Portrait
@@ -129,6 +131,8 @@ XmasAchievement
 XmasAchievementDescription
 AdventureSecretAchievement
 AdventureSecretAchievementDescription
+Starry Sky
+The starry expanse promises delightful surprises
 KeyMapping
 KeyMapping.WaitInput
 InputType.Back
@@ -204,6 +208,13 @@ BombSkeleton
 Balloon
 Fireball
 Pyramid
+Ball
+Cyan Ball
+Black Ball
+Plain Ball
+Basketball
+Star Power
+Robot
 Unnamed Level
 The Beginning
 The Time
@@ -274,33 +285,30 @@ The Adventure
 The Apocalypse
 The Journey
 The Mathematics
-New level is loading
-Please stay connected to the internet
-The Wandering
-Starry Sky
-The starry expanse promises delightful surprises
-Input HUD
-DownloadLevelFailed
-Clear Cache
-Exclusive Fullscreen
-Display Mode
 Drizzle
+The Wandering
+The Hollowness
+The Memory
+None
 XmsHat
 Dragonfly
 WizardHat
-BlackHat
 TropicHat
-None
+BlackHat
 Sweet Dog Hat
 SpriteHat
+Rat Hat
+New level is loading
+Please stay connected to the internet
+Input HUD
+DownloadLevelFailed
+Clear Cache
 Clear Cache Description
 UpdateRequiredText
 AdConfigsLoadFailed
 Retry
 GameInitStatus.InitAddressables
 GameInitStatus.InitConfigs
-The Hollowness
-The Memory
 The journey isn't over...
 More are coming...
 Thanks for all, Dancing Line players!
@@ -316,13 +324,7 @@ Choose what to clear
 Clear Game Progress
 New Best
 Perfect
-Ball
-Cyan Ball
-Black Ball
 Not for sale
-Plain Ball
-Basketball
-Star Power
 Notes Challenge
 Notes Store
 Owned
@@ -335,9 +337,8 @@ MusicActivityTitle
 MusicActivityEnd
 MusicActivityDescribe
 Internet Connection Error Message
-Robot
 Item Redeemed
 Redeemed #item# Successfully
 Do you want to redeem #item#?
 Notes Store Refresh Time
-Rat Hat
+New Key

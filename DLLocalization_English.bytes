@@ -49,6 +49,8 @@ YouTube
 End-User License Agreement
 Privacy Policy
 Official Discord Server
+Display Mode
+Exclusive Fullscreen
 Fullscreen Windowed
 WINDOWED
 Portrait
@@ -129,6 +131,8 @@ Enter the peace storyline in  The War
 Happy Xmas......\nand the 2nd Anniversary
 Gemless Master
 Encounter a dungeon escaper in  The Adventure 
+Starry Sky
+The starry expanse promises delightful surprises
 KEYMAPPING
 Waiting For Keyboard Input\nPress the key that you want to use, or press any mouse button to clear the setting
 Back
@@ -204,6 +208,13 @@ Bomb Skeleton
 Balloon
 Fireball
 Pyramid
+Ball
+Cyan Ball
+Black Ball
+Plain Ball
+Basketball
+Star Power
+Robot
 Unnamed Level
 The Beginning
 The Time
@@ -274,33 +285,30 @@ The Adventure
 The Apocalypse
 The Journey
 The Mathematics
-New level is downloading
-Please stay connected to the internet
-The Wandering
-Starry Sky
-The starry expanse promises delightful surprises
-Input HUD
-Failed to download level
-Clear Cache
-Exclusive Fullscreen
-Display Mode
 The Drizzle
+The Wandering
+The Hollowness
+The Memory
+None
 Christmas Hat
 Bamboo Dragonfly
 Wizard Hat
-Bowler Hat
 Mexican Hat
-None
+Bowler Hat
 Sweet Dog Hat
 Sprite
+Rat
+New level is downloading
+Please stay connected to the internet
+Input HUD
+Failed to download level
+Clear Cache
 Caches such as level & music data downloaded will be cleared, continue clearing?
 Current version (#Current#) is out of date, please update to the latest version (#Latest#).
 Failed to load ad configurations
 Retry
 Checking Downloadable Content
 Updating Configurations
-The Hollowness
-The Memory
 The journey isn't over...
 More are coming...
 Thanks for all, Dancing Line players!
@@ -316,13 +324,7 @@ Choose what to clear
 Clear Game Progress
 New Best
 Perfect
-Ball
-Cyan Ball
-Black Ball
 Not for sale
-Plain Ball
-Basketball
-Star Power
 Notes Challenge
 Notes Store
 Owned
@@ -335,9 +337,8 @@ Complete this level perfectly to get notes!
 Notes Challenge ended, challenge it later!
 •  In this event, your mission is to collect every diamond and crown, conquer the level with just one cube, and—remember—no revives allowed! Are you up for the challenge?\n\n• Guidance Lines are turned off during gameplay, so it’s all up to your skills!\n\n• Once you’ve perfected the level, don’t forget to head back to the event page to claim your  rewards!
 Failed to connect to the internet, please make sure that your network is stable and try again.
-Robot
 Item Redeemed
 Redeemed #item# Successfully
 Do you want to redeem #item#?
 Store refreshes every Monday
-Rat
+
