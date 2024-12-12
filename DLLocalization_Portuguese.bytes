@@ -14,7 +14,7 @@ Obter {0} Gratuitamente
 Comprar {0} Cubos
 Obter Energia Infinita
 Recarregando em: {0}s
-Cubos recarregados. Vamos dançar novamente!
+Cubos recarregados. Vamos jogar novamente!
 Toque na tela para começar!
 OK
 Sim
@@ -31,9 +31,9 @@ Alto
 Ultra
 Ultra+
 Altíssimo
-Configuração Anti-aliasing
+Gráficos naturais (Anti-Aliasing)
 Sons
-VSync
+VSinc.
 Sincronização
 Ajuste Automático
 Delay da Música
@@ -71,7 +71,7 @@ ATENÇÃO: Ao completar este processo, TODO o seu progresso no jogo, incluindo i
 Apagar meus dados
 Apagando seus dados... \nSeu progresso armazenado na núvem e no dispositivo será apagado.
 Acessibilidade
-Podes passar dos X% neste nível do Dancing Line? Venha jogar comigo!
+Te desafio a passar dos X% neste nível do Dancing Line! Venha jogar comigo!
 Opções para Desenvolvedores
 Log de Debug
 Vizualizar Logs de Debug
@@ -85,7 +85,7 @@ Tamanho do Buffer DSP
 Delay do Áudio
 Delay do Toque
 v#VERSÃO# BETA
-Efeito Giroscópio
+Menu 3D
 Seu Game Center
 Ajuste da Interface de Usuário
 Resgatar
@@ -121,9 +121,9 @@ Colete todos os diamantes no nível #x#
 Colete todas as coroas no nível #x#
 O Segredo da Terra dos Dragões
 Encontre, pelo menos, uma passagem secreta no nível O Conto da Terra dos Dragões
-Aquilo é o Paimon?
-Que tal explorarmos a passagem no nosso horizonte depois?
-M.A.Z.E.
+Paimon?
+Que tal explorarmos a passagem no nosso horizonte?
+L.A.B.I.R.I.N.T.O.
 Encontre a passagem secreta no nível O Labirinto
 Paz
 Encontre a paz no nível A Guerra
@@ -174,7 +174,7 @@ Checkpoint
 Feliz Natal!
 Coletar
 Toque
-Isso não poderia acontecer sem vossa participação. \nSomos um.
+Isso não poderia acontecer sem o teu suporte! \nSomos um.
 Por que...
 tudo só está piorando?
 Fim do Mundo
@@ -212,7 +212,7 @@ Bola
 Bola Ciana
 Bola Preta
 Bola Rosa
-Basketball
+Basquetebol
 Super-Estrela
 Robô
 Nível Desconhecido
@@ -257,12 +257,12 @@ O Exodus
 O Oceano
 O Signo de Touro
 O Sonho dos Céus
-O Basketball
+O Basquetebol
 A Festa Natalina
 A Jornada Indiana
 A Guerra
 O Mistério
-O Football
+O Futebol
 A Evolução do Hip Hop
 A Páscoa
 A Canção de Ninar
