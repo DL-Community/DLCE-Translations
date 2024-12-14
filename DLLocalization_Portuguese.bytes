@@ -84,7 +84,7 @@ Sair do jogo
 Tamanho do Buffer DSP
 Delay do Áudio
 Delay do Toque
-v#VERSÃO# BETA
+v#Version# BETA
 Menu 3D
 Seu Game Center
 Ajuste da Interface de Usuário
@@ -111,7 +111,7 @@ Não toque na tela enquanto a linha estiver entrando na pirâmide em 45 graus.
 Para trocar a skin da linha, toque no cubo voador!
 Colete todos os diamantes e as coroas para completar um nível perfeitamente!
 Conquistas
-[Escondido]
+[Oculto]
 Concluído: #x#
 #x# - Concluído
 #x# - 10 Diamantes
@@ -304,7 +304,7 @@ HUD
 Ocorreu um erro ao fazer o download do nível.
 Limpar Cache
 Todo o cache de dados em níveis, músicas e etc. serão apagados. Desejas continuar?
-Esta versão (#atual#) está desatualizada. Por favor, atualize para a última versão: (#última#)
+A versão (#Current#) é desatualizada. Por favor, atualize para a última versão (#Latest#).
 Ocorreu um erro ao carregar as configurações de anúncio.
 Tentar Novamente
 Verificando conteúdos...
@@ -345,4 +345,4 @@ A Loja Musical atualizou! Venha ver o que há de novo!
 O Desafio Musical atualizou!
 Bola de Boliche
 Bola de Tênis
-Parabéns! O desafio do nível #Nível# foi concluído!
+Parabéns! O desafio do nível #Level# foi concluído!
