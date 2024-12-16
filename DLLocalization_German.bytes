@@ -30,7 +30,6 @@ Mittel
 Hoch
 Ultra
 Ultra＋
-Sehr hoch
 ANTI ALIASING
 SOUND
 VSYNC
@@ -63,7 +62,6 @@ Sie brauchen #X%# mehr um #Complete#
 Kostenlos
 Fortfahren
 Suche
-Neue Inhalte
 Daten löschen
 Daten gelöscht, bitte starte das Spiel neu.
 Ihre Spieldaten werden gelöscht, sobald dieser Vorgang abgeschlossen ist. Bitte fahren Sie vorsichtig vort.
@@ -72,11 +70,7 @@ Löschen
 Daten werden gelöscht...\nIhre Cloud- und lokalen Speicherungen werden gelöscht
 Barrierefreiheit
 Können Sie X% in DancingLine schlagen? Kommen Sie und spielen Sie mit uns!
-Entwickleroptionen
-Debug Logs
-Debug Logs anzeigen
 Standard wiederherstellen
-Status Bar
 Rechtliche Hinweise & Datenschutz
 Bevor Sie diese App nutzen, müssen Sie unserer Endbenutzer-Lizenzvereinbarung und Datenschutzrichtlinie zustimmen.
 Akzeptieren und fortfahren
@@ -87,7 +81,6 @@ Touch Eingabeverzögerung
 v#Version# BETA BUILD
 Gyroskopeffekte
 Game Center
-UI Skalierung
 Einsammeln
 Täglich kostenlose Edelsteine
 Einsammeln nach {0}h {1}m

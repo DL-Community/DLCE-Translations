@@ -29,8 +29,7 @@ Low
 Medium
 High
 Ultra
-Ultra＋
-Very High
+Max
 ANTI ALIASING
 SOUND
 VSYNC
@@ -63,7 +62,6 @@ Need #X%# more to #Complete#
 Free
 Continue
 Search
-New Contents
 Delete Data
 Data reseted, please restart the game.
 Your game data will be deleted once this process is complete. Please proceed with caution.
@@ -72,11 +70,7 @@ Delete
 Deleting Data...\nYour cloud and local saves will be cleared
 Accessibility
 Can you beat X% in DancingLine? Come Play With Me!
-Developer Options
-Debug Logging
-View Debug Logs
 Restore Default
-Status Bar
 Legal & Privacy
 Before using the app, you must agree to our End-User License Agreement and Privacy Policy.
 Accept and continue
@@ -87,7 +81,6 @@ Touch Input Latency
 v#Version# BETA BUILD
 Gyroscope Effects
 Game Center
-UI Scaling
 Claim
 Daily Free Gems
 Claim after {0}h {1}m

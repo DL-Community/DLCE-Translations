@@ -30,7 +30,6 @@ MOYENNE
 HAUTE
 ULTRA
 ULTRA ＋
-Très haute
 ANTICRÉNELAGE
 SON
 VSYNC
@@ -63,7 +62,6 @@ Encore #X%# pour #terminer#
 GRATUIT
 Continuer
 Rechercher
-Nouveautés
 Supprimer les données
 Data reseted, please restart the game.
 Vos données de jeu seront supprimées à l’issue de ce processus. Soyez prudent.
@@ -72,11 +70,7 @@ SUPPRIMER
 Suppression des données…\nVos sauvegardes cloud et locales seront effacées
 Accessibilité
 Arriveras-tu à dépasser X% dans DancingLine ? Viens jouer avec moi !
-Options du développeur
-Journalisation du débogage
-Exporter les logs
 Valeurs par défaut
-Barre d’état
 Légal & confidentialité
 Avant d’utiliser cette app, vous devez accepter notre contrat de licence de l’utilisateur final et notre politique de confidentialité.
 Accepter et continuer
@@ -87,7 +81,6 @@ Délai d’entrée
 v#Version# BETA BUILD
 Effets du gyroscope
 Game Center
-Taille de l’interface
 Obtenir
 Gemmes gratuites quotidiennes
 Obtenir après {0} h {1} min

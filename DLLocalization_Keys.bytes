@@ -29,8 +29,7 @@ Low
 Medium
 High
 Ultra
-Ultra+
-Very High
+Max
 ANTI ALIASING
 SOUND
 VSYNC
@@ -63,7 +62,6 @@ Need #X%# more to #Complete#
 Free
 Continue
 SearchLevels
-New Content
 DeleteData
 DeleteData_RestartGame
 DeleteData_Warning
@@ -72,11 +70,7 @@ Delete
 DeleteData_DeletingData
 Accessibility
 ShareGameText
-Developer Options
-Debug Logging
-ExportLogs
 RestoreDefault
-ShowStatusBar
 AgreementDialogTitle
 AgreementDialogMessage
 AgreementDialogAcceptButton
@@ -87,7 +81,6 @@ Touch Input Latency
 Beta Water Mark
 Gyroscope
 Game Center
-UI Scaling
 Claim
 Daily Free Coins
 Claim after {0}
