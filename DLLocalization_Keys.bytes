@@ -303,6 +303,7 @@ AdConfigsLoadFailed
 Retry
 GameInitStatus.InitAddressables
 GameInitStatus.InitConfigs
+GameInitStatus.PreDownload
 The journey isn't over...
 More are coming...
 Thanks for all, Dancing Line players!
@@ -340,3 +341,4 @@ Notes Challenge Refresh Notification
 Bowling Ball
 Tennis Ball
 Challenge Completed: #Level#
+Continue downloading via cellular data?
