@@ -349,3 +349,12 @@ CursorHideMode
 CursorHideMode.Timeout
 CursorHideMode.GamePlay
 CursorHideMode.Never
+LevelTags.Official
+LevelTags.Remix
+LevelTags.Event
+LevelTags.Season
+LevelTags.Original
+LevelTags.Legacy
+LevelTags.Fanmade
+LevelTags.MaxStudio
+LevelTags.WinderStudio
