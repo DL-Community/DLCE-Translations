@@ -76,7 +76,7 @@ Legal & Privacy
 Before using the app, you must agree to our End-User License Agreement and Privacy Policy.
 Accept and continue
 Exit game
-DSP Buffer Size
+I/O Buffer Size
 Audio Output Latency
 Touch Input Latency
 v#Version# BETA BUILD
@@ -364,3 +364,7 @@ DLRS GAS
 Profile
 Account Settings
 Username: {0}\nUser ID: {1}
+Frame Rate
+Display Frame Rate
+Server
+Multi-touch Support
