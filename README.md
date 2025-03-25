@@ -10,5 +10,5 @@
 ### Placeholders
 - Translations may contain placeholders that will later be replaced with actual content when game is running.
   > For instance: `\n` (Make new line), `\t` (tab), `#Level#` (Level Name), `{0}` (Other), etc.
-- These placeholders usually do not need to be translated. If you are not sure whether a translation is needed, you can refer to the translations in other languages.
+- These placeholders usually do not need to be translated. If you are not sure whether a translation is needed, you can refer to the translations in other languages (e.g. [English file](/DLLocalization_English.bytes), and [Chinese file](/DLLocalization_ChineseSimplified.bytes).
   
