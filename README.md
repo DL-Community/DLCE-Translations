@@ -9,6 +9,6 @@
 - Line #3 in each file is the language name in your language (e.g. `English` in English file, `中文（简体）` (Chinese Simplified) in Chinese file.
 ### Placeholders
 - Translations may contain placeholders that will later be replaced with actual content when game is running.
-  > For instance: "\n" "\t" "#Level#" "{0}"
+  > For instance: `\n` (Make new line), `\t` (tab), `#Level#` (Level Name), `{0}` (Other), etc.
 - These placeholders usually do not need to be translated. If you are not sure whether a translation is needed, you can refer to the translations in other languages.
   
