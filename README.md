@@ -2,6 +2,7 @@
 # ⚠️Important for contributors⚠️
 - Discuss in discord if you have question.
 - It is recommended to come back and check for new phrases regularly when you are free.
+- We will always build new version with currenty translated phrases, and leave untranslated phrases in English.
 ### Formatting
 - If you see empty lines, go to the English translation file for the phrase. Notice that **the last line is always empty**.
 - Each line is a separate phrase. Make sure the number of lines for each phrase matches the key in the [Key file](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Keys.bytes), otherwise the game will not be able to read the correct translation.
