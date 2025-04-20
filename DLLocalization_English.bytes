@@ -88,7 +88,7 @@ Claim after {0}h {1}m
 Equipped
 Equip
 Free Revivals: {0}/{1}
-Do you want to spend {0} gems to unlock the guidance line in this round?
+Do you want to spend {0} gems to unlock the guidance line temporarily?
 Unable to claim daily free gems, time verification failed.
 Advanced Settings
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
@@ -128,7 +128,7 @@ Encounter a dungeon escaper in  The Adventure
 Starry Sky
 The starry expanse promises delightful surprises
 KEYMAPPING
-Waiting For Keyboard Input\nPress the key that you want to use, or press any mouse button to clear the setting
+Waiting For Keyboard Input\nPress the key that you want to use
 Back
 Pause Game
 Character Control
@@ -137,15 +137,12 @@ Settings
 Skins
 Left
 Right
-Load Level
 Confirm
-Cancel
 Restart
 Achievements
-Search Level
-None
 Backspace
-Return
+Enter
+Enter
 ESC
 Space
 Right WIN

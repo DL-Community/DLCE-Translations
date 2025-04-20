@@ -129,40 +129,37 @@ Starry Sky
 The starry expanse promises delightful surprises
 KeyMapping
 KeyMapping.WaitInput
-InputType.Back
-InputType.Pause
-InputType.Character
-InputType.HintPath
-InputType.Settings
-InputType.Skins
-InputType.Left
-InputType.Right
-InputType.LoadLevel
-InputType.Submit
-InputType.Cancel
-InputType.RestartLevel
-InputType.Achievements
-InputType.LevelSearch
-KeyCode.None
-KeyCode.Backspace
-KeyCode.Return
-KeyCode.Escape
-KeyCode.Space
-KeyCode.RightWindows
-KeyCode.LeftWindows
-KeyCode.RightCommand
-KeyCode.LeftCommand
-KeyCode.UpArrow
-KeyCode.DownArrow
-KeyCode.RightArrow
-KeyCode.LeftArrow
-KeyCode.RightShift
-KeyCode.LeftShift
-KeyCode.RightAlt
-KeyCode.LeftAlt
-KeyCode.RightControl
-KeyCode.LeftControl
-KeyCode.Menu
+Back
+Pause
+Haracter
+HintPath
+Settings
+Skins
+Left
+Right
+Select
+Restart
+Achievements
+Backspace
+Return
+Enter
+Escape
+Space
+Right Windows
+Left Windows
+Right Command
+Left Command
+Up Arrow
+Down Arrow
+Right Arrow
+Left Arrow
+Right Shift
+Left Shift
+Right Alt
+Left Alt
+Right Control
+Left Control
+Menu
 Completed
 Checkpoint
 Merry Christmas
