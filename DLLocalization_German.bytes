@@ -128,7 +128,7 @@ Begegnen Sie einem Dungeon-Flüchtling in  The Adventure
 Starry Sky
 Die sternenklare Weite verspricht reizvolle Überraschungen
 Tastenbelegung
-Warten auf Tastatureingabe\nDrücken Sie die Taste, die Sie verwenden möchten, oder drücken Sie eine beliebige Maustaste, um die Einstellung zu löschen
+Warten auf Tastatureingabe\nDrücken Sie die Taste, die Sie verwenden möchten
 Zurück
 Spiel pausieren
 Charakterkontrolle
@@ -199,13 +199,13 @@ Bomb Skeleton
 Balloon
 Fireball
 Pyramid
-
-
-
-
-
-
-
+Ball
+Cyan Ball
+Black Ball
+Plain Ball
+Basketball
+Stern Power
+Roboter
 Unbenanntes Level
 The Beginning
 The Time
@@ -288,7 +288,7 @@ Mexican Hat
 Bowler Hat
 Sweet Dog Hat
 Sprite
-
+Ratte
 Neues Level wird heruntergeladen
 Bitte bleiben Sie mit dem Internet verbunden
 Eingabe HUD
@@ -300,7 +300,7 @@ Werbungskonfigurationen konnten nicht geladen werden
 Nochmal versuchen
 Herunterladbare Inhalte überprüfen
 Konfigurationen werden aktualisiert
-
+Wichtige Inhalte werden heruntergeladen
 Die Reise ist noch nicht zu Ende...
 Mehr kommt bald...
 Vielen Dank für alles, Dancing Line Spieler!
@@ -312,69 +312,69 @@ Teilen
 Text kpieren
 Bild speichern
 Bild kopieren
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Wählen Sie aus, was gelöscht werden soll
+Spielfortschritt löschen
+Neuer Rekord
+Perfekt
+Nicht zum Verkauf
+Noten Challenge
+Noten Store
+Ausverkauft
+Edelsteine x{0}
+Würfel x{0}
+Challenge
+Dienstag — Sonntag
+Regeln
+Schließe dieses Level perfekt ab, um Noten zu erhalten!
+Noten Herausforderung beendet, versuchen Sie es später!
+• In diesem Event besteht deine Mission darin, alle Diamanten und Kronen zu sammeln und das Level mit nur einem Würfel zu meistern. Und – nicht vergessen – Wiederbelebungen sind nicht erlaubt! Bist du bereit für die Herausforderung?\n\n• Die Führungslinien sind während des Spiels deaktiviert, es kommt also ganz auf dein Können an!\n\n• Vergiss nicht, nach dem Levelabschluss zur Eventseite zurückzukehren, um deine Belohnungen einzufordern!
+Die Verbindung zum Internet konnte nicht hergestellt werden. Bitte stellen Sie sicher, dass Ihre Netzwerkverbindung stabil ist, und versuchen Sie es erneut.
+Artikel eingelöst
+#item# erfolgreich erhalten
+Möchten Sie #item# erhalten?
+Store aktualisiert sich jeden Montag
+Notes Store aktualisiert, sehen Sie sich an, was es Neues gibt!
+Die Noten-Challenge dieser Woche ist jetzt verfügbar. Kommen Sie und stellen Sie sich der Herausforderung!
+Bowling Ball
+Tennis Ball
+Herausforderung abgeschlossen : #Level#
+Download über Mobile Daten fortsetzen?
+Mobile Daten Warnung
+Fehler
+Ein unbekannter Fehler ist aufgetreten!
+Cursor ausblenden
+Im Stillstand
+Während dem Spielen
+Niemals
+Official
+Remix
+Event
+Season
+Original
+Legacy
+Fanmade
 Max Studio
 WINDER Studio
-
-
-
-
-
-
-
-
-
-
+Bitte melden Sie sich in den Systemeinstellungen beim Game Center an
+Status Bar
+DLRS GAS
+Profil
+Account Einstellungen
+Benutzername: {0}\nUser ID: {1}
+Bildwiederholrate
+Bildwiederholrate anzeigen
+Server
+Multi-touch Unterstützung
 Come & Get It - Selena Gomez
-
-
-
-
-
-
-
-
-
-
-
-
+Song
+In die Zwischenablage kopiert
+App Icon
+Spielfortschritt exportieren
+Spielfortschritt importieren
+The Tree of Void
+Betreten Sie den geheimen Pfad in The Hollowness
+Das automatische Klicken ist möglicherweise nicht genau, bis das Level heruntergeladen wurde.
+Aktualisieren der Spieldatenbank
+Standard
+Grün
+The Duet
