@@ -21,7 +21,7 @@
 | Chinese Traditional (Hong Kong) | [Aaron8052](https://github.com/Aaron8052), [GP0108](https://github.com/GP0108) | [DLLocalization_CantoneseHK.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_CantoneseHK.bytes) |
 | Chinese Simplified (Beijing) | [WangHZki](https://github.com/WangHZki) | [DLLocalization_ChineseBeijing.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_ChineseBeijing.bytes) |
 | Chinese Pinyin | [Aaron8052](https://github.com/Aaron8052) | [DLLocalization_Pinyin.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Pinyin.bytes) |
-| Chinese Literary | [Aaron8052](https://github.com/Aaron8052), LiGaYb | [DLLocalization_Pinyin.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Pinyin.bytes) |
+| Chinese Literary | [Aaron8052](https://github.com/Aaron8052), LiGaYb | [DLLocalization_ChineseClassical.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_ChineseClassical.bytes) |
 | English | [Aaron8052](https://github.com/Aaron8052) | [DLLocalization_English.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_English.bytes) |
 | French | [Nouche](https://github.com/Nouchey) | [DLLocalization_French.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_French.bytes) |
 | German | [X39](https://github.com/X39X39) | [DLLocalization_German.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_German.bytes) |
