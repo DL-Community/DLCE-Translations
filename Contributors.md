@@ -17,7 +17,7 @@
 | ✅ | Macedonian | [Kli](https://github.com/dlkingkli) | [DLLocalization_Macedonian.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Macedonian.bytes) |
 | ❌ | Polish | ~~Anonymous~~ | [DLLocalization_Polish.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Polish.bytes) |
 | ❌ | Portuguese | ~~MateusDancingLineFan~~ | [DLLocalization_Portuguese.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Portuguese.bytes) |
-| ❌ | Russian | | [DLLocalization_Russian.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Russian.bytes) |
+| ❌ | Russian | - | [DLLocalization_Russian.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Russian.bytes) |
 | ❓ | Spanish | [bigblah9](https://github.com/bigblah9) | [DLLocalization_Spanish.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Spanish.bytes) |
 | ✅ | Ukrainian | [FANGO](https://github.com/FANGO11) | [DLLocalization_Ukrainian.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Ukrainian.bytes) |
 | ❌ | Vietnamese | ~~BellDL~~ | [DLLocalization_Vietnamese.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Vietnamese.bytes) |
