@@ -63,7 +63,7 @@ Discord
 继续
 搜索关卡
 数据删除
-数据删除成功，请重新启动游戏
+数据清理成功，请重新启动游戏
 此过程完成后，您的游戏数据将被删除，请谨慎操作。
 请在安全和常用的网络、设备环境下操作。如游戏内有未使用的虚拟货币或虚拟道具，删除数据成功后将全部被清空。数据删除完成后无法恢复，请谨慎选择并操作。
 删除
@@ -295,7 +295,7 @@ All About Us
 关卡下载失败
 清除缓存
 关卡及音乐等已下载的缓存文件将被清除，是否继续？
-当前版本（#Current#）过低，\n请更新到最新版本（#Latest#）。
+当前版本 #Current# 已过期，需要更新到最新版本 #Latest# 才能继续游玩。
 广告配置加载失败
 重试
 检查可下载资源
@@ -304,7 +304,7 @@ All About Us
 旅途尚未结束，
 终点亦是起点，
 感谢一路相伴，让我们继续携手前行！
-需要更新
+版本已过期
 全局音画同步
 关卡音画同步
 自动修正
@@ -389,3 +389,5 @@ https://dl-community.github.io/Docs/#/dlce/eula
 https://dl-community.github.io/Docs/#/dlce/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
+已完成
+

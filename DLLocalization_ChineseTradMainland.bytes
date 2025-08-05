@@ -63,7 +63,7 @@ Discord
 繼續
 搜索關卡
 數據删除
-數據删除成功，請重新啓動游戲
+數據清理成功，請重新啓動游戲
 此過程完成後，您的游戲數據將被删除，請謹慎操作。
 請在安全和常用的網絡、設備環境下操作。如游戲内有未使用的虚擬貨幣或虚擬道具，删除數據成功後將全部被清空。數據删除完成後無法恢復，請謹慎選擇并操作。
 删除
@@ -295,7 +295,7 @@ All About Us
 關卡下載失敗
 清除緩存
 關卡及音樂等已下載的緩存文件將被清除，是否繼續？
-當前版本（#Current#）過低，\n請更新至最新版本（#Latest#）。
+當前版本 #Current# 已過期，需要更新到最新版本 #Latest# 纔能繼續游玩。
 廣告配置加載失敗
 重試
 檢查可下載資源
@@ -304,7 +304,7 @@ All About Us
 旅途尚未結束，
 終點亦是起點，
 感謝一路相伴，讓我們繼續携手前行！
-需要更新
+版本已過期
 全局音畫同步
 關卡音畫同步
 自動修正
@@ -389,3 +389,5 @@ https://dl-community.github.io/Docs/#/dlce/eula
 https://dl-community.github.io/Docs/#/dlce/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
+已完成
+
