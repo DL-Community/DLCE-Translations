@@ -3,12 +3,12 @@ Langue
 Français
 LIKEZ-NOUS
 CHARGEMENT
-Plus de cubes
+Obtenir des cubes
 Utilisez des écouteurs pour  une meilleure expérience
-Vidéo indisponible
-Regardez une vidéo pour débloquer temporairement
+Impossible de charger la vidéo
+Regardez une pub pour débloquer temporairement
+Essai gratuit
 Débloquer
-PERMANENT
 Nouveau niveau débloqué :
 Obtenir {0} gratuitement
 Acheter {0} cubes
@@ -87,9 +87,9 @@ Gemmes gratuites quotidiennes
 Obtenir après {0} h {1} min
 Équipé
 Équiper
-Reprises gratuites : {0}/{1}
-Voulez-vous dépenser {0} gemmes et débloquer la ligne de guidage pour cette fois ?
-Impossible d’obtenir les gemmes gratuites du jour, la vérification temporelle a échoué.
+Vies gratuites : {0}/{1}
+Voulez-vous dépenser {0} gemmes et débloquer l'indice de guidage pour cette fois ?
+Impossible d’obtenir les gemmes gratuites quotidient, la vérification temporelle a échoué.
 Paramètres avancés
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 Récompenses
@@ -123,8 +123,8 @@ Armistice
 Accédez au scénario de la paix dans  La guerre 
 Fête du 2e anniversaire
 Joyeux Noël…\net 2e anniversaire
-Gemless Master
-Encounter a dungeon escaper in  The Adventure 
+Maître Gemless
+Rencontrez un évadé de donjon dans The Adventure
 Ciel étoilé
 L’étendue étoilée recèle de délicieuses surprises
 AFFECTATION DES TOUCHES
@@ -132,9 +132,9 @@ En attente d’une touche\nAppuyez sur la touche que souhaitez utiliser
 Retour
 Pause
 Contrôle
-Ligne de guidage
+Indice de Guidage
 Paramètres
-Skins
+Apparances
 Gauche
 Droite
 Confirmer
@@ -153,15 +153,15 @@ Haut
 Bas
 Droite
 Gauche
-Shift (droit)
-Shift (gauche)
+MAJ (droit)
+MAJ (gauche)
 Alt (droit)
 Alt (gauche)
 CTRL (droit)
 CTRL (gauche)
 Menu
 Terminé
-Checkpoint
+Point de Contrôle
 Joyeux Noël
 Récupérer
 Toucher
@@ -357,7 +357,7 @@ Max Studio
 WINDER Studio
 Veuillez vous connecter à Game Center dans les Réglages système
 Barre de statut
-DLRS GAS
+Compte DLRS GAS
 Profil
 Paramètres du compte
 Pseudo : {0}\nID d’utilisateur : {1}
@@ -369,25 +369,25 @@ Come & Get It - Selena Gomez
 Chanson
 Copié dans le presse-papiers
 Icône de l’application
-Exporter la progression
-Importer la progression
+Exporter la progression du jeu
+Importer la progression du jeu
 L’arbre du néant
 Empruntez le chemin secret dans Le vide
 Le clic automatique pourrait ne pas être précis jusqu’à ce que le niveau soit téléchargé
 Mise à niveau de la base de données du jeu
 Par défaut
 Vert
-Le duo
-
-
-
-
-
-
-
-
-
-
-
+La Romance (Remix)
+Groupe QQ
+Chaîne QQ
+Résolution de rendu
+Auto
+Chapeau
+Déséquiper
+Science Fiction
+https://dl-community.github.io/Docs/#/en/dlce/eula
+https://dl-community.github.io/Docs/#/en/dlce/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
 Terminé
-
+La Rage de l'Orage
