@@ -9,7 +9,7 @@
 | ❌ | Chinese Pinyin | [Aaron8052](https://github.com/Aaron8052) | [DLLocalization_Pinyin.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Pinyin.bytes) |
 | ✅ | Chinese Literary | [Aaron8052](https://github.com/Aaron8052), LiGaYb | [DLLocalization_ChineseClassical.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_ChineseClassical.bytes) |
 | ✅ | English | [Aaron8052](https://github.com/Aaron8052) | [DLLocalization_English.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_English.bytes) |
-| ✅ | French | [Nouche](https://github.com/Nouchey) | [DLLocalization_French.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_French.bytes) |
+| ✅ | French | [Nouche](https://github.com/Nouchey), [Sammy24547](https://github.com/Sammy24547) | [DLLocalization_French.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_French.bytes) |
 | ✅ | German | [X39](https://github.com/X39X39) | [DLLocalization_German.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_German.bytes) |
 | ✅ | Indonesian | [Quardium](https://github.com/quardiumdl) | [DLLocalization_Indonesian.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Indonesian.bytes) |
 | ✅ | Japanese | [Aaron8052](https://github.com/Aaron8052) | [DLLocalization_Japanese.bytes](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Japanese.bytes) |
