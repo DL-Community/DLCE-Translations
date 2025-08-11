@@ -4,7 +4,7 @@
 - It is recommended to come back and **check for new phrases regularly when you are free**.
 - We will always **build the game with the latest files (as of the build date) in the repo**, whatever appears in the files, will be packed in the game.
 ### Formatting
-- If you see empty lines, go to the English translation file for the phrase. Notice that **the last line is always empty**.
+- If you see empty lines, go to the English translation file for the phrase,**OR leave it blank, the game will apply the English phrase automatically. Notice that **the last line is always empty**.
 - Each line is a separate phrase. Make sure the number of lines for each phrase matches the key in the [Keys file](/DLLocalization_Keys.bytes), otherwise the game will not be able to read the correct translation.
 - Line #3 in each file is **the language name in your language** (e.g. `English` in [English file](/DLLocalization_English.bytes), `中文（简体）` (Chinese Simplified) in [Chinese file](/DLLocalization_ChineseSimplified.bytes).
 ### Placeholders
