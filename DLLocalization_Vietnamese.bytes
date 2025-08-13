@@ -4,18 +4,18 @@ Tiếng Việt
 THÍCH CHÚNG TÔI
 ĐANG TẢI
 Thêm cube
-để có trải nghiệm tốt nhất hãy sử dụng tai nghe
+Để có trải nghiệm tốt nhất hãy sử dụng tai nghe
 Video hiện không có sẵn
 Xem video để mở khoá nó một cách tạm thời
 Mở khoá
 VĨNH VIỄN
-Một level mới được mở khoá:
+Đã mở khoá level:
 Lấy {0} miễn phí
 Mua {0} cube
 Năng lượng vô hạn
 Lắp đầy trong : {0}s
 Cube đã được lắp đầy. Hãy cùng nhau tham gia điệu nhạc nào.
-chạm để chơi
+Chạm để chơi
 OK
 Có
 Không
@@ -36,7 +36,7 @@ KHỬ RĂNG CƯA
 ĐỒNG BỘ HOÁ
 TỰ ĐỘNG ĐIỀU CHỈNH
 ĐỘ TRỄ CỦA NHẠC
-CẢM ỨNG PHẢN HỒI
+HIỂN THỊ CON TRỎ CHẠM
 Xác nhận thoát ra
 Bạn có muốn thoát trò chơi?
 Thông tin
@@ -63,7 +63,7 @@ MIỄN PHÍ
 Tiếp tục
 Tìm kiếm
 Xoá dữ liệu
-Data reseted, please restart the game.
+Đã xóa dữ liệu, vui lòng khởi động lại trò chơi.
 Dữ liệu của bạn sẽ bị xoá sau khi bạn chấp nhận xoá dữ liệu. Hãy cân nhắc kĩ trước việc làm này.
 Xin hãy lưu ý rằng khi hoàn tất xoá dữ liệu Dancing Line của bạn (kể cả mọi thông tin cá nhân và mọi dữ liệu khác trong khi sử dụng sản phẩm Dancing Line) sẽ bị xoá vĩnh viễn và không thể khôi phục được nữa. Hãy quyết định một cách sáng suốt
 XOÁ
@@ -76,11 +76,11 @@ Pháp lý & Quyền riêng tư
 Trước khi dùng ứng dụng, bạn phải chấp thuận với Thỏa thuận cấp phép người dùng cuối và Chính sách quyền riêng tư của chúng tôi.
 Chấp nhận và tiếp tục
 Thoát game
-DSP Buffer Size
-Audio Output Latency
-Touch Input Latency
-v#Version# BETA BUILD
-Cảm biến chuyển động
+Kích thước bộ đệm DSP
+Độ trễ âm thanh đầu ra
+Độ trễ cảm ứng đầu vào
+v#Version# BẢN DỰNG BETA
+Cảm biến con quay
 Game Center
 Thu nhập
 Đá quý hằng ngày
@@ -88,8 +88,8 @@ Lấy sau {0}h {1}m
 Đã trang bị
 Trang bị
 Hồi sinh miễn phí: {0}/{1}
-Bạn muốn mở khóa đường dẫn hướng trong vòng này với {0} đá quý, đúng chứ?
-Không thể nào nhặt được đá quý, xác minh thời gian đã thất bại.
+Mở khóa đường dẫn hướng trong màn này với {0} đá quý?
+Không thể nhận đá quý, xác minh thời gian đã thất bại.
 Cài đặt nâng cao
 Cài đặt này chỉ áp dụng cho cấp độ hiện tại, cho phép điều chỉnh riêng cho từng cấp độ dựa trên độ trễ âm nhạc chung.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 Phần thưởng
@@ -99,11 +99,11 @@ Phần thưởng: {0}
 Cấp độ đã hoàn thiện: {0}
 Nhấn một nơi bất kì để thay thay đổi hướng.
 Trò chơi này được thiết kế để chơi với việc bật nhạc.
-Đừng vuốt. Nó không hoạt động.
+Đừng vuốt, nó không có ích gì cả.
 Thật sự không cần thiết khi chạm lúc bay.
-Đừng chạm khi ta đã đến kết thúc tại kim tự tháp.
+Đừng chạm khi đến điểm kết thúc.
 Bạn có thể thay đổi bề ngoài của nhân vật bằng cách chọn vào khối đang lơ lửng này.
-Collect all diamonds and crowns to perfectly complete the levels.
+Thu thập tất cả kim cương với vương miện để hoàn thành màn chơi một cách hoàn hảo.
 THÀNH TÍCH
 [Đã ẩn] 
 Hoàn thành: #x#
@@ -117,16 +117,16 @@ Bí ẩn về loài Rồng
 Tìm ít nhất một con đường ẩn trong  Truyền thuyết về loài rồng  để có được thành tích này 
 Nó là Paimon ư?
 Hay là chúng ta cùng nhau khám phá phía trước lần sau nhé?
-M.A.Z.E.
+M.Ê.  C. U. N. G.
 Tìm con đường bị ẩn trong  Mê Cung  để có được thành tích này 
 Chủ nghĩa hoà bình
 Đi vào cái kết có hậu trong  Chiến tranh 
 Tiệc ăn mừng kỉ niệm lần thứ 2
 Giáng sinh vui vẻ......\nvà Kỉ niệm lần thứ 2
-Gemless Master
-Encounter a dungeon escaper in  The Adventure 
-Starry Sky
-The starry expanse promises delightful surprises
+Bậc Thầy Không Đá Quý
+Chạm trán kẻ thoát ngục trong Phiêu Lưu 
+Bầu trời đầy sao
+Không gian đầy sao hứa hẹn những bất ngờ thú vị.
 SƠ ĐỒ CÁC PHÍM
 Chờ Bàn Phím Nhập Vào\nNhấn phím mà bạn muốn sử dụng hoặc nhấn bất kỳ nút chuột nào để xóa cài đặt này
 Trở lại
@@ -165,7 +165,7 @@ Menu
 Giáng sinh vui vẻ
 Thu thập
 Chạm
-Kết quả bây giờ mà chúng tôi làm được là nhờ bạn.\nChúng tôi là một.
+Kết quả bây giờ mà chúng ta làm được là nhờ bạn.\nChúng ta là một.
 Tại sao...
 Mọi thứ ngày càng tệ hơn...
 Thế giới kết thúc
@@ -173,7 +173,7 @@ Theo đuổi ngôi sao của bạn! -Dante
 Một khi bạn cất cánh, bạn sẽ đi cùng với đôi ngươi hướng tới bầu trời \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
 Bạn không còn cô đơn nữa.
 Không hối tiếc trong \ntình yêu và ẩm thực.
-Bình thường
+Mặc định
 Tai nghe
 Giấy
 Zeus
@@ -198,14 +198,14 @@ Thạch
 Bộ xương hẹn giờ
 Bong bóng
 Quả banh lửa
-Pyramid
-
-
-
-
-
-
-
+Kim tự tháp
+Quả bóng
+Quả bóng xanh lam
+Quả bóng đen
+Quả bóng trơn
+Quả bóng rổ
+Ngôi sao quyền lực
+Rô-bốt
 Level không tên
 Sự khởi đầu
 Thời gian
@@ -279,7 +279,7 @@ Toán học
 Mưa phùn
 Du mục
 Sự rỗng tuếch
-
+Kỉ niệm
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
@@ -288,106 +288,106 @@ Nón Mêxicô
 Đầu quả dưa
 Nón của SweetDog
 Linh hồn
-
+Chuột
 Cấp độ mới đang được tải xuống
 Hãy đảm bảo bạn còn kết nối với Internet
 Hiển thị đầu vào
 Không thể tải xuống cấp độ
 Xóa bộ nhớ đệm
-Caches such as level & music data downloaded will be cleared, continue clearing?
+Các bộ nhớ đệm như màn chơi & nhạc sẽ bị xóa, tiếp tục xóa?
 Phiên bản hiện tại (#Current#) đã lỗi thời, vui lòng cập nhật lên phiên bản mới nhất (#Latest#).
 Không thể tải cấu hình quảng cáo
 Thử lại
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Đang kiểm tra nội dung tải được
+Đang cập nhật cấu hình
+Đang tải nội dung bắt buộc
+Cuộc hành trình chưa hề kết thúc...
+Còn nhiều thứ đang ở phía trước...
+Cảm ơn vì tất cả, các người chơi Dancing Line!
+Cần cập nhật
+Điều chỉnh đồng bộ toàn diện
+Điều chỉnh đồng bộ màn chơi
+Tự động điều chỉnh
+Chia sẻ
+Sao chép văn bản
+Lưu thành hình ảnh
+Sao chép hình ảnh
+Chọn để xóa
+Xóa tiến trình trò chơi
+Kỷ lục mới
+Hoàn Hảo
+Không bán
+Thử thách nốt nhạc
+Cửa hàng nốt nhạc
+Bán hết
+Đá quý x{0}
+Cube x{0}
+Thử thách
+Thứ ba - Chủ nhật
+Luật chơi
+Hoàn thành màn chơi một cách hoàn hảo để nhận nốt nhạc!
+Thử thách nốt nhạc đã kết thúc, hãy quay lại sau!
+• Trong sự kiện này, nhiệm vụ của bạn là thu thập kim cương và vương miện, hoàn thành màn chơi chỉ với một cube, và hãy nhớ: không dược hồi sinh! Bạn đã sẵn sàng cho sự kiện này chưa?\n\n• Đường chỉ dẫn sẽ bị tắt trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Một khi bạn đã hoàn thành màn chơi theo cách hoàn hảo, đừng quên quay về trang sự kiện để nhận phần thưởng!
+Kết nối với Internet thất bại, vui lòng chắc chắn rằng mạng của bạn ổn định và thử lại
+Đã đổi
+Đã đổi #item# thành công
+Bạn muốn đổi #item#?
+Cửa hàng đổi mới vào thứ Hai hàng tuần!
+Cửa hàng nốt nhạc đã được làm mới, vào xem có gì mới nào!
+Thử thách nốt nhạc của tuần này đã mở, đến và đánh bại các màn chơi!
+Bóng Bowling
+Bóng Tennis
+Thử thách đã hoàn thành: #Level#
+Tiếp tục tải bằng dữ liệu di động?
+Cảnh báo Dữ Liệu Di Động
+Lỗi
+Lỗi không rõ đã xảy ra!
+Ẩn con trỏ
+Khi đứng im
+Khi chơi
+Không bao giờ
+Chính thức
+Remix
+Sự kiện
+Mùa
+Bản gốc
+Di sản
+Tạo bởi fan
 Max Studio
 WINDER Studio
+Vui lòng đăng nhập vào Game Center trong ứng dụng Cài Đặt
+Thanh trạng thái
 
-
-
-
-
-
-
-
-
-
+Cấu hình
+Cài đặt tài khoản
+Tên người dùng: {0}\nID người dùng: {1}
+Khung hình
+Hiển thị khung hình
+Máy chủ
+Hỗ trợ đa chạm
 Come & Get It - Selena Gomez
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Nhạc
+Đã sao chép vào bảng nhớ tạm
+Biểu tượng trò chơi
+Xuất tiến trình trò chơi
+Nhập tiến trình trò chơi
+Cây của Vô Sắc
+Đi vào lối đi bí ẩn của Sự Rỗng Tuếch
+Tự động chơi có thể không chính xác cho đến khi màn chơi được tải
+Đang nâng cấp cơ sở dữ liệu trò chơi
+Mặc định
+Xanh lá
+Bản Song Ca
+Nhóm QQ
+Kênh QQ
+Độ phân giải xử lý
+Tự động
+Mũ
+Tháo trang bị
+Khoa học
 
 
 
 
 Đã hoàn thành
-
+Cơn bão giận dữ
