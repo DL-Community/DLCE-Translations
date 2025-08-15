@@ -2,7 +2,7 @@ Dancing Line
 Language
 English
 LIKE US
-LOADING
+Loading
 Get Cubes
 for the best experience\nuse headphones
 Video not available
@@ -83,13 +83,13 @@ v#Version# BETA BUILD
 Gyroscope Effects
 Game Center
 Claim
-Daily Free Gems
-Claim after {0}h {1}m
+Daily Free Stars
+Claimable after {0}h {1}m
 Equipped
 Equip
 Free Revivals: {0}/{1}
 Do you want to spend {0} gems to unlock the guidance line temporarily?
-Unable to claim daily free gems, time verification failed.
+Unable to claim daily free stars, time verification failed.
 Advanced Settings
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 Rewards
@@ -320,7 +320,7 @@ Not for sale
 Notes Challenge
 Notes Store
 Sold out
-Gems x{0}
+Stars x{0}
 Cubes x{0}
 Challenge
 Tuesday — Sunday

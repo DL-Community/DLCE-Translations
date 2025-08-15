@@ -89,7 +89,7 @@ Equipped
 Equip
 Free Revivals: {0}/{1}
 Do you want to spend {0} gems to unlock the guidance line in this round?
-Unable to claim daily free gems, time verification failed.
+Unable to claim daily free stars, time verification failed.
 Advanced Settings
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 Rewards
@@ -320,7 +320,7 @@ Not for sale
 Notes Challenge
 Notes Store
 Sold out
-Gems x{0}
+Stars x{0}
 Cubes x{0}
 Challenge
 Tuesday — Sunday
