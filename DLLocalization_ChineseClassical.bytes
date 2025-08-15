@@ -84,11 +84,11 @@ v#Version# 測試版本
 Game Center
 領賞
 無償之星星
-於{0}時{1}分之後，方可再度取得
+於{0}時{1}分之後 方可再度取得
 已裝備
 裝備
 復活次第：{0}/{1} 自費縱橫
-是否耗費{0}寶石，臨時解鎖引導綫
+是否耗費{0}星星，臨時解鎖引導綫
 恕難領取，當下時辰與真實時刻相剖裂
 高階置設
 此設唯效於當下關隘，乃於全域音偏之上，另作分關微調。\n\n<b>實際音偏 = 關隘音偏 + 全域音偏</b>
@@ -385,9 +385,12 @@ QQ群
 帽
 卸裝
 未來
-https://dl-community.github.io/Docs/#/dlce/eula
-https://dl-community.github.io/Docs/#/dlce/privacy
+https://dl-community.github.io/Docs/#/legal/eula
+https://dl-community.github.io/Docs/#/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
 畢
-
+怒潮
+藍
+黃
+經典

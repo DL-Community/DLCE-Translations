@@ -88,7 +88,7 @@ Claimable after {0}h {1}m
 Equipped
 Equip
 Free Revivals: {0}/{1}
-Do you want to spend {0} gems to unlock the guidance line temporarily?
+Do you want to spend {0} stars to unlock the guidance line temporarily?
 Unable to claim daily free stars, time verification failed.
 Advanced Settings
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
@@ -385,9 +385,12 @@ Auto
 Hats
 Unequip
 Sci-Fi
-https://dl-community.github.io/Docs/#/en/dlce/eula
-https://dl-community.github.io/Docs/#/en/dlce/privacy
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 completed
 Storm of Anger
+Blue
+Yellow
+Classical

@@ -88,7 +88,7 @@ v#Version# 开发中内容
 已装备
 装备
 免费复活次数：{0}/{1}
-是否花费{0}宝石临时解锁引导线？
+是否花费{0}星星临时解锁引导线？
 领取失败，时间合法性验证失败
 先进的设置
 此设置仅适用于当前级别，允许根据全局音乐延迟对每个级别进行单独调整。\n\n<b>实际延迟 = 级别延迟 + 全局延迟</b>
@@ -376,7 +376,7 @@ WINDER Studio
 由于级别不可堆叠，自动陈词滥调可能无法使用。
 升级游戏存档格式
 默认
-绿
+绿色
 二重奏
 QQ群
 腾讯频道
@@ -385,9 +385,12 @@ QQ群
 帽子
 解除装备
 科幻
-https://dl-community.github.io/Docs/#/dlce/eula
-https://dl-community.github.io/Docs/#/dlce/privacy
+https://dl-community.github.io/Docs/#/legal/eula
+https://dl-community.github.io/Docs/#/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
 完全的
 愤怒的风暴
+蓝色
+黄色
+经典
