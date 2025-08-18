@@ -145,20 +145,22 @@ Kembali
 Kembali
 ESC
 Spasi
-WIN Kanan
 WIN Kiri
-CMD Kanan
+WIN Kanan
 CMD Kiri
+CMD Kanan
 Panah Atas
 Panah Bawah
-Panah Kanan
 Panah Kiri
-Shift Kanan
+Panah Kanan
 Shift Kiri
-Alt Kanan
-Alt Kiri
-CTRL Kanan
+Shift Kanan
+Option Kiri
+Option Kanan
 CTRL Kiri
+CTRL Kanan
+Option Kiri
+Option Kanan
 Menu
 Selesai
 Checkpoint
@@ -384,7 +386,7 @@ Resolusi Render
 Otomatis
 Topi
 Lepas
-Sci-Fi
+
 https://dl-community.github.io/Docs/#/en/legal/eula
 https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information

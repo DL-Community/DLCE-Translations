@@ -145,20 +145,22 @@ Return
 Enter
 ESC
 Space
-Right WIN
 Left WIN
-Right CMD
+Right WIN
 Left CMD
+Right CMD
 Up Arrow
 Down Arrow
-Right Arrow
 Left Arrow
-Right Shift
+Right Arrow
 Left Shift
-Right Alt
-Left Alt
-Right CTRL
+Right Shift
+Left Option
+Right Option
 Left CTRL
+Right CTRL
+Left Option
+Right Option
 Menu
 Completed
 Checkpoint

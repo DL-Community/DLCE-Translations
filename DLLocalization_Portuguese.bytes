@@ -145,20 +145,22 @@ Return
 Enter
 ESC
 Espaço
-WINDOWS (Direita)
 WINDOWS (Esquerda)
-CMD (Direita)
+WINDOWS (Direita)
 CMD (Esquerda)
+CMD (Direita)
 Seta para cima
 Seta para baixo
-Seta para esquerda
 Seta para direita
-Shift (Direita)
+Seta para esquerda
 Shift (Esquerda)
-Alt (Direita)
-Alt (Esquerda)
-CTRL (Direita)
+Shift (Direita)
+Option (Esquerda)
+Option (Direita)
 CTRL (Esquerda)
+CTRL (Direita)
+Option (Esquerda)
+Option (Direita)
 Menu
 Concluído
 Checkpoint

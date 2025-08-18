@@ -145,20 +145,22 @@ Return
 Enter
 ESC
 Space
-Правый WIN
 Левый WIN
-Правый CMD
+Правый WIN
 Левый CMD
+Правый CMD
 Стрелка Вверх
 Стрелка Вниз
-Стрелка Вправо
 Стрелка Влево
-Правый Shift
+Стрелка Вправо
 Левый Shift
-Правый Alt
-Левый Alt
-Правый CTRL
+Правый Shift
+Левый Option
+Правый Option
 Левый CTRL
+Правый CTRL
+Левый Option
+Правый Option
 Меню
 Пройден
 Чекпоинт

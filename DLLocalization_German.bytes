@@ -145,20 +145,22 @@ Eingabetaste
 Eingabetaste
 ESC
 Leertaste
-WIN Rechts
 WIN Links
-CMD Rechts
+WIN Rechts
 CMD Links
+CMD Rechts
 Pfeil hoch
 Pfeil runter
-Pfeil Rechts
 Pfeil Links
-Shift Rechts
+Pfeil Rechts
 Shift Links
-Alt Rechts
-Alt Links
-CTRL Rechts
+Shift Rechts
+Option Links
+Option Rechts
 CTRL Links
+CTRL Rechts
+Option Links
+Option Rechts
 Menü
 Vollendet
 Checkpoint
