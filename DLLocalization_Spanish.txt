@@ -1,35 +1,35 @@
 Dancing Line
-Language
-English
-LIKE US
-Loading
-Get Cubes
-for the best experience\nuse headphones
-Video not available
-Watch a video to unlock it temporarily
-Free Unlock
-Unlock
-New level unlocked:
-Get {0} Free
-Buy {0} Cubes
-Infinite Energy
-Recharge in : {0}s
-Cubes recharged. Let's dance again.
-tap to play
+Idioma
+Español
+SÍGUENOS
+CARGANDO
+Consigue Cubos
+para la mejor experienca\nusar auriculares
+Video no disponible
+Mira un video para desbloquearlo temporalmente
+Desbloqueo Gratuito
+Desbloquear
+Nuevo nivel desbloqueado
+Consigue {0} Gratis
+Comprar {0} Cubos
+Energía Infinita
+Recargar en : {0}s
+Los cubos recargado. Vamos a bailar otra vez.
+toca para jugar
 OK
-Yes
+Sí
 No
-On
-Off
-Cancel
-Paused
-Quality
-Very Low
-Low
-Medium
-High
-Ultra
-Max
+Encendido
+Apagado
+Cancelar
+En pausa
+Calidad
+Muy bajo
+Bajo
+Medio
+Alta
+Mas Alta
+Max.
 ANTI ALIASING
 SOUND
 VSYNC
@@ -47,7 +47,7 @@ Bilibili
 YouTube
 End-User License Agreement
 Privacy Policy
-Discord
+Official Discord Server
 Display Mode
 Exclusive Fullscreen
 Fullscreen Windowed
@@ -83,12 +83,12 @@ v#Version# BETA BUILD
 Gyroscope Effects
 Game Center
 Claim
-Daily Free Stars
-Claimable after {0}h {1}m
+Daily Free Gems
+Claim after {0}h {1}m
 Equipped
 Equip
 Free Revivals: {0}/{1}
-Do you want to spend {0} stars to unlock the guidance line temporarily?
+Do you want to spend {0} gems to unlock the guidance line in this round?
 Unable to claim daily free stars, time verification failed.
 Advanced Settings
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
@@ -128,7 +128,7 @@ Encounter a dungeon escaper in  The Adventure
 Starry Sky
 The starry expanse promises delightful surprises
 KEYMAPPING
-Waiting For Keyboard Input\nPress the key that you want to use
+Waiting For Keyboard Input\nPress the key that you want to use, or press any mouse button to clear the setting
 Back
 Pause Game
 Character Control
@@ -141,7 +141,7 @@ Confirm
 Restart
 Achievements
 Backspace
-Enter
+Return
 Enter
 ESC
 Space
@@ -297,7 +297,7 @@ Input HUD
 Failed to download level
 Clear Cache
 Caches such as level & music data downloaded will be cleared, continue clearing?
-The current version #Current# is out of date, you are required to update to at least #Latest# to play.
+Current version (#Current#) is out of date, please update to the latest version (#Latest#).
 Failed to load ad configurations
 Retry
 Checking Downloadable Content
@@ -336,7 +336,7 @@ Successfully redeemed #item#
 Do you want to redeem #item#?
 Store refreshes every Monday
 Notes Store refreshed, check out what's new!
-This week's Notes Challenge is now available, come and beat the levels!
+This week's Notes Challenge is now available, come and challege the levels!
 Bowling Ball
 Tennis Ball
 Challenge Completed : #Level#
@@ -376,23 +376,25 @@ Import Game Progress
 The Tree of Void
 Enter secret path in The Hollowness
 Auto-clicking may not be accurate until the level is downloaded.
-Upgrading Game Database
-Default
-Green
-The Duet
-QQ Group
-QQ Channel
-Render Resolution
-Auto
-Hats
-Unequip
-Sci-Fi
-https://dl-community.github.io/Docs/#/en/legal/eula
-https://dl-community.github.io/Docs/#/en/legal/privacy
-https://dl-community.github.io/Docs/#/dlce/level_information
-https://dl-community.github.io/Docs/#/en/dlce/localization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 completed
-Storm of Anger
-Blue
-Yellow
-Classical
+
+
+
+
+
+

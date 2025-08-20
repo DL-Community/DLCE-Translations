@@ -396,3 +396,5 @@ https://dl-community.github.io/Docs/#/dlce/localization
 蓝色
 黄色
 经典
+
+由于当前的音频会话被系统中断，游戏暂时无法继续。请尽量避免任何可能干扰游戏音频的应用程序或进程，然后再试一次。

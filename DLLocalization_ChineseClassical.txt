@@ -396,3 +396,5 @@ https://dl-community.github.io/Docs/#/dlce/localization
 藍
 黃
 經典
+音聲中斷
+蓋因當前音律為系統所擾 遊戲暫不得續 請試盡除干擾音聲之諸程 而後復啟之
