@@ -386,11 +386,11 @@ QQ Канал
 Аутоматски
 Капи
 Опремувај
-
-
-
-
-
+Sci-Fi
+DatabaseLinks.EULA
+DatabaseLinks.PrivacyPolicy
+DatabaseLinks.LevelInformation
+DatabaseLinks.LocalizationTeam
 Победено
 Бурата (Дел II)
 
