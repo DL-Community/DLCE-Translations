@@ -91,7 +91,7 @@ Hồi sinh miễn phí: {0}/{1}
 Mở khóa đường dẫn hướng trong màn này với {0} đá quý?
 Không thể nhận đá quý, xác minh thời gian đã thất bại.
 Cài đặt nâng cao
-Cài đặt này chỉ áp dụng cho cấp độ hiện tại, cho phép điều chỉnh riêng cho từng cấp độ dựa trên độ trễ âm nhạc chung.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
+Cài đặt này chỉ áp dụng cho cấp độ hiện tại, cho phép điều chỉnh riêng cho từng cấp độ dựa trên độ trễ âm nhạc chung.\n\n<b>Độ trễ thực = Độ trễ màn chơi + Độ trễ toàn cầu</b>
 Phần thưởng
 Phần thưởng: {0}
 Đã thu được {0} kim cương trong cấp độ: {1}
@@ -100,7 +100,7 @@ Cấp độ đã hoàn thiện: {0}
 Nhấn một nơi bất kì để thay thay đổi hướng.
 Trò chơi này được thiết kế để chơi với việc bật nhạc.
 Đừng vuốt, nó không có ích gì cả.
-Thật sự không cần thiết khi chạm lúc bay.
+Không cần thiết khi chạm lúc bay.
 Đừng chạm khi đến điểm kết thúc.
 Bạn có thể thay đổi bề ngoài của nhân vật bằng cách chọn vào khối đang lơ lửng này.
 Thu thập tất cả kim cương với vương miện để hoàn thành màn chơi một cách hoàn hảo.
@@ -393,8 +393,8 @@ Khoa học
 
 Đã hoàn thành
 Cơn bão giận dữ
-
-
-
-
-
+Xanh lam
+Vàng
+Cổ điển
+Phiên âm thanh đã bị gián đoạn
+Do phiên âm thanh hiện tại đang bị gián đoạn bởi hệ thống khiến cho trò chơi không thể tiếp tục, Hãy tránh các ứng dụng hoặc tiến trình khiến âm thanh bị gián đoạn và thử lại.
