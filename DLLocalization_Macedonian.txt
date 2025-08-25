@@ -393,8 +393,8 @@ DatabaseLinks.LevelInformation
 DatabaseLinks.LocalizationTeam
 Победено
 Бурата (Дел II)
-
-
-
-
-
+Сина
+Жолта
+Класична
+Прекината аудио сесија
+Порака за прекината аудио сесија
