@@ -396,5 +396,5 @@ Badai Kemarahan
 Biru
 Kuning
 Klasik
-
-
+Sesi Audio Terganggu
+Karena sesi audio saat ini sedang terganggu oleh sistem, permainan untuk sementara tidak dapat dilanjutkan. Coba hindari aplikasi atau proses apa pun yang mungkin mengganggu audio game dan coba lagi.
