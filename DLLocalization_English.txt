@@ -398,3 +398,8 @@ Yellow
 Classical
 Audio Session Interrupted
 Due to the current audio session being interrupted by the system, the game is temporarily unable to continue. Please try to avoid any apps or processes that may be interrupting the game audio and try again.
+Last Synced: {0}\nCloud Data Version: {1}
+Sync Now
+Synchronization is too frequent
+Synchronization successful
+Synchronization failed

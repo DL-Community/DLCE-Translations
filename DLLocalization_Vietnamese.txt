@@ -398,3 +398,8 @@ Vàng
 Cổ điển
 Phiên âm thanh đã bị gián đoạn
 Do phiên âm thanh hiện tại đang bị gián đoạn bởi hệ thống khiến cho trò chơi không thể tiếp tục, Hãy tránh các ứng dụng hoặc tiến trình khiến âm thanh bị gián đoạn và thử lại.
+
+
+
+
+

@@ -398,3 +398,8 @@ Yellow
 Classical
 Audio Session Interrupted
 Audio Session Interrupted Message
+GAS Cloud Save Details
+Sync Now
+Synchronization is too frequent
+Synchronization successful
+Synchronization failed
