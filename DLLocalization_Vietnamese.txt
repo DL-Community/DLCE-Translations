@@ -230,7 +230,7 @@ Thiên đường ngàn pháo hoa
 Mùa thu
 Pha lê
 Kỉ niệm 3 năm
-Hành trình 5 năm
+Kỉ niệm 5 năm
 Sự hỗn loạn
 Nhà thờ
 Câu chuyện về các thuỷ thủ
@@ -398,8 +398,8 @@ Vàng
 Cổ điển
 Phiên âm thanh đã bị gián đoạn
 Do phiên âm thanh hiện tại đang bị gián đoạn bởi hệ thống khiến cho trò chơi không thể tiếp tục, Hãy tránh các ứng dụng hoặc tiến trình khiến âm thanh bị gián đoạn và thử lại.
-
-
-
-
-
+Đồng bộ lần cuối: {0}\nPhiên bản dữ liệu đám mây: {1}
+Đồng bộ ngay
+Đồng bộ quá thường xuyên
+Đồng bộ thành công
+Đồng bộ thất bại
