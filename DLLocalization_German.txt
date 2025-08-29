@@ -29,14 +29,14 @@ Niedrig
 Mittel
 Hoch
 Ultra
-Ultra＋
+Max
 ANTI ALIASING
 SOUND
 VSYNC
-SINCHRONISATION
-AUTOMATISCHE EINSTELLUNG
-MUSIK Verzögerung
-TOUCH FEEDBACK
+Synchronisation
+Automatische Einstellung
+Musik Verzögerung
+Touch Empfindlichkeit
 Verlassen bestätigen
 Willst du das Spiel verlassen?
 Über
@@ -383,23 +383,23 @@ The Duet
 QQ Group
 QQ Channel
 Render Auflösung
-
-
-
-
-
-
-
-
+Automatisch
+Hüte
+Ablegen
+Sci-Fi
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
 Vollendet
-
-
-
-
-
-
-
-
-
-
-
+Storm of Anger
+Blau
+Gelb
+Klassisch
+Audiositzung unterbrochen
+Da die aktuelle Audiositzung vom System unterbrochen wurde, kann das Spiel vorübergehend nicht fortgesetzt werden. Bitte vermeiden Sie alle Apps oder Prozesse, die den Spielton unterbrechen könnten, und versuchen Sie es erneut.
+Zuletzt synchronisiert: {0}\nCloud Data Version: {1}
+Jetzt synchronisieren
+Die Synchronisierung erfolgt zu häufig.
+Synchronisierung erfolgreich
+Synchronisierung fehlgeschlagen
