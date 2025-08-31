@@ -315,7 +315,7 @@ SweetDog帽
 儲存影像
 複製影像
 选择要删除的内容
-删除游戏进度
+清空游戏进度
 新最好
 完美
 非卖品
@@ -403,3 +403,7 @@ https://dl-community.github.io/Docs/#/dlce/localization
 
 
 同步失败
+云存档
+最近同步
+云端存档版本
+同步中…

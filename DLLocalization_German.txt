@@ -403,3 +403,7 @@ Jetzt synchronisieren
 Die Synchronisierung erfolgt zu häufig.
 Synchronisierung erfolgreich
 Synchronisierung fehlgeschlagen
+
+Zuletzt synchronisiert
+Cloud Data Version
+

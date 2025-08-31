@@ -403,3 +403,7 @@ Sync Now
 Synchronization is too frequent
 Synchronization successful
 Synchronization failed
+Cloud Save
+Last Synced
+Cloud Data Version
+Syncing...

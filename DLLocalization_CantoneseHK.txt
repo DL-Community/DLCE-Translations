@@ -384,8 +384,8 @@ QQ群
 騰訊頻道
 渲染精細度
 自動
-帽子
-解除裝備
+帽
+除裝備
 科幻
 https://dl-community.github.io/Docs/#/legal/eula
 https://dl-community.github.io/Docs/#/legal/privacy
@@ -398,8 +398,12 @@ Storm of Anger
 經典
 
 
-最近同步：{0}\n遠端存檔版本：{1}
-立即同步
-同步過於頻繁
+最近嘅同步：{0}\n雲端儲存版本：{1}
+即刻同步
+同步得太頻密
 同步成功
 同步失敗
+雲端儲存
+最近嘅同步
+雲端儲存版本
+同步緊……
