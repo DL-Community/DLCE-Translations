@@ -403,7 +403,7 @@ Sinkronisasi Sekarang
 Sinkronisasi terlalu sering
 Sinkronisasi berhasil
 Sinkronisasi gagal
-
+Simpan Awan
 Terakhir Disinkronkan
 Versi Data Cloud
-
+Disinkronkan...
