@@ -12,9 +12,9 @@ VĨNH VIỄN
 Đã mở khoá level:
 Lấy {0} miễn phí
 Mua {0} cube
-Năng lượng vô hạn
-Lắp đầy trong : {0}s
-Cube đã được lắp đầy. Hãy cùng nhau tham gia điệu nhạc nào.
+Vô hạn cube
+Nạp lại trong : {0}s
+Cube đã được nạp lại. Hãy cùng nhau tham gia điệu nhạc nào.
 Chạm để chơi
 OK
 Có
@@ -49,8 +49,8 @@ Thỏa thuận người dùng cuối
 Chính sách bảo mật
 Server trong Discord
 Chế độ hiển thị
-Toàn màn hình duy nhất
-TOÀN MÀN HÌNH
+Toàn màn hình độc quyền
+Toàn màn hình không viền
 CHẾ ĐỘ CỬA SỔ
 THẲNG ĐỨNG
 NẰM NGANG
@@ -58,7 +58,7 @@ NẰM NGANG
 Bắt đầu lại từ điểm hồi sinh?
 Cần #X%# nữa để tới được #Kỷ lục mới#
 Cần #X%# nữa để tới được #Điểm hồi sinh mới#
-Cần #X%# nữa #Hoàn thành#
+Cần #X%# nữa để #Hoàn thành#
 MIỄN PHÍ
 Tiếp tục
 Tìm kiếm
@@ -127,7 +127,7 @@ Bậc Thầy Không Đá Quý
 Chạm trán kẻ thoát ngục trong Phiêu Lưu 
 Bầu trời đầy sao
 Không gian đầy sao hứa hẹn những bất ngờ thú vị.
-SƠ ĐỒ CÁC PHÍM
+SƠ ĐỒ PHÍM
 Chờ Bàn Phím Nhập Vào\nNhấn phím mà bạn muốn sử dụng hoặc nhấn bất kỳ nút chuột nào để xóa cài đặt này
 Trở lại
 Dừng trò chơi
@@ -307,8 +307,8 @@ Cuộc hành trình chưa hề kết thúc...
 Còn nhiều thứ đang ở phía trước...
 Cảm ơn vì tất cả, các người chơi Dancing Line!
 Cần cập nhật
-Điều chỉnh đồng bộ toàn diện
-Điều chỉnh đồng bộ màn chơi
+Điều chỉnh độ khớp toàn cầu
+Điều chỉnh độ khớp màn chơi
 Tự động điều chỉnh
 Chia sẻ
 Sao chép văn bản
@@ -330,7 +330,7 @@ Luật chơi
 Hoàn thành màn chơi một cách hoàn hảo để nhận nốt nhạc!
 Thử thách nốt nhạc đã kết thúc, hãy quay lại sau!
 • Trong sự kiện này, nhiệm vụ của bạn là thu thập kim cương và vương miện, hoàn thành màn chơi chỉ với một cube, và hãy nhớ: không dược hồi sinh! Bạn đã sẵn sàng cho sự kiện này chưa?\n\n• Đường chỉ dẫn sẽ bị tắt trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Một khi bạn đã hoàn thành màn chơi theo cách hoàn hảo, đừng quên quay về trang sự kiện để nhận phần thưởng!
-Kết nối với Internet thất bại, vui lòng chắc chắn rằng mạng của bạn ổn định và thử lại
+Kết nối thất bại, vui lòng chắc chắn rằng mạng của bạn ổn định và thử lại
 Đã đổi
 Đã đổi #item# thành công
 Bạn muốn đổi #item#?
@@ -359,7 +359,7 @@ Max Studio
 WINDER Studio
 Vui lòng đăng nhập vào Game Center trong ứng dụng Cài Đặt
 Thanh trạng thái
-
+Hệ thống tài khoản trò chơi DLRS
 Cấu hình
 Cài đặt tài khoản
 Tên người dùng: {0}\nID người dùng: {1}
@@ -373,7 +373,7 @@ Nhạc
 Biểu tượng trò chơi
 Xuất tiến trình trò chơi
 Nhập tiến trình trò chơi
-Cây của Vô Sắc
+Cây Hư Không
 Đi vào lối đi bí ẩn của Sự Rỗng Tuếch
 Tự động chơi có thể không chính xác cho đến khi màn chơi được tải
 Đang nâng cấp cơ sở dữ liệu trò chơi
