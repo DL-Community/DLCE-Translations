@@ -409,3 +409,6 @@ Last Synced
 Cloud Data Version
 Syncing...
 Follow System Language
+Copy
+Open External Directory
+Open External Directory Message

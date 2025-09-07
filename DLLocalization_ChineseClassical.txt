@@ -409,3 +409,6 @@ https://dl-community.github.io/Docs/#/dlce/localization
 雲端存檔版本
 同步中…
 文隨於系統
+複製
+打開外部目錄
+當前暫不支持直接打開目録。請點擊按鈕復製此路徑并手動打開：\n\n#DIRECTORY#

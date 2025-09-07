@@ -409,3 +409,6 @@ https://dl-community.github.io/Docs/#/dlce/localization
 云端存档版本
 同步中…
 跟着系统语言
+复制
+打开外部目录
+目前不支持直接打开目录。请点击按钮复制以下目录并手动打开：\n\n#DIRECTORY#

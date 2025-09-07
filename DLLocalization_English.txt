@@ -409,3 +409,6 @@ Last Synced
 Cloud Data Version
 Syncing...
 Follow System Language
+Copy
+Open External Directory
+Directly opening a directory is not currently supported. Please click the button to copy the following directory and open it manually:\n\n#DIRECTORY#
