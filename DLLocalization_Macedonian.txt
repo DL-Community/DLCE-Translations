@@ -410,8 +410,8 @@ DatabaseLinks.LocalizationTeam
 Синхронизирање...
 Следи го јазикот на системот
 Копирај
-Отвори надворешен директориум
-Отвори порака за надворешен директориум
+Open External Directory
+Open External Directory Message
 
 
 
