@@ -57,9 +57,9 @@ Potret
 Lanskap
 Resolusi
 Melanjutkan dari checkpoint terakhir?
-Membutuhkan #X%# lagi untuk #New Best#
-Membutuhkan #X%# lagi untuk #Next Checkpoint#
-Membutuhkan #X%# lagi ke  #Complete#
+Membutuhkan #X%# lagi untuk #Terbaik Baru#
+Membutuhkan #X%# lagi untuk #Titik Periksa Berikutnya#
+Membutuhkan #X%# lagi ke  #Selesai#
 Gratis
 Lanjut
 Cari
@@ -408,7 +408,7 @@ Simpan Awan
 Terakhir Disinkronkan
 Versi Data Cloud
 Disinkronkan...
-
-
-
-
+Ikuti Bahasa Sistem
+Salin
+Buka Direktori Eksternal
+Membuka direktori secara langsung saat ini tidak didukung. Silakan klik tombol untuk menyalin direktori berikut dan membukanya secara manual.:\n\n#DIRECTORY#
