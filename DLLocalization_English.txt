@@ -412,3 +412,30 @@ Follow System Language
 Copy
 Open External Directory
 Directly opening a directory is not currently supported. Please click the button to copy the following directory and open it manually:\n\n#DIRECTORY#
+DL RS Group Joint Production Games Universal Account System
+Email...
+Password...
+Remember User
+Account Login
+Login
+Register
+Forget Password
+Logging in
+Login timed out
+Error
+Incorrect email or password
+This account isn't in the whitelist
+This account needs to be activated
+App outdated, please check for updates
+Welcome, {0}!
+Login successful
+Please enter email
+Please enter password
+By logging in, you agree to the <b><color=#3d6ec0>DLRS GAS Terms of Service</color></b>
+Recent Account
+New Login
+Are you sure you want to remove account #name#?
+Opening in an external browser...
+This account has been banned
+Downloading Cloud Saves...
+Failed Downloading Cloud Saves

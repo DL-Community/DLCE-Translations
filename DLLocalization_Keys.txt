@@ -412,3 +412,30 @@ Follow System Language
 Copy
 Open External Directory
 Open External Directory Message
+DLRSGAS_Description
+DLRSGAS_Email
+DLRSGAS_Password
+DLRSGAS_RememberPassword
+DLRSGAS_Account_LogIn
+DLRSGAS_LogIn
+DLRSGAS_Register
+DLRSGAS_ForgetPW
+DLRSGAS_LoggingIn
+DLRSGAS_InternetError
+DLRSGAS_Error
+DLRSGAS_IncorrectEmailORPassword
+DLRSGAS_AccountNotInWhitelist
+DLRSGAS_AccountNeedsActivation
+DLRSGAS_IncorrectAppIdOrToken
+DLRSGAS_Welcome
+DLRSGAS_LogInSuccessful
+DLRSGAS_PleaseEnterEmail
+DLRSGAS_PleaseEnterPassword
+DLRSGAS_ToS_Description
+DLRSGAS_Recent_Account_Tip
+DLRSGAS_New_Login
+DLRSGAS_RemoveRecentAccountConfirmation
+Opening in an external browser...
+DLRSGAS_Blacklist
+DLRSGAS_DownloadingCloudSave
+DLRSGAS_DownloadingCloudSaveFailed

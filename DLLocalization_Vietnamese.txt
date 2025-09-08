@@ -412,3 +412,30 @@ Theo ngôn ngữ hệ thống
 Sao chép
 Mở thư mục bên ngoài
 Hiện tại không hỗ trợ mở trực tiếp thư mục. Vui lòng nhấp vào nút để sao chép thư mục sau và mở thủ công:\n\n#DIRECTORY#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
