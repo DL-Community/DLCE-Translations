@@ -412,30 +412,30 @@ Ikuti Bahasa Sistem
 Salin
 Buka Direktori Eksternal
 Membuka direktori secara langsung saat ini tidak didukung. Silakan klik tombol untuk menyalin direktori berikut dan membukanya secara manual.:\n\n#DIRECTORY#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+DL RS Group Joint Production Games Universal Account System
+Email...
+Kata Sandi...
+Ingatkan Saya
+Masuk Akun
+Masuk
+Daftar
+Lupa Kata Sandi
+Memasuki
+Waktu login habis
+Kesalahan
+Email atau kata sandi salah
+Akun ini tidak ada dalam daftar putih
+Akun ini perlu diaktifkan
+Aplikasi sudah usang, silakan periksa pembaruan
+Selamat Datang, {0}!
+Login berhasil
+Silakan masukkan email
+Silakan masukkan kata sandi
+Dengan masuk, Anda menyetujui <b><color=#3d6ec0>DLRS GAS Terms of Service</color></b>
+Akun Sebelumnya
+Login Baru
+Apakah Anda yakin ingin menghapus akun #name#?
+Membuka di browser eksternal...
+Akun ini telah diblokir
+Mengunduh Simpanan Cloud...
+Gagal Mengunduh Simpanan Cloud
