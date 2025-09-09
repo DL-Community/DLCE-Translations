@@ -439,3 +439,5 @@ Opening in an external browser...
 DLRSGAS_Blacklist
 DLRSGAS_DownloadingCloudSave
 DLRSGAS_DownloadingCloudSaveFailed
+Logout
+Logout Confirmation Message
