@@ -442,4 +442,4 @@ Eメールを入力してください
 ログアウト
 アカウント #USERNAME# からログアウトしてもよろしいですか？
 オープンソースライブラリ
-https://dlce.fengyan.ip-ddns.com/#/en/home
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source

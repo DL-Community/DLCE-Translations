@@ -442,4 +442,4 @@ Hiện tại không hỗ trợ mở trực tiếp thư mục. Vui lòng nhấp v
 
 
 
-https://dlce.fengyan.ip-ddns.com/#/en/home
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source

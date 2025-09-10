@@ -442,4 +442,4 @@ Failed Downloading Cloud Saves
 Logout
 Are you sure you want to log out of  #USERNAME#?
 Open Source Libraries
-https://dlce.fengyan.ip-ddns.com/#/en/home
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
