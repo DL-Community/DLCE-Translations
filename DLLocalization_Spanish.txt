@@ -388,10 +388,10 @@ Auto-clicking may not be accurate until the level is downloaded.
 
 
 
-
-
-
-
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
 completed
 
 
@@ -441,3 +441,5 @@ completed
 
 
 
+
+https://dlce.fengyan.ip-ddns.com/#/en/home

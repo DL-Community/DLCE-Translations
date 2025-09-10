@@ -441,3 +441,5 @@ DLRSGAS_DownloadingCloudSave
 DLRSGAS_DownloadingCloudSaveFailed
 Logout
 Logout Confirmation Message
+Open Source Libraries
+DatabaseLinks.OpenSource

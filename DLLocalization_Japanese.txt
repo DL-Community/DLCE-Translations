@@ -388,10 +388,10 @@ QQチャンネル
 帽子
 装備解除
 SF
-
-
-
-
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
 完了
 Storm of Anger
 青
@@ -441,3 +441,5 @@ Eメールを入力してください
 クラウドセーブのダウンロードに失敗しました。
 ログアウト
 アカウント #USERNAME# からログアウトしてもよろしいですか？
+オープンソースライブラリ
+https://dlce.fengyan.ip-ddns.com/#/en/home

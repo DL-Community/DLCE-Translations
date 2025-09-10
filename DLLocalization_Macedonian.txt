@@ -388,10 +388,10 @@ QQ Канал
 Капи
 Опремувај
 Sci-Fi
-DatabaseLinks.EULA
-DatabaseLinks.PrivacyPolicy
-DatabaseLinks.LevelInformation
-DatabaseLinks.LocalizationTeam
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
 Победено
 Бурата (Дел II)
 Сина
@@ -441,3 +441,5 @@ DL RS Group Joint Production Games Universal Account System
 Не беше успешно спуштањето на Cloud Saves
 
 
+
+https://dlce.fengyan.ip-ddns.com/#/en/home

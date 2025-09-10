@@ -441,3 +441,5 @@ DL RS 同人群联合出品游戏通用账号系统
 玩家存档下载失败
 登出
 确实要登出账号#USERNAME#吗？
+开源代码库
+https://dlce.fengyan.ip-ddns.com/#/legal/open-source

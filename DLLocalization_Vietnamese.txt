@@ -388,10 +388,10 @@ Tự động
 Mũ
 Tháo trang bị
 Khoa học
-
-
-
-
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
 Đã hoàn thành
 Cơn bão giận dữ
 Xanh lam
@@ -441,3 +441,5 @@ Hiện tại không hỗ trợ mở trực tiếp thư mục. Vui lòng nhấp v
 
 
 
+
+https://dlce.fengyan.ip-ddns.com/#/en/home

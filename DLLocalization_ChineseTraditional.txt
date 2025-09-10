@@ -441,3 +441,5 @@ DL RS 同人群聯合出品遊戲通用帳戶系統
 玩家存檔下載失敗
 登出
 確實要登出帳戶#USERNAME#嗎？
+開源程式碼庫
+https://dlce.fengyan.ip-ddns.com/#/legal/open-source
