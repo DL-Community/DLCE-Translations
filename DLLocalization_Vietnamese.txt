@@ -412,34 +412,34 @@ Theo ngôn ngữ hệ thống
 Sao chép
 Mở thư mục bên ngoài
 Hiện tại không hỗ trợ mở trực tiếp thư mục. Vui lòng nhấp vào nút để sao chép thư mục sau và mở thủ công:\n\n#DIRECTORY#
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hệ thống tài khoản chung của DL RS Group
+Email...
+Mật Khẩu...
+Nhớ người dùng
+Đăng nhập tài khoản
+Đăng Nhập
+Đăng Kí
+Quên mật khẩu
+Đang đăng nhập
+Hết thời gian đăng nhập
+Lỗi
+Email hoặc mật khẩu không đúng
+Tài khoản không có trong danh sách trắng
+Tài khoản cần được kích hoạt
+Ứng dụng đã lỗi thời, vui lòng kiểm tra cập nhật
+Chào mừng {0}!
+Đăng nhập thành công
+Vui lòng nhập email
+Vui lòng nhập mật khẩu
+Bằng cách đăng nhập, bạn đang đồng ý <b><color=#3d6ec0>Điều khoản dịch vụ của Hệ Thống Tài Khoản Trò Chơi DLRS</color></b>
+Tài khoản gần đây
+Đăng nhập bằng tài khoản khác
+Bạn có muốn loại bỏ tài khoản #name#?
+Đang mở trong trình duyệt bên ngoài...
+Tài khoản đã bị cấm
+Đang tải dữ liệu đám mây...
+Tải dữ liệu đám mây thất bại
+Đăng xuất
+Bạn có muốn đăng xuất khỏi #USERNAME#?
+Thư viện nguồn mở
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
