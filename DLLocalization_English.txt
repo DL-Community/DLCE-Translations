@@ -68,7 +68,7 @@ Data reseted, please restart the game.
 Your game data will be deleted once this process is complete. Please proceed with caution.
 Please bear in mind that once you complete this process, your Dancing Line data (this includes any personal information and any other data generated through using Dancing Line Products) will be deleted permanently and will not be recoverable. Please choose and proceed carefully.
 Delete
-Deleting Data...\nYour cloud and local saves will be cleared
+Deleting Data…\nYour cloud and local saves will be cleared
 Accessibility
 Can you beat X% in DancingLine? Come Play With Me!
 View Debug Logs
@@ -123,13 +123,13 @@ Find the hidden path in  The Maze
 Pacifism
 Enter the peace storyline in  The War 
 2nd Anniversary Party
-Happy Xmas......\nand the 2nd Anniversary
+Happy Xmas……\nand the 2nd Anniversary
 Gemless Master
 Encounter a dungeon escaper in  The Adventure 
 Starry Sky
 The starry expanse promises delightful surprises
 KEYMAPPING
-Waiting For Keyboard Input\nPress the key that you want to use
+Waiting For Keyboard Input…\nPress the key that you want to use
 Back
 Pause Game
 Character Control
@@ -169,8 +169,8 @@ Merry Christmas
 Collect
 Tap
 This can not happen without you.\nWe're one.
-Why...
-Everything goes worse...
+Why…
+Everything goes worse…
 World End
 Follow your own star! -Dante
 Once you fly, you will walk with eyes skyward \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
@@ -304,8 +304,8 @@ Retry
 Checking Downloadable Content
 Updating Configurations
 Downloading mandatory content
-The journey isn't over...
-More are coming...
+The journey isn't over…
+More are coming…
 Thanks for all, Dancing Line players!
 Update Required
 Global Sync Adjustment
@@ -407,20 +407,20 @@ Synchronization failed
 Cloud Save
 Last Synced
 Cloud Data Version
-Syncing...
+Syncing…
 Follow System Language
 Copy
 Open External Directory
 Directly opening a directory is not currently supported. Please click the button to copy the following directory and open it manually:\n\n#DIRECTORY#
 DL RS Group Joint Production Games Universal Account System
-Email...
-Password...
+Email…
+Password…
 Remember User
 Account Login
 Login
 Register
 Forget Password
-Logging in
+Logging in…
 Login timed out
 Error
 Incorrect email or password
@@ -435,9 +435,9 @@ By logging in, you agree to the <b><color=#3d6ec0>DLRS GAS Terms of Service</col
 Recent Account
 New Login
 Are you sure you want to remove account #name#?
-Opening in an external browser...
+Opening in an external browser…
 This account has been banned
-Downloading Cloud Saves...
+Downloading Cloud Saves…
 Failed Downloading Cloud Saves
 Logout
 Are you sure you want to log out of  #USERNAME#?

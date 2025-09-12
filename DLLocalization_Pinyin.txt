@@ -68,7 +68,7 @@ shùjù shānchú chénggōng, qǐng chóngxīn qǐdòng yóuxì
 cǐ guòchéng wánchéng hòu, nín de yóuxì shùjù jiāng bèi shānchú, qǐng jǐnshèn cāozuò.
 qǐng zài ānquán hé chángyòng de wǎngluò, shèbèi huánjìng xià cāozuò. rú yóuxì nèi yǒu wèi shǐyòng de xǖnǐ huòbì huò xǖnǐ dàojù, shānchú shùjù chénggōng hòu jiāng quánbù bèi qīngkōng. shùjù shānchú wánchéng hòu wúfǎ huīfù, qǐng jǐnshèn xuǎnzé bìng cāozuò.
 shānchú
-zhèngzài qīngchú... \nnǐ de yúnduān jí běn dì cún'àng jiāng yībìng bèi qīngkōng
+zhèngzài qīngchú⋯ \nnǐ de yúnduān jí běn dì cún'àng jiāng yībìng bèi qīngkōng
 fǔzhù gōngnéng
 nǐ néng dǎ dào X% ma? lái tiàowǔ de xiàn zhōng bǐ bǐ ba!
 chákàn rìzhì
@@ -129,7 +129,7 @@ zài  màoxiǎn  zhōng zāoyù dìláo táotuō zhě
 xīngkōng
 fánxīng huì dàilái jīngxǐ
 jiànwèi yìngshè
-děngdài jiànpán shūrù zhōng\n zài jiànpán shàng àn xià nǐ xiǎng yào shǐyòng de ànjiàn
+děngdài jiànpán shūrù zhōng⋯\n zài jiànpán shàng àn xià nǐ xiǎng yào shǐyòng de ànjiàn
 fǎnhuí
 zàntíng yóuxì
 juésè kòngzhì
@@ -169,8 +169,8 @@ shèngdàn kuàilè
 shōují
 diǎnjī
 xièxiè nǐ zǒudào zhèlǐ,\n《tiàowǔ de xiàn》 yǒu nǐ cái shì sān zhōunián.
-wèishénme...
-yīqiè dōu biàndé gèng zāo......
+wèishénme⋯
+yīqiè dōu biàndé gèng zāo⋯⋯
 shìjiè jìntóu
 zhuīsuí nǐ zìjǐ de xīngxīng! - dàndīng
 “yīdàn nǐ chángshìguò tiānkōng de wèidào, nǐ jiù huì yǒngyuǎn xiàngshàng yǎngwàng” \n\t\t\t\t\t\t\t\t\t liè'àonàduō dáfēnqí
