@@ -439,7 +439,7 @@ Membuka di browser eksternal...
 Akun ini telah diblokir
 Mengunduh Simpanan Cloud...
 Gagal Mengunduh Simpanan Cloud
-
-
-
+Keluar
+Apakah Anda yakin ingin keluar dari  #USERNAME#?
+Perpustakaan Sumber Terbuka
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
