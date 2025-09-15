@@ -443,21 +443,21 @@ Tải dữ liệu đám mây thất bại
 Bạn có muốn đăng xuất khỏi #USERNAME#?
 Thư viện nguồn mở
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Thống kê
+Đã hoàn thành
+Số kim cương
+Số vương miện
+Số lần chết
+Số lần thử
+Số lần hồi sinh
+Số lần đã hoàn thành
+Số kim cương đã nhặt được
+Số vương miện đã nhặt được
+Số Sao đã kiếm được
+Số Sao đã tiêu
+Số lượng Cube đã kiếm được
+Số lượng Cube đã dùng
+Số lượng Nốt Nhạc đã kiếm được
+Số lượng Nốt Nhạc đã tiêu
+Số lượng skin đã sở hữu
+Số lượng mũ đã sở hữu
