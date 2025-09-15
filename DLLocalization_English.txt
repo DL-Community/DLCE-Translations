@@ -443,3 +443,21 @@ Logout
 Are you sure you want to log out of  #USERNAME#?
 Open Source Libraries
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistics
+Completed
+Diamonds
+Crowns
+Deaths
+Level Attempts
+Revives
+Times Completed
+Diamonds Picked Up
+Crowns Picked Up
+Stars Earned
+Stars Spent
+Energy Cubes Earned
+Energy Cubes Used
+Notes Earned
+Notes Spent
+Owned Skins
+Owned Hats

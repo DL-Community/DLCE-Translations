@@ -443,3 +443,21 @@ Logout
 Logout Confirmation Message
 Open Source Libraries
 DatabaseLinks.OpenSource
+Statistics
+Stats.LevelsCompleted
+Stats.DiamondsCollected
+Stats.StarsCollected
+Stats.Deaths
+Stats.LevelStarts
+Stats.Revives
+Stats.LevelCompletions
+Stats.DiamondsPicked
+Stats.CrownsPicked
+Stats.CoinsEarned
+Stats.CoinsSpent
+Stats.CubesEarned
+Stats.CubesSpent
+Stats.NotesEarned
+Stats.NotesSpent
+Stats.OwnedSkins
+Stats.OwnedHats
