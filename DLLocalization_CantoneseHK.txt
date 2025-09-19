@@ -461,3 +461,8 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 音符消耗
 已擁有皮膚
 已擁有帽子
+多重採樣反鋸齒（#SHORT#）
+快速近似反鋸齒（#SHORT#）
+時間反鋸齒（#SHORT#）
+亞像素形態抗鋸齒（#SHORT#）
+AMD FidelityFX™ 超級解析度 (#SHORT#)

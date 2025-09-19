@@ -31,7 +31,7 @@ Medium
 High
 Ultra
 Max
-ANTI ALIASING
+Anti-Aliasing
 SOUND
 VSYNC
 Synchronization
@@ -461,3 +461,8 @@ Notes Earned
 Notes Spent
 Owned Skins
 Owned Hats
+Multisample AA (#SHORT#)
+Fast Approximate AA (#SHORT#)
+Temporal AA (#SHORT#)
+Subpixel Morphological AA (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)

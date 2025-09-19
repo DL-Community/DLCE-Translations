@@ -461,3 +461,8 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 音符消耗
 已拥有皮肤
 已拥有帽子
+多重采样抗锯齿（#SHORT#）
+快速近似抗锯齿（#SHORT#）
+时域抗锯齿（#SHORT#）
+子像素抗锯齿（#SHORT#）
+AMD 超级分辨率锐画技术 (#SHORT#)

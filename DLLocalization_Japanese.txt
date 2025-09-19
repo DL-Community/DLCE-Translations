@@ -40,7 +40,7 @@ OK
 タッチフィードバック
 終了確認
 ゲームを終了しますか？
-に関する
+情報
 バージョン
 レベルデザイナー
 ローカリゼーション チーム
@@ -461,3 +461,8 @@ https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 ノート消費
 所持スキン
 所持帽子
+マルチサンプリングAA（#SHORT#）
+Fast Approximate AA (#SHORT#)
+Temporal AA (#SHORT#)
+#SHORT#
+AMD FidelityFX™ Super Resolution (#SHORT#)
