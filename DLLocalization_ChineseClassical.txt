@@ -465,4 +465,4 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 快速近似抗鋸齒（#SHORT#）
 時域抗鋸齒（#SHORT#）
 子像素抗鋸齒（#SHORT#）
-AMD 超級分辨率銳畫技術 (#SHORT#)
+AMD 超級分辨率銳畫技術（#SHORT#）

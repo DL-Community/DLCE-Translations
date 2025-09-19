@@ -462,7 +462,7 @@ https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 所持スキン
 所持帽子
 マルチサンプリングAA（#SHORT#）
-Fast Approximate AA (#SHORT#)
-Temporal AA (#SHORT#)
+Fast Approximate AA（#SHORT#）
+Temporal AA（#SHORT#）
 #SHORT#
-AMD FidelityFX™ Super Resolution (#SHORT#)
+AMD FidelityFX™ Super Resolution（#SHORT#）
