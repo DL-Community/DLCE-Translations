@@ -83,14 +83,14 @@ Délai d’entrée
 v#Version# BETA BUILD
 Effets du gyroscope
 Game Center
-Obtenir
+Récupérer
 Gemmes gratuites quotidiennes
-Obtenir après {0} h {1} min
+Récupérable d’ici {0} h {1} min
 Équipé
 Équiper
-Vies gratuites : {0}/{1}
+Reprises gratuites : {0}/{1}
 Voulez-vous dépenser {0} gemmes et débloquer l'indice de guidage pour cette fois ?
-Impossible d’obtenir les gemmes gratuites quotidient, la vérification temporelle a échoué.
+Impossible de récupérer les gemmes gratuites quotidiennes, la vérification de l’heure a échoué.
 Paramètres avancés
 This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
 Récompenses
@@ -111,11 +111,11 @@ Terminé : #x#
 #x# - Terminé
 #x# - 10 diamants
 #x# - 3 couronnes
-Terminez #x# pour obtenir cette réalisation
-Récupérez tous les diamants de #x# pour obtenir cette réalisation
-Récupérez toutes les couronnes de #x# pour obtenir cette réalisation
+Terminez #x#
+Récupérez tous les diamants de #x#
+Récupérez toutes les couronnes de #x#
 Les secrets de Dragonia
-Trouvez au moins un chemin secret dans  Les récits de Dragonia 
+Trouvez au moins un chemin secret dans Les récits de Dragonia 
 Est-ce que c’est Paimon ?
 Et si on explorait la prochaine zone plus tard ?
 L.A.B.Y.R.I.N.T.H.E.
@@ -363,7 +363,7 @@ Barre de statut
 Compte DLRS GAS
 Profil
 Paramètres du compte
-Pseudo : {0}\nID d’utilisateur : {1}
+Pseudo : {0}\nIdentifiant : {1}
 Fréquence de rafraîchissement
 Nombre d’images par seconde
 Serveur
@@ -380,84 +380,84 @@ Le clic automatique pourrait ne pas être précis jusqu’à ce que le niveau so
 Mise à niveau de la base de données du jeu
 Par défaut
 Vert
-La Romance (Remix)
+Le duo
 Groupe QQ
 Chaîne QQ
 Résolution de rendu
 Auto
-Chapeau
+Chapeaux
 Déséquiper
-Science Fiction
+Science-fiction
 https://dl-community.github.io/Docs/#/en/legal/eula
 https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
-Terminé
-La Rage de l'Orage
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+terminé
+Tempête de fureur
+Bleu
+Jaune
+Classique
+Session audio interrompue
+La session audio actuelle ayant été interrompue par le système, le jeu est momentanément dans l’incapacité de continuer. Veuillez éviter tout processus ou application pouvant interrompre le son du jeu et réessayez.
+Dernière synchro. : {0}\nVersion des données du cloud : {1}
+Synchroniser maintenant
+Synchro. trop fréquente
+La synchro. a réussi
+La synchro. a échoué
+Sauvegarde dans le cloud
+Dernière synchro.
+Version des données du cloud
+Synchro. en cours…
+S’aligner sur la langue du système
+Copier
+Ouvrir un répertoire externe
+Il n’est pas actuellement possible d’ouvrir un répertoire directement. Veuillez cliquer sur le bouton pour copier le chemin d’accès ci-dessous et ouvrez-le manuellement :\n\n#DIRECTORY#
+Système de compte universel DL RS Group Joint Production Games
+E-mail…
+Mot de passe…
+Se souvenir de moi
+Connexion au compte
+Se connecter
+Créer un compte
+Mot de passe oublié
+Connexion…
+Délai de connexion expiré
+Erreur
+E-mail ou mot de passe erroné
+Ce compte n’est pas sur la liste blanche
+Ce compte doit être activé
+Application obsolète, veuillez chercher une mise à jour
+Bienvenue, {0} !
+Connexion réussie
+Veuillez saisir votre e-mail
+Veuillez saisir votre mot de passe
+En vous connectant, vous acceptez les <b><color=#3d6ec0>Conditions d’utilisation de DLRS GAS</color></b>
+Compte récent
+Nouvelle connexion
+Voulez-vous vraiment retirer le compte #name# ?
+Ouverture dans un navigateur externe…
+Ce compte a été banni
+Téléchargement des sauvegardes cloud…
+Échec du téléchargement des sauvegardes cloud
+Déconnexion
+Voulez-vous vraiment vous déconnecter de #USERNAME# ?
+Bibliothèques open source
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Statistiques
+Terminés
+Diamants
+Couronnes
+Morts
+Tentatives
+Reprises
+Nombre de réussites
+Diamants récoltés
+Couronnes récoltées
+Étoiles gagnées
+Étoiles dépensées
+Cubes d’énergie gagnés
+Cubes d’énergie utilisés
+Notes gagnées
+Notes dépensées
+Skins obtenus
+Chapeaux obtenus
