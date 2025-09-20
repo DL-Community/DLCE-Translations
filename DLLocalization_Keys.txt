@@ -466,3 +466,5 @@ AntiAliasingMode.FXAA
 AntiAliasingMode.TAA
 AntiAliasingMode.SMAA
 AntiAliasingMode.FSR3
+Skin.Planet
+Skin.Star

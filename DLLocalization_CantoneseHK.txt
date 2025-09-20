@@ -466,3 +466,5 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 時間反鋸齒（#SHORT#）
 亞像素形態抗鋸齒（#SHORT#）
 AMD FidelityFX™ 超級解析度（#SHORT#）
+星球
+星星

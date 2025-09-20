@@ -385,7 +385,7 @@ QQ群
 騰訊頻道
 渲染精度
 自動
-帽子
+裝飾
 解除裝備
 科幻
 https://dl-community.github.io/Docs/#/legal/eula
@@ -466,3 +466,5 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 時域抗鋸齒（#SHORT#）
 子像素抗鋸齒（#SHORT#）
 AMD 超級分辨率鋭畫技術（#SHORT#）
+星球
+星星

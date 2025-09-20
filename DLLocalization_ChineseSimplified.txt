@@ -385,7 +385,7 @@ QQ群
 腾讯频道
 渲染精度
 自动
-帽子
+装饰
 解除装备
 科幻
 https://dl-community.github.io/Docs/#/legal/eula
@@ -466,3 +466,5 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 时域抗锯齿（#SHORT#）
 子像素抗锯齿（#SHORT#）
 AMD 超级分辨率锐画技术（#SHORT#）
+星球
+星星

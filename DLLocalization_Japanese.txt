@@ -466,3 +466,5 @@ Fast Approximate AA（#SHORT#）
 Temporal AA（#SHORT#）
 #SHORT#
 AMD FidelityFX™ Super Resolution（#SHORT#）
+惑星
+星
