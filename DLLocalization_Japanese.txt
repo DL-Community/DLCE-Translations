@@ -468,3 +468,4 @@ Temporal AA（#SHORT#）
 AMD FidelityFX™ Super Resolution（#SHORT#）
 惑星
 星
+#LEVELNAME# へ移動
