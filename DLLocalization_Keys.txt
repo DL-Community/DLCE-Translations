@@ -1,7 +1,8 @@
+Language Name
+Fallback Language Name
+FontName
 Dancing Line
 Language
-LanguageName
-FontName
 LIKE US
 Loading
 Get Cubes

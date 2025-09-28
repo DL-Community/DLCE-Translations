@@ -1,7 +1,8 @@
+中文（香港）
+ChineseTraditional
+zh-HK
 跳舞的線
 語言
-中文（香港）
-zh-HK
 關注我哋
 Load緊
 獲得方塊

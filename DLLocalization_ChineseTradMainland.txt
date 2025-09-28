@@ -1,7 +1,8 @@
+中文（繁體）
+English
+zh-CN
 跳舞的綫
 語言
-中文（繁體）
-zh-CN
 關注我們
 加載中
 獲取方塊
@@ -89,7 +90,7 @@ Game Center
 已裝備
 裝備
 免費復活次數：{0}/{1}
-是否花費{0}寶石臨時解鎖引導綫？
+是否花費{0}星星臨時解鎖引導綫？
 無法領取，時間合法性驗證失敗
 高級設置
 這個設置僅在當前關卡生效，在全局音畫延遲的基礎上單獨爲每個關卡微調。\n\n<b>實際偏移 = 關卡偏移 + 全局偏移</b>
@@ -394,7 +395,7 @@ https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
 已完成
 Storm of Anger
-蓝色
+藍色
 黄色
 經典
 音頻中斷

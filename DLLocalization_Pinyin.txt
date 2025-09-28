@@ -1,7 +1,8 @@
+pīnyīn
+ChineseSimplified
+zh-CN
 tiàowǔ de xiàn
 yǔyán
-pīnyīn
-zh-CN
 guānzhù wǒmen
 jiāzài zhōng
 huòqǔ fāngkuài

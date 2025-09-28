@@ -1,7 +1,8 @@
+日本語
+English
+ja
 ダンシングライン
 言語
-日本語
-ja
 いいね！する
 読み込んでいます
 キューブをゲット
@@ -467,5 +468,5 @@ Temporal AA（#SHORT#）
 #SHORT#
 AMD FidelityFX™ Super Resolution（#SHORT#）
 惑星
-星
+スター
 #LEVELNAME# へ移動
