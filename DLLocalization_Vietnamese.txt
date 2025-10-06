@@ -8,7 +8,7 @@ THÍCH CHÚNG TÔI
 Thêm cube
 Để có trải nghiệm tốt nhất hãy sử dụng tai nghe
 Video hiện không có sẵn
-Xem video để mở khoá nó một cách tạm thời
+Xem video để tạm mở khoá level
 Mở khoá
 VĨNH VIỄN
 Đã mở khoá level:
@@ -169,7 +169,7 @@ Menu
 Giáng sinh vui vẻ
 Thu thập
 Chạm
-Kết quả bây giờ mà chúng ta làm được là nhờ bạn.\nChúng ta là một.
+Chúng ta đã đi được thế này, tất cả là nhờ có bạn.\nHãy nhớ, chúng ta là một gia đình.
 Tại sao...
 Mọi thứ ngày càng tệ hơn...
 Thế giới kết thúc
@@ -211,28 +211,28 @@ Quả bóng rổ
 Ngôi sao quyền lực
 Rô-bốt
 Level không tên
-Sự khởi đầu
+Khởi đầu
 Thời gian
 Piano
 Bãi biển
-Ngày đông lạnh
+Mùa đông
 Thảo nguyên
-Phía tây
+Miền Tây
 Ngày tình nhân
 Halloween
-Phố hẻm thanh bình
+Hẻm núi yên bình
 Sa mạc
-Sấm chớp
-Ngọn núi
+Cơn bão
+Đồi núi
 Đồng bằng
 Mê cung
 Trái Đất
-Thiên đường ngàn pháo hoa
+Lễ hội pháo hoa
 Đêm giáng sinh
 Mùa thu
 Pha lê
-Kỉ niệm 3 năm
-Hành trình 5 năm
+Kỉ niệm lần thứ 3
+Kỉ niệm lần thứ 5
 Sự hỗn loạn
 Nhà thờ
 Câu chuyện về các thuỷ thủ
@@ -240,15 +240,15 @@ Truyền thuyết về sát thủ
 Khu vườn Trung Quốc
 Cuộc thi đấu
 Sắp có
-Cái kết - Theo5970
-Tình cảm
+The End - Theo5970
+Chuyện tình lãng mạn
 Mùa xuân
 Lễ hội ngày xuân
 Samurai
 Truyền thuyết về loài rồng
 Chú vịt xấu xí
 Trò chơi điện tử
-Di tản
+Xuất hành
 Đại dương
 Kim ngưu
 Giấc mơ trên bầu trời
@@ -272,18 +272,18 @@ Samurai HD
 Trang trại
 Faded - Alan Walker
 All About Us
-Sự tiến hoá (P13)
+Tiến Hoá (P13)
 Hành trình ngọt ngào
-Khoảng trống
-Khám phá - Chronos
+Không gian
+The Discovery - Chronos
 Cuộc phiêu lưu
-Đoạn diệt
+Tận Thế
 Hành trình
 Toán học
 Mưa phùn
 Du mục
 Sự rỗng tuếch
-Kỉ niệm
+Kỉ niệm lần thứ 4
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
@@ -331,7 +331,7 @@ Thứ ba - Chủ nhật
 Luật chơi
 Hoàn thành màn chơi một cách hoàn hảo để nhận nốt nhạc!
 Thử thách nốt nhạc đã kết thúc, hãy quay lại sau!
-• Trong sự kiện này, nhiệm vụ của bạn là thu thập kim cương và vương miện, hoàn thành màn chơi chỉ với một cube, và hãy nhớ: không dược hồi sinh! Bạn đã sẵn sàng cho sự kiện này chưa?\n\n• Đường chỉ dẫn sẽ bị tắt trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Một khi bạn đã hoàn thành màn chơi theo cách hoàn hảo, đừng quên quay về trang sự kiện để nhận phần thưởng!
+• Trong sự kiện này, nhiệm vụ của bạn là thu thập toàn bộ kim cương và vương miện, hoàn thành màn chơi chỉ với một cube, và nên nhớ: bạn không hồi sinh được đâu! Bạn đã sẵn sàng cho sự kiện này chưa?\n\n• Đường chỉ dẫn sẽ bị tắt trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Một khi bạn đã hoàn thành màn chơi một cách hoàn hảo, đừng quên quay về trang sự kiện để nhận phần thưởng!
 Kết nối thất bại, vui lòng chắc chắn rằng mạng của bạn ổn định và thử lại
 Đã đổi
 Đã đổi #item# thành công
