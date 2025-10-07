@@ -8,7 +8,7 @@ THÍCH CHÚNG TÔI
 Thêm cube
 Để có trải nghiệm tốt nhất hãy sử dụng tai nghe
 Video hiện không có sẵn
-Xem video để mở khoá nó một cách tạm thời
+Xem video để tạm mở khoá level.
 Mở khoá
 VĨNH VIỄN
 Đã mở khoá level:
@@ -169,7 +169,7 @@ Menu
 Giáng sinh vui vẻ
 Thu thập
 Chạm
-Kết quả bây giờ mà chúng ta làm được là nhờ bạn.\nChúng ta là một.
+Chúng ta đã đi được thế này, tất cả là nhờ có bạn.\nHãy nhớ, chúng ta là một gia đình.
 Tại sao...
 Mọi thứ ngày càng tệ hơn...
 Thế giới kết thúc
@@ -211,7 +211,7 @@ Quả bóng rổ
 Ngôi sao quyền lực
 Rô-bốt
 Level không tên
-Sự khởi đầu
+Khởi đầu
 Thời gian
 Piano
 Bãi biển
@@ -220,19 +220,19 @@ Thảo nguyên
 Miền Tây
 Ngày tình nhân
 Halloween
-Phố hẻm thanh bình
+Hẻm núi thanh bình
 Sa mạc
 Cơn bão
-Ngọn núi
+Đồi núi
 Đồng bằng
 Mê cung
 Trái Đất
-Thiên đường ngàn pháo hoa
+Lễ hội pháo hoa
 Đêm giáng sinh
 Mùa thu
 Pha lê
-Kỉ niệm 3 năm
-Kỉ niệm 5 năm
+Kỉ niệm lần 3 năm
+Kỉ niệm lần 5 năm
 Sự hỗn loạn
 Nhà thờ
 Câu chuyện về các thuỷ thủ
@@ -240,15 +240,15 @@ Truyền thuyết về sát thủ
 Khu vườn Trung Quốc
 Cuộc thi đấu
 Sắp có
-Cái kết - Theo5970
-Tình cảm
+
+Truyện tình lãng mạn
 Mùa xuân
 Lễ hội ngày xuân
 Samurai
 Truyền thuyết về loài rồng
 Chú vịt xấu xí
 Trò chơi điện tử
-Di tản
+Xuất hành
 Đại dương
 Kim ngưu
 Giấc mơ trên bầu trời
@@ -272,18 +272,18 @@ Samurai HD
 Trang trại
 Faded - Alan Walker
 All About Us
-Sự tiến hoá (P13)
+Tiến hoá (P13)
 Hành trình ngọt ngào
-Khoảng trống
-Khám phá - Chronos
+Không gian
+
 Cuộc phiêu lưu
-Đoạn diệt
+Tận thế
 Hành trình
 Toán học
 Mưa phùn
 Du mục
 Sự rỗng tuếch
-Kỉ niệm
+Kỉ niệm lần thứ 4
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
