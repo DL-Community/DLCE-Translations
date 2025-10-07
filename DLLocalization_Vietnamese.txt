@@ -5,19 +5,19 @@ Dancing Line
 Ngôn ngữ
 THÍCH CHÚNG TÔI
 ĐANG TẢI
-Thêm cube
-Để có trải nghiệm tốt nhất hãy sử dụng tai nghe
-Video hiện không có sẵn
-Xem video để tạm mở khoá level.
+Thêm Cube
+Hãy sử dụng tai nghe để có trải nghiệm tốt nhất
+QC hiện không có sẵn
+Xem QC để tạm thời mở khóa cấp độ.
 Mở khoá
 VĨNH VIỄN
-Đã mở khoá level:
+Đã mở khoá cấp độ:
 Lấy {0} miễn phí
-Mua {0} cube
-Vô hạn cube
+Mua {0} Cube
+Cube không giới hạn
 Nạp lại trong : {0}s
-Cube đã được nạp lại. Hãy cùng nhau tham gia điệu nhạc nào.
-Chạm để chơi
+Cube đã nạp xong. Hãy tiếp tục tận hưởng giai điệu nào.
+Chạm để bắt đầu
 OK
 Có
 Không
@@ -43,13 +43,13 @@ Xác nhận thoát ra
 Bạn có muốn thoát trò chơi?
 Thông tin
 Phiên bản
-Nhà thiết kế level
+Đơn vị thiết kế cấp độ
 Nhóm dịch viên
 Bilibili
 YouTube
 Thỏa thuận người dùng cuối
 Chính sách bảo mật
-Server trong Discord
+Máy chủ Discord
 Chế độ hiển thị
 Toàn màn hình độc quyền
 Toàn màn hình không viền
@@ -65,13 +65,13 @@ MIỄN PHÍ
 Tiếp tục
 Tìm kiếm
 Xoá dữ liệu
-Đã xóa dữ liệu, vui lòng khởi động lại trò chơi.
-Dữ liệu của bạn sẽ bị xoá sau khi bạn chấp nhận xoá dữ liệu. Hãy cân nhắc kĩ trước việc làm này.
-Xin hãy lưu ý rằng khi hoàn tất xoá dữ liệu Dancing Line của bạn (kể cả mọi thông tin cá nhân và mọi dữ liệu khác trong khi sử dụng sản phẩm Dancing Line) sẽ bị xoá vĩnh viễn và không thể khôi phục được nữa. Hãy quyết định một cách sáng suốt
+Hoàn tất xóa dữ liệu, vui lòng khởi động lại trò chơi.
+Toàn bộ dữ liệu sẽ bị xóa, vui lòng cân nhắc trước khi thao tác.
+Xin hãy cẩn trọng, thao tác này sẽ xóa toàn bộ dữ liệu trò chơi của bạn, bao gồm mọi thông tin cá nhân và thông tin khác, đồng thời KHÔNG THỂ hoàn tác, vui lòng cân nhắc kĩ lưỡng
 XOÁ
-Đang xoá dữ liệu...\nLưu trữ trên cloud và ổ cứng sẽ bị xoá sạch
+Đang xoá dữ liệu...\nLưu trữ đám mây và ổ cứng sẽ bị xoá sạch
 Tiếp cận
-Bạn có thể tới được X% trong DancingLine? Đến và cùng chơi với tôi!
+Bạn có thể đạt được X% trong Dancing Line? Cùng nhau quẩy nhiệt tình nào!
 Xuất ra file nhật ký
 Khôi phục mặc định
 Pháp lý & Quyền riêng tư
@@ -90,37 +90,37 @@ Lấy sau {0}h {1}m
 Đã trang bị
 Trang bị
 Hồi sinh miễn phí: {0}/{1}
-Mở khóa đường dẫn hướng trong màn này với {0} đá quý?
-Không thể nhận đá quý, xác minh thời gian đã thất bại.
+Mở khóa đường điều hướng trong cấp độ này với {0} đá quý?
+Không thể nhận đá quý, đã hết thời gian chờ.
 Cài đặt nâng cao
-Cài đặt này chỉ áp dụng cho cấp độ hiện tại, cho phép điều chỉnh riêng cho từng cấp độ dựa trên độ trễ âm nhạc chung.\n\n<b>Độ trễ thực = Độ trễ màn chơi + Độ trễ toàn cầu</b>
+Cài đặt này chỉ áp dụng DUY NHẤT cho cấp độ hiện tại.\n\n<b>Độ trễ thực = Độ trễ cấp độ + Độ trễ tổng thể</b>
 Phần thưởng
 Phần thưởng: {0}
 Đã thu được {0} kim cương trong cấp độ: {1}
 Đã thu được {0} vương miệng trong cấp độ: {1}
-Cấp độ đã hoàn thiện: {0}
-Hãy theo nhịp điệu, và nhấn một vị trí bất kì để thay thay đổi hướng.
-Trò chơi này được thiết kế để chơi với việc bật nhạc.
+Cấp độ đã hoàn thành: {0}
+Bấm theo nhịp điệu, nhấn một vị trí bất kì sẽ thay đổi hướng đi.
+Trò chơi này được thiết kế để chơi kèm âm nhạc.
 Đừng vuốt, nó không có ích gì cả.
-Không cần thiết khi chạm lúc bay.
+Không cần chạm khi đang ở trên không.
 Đừng chạm khi đến điểm kết thúc.
-Bạn có thể thay đổi bề ngoài của nhân vật bằng cách chọn vào khối đang lơ lửng này.
-Thu thập tất cả kim cương với vương miện để hoàn thành màn chơi một cách hoàn hảo.
+Bạn có thể thay đổi ngoại hình của Cube bằng cách chọn vào thứ này.
+Hoàn thành hoàn hảo cấp độ khi thu thập đủ kim cương và vương miện.
 THÀNH TÍCH
 [Đã ẩn] 
 Hoàn thành: #x#
 #x# - Hoàn thành
 #x# - 10 Kim cương
 #x# - 3 Vương miện
-Hoàn thành #x# để có được thành tích này
-Thu thập hết kim cương #x# để có được thành tích này
-Thu thập hết vương miện #x# để có được thành tích này
+Hoàn thành #x# để nhận
+Thu thập toàn bộ kim cương ở #x# để nhận
+Thu thập toàn bộ vương miện ở #x# để nhận
 Bí ẩn về loài Rồng
-Tìm ít nhất một con đường ẩn trong  Truyền thuyết về loài rồng  để có được thành tích này 
+Tìm ít nhất một con đường ẩn trong  Truyền thuyết về loài rồng  để nhận
 Nó là Paimon ư?
-Hay là chúng ta cùng nhau khám phá phía trước lần sau nhé?
+Hay là lần sau chúng ta cùng nhau khám phá phía trước nhé?
 M.Ê.  C. U. N. G.
-Tìm con đường bị ẩn trong  Mê Cung  để có được thành tích này 
+Tìm con đường bị ẩn trong  Mê Cung  để nhận 
 Chủ nghĩa hoà bình
 Đi vào cái kết có hậu trong  Chiến tranh 
 Tiệc ăn mừng kỉ niệm lần thứ 2
@@ -130,18 +130,18 @@ Chạm trán kẻ thoát ngục trong Phiêu Lưu
 Bầu trời đầy sao
 Không gian đầy sao hứa hẹn những bất ngờ thú vị.
 SƠ ĐỒ PHÍM
-Chờ Bàn Phím Nhập Vào\nNhấn phím mà bạn muốn sử dụng hoặc nhấn bất kỳ nút chuột nào để xóa cài đặt này
+Chờ Bàn Phím Nhập Vào\nNhấn phím mà bạn muốn sử dụng hoặc nhấn bất kỳ nút chuột nào để khôi phục mặc định
 Trở lại
 Dừng trò chơi
 Điểu khiển nhân vật
-Đường hướng dẫn
+Đường điều hướng
 Cài đặt
-Bề ngoài
+Ngoại hình
 Trái
 Phải
 Xác nhận
 Bắt đầu lại
-Các thành tích
+Thành tích
 Phím xoá
 Trở lại
 Trở lại
@@ -169,13 +169,13 @@ Menu
 Giáng sinh vui vẻ
 Thu thập
 Chạm
-Chúng ta đã đi được thế này, tất cả là nhờ có bạn.\nHãy nhớ, chúng ta là một gia đình.
+Chúng ta đã đi được đến đây, tất cả là nhờ có bạn.\nHãy nhớ, chúng ta là một gia đình.
 Tại sao...
 Mọi thứ ngày càng tệ hơn...
 Thế giới kết thúc
-Theo đuổi ngôi sao của bạn! -Dante
-Một khi bạn cất cánh, bạn sẽ đi cùng với đôi ngươi hướng tới bầu trời \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
-Bạn không còn cô đơn nữa.
+Hãy theo đuổi ngôi sao của bạn! -Dante
+Một khi bạn đã nếm trải cảm giác bay, bạn sẽ mãi bước đi trên mặt đất với ánh mắt hướng về bầu trời \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Bạn không hề cô đơn.
 Không hối tiếc trong \ntình yêu và ẩm thực.
 Mặc định
 Tai nghe
@@ -183,9 +183,9 @@ Giấy
 Zeus
 Lộn xộn
 Ngọn núi
-Cây cọ vẽ
-Phù thuỷ ma thuật
-Rắn slither
+Bút lông
+Phù thuỷ
+Slither
 Domino
 Mô-đun
 Ánh sáng
@@ -199,91 +199,91 @@ Cân Đẩu Vân
 Rắn
 Thạch
 Áo choàng ma thuật
-Bộ xương hẹn giờ
-Bong bóng
-Quả banh lửa
+Tử thần nổ chậm
+Bóng bay
+Quả bóng đá
 Kim tự tháp
-Quả bóng
-Quả bóng xanh lam
-Quả bóng đen
-Quả bóng trơn
-Quả bóng rổ
+Bóng
+Bóng xanh lam
+Bóng đen
+Bóng trơn
+Bóng rổ
 Ngôi sao quyền lực
 Rô-bốt
-Level không tên
-Khởi đầu
-Thời gian
+Cấp độ không tên
+Khởi Đầu
+Thời Gian
 Piano
-Bãi biển
-Mùa đông
-Thảo nguyên
+Bãi Biển
+Mùa Đông
+Thảo Nguyên
 Miền Tây
-Ngày tình nhân
+Ngày Tình Nhân
 Halloween
-Hẻm núi thanh bình
-Sa mạc
-Cơn bão
-Đồi núi
-Đồng bằng
-Mê cung
+Hẻm Núi Thanh Bình
+Sa Mạc
+Cơn Bão
+Đồi Núi
+Đồng Bằng
+Mê Cung
 Trái Đất
-Lễ hội pháo hoa
-Đêm giáng sinh
-Mùa thu
-Pha lê
-Kỉ niệm lần 3 năm
-Kỉ niệm lần 5 năm
-Sự hỗn loạn
-Nhà thờ
-Câu chuyện về các thuỷ thủ
-Truyền thuyết về sát thủ
-Khu vườn Trung Quốc
-Cuộc đua xe
-Sắp có
+Lễ Hội Pháo Hoa
+Giáng Sinh
+Mùa Thu
+Pha Lê
+Kỉ Niệm 3 năm
+Kỉ niệm 5 năm
+Sự Hỗn Loạn
+Nhà Thờ
+Câu Chuyện Về Các Thuỷ Thủ
+Truyền Thuyết Về Sát Thủ
+Khu Vườn Trung Quốc
+Cuộc Đua Xe
+Sớm ra mắt
 
-Truyện tình lãng mạn
-Mùa xuân
-Lễ hội ngày xuân
+Truyện Tình Lãng Mạn
+Mùa Xuân
+Lễ Hội Ngày Xuân
 Samurai
-Truyền thuyết về loài rồng
-Chú vịt xấu xí
-Trò chơi điện tử
-Xuất hành
-Đại dương
-Kim ngưu
-Giấc mơ trên bầu trời
-Trận chiến bóng rổ
-Bữa tiệc Giáng Sinh
-Hành trình xuyên Ấn Độ
-Chiến tranh
-Bí ẩn
-Cuộc thi đá banh
-Sự phát triển của Hiphop
+Truyền Thuyết Về Loài Rồng
+Chú Vịt Xấu Xí
+Trò Chơi Điện Tử
+Xuất Hành
+Đại Dương
+Kim Ngưu
+Giấc Mơ Trên Bầu Trời
+Bóng Rổ
+Bữa Tiệc Giáng Sinh
+Hành Trình Xuyên Ấn Độ
+Chiến Tranh
+Bí Ẩn
+Bóng Đá
+Sự Phát Triển Của Hiphop
 Lễ Phục Sinh
-Khúc hát ru mùa xuân
-Ngày Halloween bí ẩn
-Công viên giải trí
+Khúc Hát Ru Mùa Xuân
+Ngày Halloween Bí Ẩn
+Công Viên Giải Trí
 Faded (Không lời)
 Faded (Dễ)
 Despacito
 Alone - Alan Walker
-Khu vườn yên tĩnh
+Vườn Thiền
 Samurai HD
-Trang trại
+Trang Trại
 Faded - Alan Walker
 All About Us
-Tiến hoá (P13)
-Hành trình ngọt ngào
+Tiến Hoá (P13)
+Thiên Đường Bánh Ngọt
 Không gian
 
-Cuộc phiêu lưu
-Tận thế
-Hành trình
-Toán học
-Mưa phùn
-Du mục
-Sự trống rỗng
-Ký ức
+Cuộc Phiêu Lưu
+Ngày Tận Thế
+Hành Trình
+Các Phép Toán
+Mưa Phùn
+Du Mục
+Sự Trống Rỗng
+Ký Ức
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
@@ -293,25 +293,25 @@ Nón Mêxicô
 Nón của SweetDog
 Linh hồn
 Chuột
-Cấp độ mới đang được tải xuống
-Hãy đảm bảo bạn còn kết nối với Internet
+Đang tải xuống cấp độ mới
+Hãy đảm bảo giữ kết nối với Internet
 Hiển thị đầu vào
 Không thể tải xuống cấp độ
 Xóa bộ nhớ đệm
-Các bộ nhớ đệm như màn chơi & nhạc sẽ bị xóa, tiếp tục xóa?
+Các bộ nhớ đệm như cấp độ, nhạc,... sẽ bị xóa, tiếp tục?
 Phiên bản hiện tại (#Current#) đã lỗi thời, vui lòng cập nhật lên phiên bản mới nhất (#Latest#).
-Không thể tải cấu hình quảng cáo
+Không thể tải cấu hình QC
 Thử lại
-Đang kiểm tra nội dung tải được
+Đang kiểm tra tài nguyên tải xuống
 Đang cập nhật cấu hình
-Đang tải nội dung bắt buộc
-Cuộc hành trình chưa hề kết thúc...
+Đang tải tài nguyên bắt buộc
+Cuộc hành trình chưa kết thúc...
 Còn nhiều thứ đang ở phía trước...
-Cảm ơn vì tất cả, các người chơi Dancing Line!
-Cần cập nhật
-Điều chỉnh độ khớp toàn cầu
-Điều chỉnh độ khớp màn chơi
-Tự động điều chỉnh
+Cảm ơn vì tất cả, những người chơi Dancing Line!
+Vui lòng cập nhật
+Điều chỉnh độ trễ tổng
+Điều chỉnh độ trễ của cấp độ
+Điều chỉnh tự động
 Chia sẻ
 Sao chép văn bản
 Lưu thành hình ảnh
@@ -329,26 +329,26 @@ Cube x{0}
 Thử thách
 Thứ ba - Chủ nhật
 Luật chơi
-Hoàn thành màn chơi một cách hoàn hảo để nhận nốt nhạc!
-Thử thách nốt nhạc đã kết thúc, hãy quay lại sau!
-• Trong sự kiện này, nhiệm vụ của bạn là thu thập toàn bộ kim cương và vương miện, hoàn thành màn chơi chỉ với một cube, và nên nhớ: bạn không hồi sinh được đâu! Bạn đã sẵn sàng cho sự kiện này chưa?\n\n• Đường chỉ dẫn sẽ bị tắt trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Một khi bạn đã hoàn thành màn chơi một cách hoàn hảo, đừng quên quay về trang sự kiện để nhận phần thưởng!
-Kết nối thất bại, vui lòng chắc chắn rằng mạng của bạn ổn định và thử lại
+Hoàn thành hoàn hảo cấp độ để nhận nốt nhạc!
+Thử thách đã kết thúc, hãy quay lại sau!
+• Trong sự kiện này, nhiệm vụ của bạn, với duy nhất một Cube, hãy thu thập toàn bộ kim cương, vương miện và hoàn thành màn chơi. Nên nhớ: bạn không thể hồi sinh! Bạn đã sẵn sàng chưa?\n\n• Đường điều hướng sẽ không thể sử dụng trong sự kiện này, vì vậy cấp độ sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Khi bạn đã hoàn thành thử thách, đừng quên quay về trang sự kiện để nhận phần thưởng!
+Kết nối thất bại, hãy chắc chắn rằng mạng của bạn ổn định và thử lại
 Đã đổi
 Đã đổi #item# thành công
 Bạn muốn đổi #item#?
-Cửa hàng đổi mới vào thứ Hai hàng tuần!
-Cửa hàng nốt nhạc đã được làm mới, vào xem có gì mới nào!
-Thử thách nốt nhạc của tuần này đã mở, đến và đánh bại các màn chơi!
+Cửa hàng sẽ làm mới vào thứ Hai hàng tuần!
+Cửa hàng nốt nhạc đã được làm mới, cùng xem có gì nóng hổi nào!
+Thử thách nốt nhạc tuần này đã mở, hãy tiếp chiêu!
 Bóng Bowling
 Bóng Tennis
 Thử thách đã hoàn thành: #Level#
 Tiếp tục tải bằng dữ liệu di động?
-Cảnh báo Dữ Liệu Di Động
+Cảnh báo bạn đang sử dụng Dữ Liệu Di Động
 Lỗi
-Lỗi không rõ đã xảy ra!
+Lỗi không xác định đã xảy ra!
 Ẩn con trỏ
-Khi đứng im
-Khi chơi
+Khi không di chuyển
+Khi bắt đầu
 Không bao giờ
 Chính thức
 Remix
@@ -356,7 +356,7 @@ Sự kiện
 Mùa
 Bản gốc
 Di sản
-Tạo bởi fan
+Tạo bởi Người chơi
 Max Studio
 WINDER Studio
 Vui lòng đăng nhập vào Game Center trong ứng dụng Cài Đặt
@@ -377,14 +377,14 @@ Xuất tiến trình trò chơi
 Nhập tiến trình trò chơi
 Cây Hư Không
 Đi vào lối đi bí ẩn của Sự Rỗng Tuếch
-Tự động chơi có thể không chính xác cho đến khi màn chơi được tải
+Tự động chơi có thể không chính xác cho đến khi cấp độ được tải
 Đang nâng cấp cơ sở dữ liệu trò chơi
 Mặc định
 Xanh lá
 Bản Song Ca
 Nhóm QQ
 Kênh QQ
-Độ phân giải xử lý
+Độ phân giải kết xuất
 Tự động
 Mũ
 Tháo trang bị
@@ -394,7 +394,7 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 Đã hoàn thành
-Cơn bão giận dữ
+Cơn bão
 Xanh lam
 Vàng
 Cổ điển
@@ -412,11 +412,11 @@ Phiên bản dữ liệu đám mây
 Theo ngôn ngữ hệ thống
 Sao chép
 Mở thư mục bên ngoài
-Hiện tại không hỗ trợ mở trực tiếp thư mục. Vui lòng nhấp vào nút để sao chép thư mục sau và mở thủ công:\n\n#DIRECTORY#
+Hiện tại không hỗ trợ mở trực tiếp thư mục. Vui lòng bấm để sao chép thư mục sau và mở thủ công:\n\n#DIRECTORY#
 Hệ thống tài khoản chung của DL RS Group
 Email...
 Mật Khẩu...
-Nhớ người dùng
+Lưu thông tin đăng nhập
 Đăng nhập tài khoản
 Đăng Nhập
 Đăng Kí
@@ -432,7 +432,7 @@ Chào mừng {0}!
 Đăng nhập thành công
 Vui lòng nhập email
 Vui lòng nhập mật khẩu
-Bằng cách đăng nhập, bạn đang đồng ý <b><color=#3d6ec0>Điều khoản dịch vụ của Hệ Thống Tài Khoản Trò Chơi DLRS</color></b>
+Bằng cách đăng nhập, bạn đồng ý với <b><color=#3d6ec0>Điều khoản dịch vụ của Hệ Thống Tài Khoản Trò Chơi DLRS</color></b>
 Tài khoản gần đây
 Đăng nhập bằng tài khoản khác
 Bạn có muốn loại bỏ tài khoản #name#?
@@ -448,20 +448,20 @@ Thống kê
 Đã hoàn thành
 Số kim cương
 Số vương miện
-Số lần chết
-Số lần thử
+Số lần thất bại
+Số lần chơi
 Số lần hồi sinh
 Số lần đã hoàn thành
-Số kim cương đã nhặt được
-Số vương miện đã nhặt được
-Số Sao đã kiếm được
-Số Sao đã tiêu
-Số lượng Cube đã kiếm được
-Số lượng Cube đã dùng
-Số lượng Nốt Nhạc đã kiếm được
-Số lượng Nốt Nhạc đã tiêu
-Số lượng skin đã sở hữu
-Số lượng mũ đã sở hữu
+Số kim cương đã nhận
+Số vương miện đã nhận
+Số Sao đã nhận
+Số Sao đã sử dụng
+Số Cube đã nhận
+Số Cube đã sử dụng
+Số Nốt Nhạc đã nhận
+Số Nốt Nhạc đã sử dụng
+Số Ngoại hình đã nhận
+Số Mũ đã nhận
 Khử răng cưa đa mẫu (#SHORT#)
 Khử răng cưa xấp xỉ nhanh (#SHORT#)
 Khử răng cưa tạm thời (#SHORT#)
