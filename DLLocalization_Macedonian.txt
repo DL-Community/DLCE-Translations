@@ -469,4 +469,4 @@ https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 AMD FidelityFX™ Супер резолуција (#SHORT#)
 Планета
 Ѕвезда
-Оди во #Level#
+Оди во #LEVELNAME#
