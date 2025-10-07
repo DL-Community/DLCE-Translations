@@ -30,8 +30,8 @@ THẤP NHẤT
 THẤP
 TRUNG BÌNH
 CAO
-CAO HƠN
-CAO NHẤT
+RẤT CAO
+TỐI ĐA
 KHỬ RĂNG CƯA
 ÂM THANH
 ĐỒNG BỘ THEO CHIỀU DỌC
@@ -215,9 +215,9 @@ Sự khởi đầu
 Thời gian
 Piano
 Bãi biển
-Ngày đông lạnh
+Mùa đông
 Thảo nguyên
-Phía tây
+Phương Tây
 Ngày tình nhân
 Halloween
 Phố hẻm thanh bình
@@ -232,7 +232,7 @@ Thiên đường ngàn pháo hoa
 Mùa thu
 Pha lê
 Kỉ niệm 3 năm
-Hành trình 5 năm
+Kỉ niệm 5 năm
 Sự hỗn loạn
 Nhà thờ
 Câu chuyện về các thuỷ thủ
@@ -462,10 +462,10 @@ Số lượng Nốt Nhạc đã kiếm được
 Số lượng Nốt Nhạc đã tiêu
 Số lượng skin đã sở hữu
 Số lượng mũ đã sở hữu
-AA đa mẫu (#SHORT#)
-AA xấp xỉ nhanh (#SHORT#)
-AA tạm thời (#SHORT#)
-AA hình thái dưới điểm ảnh (#SHORT#)
+Khử răng cưa đa mẫu (#SHORT#)
+Khử răng cưa xấp xỉ nhanh (#SHORT#)
+Khử răng cưa tạm thời (#SHORT#)
+Khử răng cưa hình thái dưới điểm ảnh (#SHORT#)
 Độ phân giải siêu cao AMD FidelityFX™ (#SHORT#)
 Hành tinh
 Ngôi sao
