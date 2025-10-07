@@ -217,12 +217,12 @@ Piano
 Bãi biển
 Mùa đông
 Thảo nguyên
-Phương Tây
+Miền Tây
 Ngày tình nhân
 Halloween
 Phố hẻm thanh bình
 Sa mạc
-Sấm chớp
+Cơn bão
 Ngọn núi
 Đồng bằng
 Mê cung
@@ -254,11 +254,11 @@ Kim ngưu
 Giấc mơ trên bầu trời
 Trận chiến bóng rổ
 Bữa tiệc giáng sinh
-Hành trình tới Ấn Độ
+Hành trình xuyên Ấn Độ
 Chiến tranh
 Bí ẩn
 Cuộc thi đá banh
-Sự tiến triển của Hiphop
+Sự phát triển của Hiphop
 Ngày lễ phục sinh
 Khúc hát ru mùa xuân
 Ngày Halloween bí ẩn
@@ -331,7 +331,7 @@ Thứ ba - Chủ nhật
 Luật chơi
 Hoàn thành màn chơi một cách hoàn hảo để nhận nốt nhạc!
 Thử thách nốt nhạc đã kết thúc, hãy quay lại sau!
-• Trong sự kiện này, nhiệm vụ của bạn là thu thập kim cương và vương miện, hoàn thành màn chơi chỉ với một cube, và hãy nhớ: không dược hồi sinh! Bạn đã sẵn sàng cho sự kiện này chưa?\n\n• Đường chỉ dẫn sẽ bị tắt trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Một khi bạn đã hoàn thành màn chơi theo cách hoàn hảo, đừng quên quay về trang sự kiện để nhận phần thưởng!
+• Trong sự kiện này, nhiệm vụ của bạn là thu thập toàn bộ kim cương và vương miện, hoàn thành màn chơi chỉ với một cube, và nên nhớ: bạn không hồi sinh được đâu! Bạn đã sẵn sàng cho sự kiện này chưa?\n\n• Đường chỉ dẫn sẽ bị tắt trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Một khi bạn đã hoàn thành màn chơi một cách hoàn hảo, đừng quên quay về trang sự kiện để nhận phần thưởng!
 Kết nối thất bại, vui lòng chắc chắn rằng mạng của bạn ổn định và thử lại
 Đã đổi
 Đã đổi #item# thành công
