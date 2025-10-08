@@ -469,4 +469,4 @@ Topi yang Dimiliki
 #SHORT#
 Planet
 Bintang
-
+Pergi ke #LEVELNAME#
