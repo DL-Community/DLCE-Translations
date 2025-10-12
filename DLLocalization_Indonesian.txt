@@ -458,8 +458,8 @@ Bintang yang Diperoleh
 Bintang yang Digunakan
 Kubus Energi yang Diperoleh
 Kubus Energi yang Digunakan
-Not yang Diperoleh
-Not yang Digunakan
+Nota yang Diperoleh
+Nota yang Digunakan
 Skin yang Dimiliki
 Topi yang Dimiliki
 #SHORT#
