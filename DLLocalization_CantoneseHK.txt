@@ -1,5 +1,5 @@
 中文（香港）
-ChineseTraditional
+ChineseTradMainland
 zh-HK
 跳舞的線
 語言
