@@ -225,6 +225,7 @@ Pustynia
 Burza
 Góry
 Niziny
+Niziny
 Labirynt
 Ziemia
 Fajerwerkowy Raj
@@ -234,6 +235,7 @@ Kryształ
 Trzecia Rocznica
 Piąta Rocznica
 Chaos
+Katedra
 Katedra
 Opowieści Marynarza
 Legenda o Asasynie

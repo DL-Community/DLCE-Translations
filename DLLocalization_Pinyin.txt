@@ -151,10 +151,10 @@ zuǒ WIN
 yòu WIN
 zuǒ CMD
 yòu CMD
-shàng jiàntóu
-xià jiàntóu
-zuǒ jiàntóu
-yòu jiàntóu
+▲
+▼
+◀
+▶
 zuǒ SHIFT
 yòu SHIFT
 zuǒ Option
@@ -225,6 +225,7 @@ shāmò
 fēngbào
 shānmài
 tiányě
+tiányě
 mígōng
 dìqiú
 huāhuǒ zhī dū
@@ -234,6 +235,7 @@ shuǐjīng
 sān zhōunián
 wǔ zhōunián
 hùndùn
+dà jiàotáng
 dà jiàotáng
 shuǐshǒu chuánshuō
 cìkè chuánqí

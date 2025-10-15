@@ -225,6 +225,7 @@ O Deserto
 A Tempestade
 As Montanhas
 A Planície
+A Planície
 O Labirinto
 A Terra
 Os Fogos de Artifício
@@ -234,6 +235,7 @@ A Caverna
 O Terceiro Aniversário
 O Quinto Aniversário
 O Caos
+A Catedral
 A Catedral
 O Conto do Marinheiro
 A Lenda do Assassino

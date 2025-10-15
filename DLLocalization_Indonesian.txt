@@ -225,6 +225,7 @@ Gurun
 Badai
 Pegunungan
 Dataran
+Dataran
 Labirin
 Bumi
 Surga Kembang Api
@@ -234,6 +235,7 @@ Kristal
 Ulang Tahun Ketiga
 Ulang Tahun Kelima
 Kekacauan
+Katedral
 Katedral
 Kisah Pelaut
 Legenda Pembunuh

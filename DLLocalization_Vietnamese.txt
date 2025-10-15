@@ -225,6 +225,7 @@ Sa Mạc
 Cơn Bão
 Đồi Núi
 Đồng Bằng
+Đồng Bằng
 Mê Cung
 Trái Đất
 Lễ Hội Pháo Hoa
@@ -234,6 +235,7 @@ Pha Lê
 Kỉ Niệm lần thứ 3
 Kỉ niệm lần thứ 5
 Sự Hỗn Loạn
+Nhà Thờ
 Nhà Thờ
 Câu Chuyện Về Các Thuỷ Thủ
 Truyền Thuyết Về Sát Thủ

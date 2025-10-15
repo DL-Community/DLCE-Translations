@@ -225,6 +225,7 @@ Le désert
 La tempête
 Les montagnes
 Les plaines
+Les plaines
 Le labyrinthe
 La Terre
 Les paradis des feux d’artifice
@@ -234,6 +235,7 @@ Le cristal
 Le troisième anniversaire
 Le cinquième anniversaire
 Le chaos
+La cathédrale
 La cathédrale
 L’histoire du marin
 La légende de l’assassin

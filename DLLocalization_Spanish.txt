@@ -225,6 +225,7 @@ The Desert
 The Storm
 The Mountains
 The Plains
+The Plains
 The Maze
 The Earth
 The Firework Paradise
@@ -234,6 +235,7 @@ The Crystal
 The Third Anniversary
 The Fifth Anniversary
 The Chaos
+The Cathedral
 The Cathedral
 The Sailor's Tale
 The Legend of Assassin
