@@ -223,6 +223,7 @@ Halloween
 Hẻm Núi Thanh Bình
 Sa Mạc
 Cơn Bão
+Cơn Bão
 Đồi Núi
 Đồng Bằng
 Đồng Bằng
@@ -286,6 +287,7 @@ Mưa Phùn
 Du Mục
 Sự Trống Rỗng
 Ký Ức
+Cơn bão giận dữ
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 Đã hoàn thành
-Cơn bão giận dữ
 Xanh lam
 Vàng
 Cổ điển

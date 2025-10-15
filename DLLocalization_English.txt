@@ -223,6 +223,7 @@ The Halloween
 The Alley
 The Desert
 The Storm
+The Storm
 The Mountains
 The Plains
 The Plains
@@ -286,6 +287,7 @@ The Drizzle
 The Wandering
 The Hollowness
 The Memory
+Storm of Anger
 None
 Christmas Hat
 Bamboo Dragonfly
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 completed
-Storm of Anger
 Blue
 Yellow
 Classical

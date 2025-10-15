@@ -223,6 +223,7 @@ Halloween
 L’allée
 Le désert
 La tempête
+La tempête
 Les montagnes
 Les plaines
 Les plaines
@@ -286,6 +287,7 @@ La bruine
 L’escapade
 Le vide
 Le souvenir
+Tempête de fureur
 Aucun
 Chapeau de Noël
 Libellule en bambou
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 terminé
-Tempête de fureur
 Bleu
 Jaune
 Classique

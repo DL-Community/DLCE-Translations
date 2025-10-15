@@ -223,6 +223,7 @@ wànshèngjié
 qīngshí xiàng
 shāmò
 fēngbào
+fēngbào
 shānmài
 tiányě
 tiányě
@@ -286,6 +287,7 @@ lín
 yóu
 mídù
 huíyì
+Storm of Anger
 wú
 shèngdàn mào
 zhú qīngtíng
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
 wánchéng
-Storm of Anger
 
 
 

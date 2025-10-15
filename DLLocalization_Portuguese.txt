@@ -223,6 +223,7 @@ O Halloween
 O Beco
 O Deserto
 A Tempestade
+A Tempestade
 As Montanhas
 A Planície
 A Planície
@@ -286,6 +287,7 @@ A Garoa
 O Nômade
 O Vácuo
 A Memória
+
 Nenhum
 Chapéu Natalino
 Mini Hélices
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 Concluído
-
 
 
 

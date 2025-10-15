@@ -223,6 +223,7 @@ I Need a Love Story - Marta
 Магичната Алеја
 Пустината
 Бурата
+Бурата
 Планините
 Рамнините
 Рамнините
@@ -286,6 +287,7 @@ All About Us - Marta
 Талкањето
 Шупливоста
 Седми Роденден
+Бурата (Дел II)
 Ништо
 Божиќна Капа
 Бамбус Dragonfly
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 Победено
-Бурата (Дел II)
 Сина
 Жолта
 Класична

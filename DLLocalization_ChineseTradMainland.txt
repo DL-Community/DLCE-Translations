@@ -223,6 +223,7 @@ ESC
 青石巷
 沙漠
 風暴
+風暴
 山脈
 田野
 田野
@@ -286,6 +287,7 @@ All About Us
 游
 迷度
 回憶
+Storm of Anger
 無
 聖誕帽
 竹蜻蜓
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
 已完成
-Storm of Anger
 藍色
 黄色
 經典

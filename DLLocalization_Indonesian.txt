@@ -223,6 +223,7 @@ Hari Hallowen
 Lorong
 Gurun
 Badai
+Badai
 Pegunungan
 Dataran
 Dataran
@@ -286,6 +287,7 @@ Gerimis
 Pengembaraan
 Kekosongan
 Ingatan
+Badai Kemarahan
 Tidak ada
 Topi Natal
 Capung Bambu
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 Selesai
-Badai Kemarahan
 Biru
 Kuning
 Klasik

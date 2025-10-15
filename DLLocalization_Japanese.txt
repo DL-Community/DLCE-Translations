@@ -223,6 +223,7 @@ Space
 ブルーストーンアレイ
 砂漠
 嵐
+嵐
 マウンテン
 平野
 平野
@@ -286,6 +287,7 @@ All About Us
 遊
 鬱
 記憶
+Storm of Anger
 なし
 クリスマス帽子
 タケトンボ
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 完了
-Storm of Anger
 青
 黄色
 クラシック

@@ -223,6 +223,7 @@ zh-CN
 青石巷
 沙漠
 风暴
+风暴
 破鸟
 田野
 最难关卡
@@ -286,6 +287,7 @@ All About Us
 游
 迷度
 回忆
+Storm of Anger
 无
 圣诞帽
 竹蜻蜓
@@ -396,7 +398,6 @@ DLRS 汽油 账号
 
 
 
-Storm of Anger
 
 
 

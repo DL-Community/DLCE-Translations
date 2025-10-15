@@ -223,6 +223,7 @@ v#Version# 开发中内容
 蓝色石头巷子
 体面
 龙卷风
+龙卷风
 山
 平原
 平原
@@ -286,6 +287,7 @@ v#Version# 开发中内容
 流浪
 空虚
 内存
+愤怒的风暴
 没有任何
 聖誕帽
 竹蜻蜓
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/dlce/localization
 完全的
-愤怒的风暴
 蓝色
 黄色
 经典

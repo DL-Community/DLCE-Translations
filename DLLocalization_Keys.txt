@@ -223,6 +223,7 @@ The Halloween
 The Alley
 The Desert
 The Storm
+The Storm Blues Remix
 The Mountains
 The Plains
 The Plains Reggae Remix
@@ -286,6 +287,7 @@ Drizzle
 The Wandering
 The Hollowness
 The Memory
+Storm of Anger
 None
 XmsHat
 Dragonfly
@@ -396,7 +398,6 @@ DatabaseLinks.PrivacyPolicy
 DatabaseLinks.LevelInformation
 DatabaseLinks.LocalizationTeam
 completed
-Storm of Anger
 Blue
 Yellow
 Classical

@@ -223,6 +223,7 @@ Halloween
 Aleja
 Pustynia
 Burza
+Burza
 Góry
 Niziny
 Niziny
@@ -285,6 +286,7 @@ The Mathematics
 The Drizzle
 The Wandering
 Pustka
+
 
 Brak
 Christmas Hat
@@ -396,7 +398,6 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 Ukończono
-
 
 
 
