@@ -106,7 +106,7 @@ Tap while flying isn't necessary.
 Don't tap when entering the pyramid at 45°
 You can change the skin of the character by clicking the floating cube.
 Collect all diamonds and crowns to perfectly complete the levels.
-ACHIEVEMENTS
+Achievements
 [Hidden] 
 Completed: #x#
 #x# - Completed

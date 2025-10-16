@@ -106,7 +106,7 @@ Tutorial_DontTapWhenFlying
 Tutorial_DontTapWhenRotate45
 Tutorial_SkinButton
 Tutorial_CollectDiamondAndCrown
-ACHIEVEMENTS
+Achievements
 HiddenAchievement
 Achievements completed:
 LevelCompletedAchievement
