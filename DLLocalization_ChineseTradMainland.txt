@@ -473,4 +473,3 @@ AMD 超級分辨率鋭畫技術（#SHORT#）
 星球
 星星
 前往 #LEVELNAME#
-

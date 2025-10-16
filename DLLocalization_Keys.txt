@@ -473,4 +473,3 @@ AntiAliasingMode.FSR3
 Skin.Planet
 Skin.Star
 Goto #LEVELNAME#
-test of text
