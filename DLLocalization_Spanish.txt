@@ -34,7 +34,7 @@ Mas Alta
 Max.
 ANTI ALIASING
 Sound
-VSYNC
+VSync
 SYNCHRONIZATION
 Auto Adjustment
 Music Delay

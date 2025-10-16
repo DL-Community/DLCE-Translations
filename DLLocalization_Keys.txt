@@ -34,7 +34,7 @@ Ultra
 Max
 Anti-Aliasing
 Sound
-VSYNC
+VSync
 Synchronization
 Auto Adjustment
 Music Delay
