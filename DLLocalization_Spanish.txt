@@ -33,12 +33,12 @@ Alta
 Mas Alta
 Max.
 ANTI ALIASING
-SOUND
+Sound
 VSYNC
 SYNCHRONIZATION
-AUTO ADJUSTMENT
-MUSIC DELAY
-TOUCH FEEDBACK
+Auto Adjustment
+Music Delay
+Touch Feedback
 Confirm Exit
 Do you want to quit the game?
 About
@@ -470,6 +470,7 @@ https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 
 
 AMD FidelityFX™ Super Resolution (#SHORT#)
+
 
 
 

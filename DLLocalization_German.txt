@@ -33,7 +33,7 @@ Hoch
 Ultra
 Max
 ANTI ALIASING
-SOUND
+Sound
 VSYNC
 Synchronisation
 Automatische Einstellung
@@ -470,6 +470,7 @@ https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 
 
 AMD FidelityFX™ Super Resolution (#SHORT#)
+
 
 
 

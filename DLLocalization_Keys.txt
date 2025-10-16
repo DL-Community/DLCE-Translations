@@ -33,12 +33,12 @@ High
 Ultra
 Max
 Anti-Aliasing
-SOUND
+Sound
 VSYNC
 Synchronization
-AUTO ADJUSTMENT
-MUSIC DELAY:
-TOUCH FEEDBACK
+Auto Adjustment
+Music Delay
+Touch Feedback
 Confirm Exit
 Do you want to quit the game?
 About
@@ -473,3 +473,4 @@ AntiAliasingMode.FSR3
 Skin.Planet
 Skin.Star
 Goto #LEVELNAME#
+test of text
