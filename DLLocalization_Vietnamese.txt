@@ -201,7 +201,7 @@ Thạch
 Áo choàng ma thuật
 Tử thần nổ chậm
 Bóng bay
-Quả bóng đá
+Bóng đá
 Kim tự tháp
 Bóng
 Bóng xanh lam
@@ -218,7 +218,7 @@ Bãi Biển
 Mùa Đông
 Thảo Nguyên
 Miền Tây
-Ngày Tình Nhân
+Lễ Tình Nhân
 Halloween
 Hẻm Núi Thanh Bình
 Sa Mạc
@@ -241,10 +241,10 @@ Nhà Thờ
 Câu Chuyện Về Các Thuỷ Thủ
 Truyền Thuyết Về Sát Thủ
 Khu Vườn Trung Quốc
-Cuộc Đua Xe
+Cuộc Đua
 Sớm ra mắt
 
-Truyện Tình Lãng Mạn
+Chuyện Tình Lãng Mạn
 Mùa Xuân
 Lễ Hội Ngày Xuân
 Samurai
