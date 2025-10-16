@@ -129,7 +129,7 @@ AdventureSecretAchievement
 AdventureSecretAchievementDescription
 Starry Sky
 The starry expanse promises delightful surprises
-KeyMapping
+Key Bindings
 KeyMapping.WaitInput
 Back
 Pause
@@ -473,3 +473,5 @@ AntiAliasingMode.FSR3
 Skin.Planet
 Skin.Star
 Goto #LEVELNAME#
+Quality Performance Warning
+Warning

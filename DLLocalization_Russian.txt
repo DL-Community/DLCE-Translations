@@ -129,7 +129,7 @@ Game Center
 Встретьте беженца из подземелья в  Приключении 
 Starry Sky
 The starry expanse promises delightful surprises
-KEYMAPPING
+Key Bindings
 Ожидание Ввода с Клавиатуры\nНажмите на клавишу, которую хотите использовать, или нажмите на любую кнопку мыши, чтобы сбросить настройку
 Назад
 Пауза
@@ -447,6 +447,8 @@ https://dl-community.github.io/Docs/#/en/dlce/localization
 
 
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+
+
 
 
 

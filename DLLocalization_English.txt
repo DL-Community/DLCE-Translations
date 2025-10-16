@@ -53,7 +53,7 @@ Discord
 Display Mode
 Exclusive Fullscreen
 Fullscreen Windowed
-WINDOWED
+Windowed
 Portrait
 Landscape
 Resolution
@@ -129,7 +129,7 @@ Gemless Master
 Encounter a dungeon escaper in  The Adventure 
 Starry Sky
 The starry expanse promises delightful surprises
-KEYMAPPING
+Key Bindings
 Waiting For Keyboard Input…\nPress the key that you want to use
 Back
 Pause Game
@@ -473,3 +473,5 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 Planet
 Star
 Go to #LEVELNAME#
+Based on your device's performance, using this option may cause lag or stuttering during gameplay.
+Warning

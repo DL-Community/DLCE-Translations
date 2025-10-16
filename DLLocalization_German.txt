@@ -53,7 +53,7 @@ Discord
 Display Modus
 Exklusiver Vollbildmodus
 Vollbildfenster
-WINDOWED
+Windowed
 Portrait
 Landscape
 Auflösung
@@ -470,6 +470,8 @@ https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 
 
 AMD FidelityFX™ Super Resolution (#SHORT#)
+
+
 
 
 
