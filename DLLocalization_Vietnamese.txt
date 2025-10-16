@@ -233,8 +233,8 @@ Lễ Hội Pháo Hoa
 Giáng Sinh
 Mùa Thu
 Pha Lê
-Kỉ Niệm lần thứ 3
-Kỉ niệm lần thứ 5
+Kỉ Niệm 3 Năm
+Kỉ niệm 5 Năm
 Sự Hỗn Loạn
 Nhà Thờ
 Nhà Thờ
@@ -380,7 +380,7 @@ Biểu tượng trò chơi
 Xuất tiến trình trò chơi
 Nhập tiến trình trò chơi
 Cây Hư Không
-Đi vào lối đi bí ẩn của Sự Rỗng Tuếch
+Đi vào lối đi bí ẩn của Sự Trống Rỗng
 Tự động chơi có thể không chính xác cho đến khi cấp độ được tải
 Đang nâng cấp cơ sở dữ liệu trò chơi
 Mặc định
