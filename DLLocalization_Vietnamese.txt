@@ -10,7 +10,7 @@ Hãy sử dụng tai nghe để có trải nghiệm tốt nhất!
 Quảng cáo hiện không có sẵn.
 Xem quảng cáo để tạm mở khoá cấp độ.
 Mở khoá
-VĨNH VIỄN
+Vĩnh viễn
 Đã mở khoá cấp độ:
 Lấy {0} miễn phí
 Mua {0} Cube
@@ -25,20 +25,20 @@ Bật
 Tắt
 Huỷ bỏ
 ĐÃ DỪNG
-CHẤT LƯỢNG
-THẤP NHẤT
-THẤP
-TRUNG BÌNH
-CAO
-RẤT CAO
-TỐI ĐA
-KHỬ RĂNG CƯA
-ÂM THANH
-ĐỒNG BỘ THEO CHIỀU DỌC
-ĐỒNG BỘ HOÁ
-TỰ ĐỘNG ĐIỀU CHỈNH
-ĐỘ TRỄ CỦA NHẠC
-HIỂN THỊ CON TRỎ CHẠM
+Chất Lượng
+Thấp Nhất
+Thấp
+Trung Bình
+Cao
+Rất Cao
+Tối Đa
+Khử Răng Cưa
+Âm Thanh
+Đồng Bộ Theo Chiều Dọc
+Đồng Bộ Hóa
+Tự Dộng Điều Chỉnh
+Độ Trẽ Của Nhạc
+Hiển Thị Con Trỏ Chạm
 Xác nhận thoát ra
 Bạn có muốn thoát trò chơi?
 Thông tin
@@ -50,13 +50,13 @@ YouTube
 Thỏa thuận người dùng cuối
 Chính sách bảo mật
 Máy chủ Discord
-Chế độ hiển thị
-Toàn màn hình độc quyền
-Toàn màn hình không viền
-CHẾ ĐỘ CỬA SỔ
-THẲNG ĐỨNG
-NẰM NGANG
-ĐỘ PHÂN GIẢI MÀN HÌNH
+Chế Độ Hiển Thị
+Toàn Màn Hình Độc Quyền
+Toàn Màn Hình Không Viền
+Chế Độ Cửa Sổ
+Dọc
+Ngang
+Độ Phân Giải
 Bắt đầu lại từ điểm hồi sinh?
 Cần #X%# nữa để tới được #Kỷ lục mới#
 Cần #X%# nữa để tới được #Điểm hồi sinh mới#
@@ -68,7 +68,7 @@ Xoá dữ liệu
 Hoàn tất xóa dữ liệu, vui lòng khởi động lại trò chơi.
 Toàn bộ dữ liệu sẽ bị xóa, vui lòng cân nhắc trước khi thao tác.
 Xin hãy cẩn trọng, thao tác này sẽ xóa toàn bộ dữ liệu trò chơi của bạn, bao gồm mọi thông tin cá nhân và thông tin khác, đồng thời KHÔNG THỂ hoàn tác, vui lòng cân nhắc kĩ lưỡng
-XOÁ
+Xóa
 Đang xoá dữ liệu...\nLưu trữ đám mây và ổ cứng sẽ bị xoá sạch
 Tiếp cận
 Bạn có thể đạt được X% trong Dancing Line? Cùng nhau quẩy nhiệt tình nào!
@@ -129,7 +129,7 @@ Bậc Thầy Không Đá Quý
 Chạm trán kẻ thoát ngục trong Phiêu Lưu 
 Bầu trời đầy sao
 Không gian đầy sao hứa hẹn những bất ngờ thú vị.
-SƠ ĐỒ PHÍM
+Sơ Đồ Phím
 Chờ Bàn Phím Nhập Vào\nNhấn phím mà bạn muốn sử dụng hoặc nhấn bất kỳ nút chuột nào để khôi phục mặc định
 Trở lại
 Dừng trò chơi
