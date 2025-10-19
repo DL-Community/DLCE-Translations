@@ -9,7 +9,7 @@
 - Line #1 in each file is **the language name in your language** (e.g. `English` in [English file](/DLLocalization_English.txt), `中文（简体）` (Chinese Simplified) in [Chinese file](/DLLocalization_ChineseSimplified.txt).
 ### Placeholders
 - Translations may contain placeholders that will later be replaced with actual content when game is running.
-  > For instance: `\n` (Make new line), `\t` (tab), `#Level#` (Level Name), `{0}` (Other), etc.
+  > For instance: `\n` (Make new line), `\t` (tab), `#Level#` (Level Name), `{0}`, etc.
 - These placeholders usually do not need to be translated. If you are not sure whether a translation is needed, you can refer to the translations in other languages (e.g. [English file](/DLLocalization_English.txt), and [Chinese file](/DLLocalization_ChineseSimplified.txt)).
   
 # [Languages & Contributors](/Contributors.md)
