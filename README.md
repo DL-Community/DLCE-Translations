@@ -12,4 +12,4 @@
   > For instance: `\n` (Make new line), `\t` (tab), `#Level#` (Level Name), `{0}`, etc.
 - These placeholders usually do not need to be translated. If you are not sure whether a translation is needed, you can refer to the translations in other languages (e.g. [English file](/DLLocalization_English.txt), and [Chinese file](/DLLocalization_ChineseSimplified.txt)).
   
-# [Languages & Contributors](/Contributors.md)
+# [Languages & Contributors](/graphs/contributors)
