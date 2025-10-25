@@ -473,5 +473,5 @@ Khử răng cưa hình thái dưới điểm ảnh (#SHORT#)
 Hành tinh
 Ngôi sao
 Đến #LEVELNAME#
-
-
+Dựa vào hiệu suất của thiết bị, sử dụng tùy chọn này có thể gây ra lag hoặc nháy màn khi chơi. 
+Cảnh báo
