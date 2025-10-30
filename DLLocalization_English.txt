@@ -475,3 +475,4 @@ Star
 Go to #LEVELNAME#
 Based on your device's performance, using this option may cause lag or stuttering during gameplay.
 Warning
+Audio Device

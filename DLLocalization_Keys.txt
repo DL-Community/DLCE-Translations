@@ -178,7 +178,7 @@ Dream of Sky description
 Alone Word
 DessertWonderlandEndText
 Normal
-Headphone
+Headphones
 Paper
 Zeus
 Chaos
@@ -475,3 +475,4 @@ Skin.Star
 Goto #LEVELNAME#
 Quality Performance Warning
 Warning
+Audio Device

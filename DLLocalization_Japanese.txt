@@ -475,3 +475,4 @@ AMD FidelityFX™ Super Resolution（#SHORT#）
 #LEVELNAME# へ移動
 お使いのデバイス性能では、このオプションを使用するとゲームがカクつく可能性があります。
 ワーニング
+
