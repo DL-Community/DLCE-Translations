@@ -476,3 +476,9 @@ Ngôi sao
 Dựa vào hiệu suất của thiết bị, sử dụng tùy chọn này có thể gây ra giật lag hoặc màn trập khi chơi. 
 Cảnh báo
 
+
+
+
+
+
+

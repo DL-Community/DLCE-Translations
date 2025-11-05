@@ -476,3 +476,9 @@ Goto #LEVELNAME#
 Quality Performance Warning
 Warning
 Audio Device
+BuiltIn_Speaker
+Speakers
+Couldn't find levels that match the keywords.
+Match All
+Match Any
+LevelTags.Playable
