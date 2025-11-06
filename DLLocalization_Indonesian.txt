@@ -475,10 +475,10 @@ Bintang
 Pergi ke #LEVELNAME#
 Berdasarkan kinerja perangkat Anda, menggunakan opsi ini dapat menyebabkan lag atau gangguan saat bermain game.
 Peringatan
-
-
-
-
-
-
-
+Perangkat Audio
+Speaker Bawaan
+Speaker
+Tidak ditemukan level yang sesuai dengan kata kunci.
+Cocokkan Semua
+Cocokkan Salah Satu
+Dapat Diputar
