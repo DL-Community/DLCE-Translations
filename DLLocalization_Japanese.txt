@@ -482,3 +482,6 @@ AMD FidelityFX™ Super Resolution（#SHORT#）
 すべてに一致
 いずれかに一致
 プレイ可能
+Eメールでログイン
+OAuthログイン
+OAuth認証エラー、もう一度お試しください。

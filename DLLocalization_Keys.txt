@@ -482,3 +482,6 @@ Couldn't find levels that match the keywords.
 Match All
 Match Any
 LevelTags.Playable
+DLRSGAS_EmailPasswordLogin
+DLRSGAS_NewOAuthLogin
+DLRSGAS_OAuthLoginFail

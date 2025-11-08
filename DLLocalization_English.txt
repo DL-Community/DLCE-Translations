@@ -482,3 +482,6 @@ Couldn't find levels that match the keywords.
 Match All
 Match Any
 Playable
+Login via email and password
+New OAuth Login
+Authorization failed. Please try again.
