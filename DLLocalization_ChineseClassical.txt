@@ -416,7 +416,7 @@ https://dl-community.github.io/Docs/#/dlce/localization
 複製
 打開外部目錄
 當前暫不支持直接打開目錄。請點擊按鈕復製此路徑并手動打開：\n\n#DIRECTORY#
-DL RS 同人群聯合出品遊戲通用賬號系統
+DL RS 同人遊戲通用賬號系統
 請輸入郵箱 ⋯
 請輸入密碼 ⋯
 記住賬號

@@ -416,7 +416,7 @@ Follow System Language
 Copy
 Open External Directory
 Directly opening a directory is not currently supported. Please click the button to copy the following directory and open it manually:\n\n#DIRECTORY#
-DL RS Group Joint Production Games Universal Account System
+DL RS Games Account System
 Email…
 Password…
 Remember User

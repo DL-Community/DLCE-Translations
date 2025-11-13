@@ -416,7 +416,7 @@ S’aligner sur la langue du système
 Copier
 Ouvrir un répertoire externe
 Il n’est pas actuellement possible d’ouvrir un répertoire directement. Veuillez cliquer sur le bouton pour copier le chemin d’accès ci-dessous et ouvrez-le manuellement :\n\n#DIRECTORY#
-Système de compte universel DL RS Group Joint Production Games
+DL RS Games Account System
 E-mail…
 Mot de passe…
 Se souvenir de moi

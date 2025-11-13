@@ -416,7 +416,7 @@ Ikuti Bahasa Sistem
 Salin
 Buka Direktori Eksternal
 Membuka direktori secara langsung saat ini tidak didukung. Silakan klik tombol untuk menyalin direktori berikut dan membukanya secara manual.:\n\n#DIRECTORY#
-DL RS Group Joint Production Games Universal Account System
+DL RS Games Account System
 Email...
 Kata Sandi...
 Ingatkan Saya
