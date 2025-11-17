@@ -485,3 +485,6 @@ LevelTags.Playable
 DLRSGAS_EmailPasswordLogin
 DLRSGAS_NewOAuthLogin
 DLRSGAS_OAuthLoginFail
+Disable
+Enable
+Disable Stats Warning

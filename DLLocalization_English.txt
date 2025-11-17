@@ -485,3 +485,6 @@ Playable
 Login via email and password
 Login via OAuth
 Authorization failed. Please try again.
+Disable
+Enable
+When disabled, your statistics will be cleared, and the game will no longer record data unless re-enable.
