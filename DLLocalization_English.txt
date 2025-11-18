@@ -488,3 +488,4 @@ Authorization failed. Please try again.
 Disable
 Enable
 When disabled, your statistics will be cleared, and the game will no longer record data unless re-enable.
+The current version is invalid, please update the game.

@@ -488,3 +488,4 @@ DLRSGAS_OAuthLoginFail
 Disable
 Enable
 Disable Stats Warning
+DLRSGAS_InvalidVersion
