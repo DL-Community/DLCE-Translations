@@ -430,7 +430,7 @@ Error
 Incorrect email or password
 This account isn't in the whitelist
 This account needs to be activated
-App outdated, please check for updates
+App outdated, please check for updates.
 Welcome, {0}!
 Login successful
 Please enter email
@@ -488,4 +488,4 @@ Authorization failed. Please try again.
 Disable
 Enable
 When disabled, your statistics will be cleared, and the game will no longer record data unless re-enable.
-The current version is invalid, please update the game.
+App outdated, please check for updates.
