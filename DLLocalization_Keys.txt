@@ -416,33 +416,33 @@ Follow System Language
 Copy
 Open External Directory
 Open External Directory Message
-DLRSGAS_Description
-DLRSGAS_Email
-DLRSGAS_Password
-DLRSGAS_RememberPassword
-DLRSGAS_Account_LogIn
-DLRSGAS_LogIn
-DLRSGAS_Register
-DLRSGAS_ForgetPW
-DLRSGAS_LoggingIn
-DLRSGAS_InternetError
-DLRSGAS_Error
-DLRSGAS_IncorrectEmailORPassword
-DLRSGAS_AccountNotInWhitelist
-DLRSGAS_AccountNeedsActivation
-DLRSGAS_IncorrectAppIdOrToken
-DLRSGAS_Welcome
-DLRSGAS_LogInSuccessful
-DLRSGAS_PleaseEnterEmail
-DLRSGAS_PleaseEnterPassword
-DLRSGAS_ToS_Description
-DLRSGAS_Recent_Account_Tip
-DLRSGAS_New_Login
-DLRSGAS_RemoveRecentAccountConfirmation
+GAS.Description
+GAS.Email
+GAS.Password
+GAS.RememberPassword
+GAS.Account_LogIn
+GAS.LogIn
+GAS.Register
+GAS.ForgetPW
+GAS.LoggingIn
+GAS.InternetError
+GAS.Error
+GAS.IncorrectEmailORPassword
+GAS.AccountNotInWhitelist
+GAS.AccountNeedsActivation
+GAS.IncorrectAppIdOrToken
+GAS.Welcome
+GAS.LogInSuccessful
+GAS.PleaseEnterEmail
+GAS.PleaseEnterPassword
+GAS.ToS_Description
+GAS.Recent_Account_Tip
+GAS.New_Login
+GAS.RemoveRecentAccountConfirmation
 Opening in an external browser...
-DLRSGAS_Blacklist
-DLRSGAS_DownloadingCloudSave
-DLRSGAS_DownloadingCloudSaveFailed
+GAS.Blacklist
+GAS.DownloadingCloudSave
+GAS.DownloadingCloudSaveFailed
 Logout
 Logout Confirmation Message
 Open Source Libraries
@@ -482,10 +482,10 @@ Couldn't find levels that match the keywords.
 Match All
 Match Any
 LevelTags.Playable
-DLRSGAS_EmailPasswordLogin
-DLRSGAS_NewOAuthLogin
-DLRSGAS_OAuthLoginFail
+GAS.EmailPasswordLogin
+GAS.NewOAuthLogin
+GAS.OAuthLoginFail
 Disable
 Enable
 Disable Stats Warning
-DLRSGAS_InvalidVersion
+GAS.InvalidVersion
