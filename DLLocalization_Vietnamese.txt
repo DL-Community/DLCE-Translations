@@ -482,7 +482,13 @@ Không thể tìm thấy màn chơi khớp với từ khóa này
 Khớp toàn bộ
 Khớp bất kì
 Có thể chơi được
-
+Đăng nhập bằng email và mật khẩu
+Đăng nhập qua 0Auth
+Ủy quyền thất bại. Vui lòng thử lại sau. 
+Tắt
+Bật
+Khi tắt đi, các số liệu thống kê của bạn sẽ bị xóa và trò chơi sẽ không còn ghi dữ liệu trừ khi được bật lại. 
+Trò chơi đã lỗi thời, vui lòng kiểm tra các bản cập nhật. 
 
 
 
