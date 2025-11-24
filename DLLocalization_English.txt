@@ -441,8 +441,8 @@ New Login
 Are you sure you want to remove account #name#?
 Opening in an external browser…
 This account has been banned
-Downloading Cloud Saves…
-Failed Downloading Cloud Saves
+Downloading user data…
+Failed to load player data
 Logout
 Are you sure you want to log out of  #USERNAME#?
 Open Source Libraries
