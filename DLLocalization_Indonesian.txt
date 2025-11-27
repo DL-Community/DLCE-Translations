@@ -489,3 +489,8 @@ Dinonaktifkan
 Diaktifkan
 Jika dinonaktifkan, statistik Anda akan dihapus, dan permainan tidak akan lagi merekam data kecuali diaktifkan kembali.
 Versi saat ini tidak valid, silakan perbarui permainan.
+
+
+
+
+

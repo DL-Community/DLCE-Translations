@@ -489,3 +489,8 @@ Disable
 Enable
 Disable Stats Warning
 GAS.InvalidVersion
+Redeem Code
+Redeem Code Placeholder
+Redeem Confirm
+Redeem Cooldown
+Redeem Code Invalid

@@ -489,3 +489,8 @@ Disable
 Enable
 When disabled, your statistics will be cleared, and the game will no longer record data unless re-enable.
 App outdated, please check for updates.
+Redemption Code
+Enter redemption code…
+Redeem
+Redemption in cooldown, please try again later.
+The redemption code is invalid or has already been used.

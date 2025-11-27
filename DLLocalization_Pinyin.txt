@@ -69,7 +69,7 @@ shùjù shānchú chénggōng, qǐng chóngxīn qǐdòng yóuxì
 cǐ guòchéng wánchéng hòu, nín de yóuxì shùjù jiāng bèi shānchú, qǐng jǐnshèn cāozuò.
 qǐng zài ānquán hé chángyòng de wǎngluò, shèbèi huánjìng xià cāozuò. rú yóuxì nèi yǒu wèi shǐyòng de xǖnǐ huòbì huò xǖnǐ dàojù, shānchú shùjù chénggōng hòu jiāng quánbù bèi qīngkōng. shùjù shānchú wánchéng hòu wúfǎ huīfù, qǐng jǐnshèn xuǎnzé bìng cāozuò.
 shānchú
-zhèngzài qīngchú⋯ \nnǐ de yúnduān jí běn dì cún'àng jiāng yībìng bèi qīngkōng
+zhèngzài qīngchú… \nnǐ de yúnduān jí běn dì cún'àng jiāng yībìng bèi qīngkōng
 fǔzhù gōngnéng
 nǐ néng dǎ dào X% ma? lái tiàowǔ de xiàn zhōng bǐ bǐ ba!
 chákàn rìzhì
@@ -117,20 +117,20 @@ shōují #x# zhōng de suǒyǒu zuànshí yǐ dáchéng cǐ chéngjiù
 shōují #x# zhōng de suǒyǒu huángguān yǐ dáchéng cǐ chéngjiù
 lóngzú de mìmì
 zài  lóngzú chuánshuō  guānqiǎ zhōng zhìshǎo fāxiàn yītiáo yǐncáng lùjìng yǐ dáchéng cǐ chéngjiù
-qiánmiàn de qū⋯⋯
+qiánmiàn de qū……
 qiánmiàn de qūyù, yǐhòu zàilái tànsuǒ ba?
 「mí」gōng
 fāxiàn  mí gōng  zhōng de yǐncáng lùjìng yǐ dáchéng cǐ chéngjiù
 hépíng zhǔyìzhě
 zài  zhàn shāng  guānqiǎ zhōng jìnrù hépíng gùshì xiàn
 èr zhōunián pàiduì
-shèngdàn⋯⋯\n èr zhōunián kuàilè
+shèngdàn……\n èr zhōunián kuàilè
 lòu zuàn wáng
 zài  màoxiǎn  zhōng zāoyù dìláo táotuō zhě
 xīngkōng
 fánxīng huì dàilái jīngxǐ
 jiànwèi yìngshè
-děngdài jiànpán shūrù zhōng⋯\n zài jiànpán shàng àn xià nǐ xiǎng yào shǐyòng de ànjiàn
+děngdài jiànpán shūrù zhōng…\n zài jiànpán shàng àn xià nǐ xiǎng yào shǐyòng de ànjiàn
 fǎnhuí
 zàntíng yóuxì
 juésè kòngzhì
@@ -170,7 +170,7 @@ shèngdàn kuàilè
 shōují
 diǎnjī
 xièxiè nǐ zǒudào zhèlǐ,\n《tiàowǔ de xiàn》 yǒu nǐ cái shì sān zhōunián.
-wèishénme⋯
+wèishénme…
 yīqiè dōu biàndé gèng zāo……
 shìjiè jìntóu
 zhuīsuí nǐ zìjǐ de xīngxīng! - dàndīng
@@ -447,6 +447,11 @@ wánchéng
 
 
 https://dlce.fengyan.ip-ddns.com/#/legal/open-source
+
+
+
+
+
 
 
 
