@@ -14,7 +14,7 @@ Unlock
 New level unlocked:
 Get {0} Free
 Buy {0} Cubes
-Infinite Energy
+Infinite Cubes
 Recharge in : {0}s
 Cubes recharged. Let's dance again.
 tap to play
@@ -494,3 +494,9 @@ Enter redemption code…
 Redeem
 Redemption in cooldown, please try again later.
 The redemption code is invalid or has already been used.
+Successfully redeemed the following items:
+Level: #NAME#
+Skin: #NAME#
+Hat: #NAME#
+Stars x{0}
+Notes x{0}

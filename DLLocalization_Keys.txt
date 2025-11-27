@@ -494,3 +494,9 @@ Redeem Code Placeholder
 Redeem Confirm
 Redeem Cooldown
 Redeem Code Invalid
+Redeem Item Message
+Redeem Item Level
+Redeem Item Skin
+Redeem Item Hat
+Stars x{0}
+Notes x{0}
