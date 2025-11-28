@@ -498,5 +498,4 @@ Successfully redeemed the following items:
 Level: #NAME#
 Skin: #NAME#
 Hat: #NAME#
-Stars × {0}
 Notes × {0}
