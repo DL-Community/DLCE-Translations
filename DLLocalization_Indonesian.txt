@@ -329,7 +329,7 @@ Tantangan Notes
 Toko Notes
 Habis terjual
 Permata × {0}
-Kubus ×{0}
+Kubus × {0}
 Tantangan
 Selasa — Minggu
 Aturan

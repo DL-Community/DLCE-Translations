@@ -329,7 +329,7 @@ Desafio Musical
 Loja Musical
 Esgotado
 Gemas × {0}
-Cubos ×{0}
+Cubos × {0}
 Vamos lá!
 De terça-feira a sábado
 Regras

@@ -329,7 +329,7 @@ Noten Challenge
 Noten Store
 Ausverkauft
 Edelsteine × {0}
-Würfel ×{0}
+Würfel × {0}
 Challenge
 Dienstag — Sonntag
 Regeln

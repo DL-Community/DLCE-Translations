@@ -329,7 +329,7 @@ Notes Challenge
 Notes Store
 Sold out
 Stars × {0}
-Cubes ×{0}
+Cubes × {0}
 Challenge
 Tuesday — Sunday
 Rules
