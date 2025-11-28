@@ -328,8 +328,8 @@ Tidak untuk dijual
 Tantangan Notes
 Toko Notes
 Habis terjual
-Permata x{0}
-Kubus x{0}
+Permata × {0}
+Kubus ×{0}
 Tantangan
 Selasa — Minggu
 Aturan
@@ -498,5 +498,5 @@ Penukaran berhasil untuk barang-barang berikut:
 Level: #NAME#
 Kulit: #NAME#
 Topi: #NAME#
-Berlian x{0}
-Not x{0}
+Berlian × {0}
+Not × {0}

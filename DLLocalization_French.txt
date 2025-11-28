@@ -328,7 +328,7 @@ Pas à vendre
 Défi des notes
 Magasin de notes
 Rupture de stock
-Gemmes ×{0}
+Gemmes × {0}
 Cubes ×{0}
 Défi
 Lundi — dimanche

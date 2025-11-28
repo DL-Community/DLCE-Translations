@@ -328,8 +328,8 @@ Không bán
 Thử thách nốt nhạc
 Cửa hàng nốt nhạc
 Bán hết
-Đá quý x{0}
-Cube x{0}
+Đá quý × {0}
+Cube ×{0}
 Thử thách
 Thứ ba - Chủ nhật
 Luật chơi

@@ -328,8 +328,8 @@ Fēimàipǐn
 Yīnfú tiǎozhàn
 Yīnfú shāngdiàn
 
-Bǎoshí x{0}
-Fāngkuài x{0}
+Bǎoshí × {0}
+
 Kāishǐ tiǎozhàn
 Zhōu'èr ～ zhōu rì
 Guīzé shuōmíng

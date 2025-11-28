@@ -328,8 +328,8 @@ Not for sale
 Notes Challenge
 Notes Store
 Sold out
-Stars x{0}
-Cubes x{0}
+Stars × {0}
+Cubes ×{0}
 Challenge
 Tuesday — Sunday
 Rules
@@ -498,5 +498,5 @@ Successfully redeemed the following items:
 Level: #NAME#
 Skin: #NAME#
 Hat: #NAME#
-Stars x{0}
-Notes x{0}
+Stars × {0}
+Notes × {0}
