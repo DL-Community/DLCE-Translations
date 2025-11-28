@@ -127,7 +127,7 @@ Pesta Ulang Tahun ke-2
 Selamat Natal...... \ndan Ulang Tahun ke-2
 Master Tanpa Permata
 Bertemu dengan pelarian penjara bawah tanah di  The Adventure 
-Langit Berbintang 
+Langit Ber 
 Hamparan bintang menjanjikan kejutan yang menyenangkan
 PEMETAAN KUNCI
 Menunggu Input Keyboard\nTekan tombol yang ingin Anda gunakan, atau tekan tombol mouse apa pun untuk menghapus pengaturan
@@ -489,14 +489,14 @@ Dinonaktifkan
 Diaktifkan
 Jika dinonaktifkan, statistik Anda akan dihapus, dan permainan tidak akan lagi merekam data kecuali diaktifkan kembali.
 Versi saat ini tidak valid, silakan perbarui permainan.
-
-
-
-
-
-
-
-
-
-
-
+Kode Penukaran
+Masukkan kode penukaran…
+Tukarkan
+Penukaran sedang dalam masa tunggu, silakan coba lagi nanti.
+Kode penukaran tidak sah atau sudah digunakan.
+Penukaran berhasil untuk barang-barang berikut:
+Level: #NAME#
+Kulit: #NAME#
+Topi: #NAME#
+Berlian x{0}
+Not x{0}
