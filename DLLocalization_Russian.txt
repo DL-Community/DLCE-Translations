@@ -1,9 +1,9 @@
 Русский
 English
 
-Dancing Line
+
 Язык
-LIKE US
+
 ЗАГРУЗКА
 Получить кубики
 для наилучшего игрового опыта  используйте наушники
@@ -34,7 +34,7 @@ LIKE US
 Ультра＋
 ANTI ALIASING
 ЗВУК
-VSync
+
 СИНХРОНИЗАЦИЯ
 АВТОНАСТРОЙКА
 ЗАДЕРЖКА МУЗЫКИ
@@ -45,8 +45,8 @@ VSync
 Версия
 Дизайнеры Уровней
 Команда Локализации
-Bilibili
-YouTube
+
+
 Лицензионное соглашение Конечного Пользователя
 Политика Конфиденциальности
 Официальный Discord Сервер
@@ -65,7 +65,7 @@ YouTube
 Продолжить
 Поиск
 Удалить Данные
-Data reseted, please restart the game.
+
 Ваши игровые данные будут удалены после завершения этого процесса. Продолжайте с предельной осторожностью.
 Примите во внимание, что после завершения этого процесса, ваши данные Dancing Line (включая все личные данные и любые другие данные, полученные при пользовании Dancing Line Products) будут навсегда удалены без возможности восстановления. Просим вас продолжать с предельной осторожностью.
 УДАЛИТЬ
@@ -83,7 +83,7 @@ Data reseted, please restart the game.
 Задержка Сенсорного Ввода
 v#Version# БЕТА ВЕРСИЯ
 Гироскоп
-Game Center
+
 Собрать
 Ежедневные бесплатные кристаллы
 Собрать через {0}ч {1}мин
@@ -127,9 +127,9 @@ Game Center
 С Рождеством......\nи 2-ой Годовщиной
 Щедрый Путешественник
 Встретьте беженца из подземелья в  Приключении 
-Starry Sky
-The starry expanse promises delightful surprises
-Key Bindings
+
+
+
 Ожидание Ввода с Клавиатуры\nНажмите на клавишу, которую хотите использовать, или нажмите на любую кнопку мыши, чтобы сбросить настройку
 Назад
 Пауза
@@ -142,11 +142,11 @@ Key Bindings
 Подтвердить
 Перезапустить
 Достижения
-Backspace
+
 Return
-Enter
-ESC
-Space
+
+
+
 Левый WIN
 Правый WIN
 Левый CMD
@@ -266,15 +266,15 @@ Space
 Весенняя Колыбельная
 Хэллоиунская Головоломка
 Парк Аттракционов
-Faded - Alan Walker
+
 Faded (Версия Туториала)
-Despacito
-Alone - Alan Walker
+
+
 Сад Дзен
 Самурай HD
 Ранчо
-Faded - Alan Walker
-All About Us
+
+
 Эволюция (P13)
 Сладкая Страна Чудес
 Пространство
@@ -288,21 +288,21 @@ All About Us
 Пустота
 
 
-None
+
 Рождественская Шапка
 Бамбуковая Стрекоза
 Шляпа Волшебника
 Сомбреро
 Котелок
-Sweet Dog Hat
+
 Спрайт
 
 Новый уровень скачается.
 Не оставьте от сети.
-Input HUD
+
 Не удалось загрузить уровень
 Очистить кэш
-Caches such as level & music data downloaded will be cleared, continue clearing?
+
 Текущая версия (#Current#) устарела, пожалуйста, обновите до последней версии (#Latest#).
 Не удалось загрузить настройки рекламы
 Повторить попытку
@@ -361,19 +361,6 @@ Caches such as level & music data downloaded will be cleared, continue clearing?
 
 
 
-Max Studio
-WINDER Studio
-
-
-
-
-
-
-
-
-
-
-Come & Get It - Selena Gomez
 
 
 
@@ -393,10 +380,23 @@ Come & Get It - Selena Gomez
 
 
 
-https://dl-community.github.io/Docs/#/en/legal/eula
-https://dl-community.github.io/Docs/#/en/legal/privacy
-https://dl-community.github.io/Docs/#/dlce/level_information
-https://dl-community.github.io/Docs/#/en/dlce/localization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Пройден
 
 
@@ -446,7 +446,7 @@ https://dl-community.github.io/Docs/#/en/dlce/localization
 
 
 
-https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+
 
 
 

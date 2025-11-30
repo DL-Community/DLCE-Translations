@@ -1,7 +1,7 @@
 Polski
 English
 
-Dancing Line
+
 Język
 POLUB NAS
 ŁADOWANIE
@@ -18,7 +18,7 @@ Nieskończona energia
 Odnowienie za: {0}s
 Kostki uzupełnione. Zatańczmy ponownie.
 dotknij, aby rozpocząć
-OK
+
 Tak
 Nie
 Wł.
@@ -45,13 +45,13 @@ O grze
 Wersja
 Twórcy poziomów
 Ekipa tłumaczy
-Bilibili
-YouTube
+
+
 Umowa Licencyjna Użytkownika Końcowego
 Polityka prywatności
 Oficjalny serwer Discord
-Display Mode
-Exclusive Fullscreen
+
+
 PEŁNY EKRAN
 OKNO
 ORIENTACJA PIONOWA
@@ -65,7 +65,7 @@ ZA DARMO
 Kontynuuj
 Szukaj
 Usuń dane
-Data reseted, please restart the game.
+
 Po zakończeniu tego procesu dane gry zostaną usunięte.
 Pamiętaj, że po zakończeniu tego procesu, twoje dane Dancing Line (w tym wszelkie dane osobowe oraz inne dane powstałe w wyniku korzystania z produktów Dancing Line, zwane dalej „danymi Dancing Line”) zostaną trwale usunięte i nie będzie można ich odzyskać. Podejmij swoją decyzję ostrożnie.
 USUŃ
@@ -83,7 +83,7 @@ Opóźnienie wyjścia audio
 Opóźnienie rejestracji dotyku
 v#Version# WERSJA BETA
 Żyroskop
-Game Center
+
 Zbierz
 Darmowe Dzienne Klejnoty
 Zbierz za {0}h {1}m
@@ -92,8 +92,8 @@ Wybierz
 Darmowe wznowienia: {0}/{1}
 Czy chcesz wydać {0} klejnotów, aby odblkować linię pomocniczą w trakcie tej gry?
 Nie można zebrać darmowych dziennych klejnotów, weryfikacja czasu nie powiodła się.
-Advanced Settings
-This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
+
+
 Nagrody
 Nagrody: {0}
 Zebrano {0} diamentów w poziomie: {1}
@@ -127,8 +127,8 @@ Szczęśliwej drugiej rocznicy!
 Wesołych Świąt......\noraz drugiej rocznicy
 Hojny Podróżnik
 Spotkaj zamkowego uciekiniera w poziomie  Przygoda 
-Starry Sky
-The starry expanse promises delightful surprises
+
+
 USTAWIENIA KLAWISZY
 Oczekiwanie na ingerencję użytkownika\nWybierz klawisz, który chcesz ustawić, lub naciśnij dowolny przycisk myszy, aby zresetować ustawienie
 Powrót
@@ -140,11 +140,11 @@ Skórki
 Lewo
 Prawo
 Potwierdź
-Restart
+
 Osiągnięcia
-Backspace
-Enter
-Enter
+
+
+
 Escape
 Spacja
 Windows (lewy)
@@ -163,9 +163,9 @@ Control (lewy)
 Control (prawy)
 Option (lewy)
 Option (prawy)
-Menu
+
 Ukończono
-Checkpoint
+
 Wesołych Świąt
 Zbierz
 Naciśnij
@@ -180,8 +180,8 @@ Nie żałuj niczego w sprawach\nmiłości i jedzenia.
 Normalna
 Słuchawki
 Papier
-Zeus
-Chaos
+
+
 Góry
 Chiński Pędzel
 Baba Jaga
@@ -268,13 +268,13 @@ Halloweenowa Zagadka
 Wesołe Miasteczko
 Faded
 Faded - Tryb Łatwy
-Despacito
-Alone - Alan Walker
+
+
 Chiny
 Samuraj HD
 Ranczo
 Faded
-All About Us
+
 Ewolucja (cz. 13)
 Deserowy Raj
 Przestrzeń
@@ -282,27 +282,27 @@ Odkrycie - Chronos
 Przygoda
 Apokalipsa
 Podróż
-The Mathematics
-The Drizzle
-The Wandering
+
+
+
 Pustka
 
 
 Brak
-Christmas Hat
-Bamboo Dragonfly
-Wizard Hat
-Mexican Hat
-Bowler Hat
-Sweet Dog Hat
-Sprite
 
-New level is downloading
-Please stay connected to the internet
-Input HUD
-Failed to download level
-Clear Cache
-Caches such as level & music data downloaded will be cleared, continue clearing?
+
+
+
+
+
+
+
+
+
+
+
+
+
 Obecna wersja (#Current#) jest nieaktualna, proszę zaktualizować do najnowszej wersji (#Latest#).
 Nie udało się załadować konfiguracji reklam
 Ponów próbę
@@ -361,19 +361,6 @@ Ponów próbę
 
 
 
-Max Studio
-WINDER Studio
-
-
-
-
-
-
-
-
-
-
-Come & Get It - Selena Gomez
 
 
 
@@ -393,10 +380,23 @@ Come & Get It - Selena Gomez
 
 
 
-https://dl-community.github.io/Docs/#/en/legal/eula
-https://dl-community.github.io/Docs/#/en/legal/privacy
-https://dl-community.github.io/Docs/#/dlce/level_information
-https://dl-community.github.io/Docs/#/en/dlce/localization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ukończono
 
 
@@ -446,7 +446,7 @@ Ukończono
 
 
 
-https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+
 
 
 
