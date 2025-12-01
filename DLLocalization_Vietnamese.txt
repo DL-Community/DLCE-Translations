@@ -489,11 +489,16 @@ Tắt
 Bật
 Khi tắt đi, các số liệu thống kê của bạn sẽ bị xóa và trò chơi sẽ không còn ghi dữ liệu trừ khi được bật lại. 
 Trò chơi đã lỗi thời, vui lòng kiểm tra các bản cập nhật. 
-
-
-
-
-
+Mã quy đổi
+Nhập mã quy đổi... 
+Đổi
+Quy đổi đang trong thời gian hồi, vui lòng thử lại sau. 
+Mã quy đổi không hợp lệ hoặc đã được dùng. 
+Đổi thành công với vật phẩm sau:
+Màn chơi: #NAME#
+Ngoại hình: #NAME#
+Mũ:#NAME#
+Sao x {0}
 
 
 
