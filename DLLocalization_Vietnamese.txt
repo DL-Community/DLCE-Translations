@@ -499,3 +499,4 @@ Màn chơi: #NAME#
 Ngoại hình: #NAME#
 Mũ:#NAME#
 Sao x {0}
+

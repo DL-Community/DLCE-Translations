@@ -499,3 +499,4 @@ AMD FidelityFX™ 超級解析度（#SHORT#）
 皮膚「#NAME#」
 裝飾「#NAME#」
 {0}個音符
+Head in the Clouds
