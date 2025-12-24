@@ -500,3 +500,4 @@ AMD 超級分辨率鋭畫技術（#SHORT#）
 裝飾『#NAME#』
 {0}個音符
 Head in the Clouds
+用户協議

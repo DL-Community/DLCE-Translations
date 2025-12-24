@@ -500,3 +500,4 @@ Redeem Item Skin
 Redeem Item Hat
 Notes x{0}
 Head in the Clouds
+Terms of Service

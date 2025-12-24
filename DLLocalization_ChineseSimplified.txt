@@ -500,3 +500,4 @@ AMD 超级分辨率锐画技术（#SHORT#）
 装饰『#NAME#』
 {0}个音符
 Head in the Clouds
+用户协议
