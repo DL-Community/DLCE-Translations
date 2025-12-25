@@ -501,3 +501,4 @@ AMD FidelityFX™ 超級解析度（#SHORT#）
 {0}個音符
 Head in the Clouds
 用戶協議
+偵測到非法執行環境，無法啟動遊戲
