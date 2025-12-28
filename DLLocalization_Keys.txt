@@ -502,3 +502,5 @@ Notes x{0}
 Head in the Clouds
 Terms of Service
 Invalid environment integrity message
+Steam Overlay
+Monument Valley

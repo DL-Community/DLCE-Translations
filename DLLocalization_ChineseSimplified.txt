@@ -502,3 +502,5 @@ AMD 超级分辨率锐画技术（#SHORT#）
 Head in the Clouds
 用户协议
 检测到非合规运行环境，无法启动游戏
+Steam 游戏内界面
+纪念碑谷

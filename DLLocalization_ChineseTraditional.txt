@@ -502,3 +502,5 @@ AMD FidelityFX™ 超級解析度（#SHORT#）
 Head in the Clouds
 用戶協議
 偵測到非法執行環境，無法啟動遊戲
+Steam 遊戲內介面
+紀念碑谷
