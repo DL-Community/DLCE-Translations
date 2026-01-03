@@ -499,7 +499,11 @@ Màn chơi: #NAME#
 Ngoại hình: #NAME#
 Mũ:#NAME#
 Sao x {0}
-
+Đầu Óc Trên Mây
+Điều khoản dịch vụ
+Quá trình xác minh tính toàn vẹn môi trường trò chơi đã thất bại.
+Lớp phủ Steam
+Thung Lũng Tượng Đài
 
 
 
