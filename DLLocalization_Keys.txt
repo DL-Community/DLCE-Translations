@@ -504,3 +504,6 @@ Terms of Service
 Invalid environment integrity message
 Steam Overlay
 Monument Valley
+Cheetah Teddy
+TheWizardOfOz
+The Loong

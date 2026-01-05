@@ -504,3 +504,6 @@ Terms of Service
 Game environment integrity verification failed.
 Steam Overlay
 Monument Valley
+Cheetah Teddy
+The Wizard of Oz
+The Loong

@@ -504,3 +504,6 @@ Head in the Clouds
 偵測到非法執行環境，無法啟動遊戲
 Steam 遊戲內介面
 紀念碑谷
+Cheetah 玩偶
+綠野仙蹤
+龍
