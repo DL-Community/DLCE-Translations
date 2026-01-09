@@ -81,7 +81,7 @@ Spiel verlassen
 DSP-Puffergröße
 Audio Ausgabeverzögerung
 Touch Eingabeverzögerung
-v#Version# BETA BUILD
+
 Gyroskopeffekte
 Game Center
 Einsammeln

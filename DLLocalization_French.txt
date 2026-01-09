@@ -81,7 +81,7 @@ Je n’accepte pas
 Taille de tampon DSP
 Délai de sortie audio
 Délai d’entrée
-v#Version# BETA BUILD
+
 Effets du gyroscope
 Game Center
 Récupérer

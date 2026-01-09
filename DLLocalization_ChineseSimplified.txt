@@ -81,7 +81,7 @@ Discord
 I/O 缓冲区大小
 音频输出延迟
 触控响应延迟
-v#Version# 开发中内容
+测试版本 ##UID# 严禁泄露
 陀螺仪效果
 Game Center
 领取

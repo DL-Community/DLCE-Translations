@@ -81,7 +81,7 @@ Nie wyrażam zgody
 Rozmiar bufora CPS
 Opóźnienie wyjścia audio
 Opóźnienie rejestracji dotyku
-v#Version# WERSJA BETA
+
 Żyroskop
 
 Zbierz

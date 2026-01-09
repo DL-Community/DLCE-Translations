@@ -81,7 +81,7 @@ Keluar dari permainan
 Ukuran Buffer DSP
 Latensi Keluaran Audio
 Latensi Input Sentuh
-v#Version# BETA BUILD
+
 Efek Giroskop
 Game Center
 Klaim

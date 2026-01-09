@@ -81,7 +81,7 @@ YouTube
 DSP Бафер Големина
 Доцнење на аудио излезот
 Opóźnienie rejestracji dotyku
-v#Version# BETA BUILD
+
 Гироскоп
 Game Center
 Прифати

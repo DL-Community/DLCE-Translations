@@ -81,7 +81,7 @@ Exit game
 I/O Buffer Size
 Audio Output Latency
 Touch Input Latency
-v#Version# BETA BUILD
+BETA BUILD ##UID# DO NOT LEAK
 Gyroscope Effects
 Game Center
 Claim

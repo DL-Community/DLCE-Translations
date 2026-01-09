@@ -81,7 +81,7 @@ Sair do jogo
 DSP Buffer
 Delay do Áudio
 Delay do Toque
-v#Version# BETA
+
 Menu 3D
 Seu Game Center
 Toque para resgatar!

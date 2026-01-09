@@ -81,7 +81,7 @@ Discord
 I/O 緩衝區域大小
 音訊輸出延遲
 觸控回應延遲
-v#Version# 測試版本
+測試版本 ##UID# 嚴禁洩露
 陀螺儀效果
 Game Center
 領取
@@ -444,7 +444,7 @@ DL RS 同人遊戲通用帳戶系統
 玩家資料載入中 ⋯⋯
 玩家資料載入失敗
 登出
-確實要登出帳戶「#USERNAME#」嗎？
+確定要登出帳戶「#USERNAME#」嗎？
 開源程式碼庫
 https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 統計
@@ -453,7 +453,7 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 皇冠
 死亡次數
 開始次數
-复活次數
+復活次數
 通關次數
 拾取鑽石數
 拾取皇冠數
@@ -494,13 +494,13 @@ AMD FidelityFX™ 超級解析度（#SHORT#）
 兌換
 兌換冷卻中，請稍後再試。
 兌換碼無效或已被使用。
-已成功兌換如下物品：
+已成功兌換以下物品：
 關卡「#NAME#」
 皮膚「#NAME#」
 裝飾「#NAME#」
 {0}個音符
 Head in the Clouds
-用戶協議
+使用者協議
 偵測到非法執行環境，無法啟動遊戲
 Steam 遊戲內介面
 紀念碑谷

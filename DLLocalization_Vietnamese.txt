@@ -81,7 +81,7 @@ Thoát game
 Kích thước bộ đệm I/O
 Độ trễ âm thanh đầu ra
 Độ trễ cảm ứng đầu vào
-v#Version# BẢN DỰNG BETA
+
 Cảm biến con quay
 Game Center
 Thu nhập

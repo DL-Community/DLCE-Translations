@@ -81,7 +81,7 @@ zh-L
 聲渠隙
 音遲
 觸應遲滯
-v#Version# 測試版本
+
 方位儀
 Game Center
 領賞
