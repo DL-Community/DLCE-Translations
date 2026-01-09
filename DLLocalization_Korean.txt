@@ -287,7 +287,7 @@ All About Us
 방랑자
 공허
 추억
-
+Storm of Anger
 없음
 크리스마스 모자
 헬리콥터
@@ -504,7 +504,6 @@ OAuth를 통한 로그인
 게임 환경 무결성 검증에 실패했습니다.
 Steam 오버레이
 Monument Valley
-
-
+Cheetah Teddy
 오즈의 마법사
 중국 용
