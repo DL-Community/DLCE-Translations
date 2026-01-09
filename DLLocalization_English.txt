@@ -473,7 +473,7 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 Planet
 Star
 Go to #LEVELNAME#
-Based on your device's performance, using this option may cause lag or stuttering during gameplay.
+Using this option may cause stuttering or incorrect image display during gameplay.
 Warning
 Audio Device
 Built-In Speaker
