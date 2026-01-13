@@ -81,7 +81,7 @@ Thoát game
 Kích thước bộ đệm I/O
 Độ trễ âm thanh đầu ra
 Độ trễ cảm ứng đầu vào
-
+BẢN DỰNG BETA ##UID# CẤM CÔNG KHAI
 Cảm biến con quay
 Game Center
 Thu nhập
@@ -185,7 +185,7 @@ Lộn xộn
 Ngọn núi
 Bút lông
 Phù thuỷ ma thuật
-
+Rắn Slither
 Domino
 Mô-đun
 Ánh sáng
@@ -287,7 +287,7 @@ Mưa Phùn
 Du Mục
 Sự Trống Rỗng
 Ký Ức
-Cơn bão giận dữ
+Cơn Bão Giận Dữ
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
@@ -325,8 +325,8 @@ Xóa tiến trình trò chơi
 Kỷ lục mới
 Hoàn Hảo
 Không bán
-Thử thách nốt nhạc
-Cửa hàng nốt nhạc
+Thử Thách Nốt Nhạc
+Cửa hàng Nốt Nhạc
 Bán hết
 Đá quý × {0}
 Cube × {0}
