@@ -473,12 +473,12 @@ Khử răng cưa hình thái dưới điểm ảnh (#SHORT#)
 Hành tinh
 Ngôi sao
 Đến #LEVELNAME#
-
+Sử dụng tính năng này có thể gây ra màn hình trập hoặc hình ảnh hiển thị không chính xác trong khi chơi. 
 Cảnh báo
 Âm thanh thiết bị
 Loa tích hợp sẵn
 Loa
-Không thể tìm thấy màn chơi khớp với từ khóa này
+Không thể tìm thấy màn chơi khớp với từ khóa này.
 Khớp toàn bộ
 Khớp bất kì
 Có thể chơi được
@@ -497,7 +497,7 @@ Mã quy đổi không hợp lệ hoặc đã được dùng.
 Đổi thành công với vật phẩm sau:
 Màn chơi: #NAME#
 Ngoại hình: #NAME#
-Mũ:#NAME#
+Mũ: #NAME#
 Sao x {0}
 Đầu Óc Trên Mây
 Điều khoản dịch vụ
