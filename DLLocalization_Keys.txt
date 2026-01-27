@@ -507,3 +507,10 @@ Monument Valley
 Cheetah Teddy
 TheWizardOfOz
 The Loong
+Audio Mixer
+Mono
+Stereo
+Surround4
+Surround5
+Surround51
+Surround71

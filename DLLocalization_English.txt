@@ -507,3 +507,10 @@ Monument Valley
 Cheetah Teddy
 The Wizard of Oz
 The Loong
+Audio Mixer
+Mono
+Stereo
+4.0 Surround
+5.0 Surround
+5.1 Surround
+7.1 Surround
