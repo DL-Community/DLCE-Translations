@@ -514,5 +514,5 @@ Stereo
 5.0 Surround
 5.1 Surround
 7.1 Surround
-Select Mode
+Select Level
 Level Collection
