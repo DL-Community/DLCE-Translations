@@ -515,4 +515,4 @@ Stereo
 5.1 Surround
 7.1 Surround
 Select Mode
-Multi-mode level
+Level Collection
