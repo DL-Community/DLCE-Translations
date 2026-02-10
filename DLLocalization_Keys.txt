@@ -516,3 +516,5 @@ Surround51
 Surround71
 Select Level
 Level Collection
+Purchase on Steam
+Buy Steam DLC Tip
