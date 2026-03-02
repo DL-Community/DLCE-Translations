@@ -86,7 +86,7 @@ Effets du gyroscope
 Game Center
 Récupérer
 Gemmes gratuites quotidiennes
-Récupérable d’ici {0} h {1} min
+Récupérable d’ici {0}
 Équipé
 Équiper
 Reprises gratuites : {0}/{1}
@@ -507,6 +507,10 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 Mascotte Cheetah
 Le Magicien d'Oz
 Dragon Chinois
+
+
+
+
 
 
 

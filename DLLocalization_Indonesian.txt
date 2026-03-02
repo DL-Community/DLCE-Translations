@@ -86,7 +86,7 @@ Efek Giroskop
 Game Center
 Klaim
 Permata Gratis Harian
-Dapatkan setelah {0}h {1}m
+Dapatkan setelah {0}
 Dipakai
 Pakai
 Kebangunan Gratis: {0}/{1}
@@ -520,3 +520,7 @@ Beli di Steam
 Beli dan instal DLC ini di Toko Steam
 Warisan
 Pengajuan Level
+
+
+
+

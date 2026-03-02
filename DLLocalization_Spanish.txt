@@ -15,7 +15,7 @@ Nuevo nivel desbloqueado
 Consigue {0} Gratis
 Comprar {0} Cubos
 Energía Infinita
-Recargar en : {0}s
+Recargar en : {0}
 Los cubos recargado. Vamos a bailar otra vez.
 toca para jugar
 
@@ -507,6 +507,10 @@ Max.
 Peluche de Cheetah
 El Mago de Oz
 Dragón Chino
+
+
+
+
 
 
 

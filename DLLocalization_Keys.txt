@@ -520,3 +520,7 @@ Purchase on Steam
 Buy Steam DLC Tip
 Legacy
 Level Submission
+TimeSpan.ss
+TimeSpan.mmss
+TimeSpan.hhmmss
+TimeSpan.hhmm

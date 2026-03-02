@@ -15,7 +15,7 @@ Vĩnh viễn
 Lấy {0} miễn phí
 Mua {0} Cube
 Cube không giới hạn
-Nạp lại trong : {0}s
+Nạp lại trong : {0}
 Cube đã nạp xong. Hãy tiếp tục tận hưởng giai điệu nào.
 Chạm để bắt đầu
 OK
@@ -86,7 +86,7 @@ Cảm biến con quay
 Game Center
 Thu nhập
 Đá quý hằng ngày
-Lấy sau {0}h {1}m
+Lấy sau {0}
 Đã trang bị
 Trang bị
 Hồi sinh miễn phí: {0}/{1}
@@ -519,4 +519,8 @@ Bộ sưu tầm các màn chơi
 Mua trên Steam
 Hãy mua và tải nội dung bổ sung này tại cửa hàng Steam
 Di sản
+
+
+
+
 

@@ -15,7 +15,7 @@ Neues Level freigeschaltet:
 Bekommen Sie {0} Kostenlos
 Kaufen Sie {0} Würfel
 Unendliche Energie
-Aufladung in : {0}s
+Aufladung in : {0}
 Würfel aufgeladen. Let's dance again.
 Tippe zum spielen
 OK
@@ -86,7 +86,7 @@ Gyroskopeffekte
 Game Center
 Einsammeln
 Täglich kostenlose Edelsteine
-Einsammeln nach {0}h {1}m
+Einsammeln nach {0}
 Ausgerüstet
 Ausrüsten
 Kostenlose Wiederbelebungen: {0}/{1}
@@ -519,4 +519,8 @@ Chinesischer Drache
 
 
 Legacy
+
+
+
+
 
