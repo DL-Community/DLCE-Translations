@@ -1,66 +1,203 @@
 Español
 English
 
-
+Dancing Line
 Idioma
-SÍGUENOS
-CARGANDO
+SIGUENOS
+Cargando
 Consigue Cubos
 para la mejor experienca\nusar auriculares
 Video no disponible
 Mira un video para desbloquearlo temporalmente
 Desbloqueo Gratuito
 Desbloquear
-Nuevo nivel desbloqueado
+Nuevo nivel desbloqueado:
 Consigue {0} Gratis
 Comprar {0} Cubos
-Energía Infinita
-Recargar en : {0}s
-Los cubos recargado. Vamos a bailar otra vez.
+Cubos Infinitos
+Recarga en : {0}s
+Cubos recargados. Vamos a bailar otra vez.
 toca para jugar
 
-Sí
+Si
 
 Encendido
 Apagado
 Cancelar
 En pausa
 Calidad
-Muy bajo
-Bajo
+Muy baja
+Baja
 Medio
 Alta
-Mas Alta
-Max.
+
+Maxima
+
+Sonido
+Sincronización Vertical
+Sincronización
+Auto Ajuste
+Retraso de la Musica
+Probar los toques en pantalla
+Confirmar Salida
+¿Quieres salir del juego?
+Sobre nosotros
+
+Diseñadores de Niveles
+Equipo de Localización
+
+
+Acuerdo de Licencia de Usuario Final
+Politica de Privacidad
+
+Modo de Pantalla
+Pantalla Completa
+Ventana sin Bordes
+Ventana
+Retrato
+Paisaje
+Resolución
+¿Continuar desde el Último Punto de Control?
+Necesitas #X%# mas para el #Nuevo Record#
+Necesitas #X%# mas para el #Siguiente Punto de Control#
+Necesitas #X%# mas para #Completar el nivel#
+Gratis
+Continuar
+Busqueda
+Eliminar Datos
+Datos eliminados, por favor reinicia el juego.
+Tus datos serán eliminados una vez el proceso se complete. Por favor proceda con precaución.
+Por favor tenga en cuenta que una vez finalice este proceso, tus datos de Dancing Line (esto incluye información personal y cualquier otros datos generados al usar productos de Dancing Line) serán completamente eliminados y no serán recuperables. Por favor elija y proceda con precaución.
+Eliminar
+Eliminandos datos…\nTus datos en la nube y local serán limpiados
+Accesibilidad
+Puedes superar el X% en Dancing Line? Ven a jugar conmigo!
+Ver registros de depuración
+Restaurar por defecto
+Legal y Privacidad
+Antes de usar la aplicación, debes estar de acuerdo con nuestra Politica de Privacidad y Acuerdo Final de Usuario.
+Aceptar y continuar
+Salir del juego
+I/O Tamaño del Buffer
+Retraso de la Salida de Audio
+Retraso de la Señal de los toques
+
+Efectos de Giroscopio
+Centro de Juego
+Reclamar
+Estrellas Diarias Gratis
+Reclamable despues de {0}h {1}m
+Equipado
+Equipar
+Resurreciones Gratis: {0}/{1}
+¿Quieres gastar {0} estrellas para desbloquear la linea guia temporalmente?
+Estrellas gratis diarias no reclamables, el tiempo de verificación falló.
+Ajustes Avanzados
+Este ajuste solo aplica al nivel actual, permitiendo ajustes individuales por cada nivel basados en el retraso de audio global.\n\n<b>Retraso de audio actual = Retraso del Nivel + Retraso Global</b>
+Recompensas
+Recompensas: {0}
+Recolectaste {0} diamantes en el nivel: {1}
+Recolectaste {0} coronas en el nivel: {1}
+Nivel completado: {0}
+Sigue el ritmo, y toca en cualquier lado para cambiar de dirección.
+Este juego debe ser jugado con la música encendida.
+No deslices. Eso no funcionará.
+Tocar mientras estas en el aire no es necesario.
+No toques al entrar a la piramide a los 45°
+Puedes cambiar el diseño del personaje al presionar el cubo flotante.
+Recolecta todos los diamantes y coronas a la perfección para completar el nivel.
+Logros
+[Oculto] 
+Completado: #x#
+#x# - Completado
+#x# - 10 Diamantes
+#x# - 3 Coronas
+Completa #x#
+Recolecta todos los diamantes en #x#
+Recolecta todas las coronas en #x#
+El Secreto de Dragonia
+Encuentra al menos un camino oculto en  Las Historias de Dragonia
+¿Esa es Paimon?
+¿Qué tal si exploramos esa area más tarde?
+M.A.Z.E.
+Encuentra el camino oculto en  El Laberinto 
+Pacifista
+Entra en la ruta pacífica en  La Guerra
+Fiesta del Segundo Aniversario
+Feliz Navidad……\ny Feliz Segundo Aniversario
+Maestro sin Gemas
+Encuentra una salida de la mazmorra en  La Aventura
+Cielo Estrellado
+La extensión estrellada promete deliciosas sorpresas
+Asignación de Teclas
+Esperando por Entrada del Teclado…\nPresiona la tecla que deseas usar
+Atrás
+Pausar el Juego
+Control del Personajes
+Linea Guía
+Ajustes
+Diseños
+Izquierda
+Derecha
+Confirmar
+Reiniciar
+Logros
+Retroceso
+
+
+
+Espacio
+Izquierda WIN
+Derecha WIN
+Izquierda CMD
+Derecha CMD
 
 
 
 
+Shift Izquierdo
+Shift Derecho
+Opcion Izquierda
+Opcion Derecha
+CTRL Izquierda
+CTRL Derecho
+Opcion Izquierda
+Opcion Derecha
+Menu
+Completado
+Punto de Control
+Feliz Navidad
+Recolectar
+Tocar
+Esto no puede pasar sin ti.\nSomos uno solo.
+Porque…
+Todo va a peor…
+El Fin del Mundo
+Sigue tu propia estrella! -Dante
+Una vez que hayas volado, caminarás por la tierra con los ojos mirando al cielo \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+No estás solo.
+En asuntos de amor y comida\nno te arrepientas de nada.
+Normal
+Audifonos
+Papel
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Caos
+Montañas
+Arbusto Chino
+Bruja Magica
+Reptador
+Dominos
+Modulo
+Luz
+Bola de Nieve
+Flecha
+Ballena
+Neblina de Nieve
+Estalagmitas
+Payaso
+Nube Voladora
+Serpiente
+Gelatina
 
 
 
