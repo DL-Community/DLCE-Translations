@@ -306,9 +306,9 @@ Caches such as level & music data downloaded will be cleared, continue clearing?
 The current version #Current# is out of date, you are required to update to at least #Latest# to play.
 Failed to load ad configurations
 Retry
-Checking Downloadable Content
+Checking for Updates…
 Updating Configurations
-Downloading mandatory content
+Downloading Updates
 The journey isn't over…
 More are coming…
 Thanks for all, Dancing Line players!
@@ -524,3 +524,5 @@ Level Submission
 {0}m {1}s
 {0}h {1}m {3}s
 {0}h {1}m
+Download failed. Retry?
+PreDownload.Fail.Content

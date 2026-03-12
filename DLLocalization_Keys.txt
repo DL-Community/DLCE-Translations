@@ -306,9 +306,9 @@ Clear Cache Description
 UpdateRequiredText
 AdConfigsLoadFailed
 Retry
-GameInitStatus.InitAddressables
+GameInitStatus.CheckUpdate
 GameInitStatus.InitConfigs
-GameInitStatus.PreDownload
+GameInitStatus.DownloadUpdates
 The journey isn't over...
 More are coming...
 Thanks for all, Dancing Line players!
@@ -524,3 +524,5 @@ TimeSpan.ss
 TimeSpan.mmss
 TimeSpan.hhmmss
 TimeSpan.hhmm
+PreDownload.Fail.Content
+PreDownload.Prompt.Content
