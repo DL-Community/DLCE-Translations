@@ -524,5 +524,5 @@ Level Submission
 {0}m {1}s
 {0}h {1}m {3}s
 {0}h {1}m
-Download failed. Retry?
-PreDownload.Fail.Content
+Updates download failed. Retry?
+New updates available, {0} download required. Continue?
