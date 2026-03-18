@@ -526,3 +526,5 @@ TimeSpan.hhmmss
 TimeSpan.hhmm
 PreDownload.Fail.Content
 PreDownload.Prompt.Content
+The Legends
+CheckUpdate.Fail.Content
