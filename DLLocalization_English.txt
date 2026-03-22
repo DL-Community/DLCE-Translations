@@ -528,3 +528,4 @@ Updates download failed. Retry?
 New updates available, {0} download required. Continue?
 The Forgotten Haven
 Failed to check for update, retry?
+Updates download failed. Retrying…

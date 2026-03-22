@@ -528,3 +528,4 @@ PreDownload.Fail.Content
 PreDownload.Prompt.Content
 The Legends
 CheckUpdate.Fail.Content
+PreDownload.Fail.Retry
