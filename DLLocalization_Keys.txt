@@ -529,3 +529,4 @@ PreDownload.Prompt.Content
 The Legends
 CheckUpdate.Fail.Content
 PreDownload.Fail.Retry
+LevelTags.Collab
