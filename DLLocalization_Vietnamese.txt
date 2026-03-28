@@ -519,7 +519,17 @@ Bộ sưu tầm các màn chơi
 Mua trên Steam
 Hãy mua và tải nội dung bổ sung này tại cửa hàng Steam
 Di sản
+Nộp màn chơi
 
+
+
+
+Tải xuống các bản cập nhật thất bại. Thử lại?
+Có bản cập nhật mới, cần {0} để tải xuống. Tiếp tục?
+Bến Cảng Bị Lãng Quên
+Kiểm tra cập nhật thất bại. Thử lại?
+Tải xuống các bản cập nhật thất bại. Đang thử lại...
+Hợp tác
 
 
 
