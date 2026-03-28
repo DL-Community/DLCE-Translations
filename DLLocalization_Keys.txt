@@ -330,7 +330,7 @@ Notes Store
 Sold out
 Coins x{0}
 Cubes x{0}
-Challenge
+Musicial.Challenge
 NoteChallengeTime
 Rules
 MusicActivityTitle
@@ -520,13 +520,18 @@ Purchase on Steam
 Buy Steam DLC Tip
 Legacy
 Level Submission
-TimeSpan.ss
-TimeSpan.mmss
-TimeSpan.hhmmss
-TimeSpan.hhmm
+TimeSpan.Seconds
+TimeSpan.MinutesSeconds
+TimeSpan.HoursMinutesSeconds
+TimeSpan.HoursMinutes
 PreDownload.Fail.Content
 PreDownload.Prompt.Content
 The Legends
 CheckUpdate.Fail.Content
 PreDownload.Fail.Retry
 LevelTags.Collab
+Musicial.SkipLevel
+Musicial.SkipLevel.Prompt
+Musicial.SkipLevel.Prompt.Fail
+TimeSpan.DaysHours
+Musicial.Store.RefreshTime

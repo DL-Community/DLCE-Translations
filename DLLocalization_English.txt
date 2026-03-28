@@ -530,3 +530,8 @@ The Forgotten Haven
 Failed to check for update, retry?
 Updates download failed. Retrying…
 Collab
+Skip Level
+Use {0} Notes to skip this challenge level?
+Not enough Notes. Need at least {0} to skip.
+{0}d {1}h
+Refreshes in: {0}
