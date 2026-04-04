@@ -530,7 +530,11 @@ Bến Cảng Bị Lãng Quên
 Kiểm tra cập nhật thất bại. Thử lại?
 Tải xuống các bản cập nhật thất bại. Đang thử lại...
 Hợp tác
+Bỏ qua màn chơi
+Sử dụng {0} Nốt Nhạc để bỏ qua thử thách này?
+Không đủ Nốt Nhạc. Cần ít nhất {0} Nốt Nhạc để bỏ qua.
 
+Làm mới lúc: {0}
 
 
 
