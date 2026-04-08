@@ -136,7 +136,7 @@ Pause
 Haracter
 HintPath
 Settings
-Skins
+Skin
 Left
 Right
 Submit
@@ -306,9 +306,9 @@ Clear Cache Description
 UpdateRequiredText
 AdConfigsLoadFailed
 Retry
-GameInitStatus.InitAddressables
+GameInitStatus.CheckUpdate
 GameInitStatus.InitConfigs
-GameInitStatus.PreDownload
+GameInitStatus.DownloadUpdates
 The journey isn't over...
 More are coming...
 Thanks for all, Dancing Line players!
@@ -330,7 +330,7 @@ Notes Store
 Sold out
 Coins x{0}
 Cubes x{0}
-Challenge
+Musicial.Challenge
 NoteChallengeTime
 Rules
 MusicActivityTitle
@@ -504,3 +504,35 @@ Terms of Service
 Invalid environment integrity message
 Steam Overlay
 Monument Valley
+Cheetah Teddy
+TheWizardOfOz
+The Loong
+Audio Mixer
+Mono
+Stereo
+Surround4
+Surround5
+Surround51
+Surround71
+Select Level
+Level Collection
+Purchase on Steam
+Buy Steam DLC Tip
+Legacy
+Level Submission
+TimeSpan.Seconds
+TimeSpan.MinutesSeconds
+TimeSpan.HoursMinutesSeconds
+TimeSpan.HoursMinutes
+PreDownload.Fail.Content
+PreDownload.Prompt.Content
+The Legends
+CheckUpdate.Fail.Content
+PreDownload.Fail.Retry
+LevelTags.Collab
+Musicial.SkipLevel
+Musicial.SkipLevel.Prompt
+Musicial.SkipLevel.Prompt.Fail
+TimeSpan.DaysHours
+Musicial.Store.RefreshTime
+Decoration
