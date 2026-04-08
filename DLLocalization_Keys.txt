@@ -136,7 +136,7 @@ Pause
 Haracter
 HintPath
 Settings
-Skins
+Skin
 Left
 Right
 Submit
@@ -535,3 +535,4 @@ Musicial.SkipLevel.Prompt
 Musicial.SkipLevel.Prompt.Fail
 TimeSpan.DaysHours
 Musicial.Store.RefreshTime
+Decoration

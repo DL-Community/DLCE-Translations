@@ -136,7 +136,7 @@ Pause Game
 Character Control
 Guidance Line
 Settings
-Skins
+Skin
 Left
 Right
 Confirm
@@ -535,3 +535,4 @@ Use {0} Notes to skip this challenge level?
 Not enough Notes. Need at least {0} to skip.
 {0}d {1}h
 Refreshes in: {0}
+Decoration
