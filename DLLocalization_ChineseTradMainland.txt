@@ -294,7 +294,7 @@ Storm of Anger
 巫師帽
 熱帶帽
 禮帽
-SweetDog帽
+SweetDog 帽
 精靈
 瑞鼠
 新關卡正在下載
@@ -390,7 +390,7 @@ QQ群
 騰訊頻道
 渲染精度
 自動
-裝飾
+帽子
 解除裝備
 科幻
 https://dl-community.github.io/Docs/#/legal/eula
@@ -465,7 +465,7 @@ https://dlce.fengyan.ip-ddns.com/#/legal/open-source
 音符消耗
 已擁有皮膚
 已擁有裝飾
-多重採樣抗鋸齒（#SHORT#）
+多重采樣抗鋸齒（#SHORT#）
 快速近似抗鋸齒（#SHORT#）
 時域抗鋸齒（#SHORT#）
 子像素抗鋸齒（#SHORT#）
@@ -505,7 +505,7 @@ Head in the Clouds
 Steam 游戲内界面
 紀念碑谷
 泰迪小豹
-緑野仙蹤
+緑野仙踪
 龍
 混音器
 單聲道

@@ -294,7 +294,7 @@ Storm of Anger
 巫師帽
 熱帶帽
 禮帽
-SweetDog帽
+SweetDog 帽
 精靈
 瑞鼠
 新關卡正在下載
@@ -390,7 +390,7 @@ QQ群
 騰訊頻道
 渲染精細度
 自動
-裝飾
+帽子
 解除裝備
 科幻
 https://dl-community.github.io/Docs/#/legal/eula
