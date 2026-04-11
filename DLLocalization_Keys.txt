@@ -536,3 +536,4 @@ Musicial.SkipLevel.Prompt.Fail
 TimeSpan.DaysHours
 Musicial.Store.RefreshTime
 Decoration
+FPSSettingButton.VSyncWarning

@@ -536,3 +536,4 @@ Not enough Notes. Need at least {0} to skip.
 {0}d {1}h
 Refreshes in: {0}
 Decoration
+VSync is currently enabled. Frame rate settings only take effect when VSync is disabled.\nDo you want to disable VSync?
