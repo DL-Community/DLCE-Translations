@@ -15,7 +15,7 @@ Vĩnh viễn
 Lấy {0} miễn phí
 Mua {0} Cube
 Cube không giới hạn
-Nạp lại trong : {0}s
+Nạp lại trong : {0}
 Cube đã nạp xong. Hãy tiếp tục tận hưởng giai điệu nào.
 Chạm để bắt đầu
 OK
@@ -81,12 +81,12 @@ Thoát game
 Kích thước bộ đệm I/O
 Độ trễ âm thanh đầu ra
 Độ trễ cảm ứng đầu vào
-v#Version# BẢN DỰNG BETA
+BẢN DỰNG BETA ##UID# CẤM CÔNG KHAI
 Cảm biến con quay
 Game Center
 Thu nhập
 Đá quý hằng ngày
-Lấy sau {0}h {1}m
+Lấy sau {0}
 Đã trang bị
 Trang bị
 Hồi sinh miễn phí: {0}/{1}
@@ -185,7 +185,7 @@ Lộn xộn
 Ngọn núi
 Bút lông
 Phù thuỷ ma thuật
-
+Rắn Slither
 Domino
 Mô-đun
 Ánh sáng
@@ -287,7 +287,7 @@ Mưa Phùn
 Du Mục
 Sự Trống Rỗng
 Ký Ức
-Cơn bão giận dữ
+Cơn Bão Giận Dữ
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
@@ -325,8 +325,8 @@ Xóa tiến trình trò chơi
 Kỷ lục mới
 Hoàn Hảo
 Không bán
-Thử thách nốt nhạc
-Cửa hàng nốt nhạc
+Thử Thách Nốt Nhạc
+Cửa hàng Nốt Nhạc
 Bán hết
 Đá quý × {0}
 Cube × {0}
@@ -473,12 +473,12 @@ Khử răng cưa hình thái dưới điểm ảnh (#SHORT#)
 Hành tinh
 Ngôi sao
 Đến #LEVELNAME#
-Dựa vào hiệu suất của thiết bị, sử dụng tùy chọn này có thể gây ra giật lag hoặc màn trập khi chơi. 
+Sử dụng tính năng này có thể gây ra màn hình trập hoặc hình ảnh hiển thị không chính xác trong khi chơi. 
 Cảnh báo
 Âm thanh thiết bị
 Loa tích hợp sẵn
 Loa
-Không thể tìm thấy màn chơi khớp với từ khóa này
+Không thể tìm thấy màn chơi khớp với từ khóa này.
 Khớp toàn bộ
 Khớp bất kì
 Có thể chơi được
@@ -497,14 +497,42 @@ Mã quy đổi không hợp lệ hoặc đã được dùng.
 Đổi thành công với vật phẩm sau:
 Màn chơi: #NAME#
 Ngoại hình: #NAME#
-Mũ:#NAME#
+Mũ: #NAME#
 Sao x {0}
 Đầu Óc Trên Mây
 Điều khoản dịch vụ
 Quá trình xác minh tính toàn vẹn môi trường trò chơi đã thất bại.
 Lớp phủ Steam
 Thung Lũng Tượng Đài
+Gấu bông Cheetah
+Xứ Sở Của Oz
+Rồng Trung Quốc
+Bàn trộn âm thanh
+Âm thanh đơn
+Âm thanh nổi
+Âm thanh vòm 4.0
+Âm thanh vòm 5.0 
+Âm thanh vòm 5.1
+Âm thanh vòm 7.1
+Chọn màn chơi
+Bộ sưu tầm các màn chơi
+Mua trên Steam
+Hãy mua và tải nội dung bổ sung này tại cửa hàng Steam
+Di sản
+Nộp màn chơi
 
 
 
+
+Tải xuống các bản cập nhật thất bại. Thử lại?
+Có bản cập nhật mới, cần {0} để tải xuống. Tiếp tục?
+Bến Cảng Bị Lãng Quên
+Kiểm tra cập nhật thất bại. Thử lại?
+Tải xuống các bản cập nhật thất bại. Đang thử lại...
+Hợp tác
+Bỏ qua màn chơi
+Sử dụng {0} Nốt Nhạc để bỏ qua thử thách này?
+Không đủ Nốt Nhạc. Cần ít nhất {0} Nốt Nhạc để bỏ qua.
+
+Làm mới lúc: {0}
 

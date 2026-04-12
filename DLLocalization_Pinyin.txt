@@ -15,7 +15,7 @@ xīn guānqiǎ yǐ jiěsuǒ:
 miǎnfèi huòqǔ {0} gè
 gòumǎi {0} gè fāngkuài
 wúxiàn fāngkuài
-jù huīfù hái yǒu: {0} miǎo
+jù huīfù hái yǒu: {0}
 fāngkuài yǐ bǔchōng wánbì, kuài lái jìxù tiàowǔ ba！
 qīngchù kāishǐ
 quèrèn
@@ -81,12 +81,12 @@ huīfù mòrèn
 I/O huǎnchōngqǖ dàxiǎo
 yīnpín shūchū yánchí
 chùkòng xiǎngyìng yánchí
-v#Version# cèshì bǎnběn
+
 tuóluóyí xiàoguǒ
 Game Center
 lǐngqǔ
 měirì miǎnfèi bǎoshí
-zài {0}h {1}m zhīhòu lǐngqǔ
+zài {0} zhīhòu lǐngqǔ
 yǐ zhuāngbèi
 zhuāngbèi
 miǎnfèi fùhuó cìshù：{0}/{1}
@@ -306,7 +306,7 @@ guānqiǎ jí yīnyuè děng yǐ xiàzài de huǎncún wénjiàn jiāng bèi qī
 
 guǎnggào pèizhì jiā zǎi shībài
 chóngshì
-jiǎnchá xiàzài zīyuán
+
 huòqǔ pèizhì gēngxīn
 
 Lǚtú shàngwèi jiéshù,
@@ -447,6 +447,38 @@ wánchéng
 
 
 https://dlce.fengyan.ip-ddns.com/#/legal/open-source
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

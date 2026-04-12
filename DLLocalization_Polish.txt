@@ -15,7 +15,7 @@ Odblokowano nowy poziom:
 Zdobądź {0} za darmo
 Kup kostki: {0}
 Nieskończona energia
-Odnowienie za: {0}s
+Odnowienie za: {0}
 Kostki uzupełnione. Zatańczmy ponownie.
 dotknij, aby rozpocząć
 
@@ -81,12 +81,12 @@ Nie wyrażam zgody
 Rozmiar bufora CPS
 Opóźnienie wyjścia audio
 Opóźnienie rejestracji dotyku
-v#Version# WERSJA BETA
+
 Żyroskop
 
 Zbierz
 Darmowe Dzienne Klejnoty
-Zbierz za {0}h {1}m
+Zbierz za {0}
 Wybrana
 Wybierz
 Darmowe wznowienia: {0}/{1}
@@ -473,6 +473,38 @@ Ukończono
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maskotka Cheetah
 
 
 

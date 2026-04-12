@@ -15,7 +15,7 @@ Neues Level freigeschaltet:
 Bekommen Sie {0} Kostenlos
 Kaufen Sie {0} Würfel
 Unendliche Energie
-Aufladung in : {0}s
+Aufladung in : {0}
 Würfel aufgeladen. Let's dance again.
 Tippe zum spielen
 OK
@@ -81,12 +81,12 @@ Spiel verlassen
 DSP-Puffergröße
 Audio Ausgabeverzögerung
 Touch Eingabeverzögerung
-v#Version# BETA BUILD
+
 Gyroskopeffekte
 Game Center
 Einsammeln
 Täglich kostenlose Edelsteine
-Einsammeln nach {0}h {1}m
+Einsammeln nach {0}
 Ausgerüstet
 Ausrüsten
 Kostenlose Wiederbelebungen: {0}/{1}
@@ -495,6 +495,38 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 
 
 
+
+
+
+
+
+
+
+
+
+Cheetah-Teddy
+Der Zauberer von Oz
+Chinesischer Drache
+
+
+
+
+
+
+
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+Der vergessene Hafen
 
 
 

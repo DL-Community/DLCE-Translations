@@ -14,9 +14,9 @@ Desbloquear
 Nuevo nivel desbloqueado:
 Consigue {0} Gratis
 Comprar {0} Cubos
-Cubos Infinitos
-Recarga en : {0}s
-Cubos recargados. Vamos a bailar otra vez.
+Energía Infinita
+Recargar en : {0}
+Los cubos recargado. Vamos a bailar otra vez.
 toca para jugar
 
 Si
@@ -831,6 +831,38 @@ completado
 
 
 
+
+
+
+
+
+
+
+
+
+Peluche de Cheetah
+El Mago de Oz
+Dragón Chino
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El refugio olvidado
 
 
 

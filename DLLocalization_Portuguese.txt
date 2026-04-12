@@ -15,7 +15,7 @@ Novo nível desbloqueado:
 Obter {0} Gratuitamente
 Comprar {0} Cubos
 Obter Energia Infinita
-Recarregando em: {0}s
+Recarregando em: {0}
 Cubos recarregados. Vamos jogar novamente!
 Toque na tela para começar!
 OK
@@ -81,12 +81,12 @@ Sair do jogo
 DSP Buffer
 Delay do Áudio
 Delay do Toque
-v#Version# BETA
+
 Menu 3D
 Seu Game Center
 Toque para resgatar!
 Gemas Grátis Diárias
-Próxima recompensa em {0}h e {1}m!
+Próxima recompensa em {0}!
 Equipado
 Equipar
 Reviva Gratuitamente: {0}/{1}
@@ -495,6 +495,38 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 
 
 
+
+
+
+
+
+
+
+
+
+Pelúcia Cheetah
+O Mágico de Oz
+Dragão Chinês
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O Refúgio Esquecido
 
 
 
