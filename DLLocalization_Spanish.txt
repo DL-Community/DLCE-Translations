@@ -198,7 +198,206 @@ Payaso
 Nube Voladora
 Serpiente
 Gelatina
+Capa Magica
+Esqueleto Bomba
+Globo
+Bola de Fuego
+Piramide
+Bola
+Bola Cian
+Bola Negra
+Bola Simple
+Basquetbol
+Poder Estelar
 
+Sin nombre
+El Comienzo
+El Tiempo
+El Piano
+La Playa
+El Invierno
+La Savana
+El Oeste
+San Valentin
+Halloween
+El Callejon
+El Desierto
+La Tormenta
+La Tormenta
+Las Montañas
+Las Llanuras
+Las Llanuras
+El Laberinto
+La Tierra
+El Paraiso Pirotecnico
+La Nochebuena
+El Otoño
+El Cristal
+El Tercer Aniversario
+El Quinto Aniversario
+El Caos
+La Catedral
+La Catedral
+El Cuento del Marinero
+La Legenda del Asesino
+El Jarind Chino
+La Carrera
+Muy pronto
+El Fin - Theo5970
+El Romance
+La Primavera
+El Festival de Primavera
+El Samurai
+Los Cuentos de Dragonia
+El Patito Feo
+El Videojuego
+El Exodo
+El Oceano
+El Tauro
+El Sueño Celestial
+El Basquetbol
+La Fiesta de Navidad
+El Viaje Indio
+La Guerra
+The Mystery
+El Futbol
+La Evolucion del Hip Hop
+La Pascua
+Melodia de Primavera
+El Acertijo de Halloween
+El Parque de Atracciones
+Faded - Alan Walker
+Faded (Version Tutorial)
+Despacito
+Alone - Alan Walker
+Jardin Zen
+El Samurai HD
+El Rancho
+Faded - Alan Walker
+Todo Sobre Nosotros
+La Evolucion (P13)
+Dulcelandia
+El Space
+El Descubrimiento - Chronos
+La Aventura
+El Apocalipsis
+El Viaje
+Las Matematicas
+La Llovizna
+El Peregrino
+El Vacio
+La Memoria
+La Furia de la Tormenta
+Nada
+Gorro de Navidad
+Libelula de Bambu
+Sombrero de Mago
+Sombrero Mexicano
+Sombrero Bombim
+Sombrero de Perro Dulce
+Elfo
+Raton
+El nuevo nivel se esta descargando
+Por favor manten la conexion a internet
+Entrada HUD
+Fallo al descargar el nivel
+Borrar Cache
+Se borraran las caches como los datos de nivel y la musica descargada, ¿desea continuar con el borrado?
+La Version Actual #Current# esta Desactualizada, se necesita descargar la ultima #Latest# para jugar
+Fallo al cargar la configuracion de anuncios
+Reintentar
+Buscando Contenido Descargable
+Actualizando Configuraciones
+Descargando Contenido Necesario
+El Viaje no ha acabado…
+Mas cosas estan llegando…
+Gracias por todo, jugadores de Dancing Line!
+Actualizacion Requerida
+Ajuste de Sincronizacion Global
+Ajuste de Sincronizacion del Nivel
+Autocorreccion
+Compartir
+Copiar Texto
+Guardar Imagen
+Copiar Imagen
+Elige que Eliminar
+Eliminar Progreso del Juego
+Nuevo Record
+Perfecto
+No Disponible
+Misiones de Notas
+Tienda de Notas
+Vendido
+Estrellas × {0}
+Cubos × {0}
+Misiones
+Martes — Domingo
+Reglas
+Completa este Nivel Perfectamente para ganar Notas!
+Misiones de Notas Finalizado, Ven a Competir Luego!
+• En este Evento, tu mision es coleccionar cada diamante y corona, conquistar el nivel con un solo cubo, y recuerda no puedes revivir! Estas listo para este Reto?\n\n• Lineas Guia desactivadas durante la partida, asi que todo depente de tu habilidad!\n\n• Cuando completes el nivel perfectamente, no olvides regresar a la pagina del evento para reclamar tus recompensas!
+Fallo al conectarse a internet, asegurate de que tu conexion es estable e intenta de nuevo
+Item Reclamado
+Item #item# reclamado
+Quieres reclamar #item#?
+La Tienda se Actualiza cada Lunes
+Tienda de Notas Actualizada, echa un vistazo a las novedades!
+Las misiones de notas de la semana estan disponibles, ven y supera todos los niveles!
+Boliche
+Bola de Tenis
+Desafio completado : #Level#
+¿Continuar la descarga con datos móviles?
+Advertencia de Uso de Datos Moviles
+
+Un Error Desconocido!
+Esconder Cursor
+Cuando esta Detenido
+Mientras Juegas
+Nunca
+Oficial
+Remix
+Evento
+Temporada
+Original
+Heredado
+Hecho por fans
+Max Studio
+WINDER Studio
+Por favor Iniciar Sesion en el Centro de Juego en los Ajustes del Sistema
+Barra de Estado
+DLRS GAS
+Perfil
+Ajustes de Cuenta
+Usuario: {0}\nID: {1}
+Fotogramas
+Disposicion de Fotogramas
+Servidor
+Soporte Multi-Toque
+Ven y Tomalo - Selena Gomez
+Cancion
+Copiado al Portapapeles
+Icono de la App
+Exportar Progreso de Juego
+Importar Progreso de Juego
+El Arbol del Vacio
+Entra en el Camino Secreto en El Vacio
+Auto Clicker puede no ser preciso hasta que el nivel este descargado
+Mejorando la Base de Datos
+Por defecto
+Verde
+El Dueto
+Grupo QQ
+Canal QQ
+Resolucion de Renderizado
+Auto
+Sombreros
+Desequipar
+Sci-Fi
+https://dl-community.github.io/Docs/#/es/legal/eula
+https://dl-community.github.io/Docs/#/es/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/es/dlce/localization
+completado
 
 
 
