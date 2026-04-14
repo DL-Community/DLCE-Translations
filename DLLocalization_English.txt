@@ -537,3 +537,6 @@ Not enough Notes. Need at least {0} to skip.
 Refreshes in: {0}
 Decoration
 VSync is currently enabled. Frame rate settings only take effect when VSync is disabled.\nDo you want to disable VSync?
+The server is currently under maintenance. Gameplay will be unavailable during this period.\nMaintenance Reason: {0}\nEnd Time: {1}
+Please stay tuned for further official announcements.
+Your account session has expired. You may have logged in from another device.\nPlease log in again.
