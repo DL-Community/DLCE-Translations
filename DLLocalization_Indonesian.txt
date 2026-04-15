@@ -520,23 +520,23 @@ Beli di Steam
 Beli dan instal DLC ini di Toko Steam
 Warisan
 Pengajuan Level
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{0} detik
+{0} menit {1} detik
+{0} jam {1} menit {3} detik
+{0} jam {1} menit
+Unduhan pembaruan gagal. Mau coba lagi?
+Tersedia pembaruan baru, perlu mengunduh {0}. Lanjutkan?
+The Forgotten Haven
+Gagal memeriksa pembaruan, mau coba lagi?
+Unduhan pembaruan gagal. Mencoba lagi…
+Kolaborasi
+Lewati Level
+Gunakan {0} Catatan untuk melewati level tantangan ini?
+Catatan tidak cukup. Butuh setidaknya {0} untuk melewati.
+{0} hari {1} jam
+Waktu tunggu: {0}
+Pengaturan Tampilan
+VSync saat ini diaktifkan. Pengaturan kecepatan bingkai hanya berlaku jika VSync dinonaktifkan.\nApakah Anda ingin menonaktifkan VSync?
+Server sedang dalam proses pemeliharaan. Permainan tidak akan tersedia selama periode ini.\nAlasan Pemeliharaan: {0}\nWaktu Selesai: {1}
+Mohon pantau terus pengumuman resmi selanjutnya.
+Sesi akun Anda telah kedaluwarsa. Mungkin Anda telah masuk dari perangkat lain.\nSilakan masuk kembali.
