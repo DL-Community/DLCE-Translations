@@ -537,6 +537,7 @@ TimeSpan.DaysHours
 Musicial.Store.RefreshTime
 Decoration
 FPSSettingButton.VSyncWarning
-GAS.Maintenance.Message
+GAS.Maintenance.Message.NoLogin
 GAS.Maintenance.NoEndTime
 GAS.AutoLoginExpired
+GAS.Maintenance.Message.AllowLogin

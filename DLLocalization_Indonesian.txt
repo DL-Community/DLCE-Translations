@@ -537,6 +537,7 @@ Catatan tidak cukup. Butuh setidaknya {0} untuk melewati.
 Waktu tunggu: {0}
 Pengaturan Tampilan
 VSync saat ini diaktifkan. Pengaturan kecepatan bingkai hanya berlaku jika VSync dinonaktifkan.\nApakah Anda ingin menonaktifkan VSync?
-Server sedang dalam proses pemeliharaan. Permainan tidak akan tersedia selama periode ini.\nAlasan Pemeliharaan: {0}\nWaktu Selesai: {1}
+Server sedang dalam proses pemeliharaan. Permainan tidak akan tersedia selama periode ini.\n\nAlasan Pemeliharaan: {0}\nWaktu Selesai: {1}
 Mohon pantau terus pengumuman resmi selanjutnya.
 Sesi akun Anda telah kedaluwarsa. Mungkin Anda telah masuk dari perangkat lain.\nSilakan masuk kembali.
+
