@@ -541,3 +541,13 @@ GAS.Maintenance.Message.NoLogin
 GAS.Maintenance.NoEndTime
 GAS.AutoLoginExpired
 GAS.Maintenance.Message.AllowLogin
+DailyMissions.Title
+DailyMissions.RefreshTime
+DailyMissions.Type.Login
+DailyMissions.Type.LevelComplete
+DailyMissions.Type.EnergySpend
+DailyMissions.Type.CoinsSpend
+DailyMissions.Type.Kill
+DailyMissions.Type.DiamondCollect
+DailyMissions.Type.CrownCollect
+DailyMissions.Type.Revive

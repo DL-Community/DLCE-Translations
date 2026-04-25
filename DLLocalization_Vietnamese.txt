@@ -542,6 +542,12 @@ Hãy chờ đợi những thông báo chính thức tiếp theo.
 Phiên đăng nhập đã hết hạn. Có thể bạn đã đăng nhập ở thiết bị khác. \nVui lòng đăng nhập lại
 Máy chủ hiện tại đang bảo trì. Bạn có thể đăng nhập vào trò chơi trong giai đoạn này, nhưng dịch vụ trò chơi có thể không ổn định. \n\nLí do bảo trì: {0}\nThời gian kết thúc: {1}
 
+Làm mới lúc: {0}
+
+
+
+
+
 
 
 

@@ -541,3 +541,13 @@ Server sedang dalam proses pemeliharaan. Permainan tidak akan tersedia selama pe
 Mohon pantau terus pengumuman resmi selanjutnya.
 Sesi akun Anda telah kedaluwarsa. Mungkin Anda telah masuk dari perangkat lain.\nSilakan masuk kembali.
 
+
+Waktu tunggu: {0}
+
+
+
+
+
+
+
+

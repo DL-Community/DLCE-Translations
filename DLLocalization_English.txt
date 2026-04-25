@@ -541,3 +541,13 @@ The server is currently under maintenance. Gameplay will be unavailable during t
 Please stay tuned for further official announcements.
 Your account session has expired. You may have logged in from another device.\nPlease log in again.
 The server is currently under maintenance. You may log in to the game during maintenance, but the game service may be unstable.\n\nMaintenance Reason: {0}\nEnd Time: {1}
+Daily Missions
+Refreshes in: {0}
+Log in to the game
+Complete any level {0} times
+Consume {0} cubes
+Consume {0} stars
+Die {0} times in any level
+Collect {0} diamonds in any level
+Collect {0} crowns in any stage
+Revive {0} times in any level
