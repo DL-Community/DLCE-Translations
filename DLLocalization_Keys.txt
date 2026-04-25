@@ -551,3 +551,4 @@ DailyMissions.Type.Kill
 DailyMissions.Type.DiamondCollect
 DailyMissions.Type.CrownCollect
 DailyMissions.Type.Revive
+Get Coins

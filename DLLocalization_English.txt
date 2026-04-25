@@ -551,3 +551,4 @@ Die {0} times in any level
 Collect {0} diamonds in any level
 Collect {0} crowns in any level
 Revive {0} times in any level
+Get Stars
