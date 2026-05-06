@@ -552,3 +552,7 @@ DailyMissions.Type.DiamondCollect
 DailyMissions.Type.CrownCollect
 DailyMissions.Type.Revive
 Get Coins
+SpecialInteraction
+Tutorial_SpecialInteraction
+Steam.UI.NetworkUnavailable
+Steam.UI.SteamCloud.Title

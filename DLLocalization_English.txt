@@ -552,3 +552,7 @@ Collect {0} diamonds in any level
 Collect {0} crowns in any level
 Revive {0} times in any level
 Get Stars
+Level Special Interaction
+This level features special interactions, which can be triggered via touch screen or hold the key.
+Steam network is currently unreachable
+Steam Cloud
