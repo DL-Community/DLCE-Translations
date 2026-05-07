@@ -556,3 +556,4 @@ Level Special Interaction
 This level features special interactions, which can be triggered via touch screen or hold the key.
 Steam network is currently unreachable
 Steam Cloud
+Locked Level

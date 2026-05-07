@@ -8,7 +8,7 @@ Loading
 Get Cubes
 for the best experience use headphones
 Video not available
-Watch a video to unlock it temporairly
+UnlockLevelPanel.Tip.WatchAd
 Free Unlock
 Unlock
 New level unlocked:
@@ -517,7 +517,7 @@ Surround71
 Select Level
 Level Collection
 Purchase on Steam
-Buy Steam DLC Tip
+UnlockLevelPanel.Tip.BuySteamDLC
 Legacy
 Level Submission
 TimeSpan.Seconds
@@ -556,3 +556,4 @@ SpecialInteraction
 Tutorial_SpecialInteraction
 Steam.UI.NetworkUnavailable
 Steam.UI.SteamCloud.Title
+UnlockLevelPanel.Tip.Locked
