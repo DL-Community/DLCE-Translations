@@ -547,13 +547,13 @@ Làm mới trong: {0}
 Hoàn thành màn chơi này {0} lần
 Tiêu {0} Lượt Chơi
 Tiêu {0} Đá Quý
-Chết {0} lần trong bất kì màn chơi
+Thua {0} lần trong bất kì màn chơi
 Lấy {0} Kim Cương trong bất kì màn chơi
 Lấy {0} Vương Miện trong bất kỳ màn chơi
 Hồi sinh {0} lần trong bất kì màn chơi
 Nhận Đá Quý
+Màn chơi có tương tác đặc biệt
+Màn chơi này có tính năng tương tác đặc biệt, có thể kích hoạt bằng cách chạm vào màn hình hoặc giữ phím.
+Hiện tại không thể truy cập mạng lưới Steam.
 
-
-
-
-
+Màn chơi đã bị khóa
