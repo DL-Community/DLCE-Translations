@@ -174,7 +174,7 @@ Tại sao...
 Mọi thứ ngày càng tệ hơn...
 Thế giới kết thúc
 Hãy theo đuổi ngôi sao của bạn! -Dante
-Một khi bạn đã nếm trải cảm giác bay, bạn sẽ mãi bước đi trên mặt đất với ánh mắt hướng về bầu trời \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+"Một khi bạn đã nếm trải cảm giác bay, bạn sẽ mãi bước đi trên mặt đất với ánh mắt hướng về bầu trời" \n\t\t\t\t\t\t\t\t -Leonardo Da Vinci
 Bạn không hề cô đơn.
 Không hối tiếc trong \ntình yêu và ẩm thực.
 Mặc định
