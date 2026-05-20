@@ -557,3 +557,11 @@ This level features special interactions, which can be triggered via touch scree
 Steam network is currently unreachable
 Steam Cloud
 Locked Level
+Function 1
+Function 2
+Function 3
+Function 4
+Function 5
+Back
+Cancel
+Purchase

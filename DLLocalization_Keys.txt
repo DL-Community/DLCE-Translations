@@ -132,14 +132,14 @@ The starry expanse promises delightful surprises
 Key Bindings
 KeyMapping.WaitInput
 Back
-Pause
-Haracter
+InputAction.Pause
+InputAction.Haracter
 HintPath
 Settings
 Skin
-Left
-Right
-Submit
+InputAction.Left
+InputAction.Right
+InputAction.Submit
 Restart
 Achievements
 Backspace
@@ -552,8 +552,16 @@ DailyMissions.Type.DiamondCollect
 DailyMissions.Type.CrownCollect
 DailyMissions.Type.Revive
 Get Coins
-SpecialInteraction
+InputAction.SpecialInteraction
 Tutorial_SpecialInteraction
 Steam.UI.NetworkUnavailable
 Steam.UI.SteamCloud.Title
 UnlockLevelPanel.Tip.Locked
+InputAction.Func1
+InputAction.Func2
+InputAction.Func3
+InputAction.Func4
+InputAction.Func5
+InputAction.Back
+InputAction.Cancel
+Purchase
