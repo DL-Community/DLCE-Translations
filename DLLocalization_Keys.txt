@@ -565,3 +565,7 @@ InputAction.Func5
 InputAction.Back
 InputAction.Cancel
 Purchase
+Next Level
+Main Menu
+Start Level
+Exit Game

@@ -565,3 +565,7 @@ Function 5
 Back
 Cancel
 Purchase
+Next Level
+Main Menu
+Start Level
+Exit Game
