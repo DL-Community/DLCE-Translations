@@ -294,7 +294,7 @@ Chong chóng tre
 Nón phù thủy
 Nón Mêxicô
 Đầu quả dưa
-Nón của SweetDog
+Nón SweetDog
 Linh hồn
 Chuột
 Đang tải xuống cấp độ mới
@@ -357,10 +357,10 @@ Không bao giờ
 Chính thức
 Remix
 Sự kiện
-Mùa
+Theo mùa
 Bản gốc
 Di sản
-Tạo bởi Người Chơi
+Tạo bởi người hâm mộ
 Max Studio
 WINDER Studio
 Vui lòng đăng nhập vào Game Center trong ứng dụng Cài Đặt
@@ -380,7 +380,7 @@ Biểu tượng trò chơi
 Xuất tiến trình trò chơi
 Nhập tiến trình trò chơi
 Cây Hư Không
-Đi vào lối đi bí ẩn của Sự Trống Rỗng
+Đi vào lối đi bí ẩn trong màn chơi "Sự Trống Rỗng"
 Tự động chơi có thể không chính xác cho đến khi cấp độ được tải
 Đang nâng cấp cơ sở dữ liệu trò chơi
 Mặc định
@@ -405,7 +405,7 @@ Phiên âm thanh đã bị gián đoạn
 Do phiên âm thanh hiện tại đang bị gián đoạn bởi hệ thống khiến cho trò chơi không thể tiếp tục, Hãy tránh các ứng dụng hoặc tiến trình khiến âm thanh bị gián đoạn và thử lại.
 Đồng bộ lần cuối: {0}\nPhiên bản dữ liệu đám mây: {1}
 Đồng bộ ngay
-Đồng bộ quá thường xuyên
+Đồng bộ quá nhanh
 Đồng bộ dữ liệu thành công
 Đồng bộ dữ liệu thất bại
 Lưu trữ đám mây
