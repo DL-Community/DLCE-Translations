@@ -555,17 +555,17 @@ Nhận Đá Quý
 Màn chơi có tương tác đặc biệt
 Màn chơi này có tính năng tương tác đặc biệt, có thể kích hoạt bằng cách chạm vào màn hình hoặc giữ phím.
 Hiện tại không thể truy cập mạng lưới Steam.
-
+Mạng lưới Steam
 Màn chơi đã bị khóa
-
-
-
-
-
+Chức năng 1
+Chức năng 2
+Chức năng 3
+Chức năng 4
+Chức năng 5
 Trở lại
 Huỷ bỏ
-
-
-
-
-
+Mua
+Màn chơi tiếp theo
+Màn hình chính
+Bắt đầu màn chơi
+Thoát trò chơi
