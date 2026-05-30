@@ -130,7 +130,7 @@ Encounter a dungeon escaper in  The Adventure
 Starry Sky
 The starry expanse promises delightful surprises
 Key Bindings
-Waiting For Keyboard Input…\nPress the key that you want to use
+Waiting for input…\nPress the key that you want to use on the keyboard or controller
 Back
 Pause Game
 Character Control
@@ -569,3 +569,6 @@ Next Level
 Main Menu
 Start Level
 Exit Game
+Prev Level
+Prev Page
+Next Page

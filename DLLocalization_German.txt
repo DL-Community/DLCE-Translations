@@ -565,7 +565,10 @@ Der vergessene Hafen
 Zurück
 Abbrechen
 
-
-
-
-
+Naechstes Level
+Hauptmenue
+Level starten
+Spiel beenden
+Vorheriges Level
+Vorherige Seite
+Naechste Seite

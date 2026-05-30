@@ -569,3 +569,6 @@ Next Level
 Main Menu
 Start Level
 Exit Game
+Prev Level
+Prev Page
+Next Page

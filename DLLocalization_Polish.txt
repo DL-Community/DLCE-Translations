@@ -565,7 +565,10 @@ Maskotka Cheetah
 Powrót
 Anuluj
 
-
-
-
-
+Nastepny poziom
+Menu glowne
+Rozpocznij poziom
+Wyjdz z gry
+Poprzedni poziom
+Poprzednia strona
+Nastepna strona

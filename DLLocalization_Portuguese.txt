@@ -565,7 +565,10 @@ O Refúgio Esquecido
 Voltar
 Cancelar
 
-
-
-
-
+Proximo nivel
+Menu principal
+Iniciar nivel
+Sair do jogo
+Nivel anterior
+Pagina anterior
+Proxima pagina

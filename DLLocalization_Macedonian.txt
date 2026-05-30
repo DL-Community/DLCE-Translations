@@ -565,7 +565,10 @@ Cheetah Мече
 Назад
 Дискард
 
-
-
-
-
+Sledno nivo
+Glavno meni
+Pocni nivo
+Izlez od igrata
+Prethodno nivo
+Prethodna stranica
+Sledna stranica

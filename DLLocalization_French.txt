@@ -565,7 +565,10 @@ Le Havre Oublié
 Retour
 Annuler
 
-
-
-
-
+Niveau suivant
+Menu principal
+Commencer le niveau
+Quitter le jeu
+Niveau precedent
+Page precedente
+Page suivante

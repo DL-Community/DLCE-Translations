@@ -569,3 +569,6 @@ Màn chơi tiếp theo
 Màn hình chính
 Bắt đầu màn chơi
 Thoát trò chơi
+Màn chơi trước
+Trang trước
+Trang sau

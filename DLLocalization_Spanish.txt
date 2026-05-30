@@ -565,7 +565,10 @@ completado
 Atrás
 Cancelar
 
-
-
-
-
+Siguiente nivel
+Menu principal
+Iniciar nivel
+Salir del juego
+Nivel anterior
+Pagina anterior
+Pagina siguiente

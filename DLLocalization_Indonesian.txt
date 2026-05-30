@@ -565,7 +565,10 @@ Waktu tunggu: {0}
 Kembali
 Batal
 
-
-
-
-
+Level Berikutnya
+Menu Utama
+Mulai Level
+Keluar Game
+Level Sebelumnya
+Halaman Sebelumnya
+Halaman Berikutnya
