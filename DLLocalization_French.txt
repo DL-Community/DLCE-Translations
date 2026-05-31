@@ -542,29 +542,29 @@ Le Havre Oublié
 
 
 
+Rafraîchit dans : {0}
+Se connecter au jeu
+Terminez n'importe quel niveau {0} fois
+Consommez {0} cubes
+Consommez {0} étoiles
+Mourez {0} fois dans n'importe quel niveau
+Collectez {0} diamants dans n'importe quel niveau
+Collectez {0} couronnes dans n'importe quel niveau
+Revivez {0} fois dans n'importe quel niveau
+Obtenir des étoiles
+Interaction spéciale du niveau
+Ce niveau propose des interactions spéciales, qui peuvent être déclenchées via l'écran tactile ou en maintenant la touche enfoncée.
+Impossible de se connecter au réseau Steam
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Niveau verrouillé
+Fonction 1
+Fonction 2
+Fonction 3
+Fonction 4
+Fonction 5
 Retour
 Annuler
-
+Acheter
 Niveau suivant
 Menu principal
 Commencer le niveau

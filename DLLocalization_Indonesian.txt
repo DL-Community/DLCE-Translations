@@ -543,28 +543,28 @@ Sesi akun Anda telah kedaluwarsa. Mungkin Anda telah masuk dari perangkat lain.\
 
 
 Waktu tunggu: {0}
+Masuk ke dalam game
+Selesaikan level mana pun {0} kali
+Konsumsi {0} kubus
+Konsumsi {0} bintang
+Mati {0} kali di level mana pun
+Kumpulkan {0} berlian di level mana pun
+Kumpulkan {0} mahkota di level mana pun
+Bangkit kembali {0} kali di level mana pun
+Dapatkan Bintang
+Interaksi Khusus Level
+Level ini memiliki interaksi khusus, yang dapat dipicu melalui layar sentuh atau dengan menahan tombol.
+Tidak dapat terhubung ke jaringan Steam
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Level Terkunci
+Fungsi 1
+Fungsi 2
+Fungsi 3
+Fungsi 4
+Fungsi 5
 Kembali
 Batal
-
+Membeli
 Level Berikutnya
 Menu Utama
 Mulai Level

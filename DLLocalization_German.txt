@@ -542,29 +542,29 @@ Der vergessene Hafen
 
 
 
+Aktualisierung in: {0}
+Im Spiel anmelden
+Schließe ein beliebiges Level {0} Mal ab
+Verbrauche {0} Würfel
+Verbrauche {0} Sterne
+Stirb {0} Mal in einem beliebigen Level
+Sammle {0} Diamanten in einem beliebigen Level
+Sammle {0} Kronen in einem beliebigen Level
+Stelle {0} Mal in einem beliebigen Level wieder her
+Sterne erhalten
+Level-spezielle Interaktion
+Dieses Level bietet spezielle Interaktionen, die über den Touchscreen oder durch Gedrückthalten der Taste ausgelöst werden können.
+Verbindung zum Steam-Netzwerk nicht möglich
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Gesperrter Level
+Funktion 1
+Funktion 2
+Funktion 3
+Funktion 4
+Funktion 5
 Zurück
 Abbrechen
-
+Kaufen
 Naechstes Level
 Hauptmenue
 Level starten

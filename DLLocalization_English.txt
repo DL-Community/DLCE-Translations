@@ -554,7 +554,7 @@ Revive {0} times in any level
 Get Stars
 Level Special Interaction
 This level features special interactions, which can be triggered via touch screen or hold the key.
-Steam network is currently unreachable
+Unable to connect to Steam Network
 Steam Cloud
 Locked Level
 Function 1
