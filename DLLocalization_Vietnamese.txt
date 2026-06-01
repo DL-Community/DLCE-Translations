@@ -8,14 +8,14 @@ THÍCH CHÚNG TÔI
 Thêm Cube
 Hãy sử dụng tai nghe để có trải nghiệm tốt nhất!
 Quảng cáo hiện không có sẵn.
-Xem quảng cáo để tạm mở khoá cấp độ.
+Xem quảng cáo để tạm mở khoá màn chơi.
 Mở khoá
 Vĩnh viễn
-Đã mở khoá cấp độ:
+Đã mở khoá màn chơi:
 Lấy {0} miễn phí
 Mua {0} Cube
 Cube không giới hạn
-Nạp lại trong : {0}s
+Nạp lại trong : {0}
 Cube đã nạp xong. Hãy tiếp tục tận hưởng giai điệu nào.
 Chạm để bắt đầu
 OK
@@ -43,7 +43,7 @@ Xác nhận thoát ra
 Bạn có muốn thoát trò chơi?
 Thông tin
 Phiên bản
-Đơn vị thiết kế cấp độ
+Đơn vị thiết kế màn chơi
 Nhóm dịch viên
 Bilibili
 YouTube
@@ -69,9 +69,9 @@ Hoàn tất xóa dữ liệu, vui lòng khởi động lại trò chơi.
 Toàn bộ dữ liệu sẽ bị xóa, vui lòng cân nhắc trước khi thao tác.
 Xin hãy cẩn trọng, thao tác này sẽ xóa toàn bộ dữ liệu trò chơi của bạn, bao gồm mọi thông tin cá nhân và thông tin khác, đồng thời KHÔNG THỂ hoàn tác, vui lòng cân nhắc kĩ lưỡng
 Xóa
-Đang xoá dữ liệu...\nLưu trữ đám mây và ổ cứng sẽ bị xoá sạch
+Đang xoá dữ liệu...\nLưu trữ đám mây và nội bộ sẽ bị xoá sạch
 Tiếp cận
-Bạn có thể đạt được X% trong Dancing Line? Cùng nhau quẩy nhiệt tình nào!
+Bạn có thể đạt được X% ở màn chơi này trong Dancing Line? Cùng nhau quẩy nhiệt tình nào!
 Xuất ra file nhật ký
 Khôi phục mặc định
 Pháp lý & Quyền riêng tư
@@ -81,30 +81,30 @@ Thoát game
 Kích thước bộ đệm I/O
 Độ trễ âm thanh đầu ra
 Độ trễ cảm ứng đầu vào
-v#Version# BẢN DỰNG BETA
+BẢN DỰNG BETA ##UID# CẤM CÔNG KHAI
 Cảm biến con quay
 Game Center
 Thu nhập
 Đá quý hằng ngày
-Lấy sau {0}h {1}m
+Lấy sau {0}
 Đã trang bị
 Trang bị
 Hồi sinh miễn phí: {0}/{1}
-Mở khóa đường điều hướng trong cấp độ này với {0} đá quý?
+Mở khóa đường chỉ dẫn trong màn chơi này với {0} đá quý?
 Không thể nhận đá quý, đã hết thời gian chờ.
 Cài đặt nâng cao
-Cài đặt này chỉ áp dụng DUY NHẤT cho cấp độ hiện tại.\n\n<b>Độ trễ thực = Độ trễ cấp độ + Độ trễ tổng thể</b>
+Cài đặt này chỉ áp dụng DUY NHẤT cho màn chơi hiện tại.\n\n<b>Độ trễ thực = Độ trễ cấp độ + Độ trễ tổng thể</b>
 Phần thưởng
 Phần thưởng: {0}
-Đã thu được {0} kim cương trong cấp độ: {1}
-Đã thu được {0} vương miệng trong cấp độ: {1}
-Cấp độ đã hoàn thành: {0}
+Đã thu được {0} kim cương trong màn chơi: {1}
+Đã thu được {0} vương miệng trong màn chơi: {1}
+Màn chơi đã hoàn thành: {0}
 Bấm theo nhịp điệu, nhấn một vị trí bất kì sẽ thay đổi hướng đi.
 Trò chơi này được thiết kế để chơi kèm âm nhạc.
 Đừng vuốt, nó không có ích gì cả.
 Không cần chạm khi đang ở trên không.
 Đừng chạm khi đến điểm kết thúc.
-Bạn có thể thay đổi ngoại hình của Cube bằng cách chọn vào thứ này.
+Bạn có thể thay đổi ngoại hình của nhân vật bằng cách chọn vào thứ này.
 Hoàn thành hoàn hảo cấp độ khi thu thập đủ kim cương và vương miện.
 THÀNH TÍCH
 [Đã ẩn] 
@@ -116,11 +116,11 @@ Hoàn thành #x# để nhận
 Thu thập toàn bộ kim cương ở #x# để nhận
 Thu thập toàn bộ vương miện ở #x# để nhận
 Bí ẩn về loài Rồng
-Tìm ít nhất một con đường ẩn trong  Truyền thuyết về loài rồng  để có được thành tích này 
+Tìm ít nhất một con đường ẩn trong màn chơi  "Truyền Thuyết Về Loài Rồng"  để có được thành tích này 
 Nó là Paimon ư?
 Hay là lần sau chúng ta cùng nhau khám phá phía trước nhé?
-M.Ê.  C. U. N. G.
-Tìm con đường bị ẩn trong  Mê Cung  để có được thành tích này 
+M. Ê.  C. U. N. G.
+Tìm con đường bí ẩn trong màn chơi  "Mê Cung"  để có được thành tích này 
 Chủ nghĩa hoà bình
 Đi vào cái kết có hậu trong  Chiến tranh 
 Tiệc ăn mừng kỉ niệm lần thứ 2
@@ -134,7 +134,7 @@ Chờ Bàn Phím Nhập Vào\nNhấn phím mà bạn muốn sử dụng hoặc n
 Trở lại
 Dừng trò chơi
 Điểu khiển nhân vật
-Đường điều hướng
+Đường chỉ dẫn
 Cài đặt
 Ngoại hình
 Trái
@@ -147,10 +147,10 @@ Trở lại
 Trở lại
 ESC
 Dấu cách
-Win bên trái
-Win bên phải
-CMD bên trái
-CMD bên phải
+Win trái
+Win phải
+CMD trái
+CMD phải
 Mũi tên lên
 Mũi tên xuống
 Mũi tên trái
@@ -173,8 +173,8 @@ Chúng ta đã đi được đến đây, tất cả là nhờ có bạn.\nHãy 
 Tại sao...
 Mọi thứ ngày càng tệ hơn...
 Thế giới kết thúc
-Hãy theo đuổi ngôi sao của bạn! -Dante
-Một khi bạn đã nếm trải cảm giác bay, bạn sẽ mãi bước đi trên mặt đất với ánh mắt hướng về bầu trời \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+"Hãy theo đuổi ngôi sao của bạn!" -Dante
+"Một khi bạn đã nếm trải cảm giác bay, bạn sẽ mãi bước đi trên mặt đất với ánh mắt hướng về bầu trời" \n\t\t\t\t\t\t\t\t -Leonardo Da Vinci
 Bạn không hề cô đơn.
 Không hối tiếc trong \ntình yêu và ẩm thực.
 Mặc định
@@ -185,7 +185,7 @@ Lộn xộn
 Ngọn núi
 Bút lông
 Phù thuỷ ma thuật
-
+Rắn Slither
 Domino
 Mô-đun
 Ánh sáng
@@ -259,7 +259,7 @@ Bóng Rổ
 Bữa Tiệc Giáng Sinh
 Hành Trình Xuyên Ấn Độ
 Chiến Tranh
-Bí Ẩn
+Sự Huyền Bí
 Bóng Đá
 Sự Phát Triển Của Hiphop
 Lễ Phục Sinh
@@ -277,7 +277,7 @@ Faded - Alan Walker
 All About Us
 Tiến Hoá (P13)
 Thiên Đường Bánh Ngọt
-Không gian
+Không Gian
 
 Cuộc Phiêu Lưu
 Ngày Tận Thế
@@ -287,14 +287,14 @@ Mưa Phùn
 Du Mục
 Sự Trống Rỗng
 Ký Ức
-Cơn bão giận dữ
+Cơn Bão Giận Dữ
 Không có
 Mũ Giáng Sinh
 Chong chóng tre
 Nón phù thủy
 Nón Mêxicô
 Đầu quả dưa
-Nón của SweetDog
+Nón SweetDog
 Linh hồn
 Chuột
 Đang tải xuống cấp độ mới
@@ -310,7 +310,7 @@ Thử lại
 Đang cập nhật cấu hình
 Đang tải tài nguyên bắt buộc
 Cuộc hành trình chưa kết thúc...
-Còn nhiều thứ đang ở phía trước...
+Còn nhiều thứ vẫn đang ở phía trước...
 Cảm ơn vì tất cả, những người chơi Dancing Line!
 Vui lòng cập nhật
 Điều chỉnh độ trễ tổng
@@ -325,24 +325,24 @@ Xóa tiến trình trò chơi
 Kỷ lục mới
 Hoàn Hảo
 Không bán
-Thử thách nốt nhạc
-Cửa hàng nốt nhạc
+Thử Thách Nốt Nhạc
+Cửa hàng Nốt Nhạc
 Bán hết
 Đá quý × {0}
 Cube × {0}
 Thử thách
 Thứ ba - Chủ nhật
 Luật chơi
-Hoàn thành hoàn hảo cấp độ để nhận nốt nhạc!
+Hoàn thành màn chơi một cách hoàn hảo để nhận nốt nhạc!
 Thử thách đã kết thúc, hãy quay lại sau!
-• Trong sự kiện này, nhiệm vụ của bạn, với duy nhất một Cube, hãy thu thập toàn bộ kim cương, vương miện và hoàn thành màn chơi. Nên nhớ: bạn không thể hồi sinh! Bạn đã sẵn sàng chưa?\n\n• Đường điều hướng sẽ không thể sử dụng trong sự kiện này, vì vậy cấp độ sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Khi bạn đã hoàn thành thử thách, đừng quên quay về trang sự kiện để nhận phần thưởng!
+• Trong sự kiện này, nhiệm vụ của bạn là thu thập toàn bộ kim cương, vương miện và hoàn thành màn chơi. Hãy nhớ: Bạn không thể hồi sinh! Bạn đã sẵn sàng chưa?\n\n• Đường chỉ dẫn sẽ không thể được sử dụng trong sự kiện này, vì vậy màn chơi sẽ phụ thuộc vào kĩ năng của bạn!\n\n• Khi bạn đã hoàn thành thử thách, đừng quên quay về trang sự kiện để nhận phần thưởng!
 Kết nối thất bại, hãy chắc chắn rằng mạng của bạn ổn định và thử lại
 Đã đổi
 Đã đổi #item# thành công
 Bạn muốn đổi #item#?
 Cửa hàng sẽ làm mới vào thứ Hai hàng tuần!
 Cửa hàng nốt nhạc đã được làm mới, cùng xem có gì nóng hổi nào!
-Thử thách nốt nhạc tuần này đã mở, hãy tiếp chiêu!
+Thử thách nốt nhạc tuần này đã mở, hãy tiếp chiêu nào!
 Bóng Bowling
 Bóng Tennis
 Thử thách đã hoàn thành: #Level#
@@ -357,10 +357,10 @@ Không bao giờ
 Chính thức
 Remix
 Sự kiện
-Mùa
+Theo mùa
 Bản gốc
 Di sản
-Tạo bởi Người Chơi
+Tạo bởi người hâm mộ
 Max Studio
 WINDER Studio
 Vui lòng đăng nhập vào Game Center trong ứng dụng Cài Đặt
@@ -380,8 +380,8 @@ Biểu tượng trò chơi
 Xuất tiến trình trò chơi
 Nhập tiến trình trò chơi
 Cây Hư Không
-Đi vào lối đi bí ẩn của Sự Trống Rỗng
-Tự động chơi có thể không chính xác cho đến khi cấp độ được tải
+Đi vào lối đi bí ẩn trong màn chơi "Sự Trống Rỗng"
+Tự động chơi có thể không chính xác trừ khi cấp độ được tải
 Đang nâng cấp cơ sở dữ liệu trò chơi
 Mặc định
 Xanh lá
@@ -405,7 +405,7 @@ Phiên âm thanh đã bị gián đoạn
 Do phiên âm thanh hiện tại đang bị gián đoạn bởi hệ thống khiến cho trò chơi không thể tiếp tục, Hãy tránh các ứng dụng hoặc tiến trình khiến âm thanh bị gián đoạn và thử lại.
 Đồng bộ lần cuối: {0}\nPhiên bản dữ liệu đám mây: {1}
 Đồng bộ ngay
-Đồng bộ quá thường xuyên
+Đồng bộ quá nhanh
 Đồng bộ dữ liệu thành công
 Đồng bộ dữ liệu thất bại
 Lưu trữ đám mây
@@ -473,12 +473,12 @@ Khử răng cưa hình thái dưới điểm ảnh (#SHORT#)
 Hành tinh
 Ngôi sao
 Đến #LEVELNAME#
-Dựa vào hiệu suất của thiết bị, sử dụng tùy chọn này có thể gây ra giật lag hoặc màn trập khi chơi. 
+Sử dụng tính năng này có thể gây ra màn hình trập hoặc hình ảnh hiển thị không chính xác trong khi chơi. 
 Cảnh báo
 Âm thanh thiết bị
 Loa tích hợp sẵn
 Loa
-Không thể tìm thấy màn chơi khớp với từ khóa này
+Không thể tìm thấy màn chơi khớp với từ khóa này.
 Khớp toàn bộ
 Khớp bất kì
 Có thể chơi được
@@ -497,14 +497,80 @@ Mã quy đổi không hợp lệ hoặc đã được dùng.
 Đổi thành công với vật phẩm sau:
 Màn chơi: #NAME#
 Ngoại hình: #NAME#
-Mũ:#NAME#
+Mũ: #NAME#
 Sao x {0}
 Đầu Óc Trên Mây
 Điều khoản dịch vụ
-Quá trình xác minh tính toàn vẹn môi trường trò chơi đã thất bại.
+Quá trình xác minh tính toàn vẹn môi trường trò chơi  thất bại.
 Lớp phủ Steam
 Thung Lũng Tượng Đài
+Gấu bông Cheetah
+Xứ Sở Của Oz
+Rồng Trung Quốc
+Bàn trộn âm thanh
+Âm thanh đơn
+Âm thanh nổi
+Âm thanh vòm 4.0
+Âm thanh vòm 5.0 
+Âm thanh vòm 5.1
+Âm thanh vòm 7.1
+Chọn màn chơi
+Bộ sưu tầm các màn chơi
+Mua trên Steam
+Hãy mua và tải nội dung bổ sung này tại cửa hàng Steam
+Di sản
+Nộp màn chơi
 
 
 
 
+Tải xuống các bản cập nhật thất bại. Thử lại?
+Có bản cập nhật mới, cần {0} để tải xuống. Tiếp tục?
+Bến Cảng Bị Lãng Quên
+Kiểm tra cập nhật thất bại. Thử lại?
+Tải xuống các bản cập nhật thất bại. Đang thử lại...
+Hợp tác
+Bỏ qua màn chơi
+Sử dụng {0} Nốt Nhạc để bỏ qua thử thách này?
+Không đủ Nốt Nhạc. Cần ít nhất {0} Nốt Nhạc để bỏ qua.
+
+Làm mới lúc: {0}
+Trang trí
+Đồng bộ dọc đang được bật. Các cài đặt khung hình chỉ có hiệu nghiệm khi Đồng bộ dọc được tắt. \nBạn có muốn tắt Đồng bộ dọc?
+Máy chủ hiện tại đang bảo trì. Trò chơi sẽ không thể chơi được trong giai đoạn này. \n\nLí do bảo trì: {0}\nThời gian kết thúc: {1}
+Hãy chờ đợi những thông báo chính thức tiếp theo.
+Phiên đăng nhập đã hết hạn. Có thể bạn đã đăng nhập ở thiết bị khác. \nVui lòng đăng nhập lại
+Máy chủ hiện tại đang bảo trì. Bạn có thể đăng nhập vào trò chơi trong giai đoạn này, nhưng dịch vụ trò chơi có thể không ổn định. \n\nLí do bảo trì: {0}\nThời gian kết thúc: {1}
+Nhiệm Vụ
+Làm mới trong: {0}
+Đăng nhập vào trò chơi
+Hoàn thành màn chơi này {0} lần
+Tiêu {0} Lượt Chơi
+Tiêu {0} Đá Quý
+Thua {0} lần trong bất kì màn chơi
+Lấy {0} Kim Cương trong bất kì màn chơi
+Lấy {0} Vương Miện trong bất kỳ màn chơi
+Hồi sinh {0} lần trong bất kì màn chơi
+Nhận Đá Quý
+Màn chơi có tương tác đặc biệt
+Màn chơi này có tính năng tương tác đặc biệt, có thể kích hoạt bằng cách chạm vào màn hình hoặc giữ phím.
+Hiện tại không thể truy cập mạng lưới Steam.
+Mạng lưới Steam
+Màn chơi đã bị khóa
+Chức năng 1
+Chức năng 2
+Chức năng 3
+Chức năng 4
+Chức năng 5
+Trở lại
+Huỷ bỏ
+Mua
+Màn chơi tiếp theo
+Màn hình chính
+Bắt đầu màn chơi
+Thoát trò chơi
+Màn chơi trước
+Trang trước
+Trang sau
+Âm thanh
+Âm lượng chính

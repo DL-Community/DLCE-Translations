@@ -15,7 +15,7 @@ Novo nível desbloqueado:
 Obter {0} Gratuitamente
 Comprar {0} Cubos
 Obter Energia Infinita
-Recarregando em: {0}s
+Recarregando em: {0}
 Cubos recarregados. Vamos jogar novamente!
 Toque na tela para começar!
 OK
@@ -81,12 +81,12 @@ Sair do jogo
 DSP Buffer
 Delay do Áudio
 Delay do Toque
-v#Version# BETA
+
 Menu 3D
 Seu Game Center
 Toque para resgatar!
 Gemas Grátis Diárias
-Próxima recompensa em {0}h e {1}m!
+Próxima recompensa em {0}!
 Equipado
 Equipar
 Reviva Gratuitamente: {0}/{1}
@@ -398,11 +398,11 @@ https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
 Concluído
-
-
-
-
-
+Azul
+Amarelo
+Clássico
+Sessão de Áudio Interrompida
+Devido à interrupção da sessão de áudio atual pelo sistema, o jogo está temporariamente impossibilitado de continuar. Por favor, tente evitar quaisquer aplicativos ou processos que possam estar interrompendo o áudio do jogo e tente novamente.
 
 
 
@@ -504,3 +504,73 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 
 
 
+Pelúcia Cheetah
+O Mágico de Oz
+Dragão Chinês
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O Refúgio Esquecido
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atualiza em: {0}
+Fazer login no jogo
+Complete qualquer nível {0} vezes
+Consuma {0} cubos
+Consuma {0} estrelas
+Morra {0} vezes em qualquer nível
+Colete {0} diamantes em qualquer nível
+Colete {0} coroas em qualquer nível
+Reviva {0} vezes em qualquer nível
+Obter Estrelas
+Interação Especial do Nível
+Este nível possui interações especiais, que podem ser acionadas via tela sensível ao toque ou mantendo a tecla pressionada.
+Não foi possível conectar à rede Steam
+
+Nível Bloqueado
+Função 1
+Função 2
+Função 3
+Função 4
+Função 5
+Voltar
+Cancelar
+Comprar
+Proximo nivel
+Menu principal
+Iniciar nivel
+Sair do jogo
+Nivel anterior
+Pagina anterior
+Proxima pagina
+Áudio
+Volume principal

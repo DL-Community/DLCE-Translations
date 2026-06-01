@@ -6,7 +6,7 @@ Langue
 LIKEZ-NOUS
 CHARGEMENT
 Obtenir des cubes
-Utilisez des écouteurs pour  une meilleure expérience
+Utilisez des écouteurs pour une meilleure expérience
 Impossible de charger la vidéo
 Regardez une pub pour débloquer temporairement
 Essai gratuit
@@ -81,12 +81,12 @@ Je n’accepte pas
 Taille de tampon DSP
 Délai de sortie audio
 Délai d’entrée
-v#Version# BETA BUILD
+
 Effets du gyroscope
 Game Center
 Récupérer
 Gemmes gratuites quotidiennes
-Récupérable d’ici {0} h {1} min
+Récupérable d’ici {0}
 Équipé
 Équiper
 Reprises gratuites : {0}/{1}
@@ -504,3 +504,73 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 
 
 
+Mascotte Cheetah
+Le Magicien d'Oz
+Dragon Chinois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le Havre Oublié
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rafraîchit dans : {0}
+Se connecter au jeu
+Terminez n'importe quel niveau {0} fois
+Consommez {0} cubes
+Consommez {0} étoiles
+Mourez {0} fois dans n'importe quel niveau
+Collectez {0} diamants dans n'importe quel niveau
+Collectez {0} couronnes dans n'importe quel niveau
+Revivez {0} fois dans n'importe quel niveau
+Obtenir des étoiles
+Interaction spéciale du niveau
+Ce niveau propose des interactions spéciales, qui peuvent être déclenchées via l'écran tactile ou en maintenant la touche enfoncée.
+Impossible de se connecter au réseau Steam
+
+Niveau verrouillé
+Fonction 1
+Fonction 2
+Fonction 3
+Fonction 4
+Fonction 5
+Retour
+Annuler
+Acheter
+Niveau suivant
+Menu principal
+Commencer le niveau
+Quitter le jeu
+Niveau precedent
+Page precedente
+Page suivante
+Audio
+Volume principal

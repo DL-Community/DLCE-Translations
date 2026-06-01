@@ -15,7 +15,7 @@ Neues Level freigeschaltet:
 Bekommen Sie {0} Kostenlos
 Kaufen Sie {0} Würfel
 Unendliche Energie
-Aufladung in : {0}s
+Aufladung in : {0}
 Würfel aufgeladen. Let's dance again.
 Tippe zum spielen
 OK
@@ -81,12 +81,12 @@ Spiel verlassen
 DSP-Puffergröße
 Audio Ausgabeverzögerung
 Touch Eingabeverzögerung
-v#Version# BETA BUILD
+
 Gyroskopeffekte
 Game Center
 Einsammeln
 Täglich kostenlose Edelsteine
-Einsammeln nach {0}h {1}m
+Einsammeln nach {0}
 Ausgerüstet
 Ausrüsten
 Kostenlose Wiederbelebungen: {0}/{1}
@@ -504,3 +504,73 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 
 
 
+Cheetah-Teddy
+Der Zauberer von Oz
+Chinesischer Drache
+
+
+
+
+
+
+
+
+
+
+
+Legacy
+
+
+
+
+
+
+
+Der vergessene Hafen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aktualisierung in: {0}
+Im Spiel anmelden
+Schließe ein beliebiges Level {0} Mal ab
+Verbrauche {0} Würfel
+Verbrauche {0} Sterne
+Stirb {0} Mal in einem beliebigen Level
+Sammle {0} Diamanten in einem beliebigen Level
+Sammle {0} Kronen in einem beliebigen Level
+Stelle {0} Mal in einem beliebigen Level wieder her
+Sterne erhalten
+Level-spezielle Interaktion
+Dieses Level bietet spezielle Interaktionen, die über den Touchscreen oder durch Gedrückthalten der Taste ausgelöst werden können.
+Verbindung zum Steam-Netzwerk nicht möglich
+
+Gesperrter Level
+Funktion 1
+Funktion 2
+Funktion 3
+Funktion 4
+Funktion 5
+Zurück
+Abbrechen
+Kaufen
+Naechstes Level
+Hauptmenue
+Level starten
+Spiel beenden
+Vorheriges Level
+Vorherige Seite
+Naechste Seite
+Audio
+Hauptlautstärke

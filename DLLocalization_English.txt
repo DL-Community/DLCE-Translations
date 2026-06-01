@@ -15,7 +15,7 @@ New level unlocked:
 Get {0} Free
 Buy {0} Cubes
 Infinite Cubes
-Recharge in : {0}s
+Recharge in : {0}
 Cubes recharged. Let's dance again.
 tap to play
 OK
@@ -81,12 +81,12 @@ Exit game
 I/O Buffer Size
 Audio Output Latency
 Touch Input Latency
-v#Version# BETA BUILD
+BETA BUILD ##UID# DO NOT LEAK
 Gyroscope Effects
 Game Center
 Claim
 Daily Free Stars
-Claimable after {0}h {1}m
+Claimable after {0}
 Equipped
 Equip
 Free Revivals: {0}/{1}
@@ -130,13 +130,13 @@ Encounter a dungeon escaper in  The Adventure
 Starry Sky
 The starry expanse promises delightful surprises
 Key Bindings
-Waiting For Keyboard Input…\nPress the key that you want to use
+Waiting for input…\nPress the key that you want to use on the keyboard or controller
 Back
 Pause Game
 Character Control
 Guidance Line
 Settings
-Skins
+Skin
 Left
 Right
 Confirm
@@ -306,9 +306,9 @@ Caches such as level & music data downloaded will be cleared, continue clearing?
 The current version #Current# is out of date, you are required to update to at least #Latest# to play.
 Failed to load ad configurations
 Retry
-Checking Downloadable Content
+Checking for Updates…
 Updating Configurations
-Downloading mandatory content
+Downloading Updates
 The journey isn't over…
 More are coming…
 Thanks for all, Dancing Line players!
@@ -473,7 +473,7 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 Planet
 Star
 Go to #LEVELNAME#
-Based on your device's performance, using this option may cause lag or stuttering during gameplay.
+Using this option may cause stuttering or incorrect image display during gameplay.
 Warning
 Audio Device
 Built-In Speaker
@@ -504,3 +504,73 @@ Terms of Service
 Game environment integrity verification failed.
 Steam Overlay
 Monument Valley
+Cheetah Teddy
+The Wizard of Oz
+The Loong
+Audio Mixer
+Mono
+Stereo
+4.0 Surround
+5.0 Surround
+5.1 Surround
+7.1 Surround
+Select Level
+Level Collection
+Purchase on Steam
+Buy and install this DLC in Steam Store
+Legacy
+Level Submission
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Updates download failed. Retry?
+New updates available, {0} download required. Continue?
+The Forgotten Haven
+Failed to check for update, retry?
+Updates download failed. Retrying…
+Collab
+Skip Level
+Use {0} Notes to skip this challenge level?
+Not enough Notes. Need at least {0} to skip.
+{0}d {1}h
+Refreshes in: {0}
+Decoration
+VSync is currently enabled. Frame rate settings only take effect when VSync is disabled.\nDo you want to disable VSync?
+The server is currently under maintenance. Gameplay will be unavailable during this period.\n\nMaintenance Reason: {0}\nEnd Time: {1}
+Please stay tuned for further official announcements.
+Your account session has expired. You may have logged in from another device.\nPlease log in again.
+The server is currently under maintenance. You may log in to the game during maintenance, but the game service may be unstable.\n\nMaintenance Reason: {0}\nEnd Time: {1}
+Missions
+Refreshes in: {0}
+Log in to the game
+Complete any level {0} times
+Consume {0} cubes
+Consume {0} stars
+Die {0} times in any level
+Collect {0} diamonds in any level
+Collect {0} crowns in any level
+Revive {0} times in any level
+Get Stars
+Level Special Interaction
+This level features special interactions, which can be triggered via touch screen or hold the key.
+Unable to connect to Steam Network
+Steam Cloud
+Locked Level
+Function 1
+Function 2
+Function 3
+Function 4
+Function 5
+Back
+Cancel
+Purchase
+Next Level
+Main Menu
+Start Level
+Exit Game
+Prev Level
+Prev Page
+Next Page
+Audio
+Master Volume
