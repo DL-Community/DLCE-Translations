@@ -572,3 +572,5 @@ Keluar Game
 Level Sebelumnya
 Halaman Sebelumnya
 Halaman Berikutnya
+Audio
+Volume Utama

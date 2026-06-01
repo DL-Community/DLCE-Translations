@@ -572,3 +572,5 @@ Thoát trò chơi
 Màn chơi trước
 Trang trước
 Trang sau
+Âm thanh
+Âm lượng chính

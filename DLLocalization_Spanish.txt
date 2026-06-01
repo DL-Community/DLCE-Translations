@@ -572,3 +572,5 @@ Salir del juego
 Nivel anterior
 Pagina anterior
 Pagina siguiente
+
+

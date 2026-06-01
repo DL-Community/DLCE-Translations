@@ -572,3 +572,5 @@ Wyjdz z gry
 Poprzedni poziom
 Poprzednia strona
 Nastepna strona
+
+

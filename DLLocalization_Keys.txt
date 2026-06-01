@@ -572,3 +572,5 @@ Exit Game
 Prev Level
 Prev Page
 Next Page
+AudioSettings.Title
+AudioSettings.Master.Title

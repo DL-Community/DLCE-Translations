@@ -572,3 +572,5 @@ Sair do jogo
 Nivel anterior
 Pagina anterior
 Proxima pagina
+Áudio
+Volume principal

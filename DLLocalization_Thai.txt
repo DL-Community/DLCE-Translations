@@ -572,3 +572,5 @@ AMD FidelityFX™ Super Resolution (#SHORT#)
 ด่านก่อนหน้า
 หน้าก่อนหน้า
 หน้าถัดไป
+เสียง
+ระดับเสียงหลัก

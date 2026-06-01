@@ -13,14 +13,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Aaron8052&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {}
+}]]></component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOK7MK987cV3pb",
+        "number": 35
+      },
+      "lastSeen": 1780235916015
+    }
+  ]
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:DL-Community/DLCE-Translations.git&quot;,
@@ -57,6 +75,8 @@
       <workItem from="1749578196824" duration="1917000" />
       <workItem from="1777992148855" duration="213000" />
       <workItem from="1780142572965" duration="1893000" />
+      <workItem from="1780235343969" duration="434000" />
+      <workItem from="1780235788235" duration="418000" />
     </task>
     <task id="LOCAL-00001" summary="add: DLCE Documentation Links (no translation needed)">
       <option name="closed" value="true" />
