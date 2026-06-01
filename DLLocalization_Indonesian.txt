@@ -67,7 +67,7 @@ Cari
 Hapus Data
 Data telah disetel ulang, silakan mulai ulang permainan.
 Data permainan kamu akan dihapus setelah proses ini selesai. Harap lanjutkan dengan hati-hati.
-Harap diingat bahwa setelah Anda menyelesaikan proses ini, data Dancing Line Anda (termasuk informasi pribadi dan data lain yang dihasilkan melalui penggunaan Produk Dancing Line) akan dihapus secara permanen dan tidak dapat dipulihkan. Harap pilih dan lanjutkan dengan hati-hati.
+Harap diingat bahwa setelah kamu menyelesaikan proses ini, data Dancing Line kamu (termasuk informasi pribadi dan data lain yang dihasilkan melalui penggunaan Produk Dancing Line) akan dihapus secara permanen dan tidak dapat dipulihkan. Harap pilih dan lanjutkan dengan hati-hati.
 Hapus
 Menghapus Data…\nPenyimpanan cloud dan lokal kamu akan dihapus
 Aksesibilitas
@@ -75,7 +75,7 @@ Bisakah kamu mengalahkan X% di DancingLine? Ayo Bermain Bersama Saya!
 Lihat Log Debug
 Kembalikan ke Default
 Hukum & Privasi
-Sebelum menggunakan aplikasi, Anda harus menyetujui Perjanjian Lisensi Pengguna Akhir dan Kebijakan Privasi kami.
+Sebelum menggunakan aplikasi, kamu harus menyetujui Perjanjian Lisensi Pengguna Akhir dan Kebijakan Privasi kami.
 Terima dan lanjutkan
 Keluar dari permainan
 Ukuran Buffer I/O
