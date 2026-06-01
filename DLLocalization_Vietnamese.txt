@@ -574,3 +574,7 @@ Trang trước
 Trang sau
 Âm thanh
 Âm lượng chính
+Khởi tạo trình khách Steam thất bại, vui lòng khởi động lại trò chơi.
+Không thể kết nối đến trình khách Steam. Vui lòng đảm bảo rằng trình khách Steam đang chạy và khởi động lại trò chơi.
+Trình khách Steam có vẻ đã lỗi thời, vui lòng đảm bảo rằng trình khách Steam của bạn được cập nhật mới nhất.
+Lỗi Steam

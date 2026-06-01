@@ -574,3 +574,7 @@ Page precedente
 Page suivante
 Audio
 Volume principal
+Échec de l'initialisation du client Steam, veuillez relancer le jeu.
+Impossible de se connecter au client Steam. Veuillez vous assurer que le client Steam est en cours d'exécution, puis relancez le jeu.
+Le client Steam semble être obsolète, veuillez vous assurer que votre client Steam est à jour.
+Erreur Steam

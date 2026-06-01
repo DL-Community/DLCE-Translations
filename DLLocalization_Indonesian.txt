@@ -574,3 +574,7 @@ Halaman Sebelumnya
 Halaman Berikutnya
 Audio
 Volume Utama
+Gagal menginisialisasi klien Steam, silakan luncurkan ulang game.
+Tidak dapat terhubung ke klien Steam. Pastikan klien Steam sedang berjalan, dan luncurkan ulang game.
+Klien Steam tampaknya sudah kedaluwarsa, pastikan klien Steam Anda sudah yang terbaru.
+Kesalahan Steam
