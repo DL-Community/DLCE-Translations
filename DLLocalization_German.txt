@@ -574,3 +574,7 @@ Vorherige Seite
 Naechste Seite
 Audio
 Hauptlautstärke
+Initialisierung des Steam-Clients fehlgeschlagen, bitte starten Sie das Spiel neu.
+Keine Verbindung zum Steam-Client möglich. Bitte stellen Sie sicher, dass der Steam-Client ausgeführt wird, und starten Sie das Spiel neu.
+Der Steam-Client scheint veraltet zu sein, bitte stellen Sie sicher, dass Ihr Steam-Client auf dem neuesten Stand ist.
+Steam-Fehler
