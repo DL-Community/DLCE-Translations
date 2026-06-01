@@ -3,44 +3,44 @@ English
 
 Dancing Line
 Bahasa
-SUKA KAMI
-MEMUAT
+SUKAI KAMI
+Memuat
 Dapatkan Kubus
-untuk pengalaman terbaik  gunakan headphone
+untuk pengalaman terbaik\ngunakan headphone
 Video tidak tersedia
 Tonton video untuk membukanya sementara
 Buka Kunci Gratis
-Buka
+Buka Kunci
 Level baru terbuka:
 Dapatkan {0} Gratis
 Beli {0} Kubus
-Energi Tak Terbatas
+Kubus Tak Terbatas
 Isi ulang dalam: {0}s
 Kubus terisi ulang. Mari menari lagi.
 ketuk untuk bermain
 OKE
 Ya
 Tidak
-Hidup
-Mati
+Aktif
+Tidak Aktif
 Batal
 Jeda
 Kualitas
 Sangat Rendah
 Rendah
-Menegah
+Menengah
 Tinggi
 Ultra
 Maksimal
-ANTI ALIASING
-SUARA
+Anti Aliasing
+Suara
 VSync
-SINKRONISASI
-PENYESUAIAN OTOMATIS
-MUSIK TUNDA
-UMPAN BALIK SENTUH
+Sinkronisasi
+Penyesuaian Otomatis
+Offset Musik
+Umpan Balik Sentuhan
 Konfirmasi Keluar
-Apakah Anda ingin keluar dari permainan? 
+Apakah kamu ingin keluar dari permainan?
 Tentang
 Versi
 Desainer Level
@@ -52,61 +52,61 @@ Kebijakan Privasi
 Server Discord Resmi
 Mode Tampilan
 Layar Penuh Eksklusif
-Jendela Layar Penuh
-JENDELA
+Layar Penuh Tanpa Bingkai
+Mode Jendela
 Potret
 Lanskap
 Resolusi
 Melanjutkan dari checkpoint terakhir?
-Membutuhkan #X%# lagi untuk #Terbaik Baru#
-Membutuhkan #X%# lagi untuk #Titik Periksa Berikutnya#
+Membutuhkan #X%# lagi untuk #Rekor Baru#
+Membutuhkan #X%# lagi untuk #Checkpoint Berikutnya#
 Membutuhkan #X%# lagi ke  #Selesai#
 Gratis
 Lanjut
 Cari
-Hapus
+Hapus Data
 Data telah disetel ulang, silakan mulai ulang permainan.
-Data permainan Anda akan dihapus setelah proses ini selesai. Harap lanjutkan dengan hati-hati.
+Data permainan kamu akan dihapus setelah proses ini selesai. Harap lanjutkan dengan hati-hati.
 Harap diingat bahwa setelah Anda menyelesaikan proses ini, data Dancing Line Anda (termasuk informasi pribadi dan data lain yang dihasilkan melalui penggunaan Produk Dancing Line) akan dihapus secara permanen dan tidak dapat dipulihkan. Harap pilih dan lanjutkan dengan hati-hati.
 Hapus
-Menghapus Data…\nPenyimpanan cloud dan lokal Anda akan dihapus
+Menghapus Data…\nPenyimpanan cloud dan lokal kamu akan dihapus
 Aksesibilitas
-Bisakah Anda mengalahkan X% di DancingLine? Ayo Bermain Bersama Saya!
+Bisakah kamu mengalahkan X% di DancingLine? Ayo Bermain Bersama Saya!
 Lihat Log Debug
 Kembalikan ke Default
 Hukum & Privasi
 Sebelum menggunakan aplikasi, Anda harus menyetujui Perjanjian Lisensi Pengguna Akhir dan Kebijakan Privasi kami.
 Terima dan lanjutkan
 Keluar dari permainan
-Ukuran Buffer DSP
-Latensi Keluaran Audio
+Ukuran Buffer I/O
+Latensi Output Audio
 Latensi Input Sentuh
 
 Efek Giroskop
 Game Center
 Klaim
-Permata Gratis Harian
+Bintang Gratis Harian
 Dapatkan setelah {0}
 Dipakai
 Pakai
-Kebangunan Gratis: {0}/{1}
-Apakah Anda ingin menghabiskan {0} permata untuk membuka garis panduan di babak ini?
-Tidak dapat mengklaim permata gratis setiap hari, verifikasi waktu gagal.
+Kebangkitan Gratis: {0}/{1}
+Apakah kamu ingin menghabiskan {0} bintang untuk membuka garis panduan sementara?
+Tidak dapat mengklaim bintang gratis setiap hari, verifikasi waktu gagal.
 Pengaturan Lanjutan
-Pengaturan ini hanya berlaku untuk level saat ini, yang memungkinkan penyesuaian individual untuk setiap level berdasarkan penundaan musik global.\n\n <b>Penundaan Aktual = Penundaan Level + Penundaan Global</b> 
+Pengaturan ini hanya berlaku untuk level saat ini, yang memungkinkan penyesuaian individual untuk setiap level berdasarkan offset musik global.\n\n<b>Offset Aktual = Offset Level + Offset Global</b> 
 Hadiah
 Hadiah: {0}
-Dikumpulkan {0} berlian di level: {1}
-Dikumpulkan {0} mahkota di level: {1}
+{0} Berlian dikumpulkan di level: {1}
+{0} Mahkota dikumpulkan di level: {1}
 Level selesai: {0}
 Ikuti irama dan ketuk di mana saja untuk mengubah arah.
 Game ini dibuat untuk dimainkan sambil mendengarkan musik.
 Jangan geser. Itu tidak berfungsi.
 Ketuk saat terbang tidak diperlukan.
 Jangan mengetuk saat memasuki piramida pada sudut 45°
-Anda dapat mengubah kulit karakter dengan mengklik kubus mengambang.
+Kamu dapat mengubah skin karakter dengan mengklik kubus mengambang.
 Kumpulkan semua berlian dan mahkota untuk menyelesaikan level dengan sempurna.
-PRESTASI
+Prestasi
 [Tersembunyi] 
 Selesai: #x#
 #x# - Selesai
@@ -116,45 +116,45 @@ Menyelesaikan #x#
 Kumpulkan semua berlian di #x#
 Kumpulkan semua mahkota di #x#
 Rahasia Dragonia
-Temukan setidaknya satu jalur tersembunyi di  The Tales of Dragonia 
+Temukan setidaknya satu jalur tersembunyi di level  Kisah Dragonia
 Apakah itu Paimon?
-Bagaimana kalau kita menjelajahi daerah di depan kita nanti?
+Bagaimana kalau kita jelajahi area di depan nanti saja?
 M.A.Z.E.
-Temukan jalur tersembunyi di  The Maze 
+Temukan jalur tersembunyi di level  Labirin 
 Pasifisme
-Masuki alur cerita perdamaian di  The War 
+Masuki alur cerita perdamaian di level  Perang 
 Pesta Ulang Tahun ke-2
 Selamat Natal...... \ndan Ulang Tahun ke-2
 Master Tanpa Permata
-Bertemu dengan pelarian penjara bawah tanah di  The Adventure 
-Langit Ber 
+Bertemu dengan pelarian penjara bawah tanah di level  Petualangan 
+Langit Berbintang 
 Hamparan bintang menjanjikan kejutan yang menyenangkan
-PEMETAAN KUNCI
-Menunggu Input Keyboard\nTekan tombol yang ingin Anda gunakan, atau tekan tombol mouse apa pun untuk menghapus pengaturan
+Pemetaan Tombol
+Menunggu input...\nTekan tombol yang ingin kamu gunakan pada keyboard atau kontroler
 Kembali
 Jeda Permainan
 Kontrol Karakter
 Garis Panduan
-Peraturan
-Kulit
+Pengaturan
+Skin
 Kiri
 Kanan
 Konfirmasi
 Mulai ulang
 Prestasi
 Backspace
-Kembali
-Kembali
+Enter
+Enter
 ESC
 Spasi
 WIN Kiri
 WIN Kanan
 CMD Kiri
 CMD Kanan
-Panah Atas
-Panah Bawah
-Panah Kiri
-Panah Kanan
+▲
+▼
+◀
+▶
 Shift Kiri
 Shift Kanan
 Option Kiri
@@ -166,52 +166,52 @@ Option Kanan
 Menu
 Selesai
 Checkpoint
-Selamat natal
+Selamat Natal
 Dapatkan
 Ketuk
-Ini tidak dapat terjadi tanpa Anda. \nKita satu.
+Ini tidak akan bisa terjadi tanpamu.\nKita adalah satu.
 Kenapa...
 Semuanya menjadi lebih buruk...
 Akhir Dunia
-Ikuti bintang Anda sendiri! -Dante
-Begitu kamu terbang, kamu akan berjalan dengan mata menghadap ke langit \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
-Anda tidak sendirian.
-Jangan menyesali apapun dalam masalah\ncinta dan makanan.
+Ikuti bintangmu sendiri! -Dante
+Begitu kamu terbang, kamu akan berjalan dengan mata menatap ke langit \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Kamu tidak sendirian.
+Jangan sesali apa pun dalam urusan\ncinta dan makanan.
 Normal
 Headphones
 Kertas
 Zeus
 Kekacauan
 Pegunungan
-Kuas Cina
+Kuas Tiongkok
 Penyihir Ajaib
 Slither
-Dominoes
+Domino
 Modul
-Lampu
+Cahaya
 Bola Salju
-Arah Panah
+Panah
 Paus
 Kabut Salju
-Stalagmit
+Stalakmit
 Badut
-Flying Nimbus
+Awan Kinton
 Ular
 Jeli
 Jubah Ajaib
-Bom Tengkorak
+Tengkorak Bom
 Balon
 Bola Api
 Piramida
 Bola
-Bola Sian
+Bola Cyan
 Bola Hitam
 Bola Biasa
 Bola Basket
 Kekuatan Bintang
 Robot
 Level Tanpa Nama
-Awal
+Permulaan
 Waktu
 Piano
 Pantai
@@ -219,7 +219,7 @@ Musim Dingin
 Savana 
 Barat
 Hari Valentine
-Hari Hallowen
+Hari Halloween
 Lorong
 Gurun
 Badai
@@ -240,8 +240,8 @@ Katedral
 Katedral
 Kisah Pelaut
 Legenda Pembunuh
-Taman Cina
-Balap
+Taman Tiongkok
+Balapan
 Segera hadir
 Akhir - Theo5970
 Romantis
@@ -249,12 +249,12 @@ Musim Semi
 Festival Musim Semi
 Samurai
 Kisah Dragonia
-Bebek Buruk
+Itik Buruk Rupa
 Permainan Video
-Keluaran
-Laut
+Eksodus
+Samudra
 Taurus
-Mimpi Langit
+Impian Langit
 Bola Basket
 Pesta Natal
 Perjalanan India
@@ -263,7 +263,7 @@ Misteri
 Sepak Bola
 Evolusi Hip Hop
 Paskah
-Lullaby Musim Semi
+Lagu Pengantar Tidur Musim Semi
 Teka-teki Halloween
 Taman Hiburan
 Faded - Alan Walker
@@ -276,42 +276,42 @@ Peternakan
 Faded - Alan Walker
 All About Us
 Evolusi (P13)
-Keajaiban Makanan Penutup
+Dunia Manisan
 Ruang
-The Discovery - Chronos
+Penemuan - Chronos
 Petualangan
 Apokalips
 Perjalanan
 Matematika
 Gerimis
 Pengembaraan
-Kekosongan
-Ingatan
+Kehampaan
+Memori
 Badai Kemarahan
 Tidak ada
 Topi Natal
-Capung Bambu
+Baling-Baling Bambu
 Topi Penyihir
 Topi Meksiko
 Topi Bowler
-Topi Sweet Dog
+Topi Anjing Lucu
 Peri
 Tikus
 Level baru sedang diunduh
 Harap tetap terhubung ke internet
-Input HUD
+HUD Input
 Gagal mengunduh level
 Hapus Cache
-Cache seperti data level & musik yang diunduh akan dihapus, lanjutkan penghapusan?
-Versi saat ini  (#Current#) sudah kedaluwarsa, harap perbarui ke versi terbaru (#Latest#).
+Cache seperti data level & musik yang telah diunduh akan dihapus, tetap lanjutkan?
+Versi saat ini #Current# sudah usang, kamu wajib memperbarui ke versi #Latest# untuk bermain
 Gagal memuat konfigurasi iklan
 Coba Lagi
-Memeriksa Konten yang Dapat Diunduh
+Memeriksa Pembaruan...
 Memperbarui Konfigurasi
-Mengunduh konten wajib
+Mengunduh Pembaruan
 Perjalanan belum berakhir...
 Masih banyak lagi yang akan datang...
-Terima kasih untuk semua, pemain Dancing Line!
+Terima kasih atas segalanya, pemain Dancing Line!
 Pembaruan diperlukan
 Penyesuaian Sinkronisasi Global
 Penyesuaian Sinkronisasi Level
@@ -322,45 +322,45 @@ Simpan Gambar
 Salin Gambar
 Pilih apa yang ingin dihapus
 Hapus Progress Game
-Baru Terbaik
+Rekor Baru
 Sempurna
 Tidak untuk dijual
-Tantangan Notes
-Toko Notes
+Tantangan Not
+Toko Not
 Habis terjual
-Berlian × {0}
+Bintang × {0}
 Kubus × {0}
 Tantangan
 Selasa — Minggu
 Aturan
-Selesaikan level ini dengan sempurna untuk mendapatkan notes!
-Tantangan Notes berakhir, tantang nanti!
-• Dalam acara ini, misi Anda adalah mengumpulkan setiap berlian dan mahkota, menaklukkan level hanya dengan satu kubus, dan—ingat—tidak ada kebangkitan yang diperbolehkan! Apakah kamu siap menghadapi tantangan ini?\n\n• Garis Panduan dimatikan selama bermain game, jadi semuanya bergantung pada keahlianmu!\n\n• Setelah kamu menyempurnakan level, jangan lupa untuk kembali ke halaman acara untuk mengklaim hadiah Anda!
-Gagal terhubung ke internet, pastikan jaringan Anda stabil dan coba lagi.
-Barang Ditebus
+Selesaikan level ini dengan sempurna untuk mendapatkan not!
+Tantangan Not berakhir, coba lagi nanti!
+• Dalam event ini, misimu adalah mengumpulkan setiap berlian dan mahkota, menaklukkan level hanya dengan satu kubus, dan—ingat—tidak ada kebangkitan! Apakah kamu siap menerima tantangan ini?\n\n• Garis Panduan dimatikan selama permainan, jadi semuanya bergantung pada keahlianmu!\n\n• Setelah kamu menyelesaikan level dengan sempurna, jangan lupa kembali ke halaman event untuk mengklaim hadiahmu!
+Gagal terhubung ke internet, pastikan jaringan kamu stabil dan coba lagi.
+Item Berhasil Ditukarkan
 #item# berhasil ditukarkan
-Apakah Anda ingin menukarkan #item#?
-Penyegaran toko setiap hari Senin
-Notes Store disegarkan, lihat apa yang baru!
-Tantangan Notes minggu ini kini tersedia, datang dan tantang levelnya!
+Apakah kamu ingin menukarkan #item#?
+Toko diperbarui setiap hari Senin
+Toko Not telah diperbarui, cek apa yang baru!
+Tantangan Not minggu ini sudah tersedia, ayo taklukkan levelnya!
 Bola Bowling
 Bola Tenis
 Tantangan Selesai : #Level#
-Melanjutkan mengunduh melalui data seluler?
+Lanjutkan mengunduh menggunakan data seluler?
 Peringatan Data Seluler
 Kesalahan
 Terjadi kesalahan yang tidak diketahui!
 Sembunyikan Kursor
-Saat Tidak Bergerak
+Saat Diam
 Saat Bermain
-Tidak pernah
+Tidak Pernah
 Resmi
 Remix
-Acara
+Event
 Musim
-Asli
-Warisan
-Buatan penggemar
+Orisinal
+Lawas
+Buatan Penggemar
 Max Studio
 WINDER Studio
 Silakan masuk ke Game Center di Pengaturan Sistem
@@ -369,8 +369,8 @@ DLRS GAS
 Profil
 Pengaturan Akun
 Nama Pengguna: {0}\nID Pengguna: {1}
-Kecepatan Frame
-Laju Tampilan Frame
+Frame Rate
+Tampilkan Frame Rate
 Server
 Dukungan Multi-sentuh
 Come & Get It - Selena Gomez
@@ -380,82 +380,82 @@ Ikon Aplikasi
 Ekspor Progress Game
 Impor Progress Game
 Pohon Void
-Masuk ke jalur rahasia di Kekosongan
-Mengklik otomatis mungkin tidak akurat hingga level diunduh.
-Meningkatkan Basis Data Permainan
+Masuk ke jalur rahasia di level Kehampaan
+Klik otomatis mungkin tidak akurat sebelum level selesai diunduh.
+Memperbarui Database Game
 Default
 Hijau
-The Duet
+Duet
 Grup QQ
 Saluran QQ
 Resolusi Render
 Otomatis
 Topi
 Lepas
-
+Sci-Fi
 https://dl-community.github.io/Docs/#/en/legal/eula
 https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
-Selesai
+selesai
 Biru
 Kuning
 Klasik
 Sesi Audio Terganggu
-Karena sesi audio saat ini sedang terganggu oleh sistem, permainan untuk sementara tidak dapat dilanjutkan. Coba hindari aplikasi atau proses apa pun yang mungkin mengganggu audio game dan coba lagi.
+Karena sesi audio saat ini sedang terganggu oleh sistem, game untuk sementara tidak dapat dilanjutkan. Harap hindari aplikasi atau proses apa pun yang dapat mengganggu audio game dan coba lagi.
 Terakhir Disinkronkan: {0}\nVersi Data Cloud: {1}
-Sinkronisasi Sekarang
+Sinkronkan Sekarang
 Sinkronisasi terlalu sering
 Sinkronisasi berhasil
 Sinkronisasi gagal
-Simpan Awan
+Penyimpanan Cloud
 Terakhir Disinkronkan
 Versi Data Cloud
 Disinkronkan...
 Ikuti Bahasa Sistem
 Salin
 Buka Direktori Eksternal
-Membuka direktori secara langsung saat ini tidak didukung. Silakan klik tombol untuk menyalin direktori berikut dan membukanya secara manual.:\n\n#DIRECTORY#
+Membuka direktori secara langsung saat ini tidak didukung. Silakan klik tombol untuk menyalin direktori berikut dan membukanya secara manual:\n\n#DIRECTORY#
 DL RS Games Account System
 Email...
 Kata Sandi...
-Ingatkan Saya
-Masuk Akun
-Masuk
+Ingat Pengguna
+Login Akun
+Login
 Daftar
 Lupa Kata Sandi
-Memasuki
+Sedang login...
 Waktu login habis
 Kesalahan
 Email atau kata sandi salah
-Akun ini tidak ada dalam daftar putih
-Akun ini perlu diaktifkan
+Akun ini tidak terdaftar dalam daftar putih
+Akun ini perlu diaktivasi
 Aplikasi sudah usang, silakan periksa pembaruan
 Selamat Datang, {0}!
 Login berhasil
 Silakan masukkan email
 Silakan masukkan kata sandi
-Dengan masuk, Anda menyetujui <b><color=#3d6ec0>DLRS GAS Terms of Service</color></b>
+Dengan masuk, kamu menyetujui <b><color=#3d6ec0>Ketentuan Layanan DLRS GAS</color></b>
 Akun Sebelumnya
 Login Baru
-Apakah Anda yakin ingin menghapus akun #name#?
+Apakah kamu yakin ingin menghapus akun #name#?
 Membuka di browser eksternal...
 Akun ini telah diblokir
-Mengunduh Simpanan Cloud...
-Gagal Mengunduh Simpanan Cloud
-Keluar
-Apakah Anda yakin ingin keluar dari  #USERNAME#?
+Mengunduh data pengguna...
+Gagal mengunduh data pengguna
+Logout
+Apakah kamu yakin ingin logout dari  #USERNAME#?
 Perpustakaan Sumber Terbuka
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 Statistik
 Selesai
-Permata
+Berlian
 Mahkota
 Kematian
-Upaya Level
+Percobaan Level
 Kebangkitan
-Jumlah Kali Selesai
-Permata yang Diambil
+Total Selesai
+Berlian yang Diambil
 Mahkota yang Diambil
 Bintang yang Diperoleh
 Bintang yang Digunakan
@@ -465,88 +465,88 @@ Not yang Diperoleh
 Not yang Digunakan
 Skin yang Dimiliki
 Topi yang Dimiliki
-#SHORT#
-#SHORT#
-#SHORT#
-#SHORT#
-#SHORT#
+Multisample AA (#SHORT#)
+Fast Approximate AA (#SHORT#)
+Temporal AA (#SHORT#)
+Subpixel Morphological AA (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
 Planet
 Bintang
 Pergi ke #LEVELNAME#
-Berdasarkan kinerja perangkat Anda, menggunakan opsi ini dapat menyebabkan lag atau gangguan saat bermain game.
+Berdasarkan kinerja perangkatmu, menggunakan opsi ini dapat menyebabkan lag atau gangguan saat bermain game.
 Peringatan
 Perangkat Audio
 Speaker Bawaan
 Speaker
-Tidak ditemukan level yang sesuai dengan kata kunci.
+Tidak dapat menemukan level yang cocok dengan kata kunci.
 Cocokkan Semua
 Cocokkan Salah Satu
-Dapat Diputar
-Masuk dengan email dan password
-Masuk dengan OAuth
-Otentikasi gagal. Silakan coba lagi.
-Dinonaktifkan
-Diaktifkan
-Jika dinonaktifkan, statistik Anda akan dihapus, dan permainan tidak akan lagi merekam data kecuali diaktifkan kembali.
-Versi saat ini tidak valid, silakan perbarui permainan.
+Dapat Dimainkan
+Login dengan email dan password
+Login dengan OAuth
+Autentikasi gagal. Silakan coba lagi.
+Nonaktifkan
+Aktifkan
+Saat dinonaktifkan, statistikmu akan dihapus, dan game tidak akan merekam data lagi kecuali diaktifkan kembali.
+Aplikasi sudah usang, silakan periksa pembaruan.
 Kode Penukaran
 Masukkan kode penukaran…
 Tukarkan
 Penukaran sedang dalam masa tunggu, silakan coba lagi nanti.
 Kode penukaran tidak sah atau sudah digunakan.
-Penukaran berhasil untuk barang-barang berikut:
+Penukaran berhasil untuk item-item berikut:
 Level: #NAME#
-Kulit: #NAME#
+Skin: #NAME#
 Topi: #NAME#
 Not × {0}
 Kepala di Awan
 Syarat dan Ketentuan
 Verifikasi integritas lingkungan permainan gagal.
 Overlay Steam
-Monumen Valley
-Teddy si Cheetah
+Monument Valley
+Cheetah Teddy
 Sang Penyihir dari Oz
-Naga
-Pencampur Audio
-
-
-
-
-
-
+Loong
+Mixer Audio
+Mono
+Stereo
+4.0 Surround
+5.0 Surround
+5.1 Surround
+7.1 Surround
 Pilih Level
 Koleksi Level
 Beli di Steam
-Beli dan instal DLC ini di Toko Steam
-Warisan
+Beli dan instal DLC ini di Steam Store
+Lawas
 Pengajuan Level
 {0} detik
 {0} menit {1} detik
 {0} jam {1} menit {3} detik
 {0} jam {1} menit
-Unduhan pembaruan gagal. Mau coba lagi?
-Tersedia pembaruan baru, perlu mengunduh {0}. Lanjutkan?
-The Forgotten Haven
+Gagal mengunduh pembaruan. Coba lagi?
+Pembaruan baru tersedia, diperlukan unduhan sebesar {0}. Lanjutkan?
+Surga yang Terlupakan
 Gagal memeriksa pembaruan, mau coba lagi?
-Unduhan pembaruan gagal. Mencoba lagi…
+Gagal mengunduh pembaruan. Mencoba lagi…
 Kolaborasi
 Lewati Level
-Gunakan {0} Catatan untuk melewati level tantangan ini?
-Catatan tidak cukup. Butuh setidaknya {0} untuk melewati.
+Gunakan {0} Not untuk melewati level tantangan ini?
+Not tidak cukup. Butuh setidaknya {0} untuk melewati.
 {0} hari {1} jam
-Waktu tunggu: {0}
-Pengaturan Tampilan
-VSync saat ini diaktifkan. Pengaturan kecepatan bingkai hanya berlaku jika VSync dinonaktifkan.\nApakah Anda ingin menonaktifkan VSync?
-Server sedang dalam proses pemeliharaan. Permainan tidak akan tersedia selama periode ini.\n\nAlasan Pemeliharaan: {0}\nWaktu Selesai: {1}
+Diperbarui dalam: {0}
+Dekorasi
+VSync saat ini diaktifkan. Pengaturan frame rate hanya akan berpengaruh saat VSync dinonaktifkan.\nApakah kamu ingin menonaktifkan VSync?
+Server saat ini sedang dalam pemeliharaan. Game tidak akan tersedia selama periode ini.\n\nAlasan Pemeliharaan: {0}\nWaktu Selesai: {1}
 Mohon pantau terus pengumuman resmi selanjutnya.
-Sesi akun Anda telah kedaluwarsa. Mungkin Anda telah masuk dari perangkat lain.\nSilakan masuk kembali.
-
-
-Waktu tunggu: {0}
-Masuk ke dalam game
-Selesaikan level mana pun {0} kali
-Konsumsi {0} kubus
-Konsumsi {0} bintang
+Sesi akunmu telah kedaluwarsa. Kamu mungkin telah login dari perangkat lain.\nSilakan login kembali.
+Server saat ini sedang dalam pemeliharaan. Kamu dapat login ke dalam game selama pemeliharaan, tetapi layanan game mungkin tidak stabil.\n\nAlasan Pemeliharaan: {0}\nWaktu Selesai: {1}
+Misi
+Diperbarui dalam: {0}
+Login ke dalam game
+Selesaikan level mana pun sebanyak {0} kali
+Gunakan {0} kubus
+Gunakan {0} bintang
 Mati {0} kali di level mana pun
 Kumpulkan {0} berlian di level mana pun
 Kumpulkan {0} mahkota di level mana pun
@@ -555,7 +555,7 @@ Dapatkan Bintang
 Interaksi Khusus Level
 Level ini memiliki interaksi khusus, yang dapat dipicu melalui layar sentuh atau dengan menahan tombol.
 Tidak dapat terhubung ke jaringan Steam
-
+Steam Cloud
 Level Terkunci
 Fungsi 1
 Fungsi 2
@@ -564,7 +564,7 @@ Fungsi 4
 Fungsi 5
 Kembali
 Batal
-Membeli
+Beli
 Level Berikutnya
 Menu Utama
 Mulai Level
@@ -576,5 +576,5 @@ Audio
 Volume Utama
 Gagal menginisialisasi klien Steam, silakan luncurkan ulang game.
 Tidak dapat terhubung ke klien Steam. Pastikan klien Steam sedang berjalan, dan luncurkan ulang game.
-Klien Steam tampaknya sudah kedaluwarsa, pastikan klien Steam Anda sudah yang terbaru.
+Klien Steam tampaknya sudah kedaluwarsa, pastikan klien Steam kamu sudah yang terbaru.
 Kesalahan Steam
