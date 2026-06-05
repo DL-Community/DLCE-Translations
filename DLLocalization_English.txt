@@ -578,3 +578,8 @@ Failed to initialize Steam client, please relaunch the game.
 Cannot connect to Steam client. Please make sure that the Steam client is running, and relaunch the game.
 Steam client appears to be out of date, please make sure that your steam client is up to date.
 Steam Error
+Steam cloud save is corrupted and cannot be read.\nThis may be because you exited the game while it was saving, causing incomplete data to be written to the save.\nThe game has attempted to read the save from the local cache but still failed.\nYou can choose to start the game with a new save. Do you want to continue?
+Steam Cloud Error
+Enabling the guide line in this level will enter Practice Mode: all scores will not count toward level and Missions progress, no rewards can be earned, and achievements cannot be earned. Enable it?
+Practice Mode
+Practice Mode

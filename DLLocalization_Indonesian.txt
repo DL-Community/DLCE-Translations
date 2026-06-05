@@ -578,3 +578,8 @@ Gagal menginisialisasi klien Steam, silakan luncurkan ulang game.
 Tidak dapat terhubung ke klien Steam. Pastikan klien Steam sedang berjalan, dan luncurkan ulang game.
 Klien Steam tampaknya sudah kedaluwarsa, pastikan klien Steam kamu sudah yang terbaru.
 Kesalahan Steam
+Simpanan cloud Steam rusak dan tidak dapat dibaca.\nMungkin karena Anda keluar dari game saat proses penyimpanan, sehingga data yang tidak lengkap tertulis ke dalam simpanan.\nGame telah mencoba membaca simpanan dari cache lokal, tetapi tetap gagal.\nAnda dapat memilih untuk membuat simpanan baru dan masuk ke game. Apakah Anda ingin melanjutkan ?
+Kesalahan Steam Cloud
+Mengaktifkan garis panduan di level ini akan membuatmu masuk ke Mode Latihan: semua skor tidak akan dihitung dalam progres level dan Misi, hadiah apa pun tidak dapat diperoleh, dan pencapaian tidak dapat diperoleh. Aktifkan?
+Mode Latihan
+Mode Latihan
