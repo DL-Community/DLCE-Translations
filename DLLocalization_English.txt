@@ -574,3 +574,7 @@ Prev Page
 Next Page
 Audio
 Master Volume
+Failed to initialize Steam client, please relaunch the game.
+Cannot connect to Steam client. Please make sure that the Steam client is running, and relaunch the game.
+Steam client appears to be out of date, please make sure that your steam client is up to date.
+Steam Error

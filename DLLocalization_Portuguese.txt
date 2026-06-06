@@ -574,3 +574,7 @@ Pagina anterior
 Proxima pagina
 Áudio
 Volume principal
+Falha ao inicializar o cliente Steam, por favor, reinicie o jogo.
+Não foi possível conectar ao cliente Steam. Certifique-se de que o cliente Steam está em execução e reinicie o jogo.
+O cliente Steam parece estar desatualizado, certifique-se de que seu cliente Steam está atualizado.
+Erro Steam
