@@ -578,3 +578,8 @@ Volume principal
 Impossible de se connecter au client Steam. Veuillez vous assurer que le client Steam est en cours d'exécution, puis relancez le jeu.
 Le client Steam semble être obsolète, veuillez vous assurer que votre client Steam est à jour.
 Erreur Steam
+La sauvegarde Steam Cloud est corrompue et ne peut pas être lue.\nCela est peut-être dû au fait que vous avez quitté le jeu pendant la sauvegarde, ce qui a entraîné l'écriture de données incomplètes dans la sauvegarde.\nLe jeu a tenté de lire la sauvegarde depuis le cache local, mais a échoué.\nVous avez la possibilité de créer une nouvelle sauvegarde et de lancer le jeu. Voulez-vous continuer ?
+Erreur Steam Cloud
+Activer la ligne guide dans ce niveau vous fera passer en mode entraînement : tous les scores ne compteront pas pour la progression du niveau et des missions quotidiennes, aucune récompense ne pourra être obtenue et les succès ne pourront pas être obtenus. Activer ?
+Mode entraînement
+Mode entraînement

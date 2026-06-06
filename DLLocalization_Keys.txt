@@ -578,3 +578,8 @@ ESteamAPIInitResult.k_ESteamAPIInitResult_FailedGeneric
 ESteamAPIInitResult.k_ESteamAPIInitResult_NoSteamClient
 ESteamAPIInitResult.k_ESteamAPIInitResult_VersionMismatch
 ESteamAPIInitResult.Title
+Steam.SteamCloud.RemoteDataError.BadError.Prompt
+Steam.SteamCloud.Error
+HintPath.PracticeMode.Prompt
+HintPath.PracticeMode.Prompt.Title
+EndPanel.PracticeMode.Title

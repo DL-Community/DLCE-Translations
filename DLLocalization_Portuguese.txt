@@ -578,3 +578,8 @@ Falha ao inicializar o cliente Steam, por favor, reinicie o jogo.
 Não foi possível conectar ao cliente Steam. Certifique-se de que o cliente Steam está em execução e reinicie o jogo.
 O cliente Steam parece estar desatualizado, certifique-se de que seu cliente Steam está atualizado.
 Erro Steam
+O save da Steam Cloud está corrompido e não pode ser lido.\nPode ser que você tenha saído do jogo durante o processo de salvamento, fazendo com que dados incompletos fossem gravados no save.\nO jogo tentou ler o save do cache local, mas falhou novamente.\nVocê pode optar por criar um novo save e entrar no jogo. Deseja continuar ?
+Erro da Steam Cloud
+Ativar a linha guia neste nível colocará você no modo de treino: todas as pontuações não contarão para o progresso do nível e das missões diárias, nenhuma recompensa poderá ser obtida e conquistas não poderão ser obtidas. Ativar?
+Modo de treino
+Modo de treino

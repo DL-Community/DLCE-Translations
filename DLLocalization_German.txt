@@ -578,3 +578,8 @@ Initialisierung des Steam-Clients fehlgeschlagen, bitte starten Sie das Spiel ne
 Keine Verbindung zum Steam-Client möglich. Bitte stellen Sie sicher, dass der Steam-Client ausgeführt wird, und starten Sie das Spiel neu.
 Der Steam-Client scheint veraltet zu sein, bitte stellen Sie sicher, dass Ihr Steam-Client auf dem neuesten Stand ist.
 Steam-Fehler
+Der Steam-Cloud-Speicherstand ist beschädigt und kann nicht gelesen werden.\nMöglicherweise haben Sie das Spiel während des Speichervorgangs beendet, wodurch unvollständige Daten in den Speicherstand geschrieben wurden.\nDas Spiel hat versucht, den Speicherstand aus dem lokalen Cache zu lesen, was jedoch fehlgeschlagen ist.\nSie können einen neuen Speicherstand erstellen und das Spiel starten. Möchten Sie fortfahren ?
+Steam-Cloud-Fehler
+Wenn du die Führungslinie in diesem Level aktivierst, wechselst du in den Übungsmodus: Alle Ergebnisse zählen nicht zum Fortschritt von Level und täglichen Missionen, es können keine Belohnungen erhalten und keine Erfolge freigeschaltet werden. Aktivieren?
+Übungsmodus
+Übungsmodus

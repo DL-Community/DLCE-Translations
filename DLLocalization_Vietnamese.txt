@@ -578,3 +578,8 @@ Khởi tạo trình khách Steam thất bại, vui lòng khởi động lại tr
 Không thể kết nối đến trình khách Steam. Vui lòng đảm bảo rằng trình khách Steam đang chạy và khởi động lại trò chơi.
 Trình khách Steam có vẻ đã lỗi thời, vui lòng đảm bảo rằng trình khách Steam của bạn được cập nhật mới nhất.
 Lỗi Steam
+Dữ liệu lưu trên Steam Cloud bị hỏng và không thể đọc được.\nCó thể do bạn đã thoát trò chơi trong khi đang lưu, khiến dữ liệu không đầy đủ được ghi vào bản lưu.\nTrò chơi đã thử đọc bản lưu từ bộ nhớ đệm cục bộ nhưng vẫn thất bại.\nBạn có thể chọn tạo bản lưu mới và vào trò chơi. Bạn có muốn tiếp tục không ?
+Lỗi Steam Cloud
+Bật đường dẫn trong màn này sẽ đưa bạn vào Chế độ luyện tập: mọi điểm số sẽ không được tính vào tiến độ màn chơi và Nhiệm Vụ, bạn không thể nhận bất kỳ phần thưởng nào, và không thể nhận thành tựu. Bật chứ?
+Chế độ luyện tập
+Chế độ luyện tập
