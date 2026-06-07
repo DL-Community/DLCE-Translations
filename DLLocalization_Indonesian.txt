@@ -30,11 +30,11 @@ Sangat Rendah
 Rendah
 Menengah
 Tinggi
-Ultra
+
 Maksimal
 Anti Aliasing
 Suara
-VSync
+
 Sinkronisasi
 Penyesuaian Otomatis
 Offset Musik
@@ -45,8 +45,8 @@ Tentang
 Versi
 Desainer Level
 Tim Lokalisasi
-Bilibili
-YouTube
+
+
 Perjanjian Lisensi Pengguna Akhir
 Kebijakan Privasi
 Server Discord Resmi
@@ -83,7 +83,7 @@ Latensi Output Audio
 Latensi Input Sentuh
 
 Efek Giroskop
-Game Center
+
 Klaim
 Bintang Gratis Harian
 Dapatkan setelah {0}
@@ -106,7 +106,7 @@ Ketuk saat terbang tidak diperlukan.
 Jangan mengetuk saat memasuki piramida pada sudut 45°
 Kamu dapat mengubah skin karakter dengan mengklik kubus mengambang.
 Kumpulkan semua berlian dan mahkota untuk menyelesaikan level dengan sempurna.
-Prestasi
+Pencapaian
 [Tersembunyi] 
 Selesai: #x#
 #x# - Selesai
@@ -119,7 +119,7 @@ Rahasia Dragonia
 Temukan setidaknya satu jalur tersembunyi di level  Kisah Dragonia
 Apakah itu Paimon?
 Bagaimana kalau kita jelajahi area di depan nanti saja?
-M.A.Z.E.
+
 Temukan jalur tersembunyi di level  Labirin 
 Pasifisme
 Masuki alur cerita perdamaian di level  Perang 
@@ -136,25 +136,25 @@ Jeda Permainan
 Kontrol Karakter
 Garis Panduan
 Pengaturan
-Skin
+
 Kiri
 Kanan
 Konfirmasi
 Mulai ulang
-Prestasi
-Backspace
-Enter
-Enter
-ESC
+Pencapaian
+
+
+
+
 Spasi
 WIN Kiri
 WIN Kanan
 CMD Kiri
 CMD Kanan
-▲
-▼
-◀
-▶
+
+
+
+
 Shift Kiri
 Shift Kanan
 Option Kiri
@@ -165,7 +165,7 @@ Option Kiri
 Option Kanan
 Menu
 Selesai
-Checkpoint
+
 Selamat Natal
 Dapatkan
 Ketuk
@@ -177,15 +177,15 @@ Ikuti bintangmu sendiri! -Dante
 Begitu kamu terbang, kamu akan berjalan dengan mata menatap ke langit \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
 Kamu tidak sendirian.
 Jangan sesali apa pun dalam urusan\ncinta dan makanan.
-Normal
-Headphones
+
+Headphone
 Kertas
-Zeus
+
 Kekacauan
 Pegunungan
 Kuas Tiongkok
 Penyihir Ajaib
-Slither
+
 Domino
 Modul
 Cahaya
@@ -193,7 +193,7 @@ Bola Salju
 Panah
 Paus
 Kabut Salju
-Stalakmit
+Stalagmit
 Badut
 Awan Kinton
 Ular
@@ -250,7 +250,7 @@ Festival Musim Semi
 Samurai
 Kisah Dragonia
 Itik Buruk Rupa
-Permainan Video
+Video Game
 Eksodus
 Samudra
 Taurus
@@ -266,15 +266,15 @@ Paskah
 Lagu Pengantar Tidur Musim Semi
 Teka-teki Halloween
 Taman Hiburan
-Faded - Alan Walker
+
 Faded (Versi Tutorial)
-Despacito
-Alone - Alan Walker
+
+
 Taman Zen
 Samurai HD
 Peternakan
-Faded - Alan Walker
-All About Us
+
+
 Evolusi (P13)
 Dunia Manisan
 Ruang
@@ -324,7 +324,7 @@ Pilih apa yang ingin dihapus
 Hapus Progress Game
 Rekor Baru
 Sempurna
-Tidak untuk dijual
+Tidak dijual
 Tantangan Not
 Toko Not
 Habis terjual
@@ -355,8 +355,8 @@ Saat Diam
 Saat Bermain
 Tidak Pernah
 Resmi
-Remix
-Event
+
+
 Musim
 Orisinal
 Lawas
@@ -365,15 +365,15 @@ Max Studio
 WINDER Studio
 Silakan masuk ke Game Center di Pengaturan Sistem
 Bilah Status
-DLRS GAS
+
 Profil
 Pengaturan Akun
 Nama Pengguna: {0}\nID Pengguna: {1}
-Frame Rate
+
 Tampilkan Frame Rate
 Server
 Dukungan Multi-sentuh
-Come & Get It - Selena Gomez
+
 Lagu
 Disalin ke clipboard
 Ikon Aplikasi
@@ -383,7 +383,7 @@ Pohon Void
 Masuk ke jalur rahasia di level Kehampaan
 Klik otomatis mungkin tidak akurat sebelum level selesai diunduh.
 Memperbarui Database Game
-Default
+
 Hijau
 Duet
 Grup QQ
@@ -392,11 +392,11 @@ Resolusi Render
 Otomatis
 Topi
 Lepas
-Sci-Fi
-https://dl-community.github.io/Docs/#/en/legal/eula
-https://dl-community.github.io/Docs/#/en/legal/privacy
-https://dl-community.github.io/Docs/#/dlce/level_information
-https://dl-community.github.io/Docs/#/en/dlce/localization
+
+
+
+
+
 selesai
 Biru
 Kuning
@@ -411,17 +411,17 @@ Sinkronisasi gagal
 Penyimpanan Cloud
 Terakhir Disinkronkan
 Versi Data Cloud
-Disinkronkan...
+Menyinkronkan...
 Ikuti Bahasa Sistem
 Salin
 Buka Direktori Eksternal
 Membuka direktori secara langsung saat ini tidak didukung. Silakan klik tombol untuk menyalin direktori berikut dan membukanya secara manual:\n\n#DIRECTORY#
-DL RS Games Account System
+
 Email...
 Kata Sandi...
 Ingat Pengguna
 Login Akun
-Login
+
 Daftar
 Lupa Kata Sandi
 Sedang login...
@@ -443,10 +443,10 @@ Membuka di browser eksternal...
 Akun ini telah diblokir
 Mengunduh data pengguna...
 Gagal mengunduh data pengguna
-Logout
+
 Apakah kamu yakin ingin logout dari  #USERNAME#?
 Perpustakaan Sumber Terbuka
-https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+
 Statistik
 Selesai
 Berlian
@@ -465,11 +465,11 @@ Not yang Diperoleh
 Not yang Digunakan
 Skin yang Dimiliki
 Topi yang Dimiliki
-Multisample AA (#SHORT#)
-Fast Approximate AA (#SHORT#)
-Temporal AA (#SHORT#)
-Subpixel Morphological AA (#SHORT#)
-AMD FidelityFX™ Super Resolution (#SHORT#)
+
+
+
+
+
 Planet
 Bintang
 Pergi ke #LEVELNAME#
@@ -503,17 +503,17 @@ Kepala di Awan
 Syarat dan Ketentuan
 Verifikasi integritas lingkungan permainan gagal.
 Overlay Steam
-Monument Valley
-Cheetah Teddy
+
+
 Sang Penyihir dari Oz
 Loong
 Mixer Audio
-Mono
-Stereo
-4.0 Surround
-5.0 Surround
-5.1 Surround
-7.1 Surround
+
+
+
+
+
+
 Pilih Level
 Koleksi Level
 Beli di Steam
@@ -555,7 +555,7 @@ Dapatkan Bintang
 Interaksi Khusus Level
 Level ini memiliki interaksi khusus, yang dapat dipicu melalui layar sentuh atau dengan menahan tombol.
 Tidak dapat terhubung ke jaringan Steam
-Steam Cloud
+
 Level Terkunci
 Fungsi 1
 Fungsi 2
@@ -572,14 +572,14 @@ Keluar Game
 Level Sebelumnya
 Halaman Sebelumnya
 Halaman Berikutnya
-Audio
+
 Volume Utama
 Gagal menginisialisasi klien Steam, silakan luncurkan ulang game.
-Tidak dapat terhubung ke klien Steam. Pastikan klien Steam sedang berjalan, dan luncurkan ulang game.
-Klien Steam tampaknya sudah kedaluwarsa, pastikan klien Steam kamu sudah yang terbaru.
+Tidak dapat terhubung ke klien Steam. Pastikan klien Steam sedang berjalan, lalu luncurkan ulang game.
+Klien Steam tampaknya sudah usang, pastikan klien Steam kamu sudah yang terbaru.
 Kesalahan Steam
-Simpanan cloud Steam rusak dan tidak dapat dibaca.\nMungkin karena Anda keluar dari game saat proses penyimpanan, sehingga data yang tidak lengkap tertulis ke dalam simpanan.\nGame telah mencoba membaca simpanan dari cache lokal, tetapi tetap gagal.\nAnda dapat memilih untuk membuat simpanan baru dan masuk ke game. Apakah Anda ingin melanjutkan ?
+Penyimpanan cloud Steam rusak dan tidak dapat dibaca.\nMungkin karena kamu keluar dari game saat proses penyimpanan, sehingga data yang tidak lengkap tertulis ke dalam penyimpanan.\nGame telah mencoba membaca penyimpanan dari cache lokal, tetapi tetap gagal.\nKamu dapat memilih untuk membuat penyimpanan baru dan masuk ke dalam game. Apakah kamu ingin melanjutkan?
 Kesalahan Steam Cloud
-Mengaktifkan garis panduan di level ini akan membuatmu masuk ke Mode Latihan: semua skor tidak akan dihitung dalam progres level dan Misi, hadiah apa pun tidak dapat diperoleh, dan pencapaian tidak dapat diperoleh. Aktifkan?
+Mengaktifkan garis panduan di level ini akan membuatmu masuk ke Mode Latihan: semua skor tidak akan dihitung dalam progres level dan Misi, tidak ada hadiah yang bisa didapatkan, dan pencapaian tidak dapat diperoleh. Aktifkan?
 Mode Latihan
 Mode Latihan
