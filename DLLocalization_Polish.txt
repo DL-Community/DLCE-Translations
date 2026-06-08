@@ -583,3 +583,5 @@ Nastepna strona
 Włączenie linii prowadzącej na tym poziomie spowoduje wejście w tryb treningowy: wszystkie wyniki nie będą wliczane do postępu poziomu i codziennych misji, nie będzie można zdobyć żadnych nagród ani osiągnięć. Włączyć?
 Tryb treningowy
 Tryb treningowy
+
+

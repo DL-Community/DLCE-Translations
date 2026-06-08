@@ -583,3 +583,5 @@ Lỗi Steam Cloud
 Bật đường dẫn trong màn này sẽ đưa bạn vào Chế độ luyện tập: Mọi điểm số sẽ không được tính vào tiến trình màn chơi và Nhiệm Vụ, bạn sẽ không thể nhận bất kỳ phần thưởng nào, và sẽ không thể nhận thành tựu. Bật chứ?
 Chế độ luyện tập
 Chế độ luyện tập
+
+

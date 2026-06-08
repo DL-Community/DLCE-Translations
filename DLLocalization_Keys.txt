@@ -583,3 +583,5 @@ Steam.SteamCloud.Error
 HintPath.PracticeMode.Prompt
 HintPath.PracticeMode.Prompt.Title
 EndPanel.PracticeMode.Title
+Photosensitivity.Title
+Photosensitivity.Content
