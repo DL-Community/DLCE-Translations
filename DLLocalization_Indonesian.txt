@@ -327,7 +327,7 @@ Sempurna
 Tidak dijual
 Tantangan Not
 Toko Not
-Habis terjual
+Habis
 Bintang × {0}
 Kubus × {0}
 Tantangan
@@ -580,8 +580,8 @@ Klien Steam tampaknya sudah usang, pastikan klien Steam kamu sudah yang terbaru.
 Kesalahan Steam
 Penyimpanan cloud Steam rusak dan tidak dapat dibaca.\nMungkin karena kamu keluar dari game saat proses penyimpanan, sehingga data yang tidak lengkap tertulis ke dalam penyimpanan.\nGame telah mencoba membaca penyimpanan dari cache lokal, tetapi tetap gagal.\nKamu dapat memilih untuk membuat penyimpanan baru dan masuk ke dalam game. Apakah kamu ingin melanjutkan?
 Kesalahan Steam Cloud
-Mengaktifkan garis panduan di level ini akan membuatmu masuk ke Mode Latihan: semua skor tidak akan dihitung dalam progres level dan Misi, tidak ada hadiah yang bisa didapatkan, dan pencapaian tidak dapat diperoleh. Aktifkan?
+Mode Latihan akan mengaktifkan Garis Panduan.\n\nIkuti Garis Panduan untuk mempelajari rute dan bebas menikmati semua yang ditawarkan oleh level ini.\n\nLuangkan waktu untuk menemukan jalan ke depan —— rekor kamu bisa menunggu. Progres di Mode Latihan tidak akan dihitung dalam skor, misi, atau pencapaian.\n\nAktifkan Mode Latihan?
 Mode Latihan
 Mode Latihan
-
-
+PERINGATAN: KEJANG EPILEPSI/FOTOSENSITIVITAS
+<b>BACA PEMBERITAHUAN INI SEBELUM BERMAIN</b>\n\nSebagian kecil orang dapat mengalami kejang epilepsi atau pingsan saat terpapar jenis lampu kilat atau pola cahaya tertentu. Orang-orang ini, atau bahkan mereka yang tidak memiliki riwayat kejang atau epilepsi, dapat mengalami gejala atau kejang epilepsi saat bermain game.\n\nJika kamu atau salah satu kerabatmu memiliki kondisi epilepsi atau pernah mengalami kejang dalam bentuk apa pun, konsultasikan dengan dokter sebelum bermain game.\n\nSEGERA HENTIKAN penggunaan dan hubungi dokter jika kamu atau anakmu mengalami gejala-gejala berikut: pusing, gangguan penglihatan, kedutan pada mata atau otot, gerakan tak terkendali, kehilangan kesadaran, disorientasi, atau kejang-kejang. Orang tua harus mengawasi atau menanyakan kepada anak-anak mereka tentang gejala-gejala di atas.\n\nKamu dapat mengurangi risiko kejang epilepsi fotosensitif dengan melakukan tindakan pencegahan berikut: duduk lebih jauh dari layar, gunakan layar yang lebih kecil, bermainlah di ruangan dengan pencahayaan yang baik, serta jangan bermain saat kamu sedang mengantuk atau lelah.
