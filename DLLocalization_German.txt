@@ -4,7 +4,7 @@ English
 Dancing Line
 Sprache
 Geben Sie uns ein Like
-LÄD
+Läd
 Erhalte Würfel
 Benutzen Sie Kopfhörer für das beste Spielerlebnis
 Video nicht verfügbar
@@ -32,7 +32,7 @@ Mittel
 Hoch
 Ultra
 Max
-ANTI ALIASING
+Anti Aliasing
 Sound
 VSync
 Synchronisation
@@ -81,7 +81,7 @@ Spiel verlassen
 DSP-Puffergröße
 Audio Ausgabeverzögerung
 Touch Eingabeverzögerung
-
+Betaversion ##UID# Nicht veröffentlichen
 Gyroskopeffekte
 Game Center
 Einsammeln
@@ -151,10 +151,10 @@ WIN Links
 WIN Rechts
 CMD Links
 CMD Rechts
-Pfeil hoch
-Pfeil runter
-Pfeil Links
-Pfeil Rechts
+▲
+▼
+◀
+▶
 Shift Links
 Shift Rechts
 Option Links
@@ -408,140 +408,140 @@ Jetzt synchronisieren
 Die Synchronisierung erfolgt zu häufig.
 Synchronisierung erfolgreich
 Synchronisierung fehlgeschlagen
-
+Cloud-Spielstand
 Zuletzt synchronisiert
 Cloud Data Version
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Synchronisierung...
+Der Systemsprache folgen
+Kopieren
+Externes Verzeichnis öffnen
+Das direkte Öffnen eines Verzeichnisses wird derzeit nicht unterstützt. Bitte klicken Sie auf die Schaltfläche, um das folgende Verzeichnis zu kopieren und manuell zu öffnen:\n\n#DIRECTORY#
+DL RS Spiele-Account System
+Email…
+Password…
+Nutzername speichern
+Account Login
+Login
+Registrieren
+Passwort vergessen
+Anmeldung…
+Anmeldung abgelaufen
+Fehler
+Falsche E-Mail-Adresse oder falsches Passwort
+Dieser Account befindet sich nicht auf der Whitelist
+Dieser Account muss aktiviert werden
+App veraltet, bitte auf Updates prüfen.
+Willkommen, {0}!
+Anmeldung erfolgreich
+Bitte E-Mail-Adresse eingeben
+Bitte Passwort eingeben
+Durch die Anmeldung stimmen Sie den <b><color=#3d6ec0>DLRS GAS Nutzungsbedingungen</color></b> zu.
+Kürzlich genutzter Account
+Neue Anmeldung
+Sind Sie sicher, dass Sie das Konto #name# entfernen möchten?
+Wird in einem externen Browser geöffnet…
+Dieser Account wurde gesperrt
+Benutzerdaten werden heruntergeladen…
+Spielerdaten konnten nicht geladen werden
+Abmelden
+Sind Sie sicher, dass Sie sich von #USERNAME# abmelden möchten?
+Open Source Libraries
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Statistiken
+Abgeschlossen
+Diamanten
+Kronen
+Gestorben
+Level Versuche
+Wiederbelebungen
+Level Abgeschlossen
+Eingesammelte Diamanten
+Eingesammelte Kronen
+Eingesammelte Sterne
+Ausgegebene Sterne
+Verdiente Energiewürfel
+Verbrauchte Energiewürfel
+Verdiente Noten
+Ausgegebene Noten
+Skins im Besitz
+Hüte im Besitz
+Multisample AA (#SHORT#)
+Fast Approximate AA (#SHORT#)
+Temporal AA (#SHORT#)
+Subpixel Morphological AA (#SHORT#)
 AMD FidelityFX™ Super Resolution (#SHORT#)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Planet
+Stern
+Gehe zu #LEVELNAME#
+Die Verwendung dieser Option kann während des Spiels zu Rucklern oder einer fehlerhaften Bilddarstellung führen.
+Warnung
+Audio Gerät
+Eingebauter Lautsprecher
+Lautsprecher
+Es konnten kein Level unter diesem Namen gefunden werden.
+Alle Übereinstimmungen
+Beliebige Übereinstimmung
+Spielbar
+Anmeldung mit E-Mail und Passwort
+Anmeldung über OAuth
+Autorisierung fehlgeschlagen. Bitte versuchen Sie es erneut.
+Deaktivieren
+Aktivieren
+Wenn diese Funktion deaktiviert wird, werden Ihre Statistiken gelöscht und das Spiel zeichnet keine Daten mehr auf, bis sie wieder aktiviert wird.
+App veraltet, bitte auf Updates prüfen.
+Einlösungscode
+Einlösungscode eingeben…
+Einlösen
+Einlösung läuft noch, bitte versuchen Sie es etwas später erneut.
+Der Einlösungscode ist ungültig oder wurde bereits verwendet.
+Folgende Inhalte wurden erfolgreich eingelöst:
+Level: #NAME#
+Skin: #NAME#
+Hut: #NAME#
+Noten × {0}
+Head in the Clouds
+Nutzungsbedingungen
+Die Überprüfung der Integrität der Spielumgebung ist fehlgeschlagen.
+Steam Overlay
+Monument Valley
 Cheetah-Teddy
 Der Zauberer von Oz
 Chinesischer Drache
-
-
-
-
-
-
-
-
-
-
-
+Audio Mixer
+Mono
+Stereo
+4.0 Surround
+5.0 Surround
+5.1 Surround
+7.1 Surround
+Level auswählen
+Level Kollektion
+Auf Steam kaufen
+Dies kann über Steam als DLC gekauft und installiert werden
 Legacy
-
-
-
-
-
-
-
+Level Einreichung
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Herunterladen der Updates fehlgeschlagen. Erneut versuchen?
+Neue Updates verfügbar, {0} Download(s) erforderlich. Fortfahren?
 Der vergessene Hafen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Überprüfung auf Updates fehlgeschlagen. Erneut versuchen?
+Herunterladen der Updates fehlgeschlagen. Erneuter Versuch…
+Zusammenarbeit
+Level überspringen
+{0} Noten verwenden, um dieses Challenge Level zu überspringen?
+Nicht genügend Noten. Du benötigst mindestens {0}, um überspringen zu können.
+{0}d {1}h
+Aktualisierung in: {0}
+Decoration
+VSync is currently enabled. Frame rate settings only take effect when VSync is disabled.\nDo you want to disable VSync?
+Der Server wird derzeit gewartet. Während dieser Zeit ist das Spielen nicht möglich.\n\nGrund für die Wartung: {0}\nEndzeitpunkt: {1}
+Bitte achten Sie auf weitere offizielle Ankündigungen.
+Ihre Sitzung ist abgelaufen. Möglicherweise haben Sie sich von einem anderen Gerät aus angemeldet. \nBitte melden Sie sich erneut an.
+Der Server wird derzeit gewartet. Sie können sich während der Wartung im Spiel anmelden, jedoch kann das Spiel instabil sein.\n\nGrund für die Wartung: {0}\nEndzeit: {1}
+Missionen
 Aktualisierung in: {0}
 Im Spiel anmelden
 Schließe ein beliebiges Level {0} Mal ab
@@ -555,7 +555,7 @@ Sterne erhalten
 Level-spezielle Interaktion
 Dieses Level bietet spezielle Interaktionen, die über den Touchscreen oder durch Gedrückthalten der Taste ausgelöst werden können.
 Verbindung zum Steam-Netzwerk nicht möglich
-
+Steam Cloud
 Gesperrter Level
 Funktion 1
 Funktion 2
@@ -583,5 +583,5 @@ Steam-Cloud-Fehler
 Wenn du die Führungslinie in diesem Level aktivierst, wechselst du in den Übungsmodus: Alle Ergebnisse zählen nicht zum Fortschritt von Level und täglichen Missionen, es können keine Belohnungen erhalten und keine Erfolge freigeschaltet werden. Aktivieren?
 Übungsmodus
 Übungsmodus
-WARNUNG: Important Health Warnings about Playing Video Games
-<b>Photosensitive seizures</b>\n\nEine sehr geringe Anzahl von Personen kann unter Umständen einen Anfall erleiden, wenn sie bestimmten visuellen Bildern ausgesetzt ist, einschließlich blinkender Lichter oder Muster, die in Videospielen vorkommen. Selbst Personen ohne Vorgeschichte von Anfällen oder Epilepsie können eine unerkannte Erkrankung haben, die während des Spielens von Videospielen zu diesen „lichtempfindlichen epileptischen Anfällen“ führen kann. Diese Anfälle können verschiedene Symptome umfassen, wie Benommenheit, verändertes Sehvermögen, Zuckungen im Augen- oder Gesichtsbereich, Ruckeln oder Schütteln der Arme oder Beine, Orientierungsstörungen, Verwirrung oder kurzzeitigen Bewusstseinsverlust. Anfälle können auch zu Bewusstlosigkeit oder Krämpfen führen, die zu Verletzungen durch Hinfallen oder Anstoßen an nahe gelegene Gegenstände führen können. Beenden Sie das Spiel sofort und konsultieren Sie einen Arzt, wenn Sie eines dieser Symptome bei sich bemerken. Eltern sollten bei ihren Kindern auf die oben genannten Symptome achten bzw. sie danach fragen – Kinder und Jugendliche sind anfälliger für diese Anfälle als Erwachsene.\n\nDas Risiko von lichtempfindlichen epileptischen Anfällen kann verringert werden, indem Sie die folgenden Vorsichtsmaßnahmen befolgen: • Setzen oder stellen Sie sich weiter vom Fernsehbildschirm weg. • Verwenden Sie einen kleineren Fernsehbildschirm. • Spielen Sie in einem gut beleuchteten Raum. • Spielen Sie nicht, wenn Sie müde oder erschöpft sind. • Wenn bei Ihnen oder einem Ihrer Verwandten in der Vergangenheit bereits Anfälle oder Epilepsie aufgetreten sind, fragen Sie vor dem Spielen Ihren Arzt um Rat.
+WARNUNG: LICHTEMPFINDLICHKEIT / EPILEPTISCHE ANFÄLLE
+<b>Photosensitive seizures</b>\n\nEine sehr geringe Anzahl von Personen kann unter Umständen einen epileptischen Anfall erleiden, wenn sie bestimmten visuellen Bildern ausgesetzt ist, einschließlich blinkender Lichter oder Muster, die in Videospielen vorkommen. Selbst Personen ohne Vorgeschichte von Anfällen oder Epilepsie können eine unerkannte Erkrankung haben, die während des Spielens von Videospielen zu diesen „lichtempfindlichen epileptischen Anfällen“ führen kann. Diese Anfälle können verschiedene Symptome umfassen, wie Benommenheit, verändertes Sehvermögen, Zuckungen im Augen- oder Gesichtsbereich, Ruckeln oder Schütteln der Arme oder Beine, Orientierungsstörungen, Verwirrung oder kurzzeitigen Bewusstseinsverlust. Anfälle können auch zu Bewusstlosigkeit oder Krämpfen führen, die zu Verletzungen durch Hinfallen oder Anstoßen an nahe gelegene Gegenstände führen können. Beenden Sie das Spiel sofort und konsultieren Sie einen Arzt, wenn Sie eines dieser Symptome bei sich bemerken. Eltern sollten bei ihren Kindern auf die oben genannten Symptome achten bzw. sie danach fragen – Kinder und Jugendliche sind anfälliger für diese Anfälle als Erwachsene.\n\nDas Risiko von lichtempfindlichen epileptischen Anfällen kann verringert werden, indem Sie die folgenden Vorsichtsmaßnahmen befolgen: • Setzen oder stellen Sie sich weiter vom Bildschirm weg. • Verwenden Sie einen kleineren Bildschirm. • Spielen Sie in einem gut beleuchteten Raum. • Spielen Sie nicht, wenn Sie müde oder erschöpft sind. • Wenn bei Ihnen oder einem Ihrer Verwandten in der Vergangenheit bereits Anfälle oder Epilepsie aufgetreten sind, fragen Sie vor dem Spielen Ihren Arzt um Rat.
