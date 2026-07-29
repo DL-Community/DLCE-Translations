@@ -544,12 +544,12 @@ Máy chủ hiện tại đang bảo trì. Bạn có thể đăng nhập vào tr�
 Nhiệm Vụ
 Làm mới trong: {0}
 Đăng nhập vào trò chơi
-Hoàn thành màn chơi này {0} lần
+Hoàn thành màn chơi bất kì {0} lần
 Tiêu {0} Lượt Chơi
 Tiêu {0} Đá Quý
 Thua {0} lần trong bất kì màn chơi
 Lấy {0} Kim Cương trong bất kì màn chơi
-Lấy {0} Vương Miện trong bất kỳ màn chơi
+Lấy {0} Vương Miện trong bất kì màn chơi
 Hồi sinh {0} lần trong bất kì màn chơi
 Nhận Đá Quý
 Màn chơi có tương tác đặc biệt
