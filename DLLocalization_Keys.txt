@@ -8,7 +8,7 @@ Loading
 Get Cubes
 for the best experience use headphones
 Video not available
-Watch a video to unlock it temporairly
+UnlockLevelPanel.Tip.WatchAd
 Free Unlock
 Unlock
 New level unlocked:
@@ -132,14 +132,14 @@ The starry expanse promises delightful surprises
 Key Bindings
 KeyMapping.WaitInput
 Back
-Pause
-Haracter
+InputAction.Pause
+InputAction.Haracter
 HintPath
 Settings
 Skin
-Left
-Right
-Submit
+InputAction.Left
+InputAction.Right
+InputAction.Submit
 Restart
 Achievements
 Backspace
@@ -517,7 +517,7 @@ Surround71
 Select Level
 Level Collection
 Purchase on Steam
-Buy Steam DLC Tip
+UnlockLevelPanel.Tip.BuySteamDLC
 Legacy
 Level Submission
 TimeSpan.Seconds
@@ -536,3 +536,55 @@ Musicial.SkipLevel.Prompt.Fail
 TimeSpan.DaysHours
 Musicial.Store.RefreshTime
 Decoration
+FPSSettingButton.VSyncWarning
+GAS.Maintenance.Message.NoLogin
+GAS.Maintenance.NoEndTime
+GAS.AutoLoginExpired
+GAS.Maintenance.Message.AllowLogin
+DailyMissions.Title
+DailyMissions.RefreshTime
+DailyMissions.Type.Login
+DailyMissions.Type.LevelComplete
+DailyMissions.Type.EnergySpend
+DailyMissions.Type.CoinsSpend
+DailyMissions.Type.Kill
+DailyMissions.Type.DiamondCollect
+DailyMissions.Type.CrownCollect
+DailyMissions.Type.Revive
+Get Coins
+InputAction.SpecialInteraction
+Tutorial_SpecialInteraction
+Steam.UI.NetworkUnavailable
+Steam.UI.SteamCloud.Title
+UnlockLevelPanel.Tip.Locked
+InputAction.Func1
+InputAction.Func2
+InputAction.Func3
+InputAction.Func4
+InputAction.Func5
+InputAction.Back
+InputAction.Cancel
+Purchase
+Next Level
+Main Menu
+Start Level
+Exit Game
+Prev Level
+Prev Page
+Next Page
+AudioSettings.Title
+AudioSettings.Master.Title
+ESteamAPIInitResult.k_ESteamAPIInitResult_FailedGeneric
+ESteamAPIInitResult.k_ESteamAPIInitResult_NoSteamClient
+ESteamAPIInitResult.k_ESteamAPIInitResult_VersionMismatch
+ESteamAPIInitResult.Title
+Steam.SteamCloud.RemoteDataError.BadError.Prompt
+Steam.SteamCloud.Error
+HintPath.PracticeMode.Prompt
+HintPath.PracticeMode.Prompt.Title
+EndPanel.PracticeMode.Title
+Photosensitivity.Title
+Photosensitivity.Content
+Steam.Leaderboard.Title
+EndPanel.HintPath.Enabled
+UnlockLevelPanel.Title
