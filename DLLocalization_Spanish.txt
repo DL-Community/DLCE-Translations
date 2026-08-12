@@ -398,24 +398,144 @@ https://dl-community.github.io/Docs/#/es/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/es/dlce/localization
 completado
+Azul
+Amarillo
+Clasico
+Sesion de Audio Interrumpida
+Debido a la interrupcion de la sesion de audio por el sistema, el juego no sera capaz de continuar temporalmente. Por favor, intenta evitar cualquier aplicacion o proceso que pueda interrumpir el audio del juego e intenta de nuevo,
+Ultima Sincronizacion: {0}\nVersion de Datos en la Nube: {1}
+Sincronizar Ahora
+Sincronizacion demasiado frecuente
+Sincronizado con Exito
+Sincronizacion Fallida
+Guardado en la Nube
+Ultima Sincronizacion
+Version de Datos de la Nube
+Sincronizando…
+Lenguaje del Sistema
+Copiar
+Abrir Directorio Externo
+Abrir directorio directamente no esta soportado. Por favor, presiona el boton para copiar la siguiente ruta y abrirla manualmente:\n\n#DIRECTORY#
+Sistema de Cuentas de DL RS
+Correo…
+Contraseña…
+Recordar Usuario
+Iniciar Sesion
+Iniciar
+Registrarse
+Olvide mi Contraseña
+Ingresando…
+Inicio expirado
+
+Correo o Contraseña incorrecto
+Esta cuenta no esta en la lista blanca
+Esta cuenta necesita ser activada
+Juego desactualizado, por favor, revisa la ultima version
+Bienvenido, {0}!
+Inicio Correction
+Ingresar Correo
+Ingresar Contraseña
+Al iniciar, aceptas los <b><color=#3d6ec0>terminos de servicio de DLRS GAS</color></b>
+Cuenta Reciente
+Nuevo Inicio
+Estas seguro de eliminar la cuenta #name#?
+Abriendo en tu navegador…
+Esta cuenta ha sido baneada
+Descargando Datos del Usuario…
+Fallo al cargar los datos del Usuario
+Cerrar Sesion
+Estas seguro de cerrar sesion de #USERNAME#?
+Abrir Fuente de Librerias
+https://dlce.fengyan.ip-ddns.com/#/es/legal/open-source
+Estadisticas
+Completado
+Diamantes
+Coronas
+Muertes
+Intentos del Nivel
+Reviviciones
+Tiempos Completado
+Diamantes Recogidos
+Coronas Recogidas
+Estrellas Ganadas
+Estrellas Gastadas
+Cubos de Energia Ganados
+Cubos de Energia Gastados
+Notas Ganadas
+Notas Gastadas
+Skins en Propiedad
+Sombreros en Propiedad
+
+
+
+
+
+Planeta
+Estrella
+Ir a #LEVELNAME#
+Usando esta opcion puede causar cortes o imagenes incorrectas durante el juego.
+Advertencia
+Dispositivo de Audio
+
+Altavoces
+No se hallo niveles con esas palabras
+Hallar Todos
+Hallar Cualquiera
+Jugable
+Iniciar por correo y Contraseña
+Iniciar por OAuth
+Autorizacion fallida. Por favor, intenta de nuevo.
+Desactivar
+Activar
+Al desactivarlo, tus estadisticas seran limpiadas, y el juego no grabara datos hasta volver a activarlo
+Juego desactualizado, revisa la ultima version.
+Codigo de Canje
+Ingresa el Codigo de Canje…
+Reclamar
+Reclamacion esta recarga, por favor, intenta de nuevo.
+El codigo de canje es invalido o ya ha sido usado.
+Has reclamado los siguientes items:
+Nivel: #NAME#
+Piel: #NAME#
+Sombrero: #NAME#
+Notas x {0}
+En las Nubes
+Terminos de servicio
+Verificacion de la integridad del entorno del juego fallida.
+
+Valle de los Monumentos
+
+El Mago de Oz
+El Loong
+Mezcla de Audio
 
 
 
 
 
 
+Seleccionar Nivel
+Colecion de Nivel
+Comprar en Steam
+Compra e instala este DLC en la tienda Steam
+
+Enviar Nivel
 
 
 
 
+Fallo al descargar actualizacion. Reintentar?
+Nuevas actualiaciones disponibles, {0} requeridas. Continuar?
+El Refugio Olvidado
+Fallo al buscar actualizaciones, reintentar?
+Fallo al descargar actualizacion. Reintentando…
+Colaboracion
+Saltar Nivel
+Usar {0} Notas para saltar este desafio?
+Insuficiente Notas. Necesitas al menos {0} para saltar.
 
-
-
-
-
-
-
-
+Recarga en: {0}
+Decoracion
 
 
 
