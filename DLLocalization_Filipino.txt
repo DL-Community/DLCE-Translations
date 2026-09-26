@@ -1,0 +1,590 @@
+Filipino
+English
+
+Dancing Line
+Wika
+I-LIKE KAMI
+Naglo-load
+Kumuha ng mga kubo
+Para sa pinakamahusay na eksperyensya\ngamitin ang headphones :D
+Hindi magagamit ang video
+Manood ng video para ma-unlock ito pansamantala lamang 
+Libreng Pag-unlock
+I-unlock
+Bagong level ang na-unlock:
+Kumuha ng {0} Libre
+Bumili ng {0} Kubo
+Walang-hanggang Kubo
+Magre-recharge sa : {0}
+Na-recharge na ang mga kubo. Magsayaw tayong muli.
+i-tap para maglaro
+SIGE
+Oo
+Hindi
+Naka-on
+Naka-off
+Kanselahin
+Nakahinto
+Kalidad
+Napakababa
+Mababa
+Katamtaman
+Mataas
+Pinakamataas
+ 
+
+Tunog
+
+Sinkronisasyon
+Awtomatikong Pagsasaayos
+Pagkaantala ng Musika
+Feedback sa Pagpindot
+Kumpirmahin ang Paglabas
+Gusto mo na bang umalis sa laro?
+Tungkol
+Bersiyon
+Mga taga-disenyo ng Level
+Pangkat ng Lokalisasyon 
+Bilibili
+YouTube
+Kasunduan sa Lisensya ng End-user
+Patakaran sa Privacy
+Discord
+Mode ng Display
+Eksklusibong Fullscreen
+
+
+Patayo
+Pahiga
+Resolusyon
+Magpatuloy mula sa huling tsekpoint?
+Kailangan pa ng #X%# para sa #New Best#
+Kailangan pa ng #X%# para sa #Susunod na Tsekpoint#
+Kailangan pa ng #X%# para #Makumpleto#
+Libre
+Magpatuloy
+Paghahanap
+Burahin ang Data
+Na-reset na ang data, pakirestart ang laro.
+Mabubura ang data ng iyong laro pagkatapos makumpleto ang prosesong ito. Magpatuloy nang may pag-iingat.
+Pakitandaan na kapag nakumpleto na ang prosesong ito, permanenteng mabubura ang iyong data sa Dancing Line (kabilang dito ang anumang personal na impormasyon at iba pang data na nabuo mula sa paggamit ng mga Produkto ng Dancing Line) at hindi na ito maaaring mabawi. Mangyaring piliin ang iyong gagawin at magpatuloy nang mabuti.
+Burahin
+Binubura ang Data…\nMabubura ang iyong mga cloud at lokal na save.
+Aksesibilidad
+Kaya mo bang umabot ng X% sa Dancing Line? Halika, maglaro tayo!
+Tingnan ang Debug Logs
+Ibalik sa Default
+Legal at Privacy
+Bago gamitin ang app, kailangan mong sumang-ayon sa aming Kasunduan sa Lisensya para sa End-user at Patakaran sa Privacy.
+Tanggapin at Ipagpatuloy
+Lumabas sa laro
+
+Latency ng Audio Output
+Latency ng Touch Input
+BETA BUILD ##UID# HUWAG IPAMAHAGI
+Mga Epekto ng Gyroscope
+
+Kunin
+Libreng Stars Araw-araw
+Maaaring kunin pagkatapos ng {0}
+Kasalukuyang ginagamit 
+Gamitin
+Libreng Revival: {0}/{1}
+Gusto mo bang gumastos ng {0} stars para pansamantalang i-unlock ang linyang gabay?
+Hindi makuha ang libreng stars araw-araw, nabigo ang pag-verify ng oras.
+Mga Advanced na Settings
+Nalalapat lang ang setting na ito sa kasalukuyang level, kaya maaari kang gumawa ng magkakahiwalay na adjustment para sa bawat level batay sa global music delay.\n\n<b>Aktwal na Delay = Delay ng Level + Global Delay</b>
+Mga Rewards
+Rewards: {0}
+Nakolektang {0} diyamante sa level: {1}
+Nakolektang {0} korona sa level: {1}
+Natapos na level: {0}
+Sundin ang ritmo, at i-tap kahit saan para magpalit ng direksyon.
+Ang larong ito ay ginawa para laruin nang naka-on ang musika.
+Huwag mag-swipe. Hindi 'yan gagana.
+Hindi kailangang mag-tap habang lumilipad.
+Huwag mag-tap kapag pumapasok sa piramide nang 45°.
+Maaari mong palitan ang skin ng karakter sa pag-click sa lumulutang na cube.
+Kolektahin ang lahat ng diyamante at korona para perpektong makumpleto ang mga level.
+Mga Achievements
+[Nakatago] 
+Natapos: #x#
+#x# - Natapos
+#x# - 10 Diyamante
+#x# - 3 Korona
+Kumpleto #x#
+Kolektahin ang lahat ng diyamante sa #x#
+Kolektahin ang lahat ng korona sa #x#
+Ang Lihim ng Dragonia
+Makahanap ng kahit isang nakatagong daan sa Ang Kuwento ng Dragonia
+Si Paimon ba 'yon?
+Paano kung tuklasin natin mamaya ang lugar sa unahan natin?
+
+Hanapin ang nakatagong daan sa Ang Labirinto
+Pasipismo
+Pumasok sa mapayapang storyline sa Ang Giyera
+Ika-2 Anibersaryo Party
+Maligayang Pasko……\nat ang Ika-2 Anibersaryo
+Dalubhasa sa Walang Hiyas
+Makilala ang isang nakatakas mula sa dungeon sa Ang Pakikipagsapalaran 
+Mabituing Kalangitan
+Ang mabituing kalawakan ay nangangako ng masasayang sorpresa.
+Mga Key Binding
+Naghihintay ng input…\nPindutin ang key na gusto mong gamitin sa keyboard o kontroler
+Bumalik
+Ihinto ang Laro 
+Kontrol ng Karakter
+Linyang Gabay
+Mga Settings
+Mga Skin
+Kaliwa
+Kanan
+Kumpirmahin
+Ulitin
+Mga Achievements
+
+Pumasok
+Pumasok
+
+
+Kaliwa WIN
+Kanan WIN
+Kaliwa CMD
+Kanan CMD
+
+
+
+
+Kaliwang Paglipat
+Kanang Paglipat
+Kaliwang Opsyon
+Kanang Opsyon
+Kaliwang CTRL
+Kanang CTRL
+Kaliwang Opsyon
+Kanang Opsyon
+
+Nakumpleto
+Tsekpoint
+Maligayang Pasko 
+Kolekta
+Pindot
+Hindi ito mangyayari kung wala ka.\nIisa tayo.
+Bakit…
+Lalong lumalala ang lahat…
+Katapusan ng Mundo
+Sundin mo ang sarili mong bituin! -Dante
+Kapag nakalipad ka na, maglalakad kang nakatingala sa langit \n\t\t\t\t\t\t\t\t Leonardo da Vinci
+Hindi ka nag-iisa.
+Huwag pagsisihan ang anuman\npagdating sa pag-ibig at pagkain.
+
+
+Papel
+
+Kaguluhan
+Kabundukan
+
+Mahiwagang Mangkukulam
+Dumulas
+Mga Domino
+Modyul
+Liwanag
+Bolang Niyebe
+Palaso
+Balyena
+Ulap ng Niyebe
+Estalagmite
+Payaso
+Lumilipad na Nimbus
+Ahas
+Halaya
+Mahiwagang Balabal
+Kalansay na Bomba
+Lobo
+Bolang Apoy
+Piramide
+Bola
+Bolang Cyan
+Bolang Itim
+Simpleng Bola
+Basketbol
+
+
+Walang pangalan na Level
+Ang Simula
+Ang Oras
+Ang Piyano
+Ang Dalampasigan 
+Ang Taglamig
+Ang Sabana
+Ang Kanluran
+Ang Araw ng mga Puso
+Ang Halloween
+Ang Eskinita
+Ang Disyerto
+Ang Bagyo
+Ang Bagyo 
+Ang Kabundukan
+Ang Kapatagan
+Ang Kapatagan
+Ang Labirinto
+Ang Daigdig 
+Ang Paraiso ng Paputok
+Ang Bisperas ng Pasko
+Ang Taglagas
+Ang Kristal
+Ang Ika-3 Anibersaryo
+Ang Ika-5 Anibersaryo
+Ang Kaguluhan 
+Ang Katedral
+Ang Katedral
+Ang Kuwento ng Marino 
+Ang Alamat ng Asasino
+Ang Hardin ng Tsino
+Ang Karera
+Malapit Na 
+
+Ang Romansa 
+Ang Tagsibol 
+Ang Pista ng Tagsibol
+Ang Samurai
+Ang Kuwento ng Dragonia
+Ang Pangit na Pato
+Ang Video Game
+Ang Exodo
+Ang Karagatan
+Ang Taurus
+Pangarap ng Langit
+Ang Basketbol
+Ang Paskong Salu-salo
+Ang Paglalakbay ng Indian 
+Ang Giyera
+Ang Misteryo
+Ang Putbol
+Ang Ebolusyon ng Hip Hop 
+Ang Easter
+Ang Oyayi ng Tagsibol
+Ang Palaisipan ng Halloween
+Ang Parke ng Libangan
+
+Faded (Bersyong Pagturo)
+Dahan-dahan
+Alone - Alan Walker
+Hardin ng Zen
+Ang Samurai HD
+Ang Rantso
+
+
+Ang Ebolusyon (P13)
+
+Ang Kalawakan
+Ang Pagtuklas - Chronos
+Ang Pakikipagsapalaran
+Ang Apokalipsis
+Ang Paglalakbay
+Ang Matematika
+Ang Ambon
+Ang Paggala
+Ang Kawalang-laman
+Ang Memorya
+Bagyo ng Galit
+Wala
+Sumbrerong Pasko
+
+Sumbrerong Salamangkero
+Sumbrerong Mehikano
+Sumbrerong Bowler
+Sumbrerong Sweet Dog
+
+Daga
+Nagda-download ang bagong level
+Mangyaring panatilihing nakakonekta sa internet
+
+Hindi na-download ang level
+I-clear ang Cache
+Mabubura ang mga cache gaya ng na-download na data ng level at musika, ipagpatuloy ang pag-clear?
+Luma na ang kasalukuyang bersyon na #Current#. Kailangan mong mag-update sa hindi bababa sa #Latest# para makapaglaro.
+Hindi ma-load ang mga konpigurasyon ng ad
+Subukan Muli 
+Sinusuri kung may mga update…
+Ina-update ang mga konpigurasyon
+Nagda-download ng mga update
+Hindi pa tapos ang paglalakbay…
+Marami pang darating…
+Salamat sa inyong lahat, mga manlalaro ng Dancing Line!
+Kinakailangan ang Pag-update
+Pagsasaayos ng Global Sync
+Pagsasaayos ng Level Sync
+Awtomatikong Pagwawasto
+Ibahagi
+Kopyahin ang Teksto
+I-save ang Larawan
+Kopyahin ang larawan 
+Piliin kung ano ang Aalisin
+I-clear ang Progreso ng laro
+
+Perpekto
+Hindi Ipinagbibili
+Hamon sa mga Notes
+
+Naubos na
+Mga Bituin × {0}
+Mga Kubo × {0}
+Hamon
+Martes — Linggo
+Mga Patakaran 
+Kumpletuhin nang perpekto ang level na ito para makakuha ang notes!
+Tapos na ang Hamon sa mga Notes, subukan ulit ang hamon mamaya!
+• Sa event na ito, ang misyon mo ay kolektahin ang bawat diyamante at korona, tapusin ang level gamit ang isang kubo lamang, at—tandaan—walang revive! Handa ka na ba sa hamon?\n\n• Naka-off ang Linyang Gabay habang naglalaro, kaya nakasalalay ang lahat sa iyong husay!\n\n• Kapag nakumpleto mo na nang perpekto ang level, huwag kalimutang bumalik sa event page para kunin ang iyong mga reward!
+Hindi makakonekta sa internet. Tiyaking matibay ang iyong network at subukan muli.
+Nakuha na ang item
+Matagumpay na nakuha ang #item#
+Gusto mo bang kunin ang #item#?
+Nagre-refresh ang store tuwing Lunes.
+Na-refresh na ang Notes Store, tingnan kung ano ang bago!
+Available na ang Notes Challenge ngayong linggo. Halika at talunin ang mga level!
+
+
+Nakumpleto ang Hamon : #Level#
+Ipagpatuloy ang pag-download gamit ang cellular data?
+Babala sa Cellular Data
+Eror
+May naganap na hindi kilalang eror!
+Itago ang Kursor
+Kapag Nakatigil 
+Habang Naglalaro
+Hindi Kailanman 
+Opisyal
+
+
+
+Orihinal
+Legasiya
+
+
+
+Mangyaring mag-login sa Game Center sa System Settings.
+Status Bar
+DLRS GAS
+Propayl
+Mga Setting ng Account 
+Username: {0}\nUser ID: {1}
+Bilis ng Frame
+Ipakita ang Bilis ng Frame
+
+Suporta sa Multi-touch
+Come & Get It - Selena Gomez
+Kanta
+Nakopya na sa clipboard
+App Ikon
+I-export ang Progreso ng Laro
+I-import ang Progreso ng Laro
+Ang Puno ng Kawalan
+Pumasok sa nakatagong daan sa Ang Kawalang-laman
+Maaaring hindi maging tumpak ang Auto-clicking hangga't hindi pa nada-download ang level.
+Ina-upgrade ang Game Database
+Default
+Berde
+Ang Dueto
+QQ Group
+QQ Channel
+Resolusyon sa Pag-render 
+Awto
+Sumbrero
+Hindi Gamitin 
+
+
+
+
+
+nakumpleto 
+Asul
+Dilaw
+Klasikal
+Naantala ang Audio Session
+Dahil naantala ng system ang kasalukuyang audio session, pansamantalang hindi makapagpatuloy ang laro. Iwasang gumamit ng anumang app o proseso na maaaring nakakaistorbo sa audio ng laro, at subukan muli.
+Huling Na-sync: {0}\nBersyon ng Cloud Data: {1}
+I-sync Ngayon 
+Masyadong madalas ang pag-sync
+Matagumpay ang pag-sync
+Hindi matagumpay ang pag-sync
+Cloud Save
+Huling Na-sync
+Bersyon ng Cloud Data
+Sini-sync…
+Sundin ang Wika ng System
+Kopya
+Buksan ang External Directory
+Hindi pa suportado sa ngayon ang direktang pagbukas ng directory. I-click ang button para kopyahin ang sumusunod na directory at buksan ito nang manu-mano:\n\n#DIRECTORY#
+
+
+
+
+
+
+
+Nakalimutan ang Password
+Nagla-log In…
+Nag-timeout ang Pag-login
+Eror
+Maling email o password
+Wala ang account na ito sa whitelist
+Kailangang i-activate ang account na ito
+Luma na ang app. Pakisuri kung may mga update.
+Maligayang Pagdating, {0}!
+Matagumpay ang pag-login
+Pakilagay ang email
+Pakilagay ang password
+Sa pag-log in, sumasang-ayon ka sa <b><color=#3d6ec0>Mga Tuntunin ng Serbisyo ng DLRS GAS</color></b>
+Kamakailang Account
+Bagong Pag-login
+Sigurado ka bang gusto mong alisin ang account na #name#?
+Binubuksan sa external browser…
+Na-ban ang account na ito
+Dina-download ang user data…
+Hindi ma-load ang player data
+Mag-log Out
+Sigurado ka bang gusto mong mag-log out sa #USERNAME#?
+Buksan ang Source Libraries
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Istatistika
+Nakumpleto
+Diyamante
+Korona 
+Kamatayan
+Mga Pagtatangka sa Level
+Mga Revive
+Bilang ng Pagkumpleto 
+Mga Nakolektang Diyamante
+Mga Nakolektang Korona
+Mga Nakuhang Star
+Mga Ginastos na Star
+Mga Nakuhang Energy Cube
+Mga Ginamit na Energy Cube
+Mga Nakuhang Notes
+Mga Ginastos na Notes
+Mga Pag-aaring Skin
+Mga Pag-aaring Sumbrero
+
+
+
+
+
+Planeta
+
+Pumunta sa #LEVELNAME#
+Ang paggamit ng option na ito ay maaaring magdulot ng pag-stutter o maling pagpapakita ng mga larawan habang naglalaro.
+Babala
+
+
+
+Walang nakitang mga level na tumutugma sa mga keyword.
+Itugma Lahat
+Itugma Kahit Isa
+Maaaring Laruin
+Mag-login gamit ang email at password
+Mag-login gamit ang OAuth
+Nabigo ang awtorisasyon, pakisubukang muli.
+I-disable
+I-enable
+Kapag naka-disable, mabubura ang iyong mga istatistika at hindi na magre-record ng data ang laro hanggang sa i-enable mo itong muli.
+Luma na ang app, pakisuri kung may mga update.
+Redemption Code
+Ilagay ang redemption code…
+I-redeem
+Naka-cooldown ang redemption. Pakisubukan muli mamaya.
+Hindi valid ang redemption code o nagamit na ito.
+Matagumpay na nakuha ang mga sumusunod na item:
+
+
+Sumbrero: #NAME#
+Mga Notes × {0}
+Nasa Ulap ang Isip
+Mga Tuntunin ng Serbisyo
+Nabigo ang pag-verify sa integridad ng environment ng laro.
+
+
+
+Ang Wizard ng Oz
+Ang Loong
+
+
+
+
+
+
+
+Pumili ng Level
+Level Koleksyon
+Bumili sa Steam
+Bilhin at i-install ang DLC na ito sa Steam Store
+Legasiya
+Pagsusumite ng Level
+{0}s
+{0}m {1}s
+{0}o {1}m {3}s
+{0}o {1}m
+Hindi na-download ang mga update. Subukan muli?
+May mga bagong update, kailangang i-download ang {0}. Magpatuloy?
+Ang Nakalimutang Kanlungan
+Hindi nasuri kung may update, subukan muli?
+Hindi na-download ang mga update. Sinusubukan muli…
+Collab
+Laktawan ang Level
+Gamitin ang {0} Notes para laktawan ang challenge level na ito?
+Kulang ang Notes. Kailangan ng hindi bababa sa {0} para laktawan.
+{0}a {1}o
+Magre-refresh sa: {0}
+Dekorasyon
+Kasalukuyang naka-enable ang VSync. Magkakabisa lang ang mga setting ng frame rate kapag naka-disable ang VSync.\nGusto mo bang i-disable ang VSync?
+Kasalukuyang sumasailalim sa maintenance ang server. Hindi magiging available ang gameplay sa panahong ito.\n\nDahilan ng Maintenance: {0}\nOras ng Pagtatapos: {1}
+Abangan ang mga susunod na opisyal na anunsyo.
+Nag-expire na ang session ng iyong account. Maaaring nag-log in ka sa ibang device.\nPakilogin muli.
+Kasalukuyang sumasailalim sa maintenance ang server. Maaari kang mag-log in sa laro habang may maintenance, ngunit maaaring maging unstable ang game service.\n\nDahilan ng Maintenance: {0}\nOras ng Pagtatapos: {1}
+Mga Misyon
+Magre-refresh sa: {0}
+Mag-log In sa Laro
+Kumpletuhin ang anumang level nang {0} na beses
+Gumamit ng {0} kubo
+Gumamit ng {0} stars
+Mamatay nang {0} na beses sa anumang level
+Kolektahin ang {0} diamante sa anumang level
+Kolektahin ang {0} korona sa anumang level
+Gumamit ng revive nang {0} na beses sa anumang level
+Kumuha ng Stars
+Espesyal na Interaksyon sa Level
+May mga espesyal na interaksyon sa level na ito na maaaring ma-trigger sa pamamagitan ng touch screen o pagpindot nang matagal sa key.
+Hindi makakonekta sa Steam Network
+Steam Cloud
+Naka-lock na Level
+Punsiyon 1
+Punsiyon 2
+Punsiyon 3
+Punsiyon 4
+Punsiyon 5
+Bumalik 
+Kanselahin
+Bumili 
+Susunod na Level
+Pangunahing Menu
+Simulan ang Level
+Lumabas sa Laro 
+Nakaraang Level
+Nakaraang Page
+Susunod na Page
+
+Pangunahing Volume
+Hindi ma-initialize ang Steam client, pakilunsad muli ang laro.
+Hindi makakonekta sa Steam client. Tiyaking gumagana ang Steam client, at ilunsad muli ang laro.
+Mukhang luma na ang Steam client, tiyaking naka-update ang iyong Steam client.
+Steam Eror
+Sira ang Steam cloud save at hindi ito mabasa.\nMaaaring nangyari ito dahil isinara mo ang laro habang nagse-save ito, kaya hindi kumpletong data ang naisulat sa save.\nSinubukan ng laro na basahin ang save mula sa lokal na cache ngunit nabigo pa rin.\nMaaari mong piliing magsimula ng laro gamit ang bagong save. Gusto mo bang magpatuloy?
+Steam Cloud Eror
+I-e-enable ng Praktis Mode ang Linyang Gabay.\n\nSundin ang Linyang Gabay para matutunan ang ruta at malayang ma-enjoy ang lahat ng inaalok ng level.\n\nMaglaan ng oras para hanapin ang tamang daan —— puwedeng maghintay ang iyong record. Ang progress na ginawa sa Praktis Mode ay hindi isasama sa mga skor, misyon, o achievement.\n\nI-enable ang Praktis Mode?
+Praktis Mode
+Praktis Mode
+BABALA: PHOTOSENSITIVITY/EPILEPTIC SEIZURES
+<b>BASAHIN ANG PAUNAWANG ITO BAGO MAGLARO</b>\n\nMaaaring makaranas ng epileptic seizure o pagkawala ng malay ang napakaliit na porsyento ng mga tao kapag nalantad sa ilang uri ng kumikislap na ilaw o mga pattern ng liwanag. Ang mga taong ito, pati na rin ang mga taong walang kasaysayan ng seizure o epilepsy, ay maaaring makaranas ng mga sintomas ng epilepsy o seizure habang naglalaro ng mga video game.\n\nKung ikaw o sinuman sa iyong mga kamag-anak ay may epilepsy o nakaranas na ng anumang uri ng seizure, kumonsulta muna sa iyong doktor bago maglaro ng anumang video game.\n\nAGAD ITIGIL ang paggamit at kumonsulta sa doktor kung ikaw o ang iyong anak ay makaranas ng alinman sa mga sumusunod na sintomas: pagkahilo, pagbabago sa paningin, panginginig ng mata o kalamnan, hindi sinasadyang paggalaw, pagkawala ng kamalayan, disorientation, o kombulsyon. Dapat bantayan ng mga magulang ang kanilang mga anak o tanungin sila tungkol sa mga nabanggit na sintomas.\n\nMaaari mong mabawasan ang panganib ng photosensitive epileptic seizure sa pamamagitan ng mga sumusunod na pag-iingat: umupo nang mas malayo sa screen, gumamit ng mas maliit na screen, maglaro sa maliwanag na lugar, at huwag maglaro kapag inaantok o pagod.
+
+Linyang Gabay 
+Pag-unlock ng Level
