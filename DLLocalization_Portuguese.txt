@@ -97,7 +97,7 @@ Esta configuração aplica-se apenas ao nível atual, permitindo ajustes individ
 Recompensas
 Recompensas: {0}
 Coletado {0} diamantes no nível: {1}
-Colatado {0} coroas no nível: {1}
+Coletado {0} coroas no nível: {1}
 Nível completado: {0}
 Siga o rítmo, e toque em qualquer lugar para mudar de direção.
 Este jogo foi feito para ser jogado com a música ligada.
@@ -334,7 +334,7 @@ Desafio
 Terça — Domingo
 Regras
 Complete este nível perfeitamente para ganhar notas!
-O Desafio de Notas terminou, desafie mais tarde!
+O Desafio das Notas terminou, desafie mais tarde!
 • Neste evento, sua missão é coletar todos os diamantes e coroas, vencer o nível com apenas um cubo e — lembre-se — nada de reviver! Você topa o desafio?\n\n• As Linhas-Guia ficam desativadas durante a partida, então tudo depende da sua habilidade!\n\n• Depois de completar o nível perfeitamente, não se esqueça de voltar à página do evento para resgatar suas recompensas!
 Falha ao conectar à internet, certifique-se de que sua rede está estável e tente novamente.
 Item Resgatado
@@ -342,7 +342,7 @@ Item Resgatado
 Você deseja resgatar #item#?
 A loja é atualizada toda Segunda-Feira
 A Loja de Notas foi atualizada, confira as novidades!
-O Desafio de Notas desta semana já está disponível, venha superar os níveis!
+O Desafio das Notas desta semana já está disponível, venha superar os níveis!
 Bola de Boliche
 Bola de Tênis
 Desafio Completado: #Level#
