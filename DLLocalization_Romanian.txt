@@ -1,0 +1,590 @@
+Română
+English
+
+Dancing Line
+Limbă
+Urmăriți-ne pe Facebook!
+Se încarcă...
+Obțineți cuburi
+Pentru o experiență mai bună, folosiți căști
+Videoclipul nu este disponibil
+Urmăriți un videoclip pentru a debloca un nivel temporar
+Deblocați gratuit
+Deblocați
+Un nivel deblocat:
+Obțineți {0} gratuite
+Cumpărați {0} cuburi
+Obțineți energie infinită
+Se reîncarcă în: {0} s
+Cuburile au fost reîncărcate. Hai să jucăm din nou!
+Apăsați pentru a juca!
+OK
+Da
+Nu
+Pornit
+Oprit
+Anulați
+Pauză
+Calitate
+Foarte scăzută
+Scăzută
+Medie
+Ridicată
+Ultra
+Max
+Anti-aliasing
+Sunet
+VSync
+Sincronizare
+Reglare automată
+Întârziere muzicală
+Feedback tactil
+Confirmați ieșirea
+Doriți să părăsiți jocul?
+Despre
+Versiune
+Creatori de niveluri
+Echipă de localizare
+Bilibili
+YouTube
+Acord de licență pentru utilizator final (EULA)
+Politică de confidențialitate
+Discord
+Mod de afișare
+Ecran complet exclusiv
+Fereastră cu ecran complet
+În fereastră
+Portret
+Peisaj
+Rezoluție
+Continuați de la ultimul punct de control?
+Mai aveți nevoie de #X%# pentru #un nou record#!
+Mai aveți nevoie de #X%# pentru #următorul punct de control#!
+Mai aveți nevoie de #X%# pentru a #termina#!
+Gratis
+Continuă
+Căutați
+Ștergeți datele
+Datele au fost resetate; vă rugăm să reporniți jocul.
+Datele jocului dvs. vor fi șterse odată ce acest proces va fi finalizat. Vă rugăm să procedați cu prudență.
+Rețineți că, după finalizarea acestui proces, datele dvs. din Dancing Line (inclusiv orice informații personale sau alte date generate prin utilizarea produselor Dancing Line) vor fi șterse definitiv și nu vor mai putea fi recuperate. Alegeți și continuați cu atenție.
+Ștergeți
+Se șterg datele...\nSalvările în cloud și locale vor fi șterse
+Accesibilitate
+Puteți depăși X% în Dancing Line? Veniți să jucați cu mine!
+Vizualizați jurnalele de depanare
+Restaurați valorile implicite
+Juridic și confidențialitate
+Înainte de a utiliza aplicația, trebuie să fiți de acord cu Acordul de licență pentru utilizator final și cu Politica de confidențialitate.
+Acceptați și continuați
+Ieșiți din joc
+Dimensiune buffer I/O
+Latență ieșire audio
+Latență intrare tactilă
+VERSIUNE BETA ##UID# NU DIVULGAȚI
+Efecte de giroscop
+Game Center
+Revendicați
+Stele gratuite zilnice
+Revendicabil după {0}
+Echipat
+Echipează
+Revivaluri gratuite: {0}/{1}
+Doriți să cheltuiți {0} stele pentru a debloca temporar linia de ghidare?
+Revendicarea stelelor gratuite zilnice a eșuat, verificarea timpului a eșuat.
+Setări avansate
+Această setare se aplică doar nivelului curent, permițând ajustări individuale pentru fiecare nivel pe baza întârzierii globale a muzicii.\n\n<b>Întârziere efectivă = Întârziere nivel + Întârziere globală</b>
+Recompense
+Recompense: {0}
+Ați colectat {0} diamante în nivelul: {1}
+Ați colectat {0} coroane în nivelul: {1}
+Nivel finalizat: {0}
+Urmați ritmul și atingeți oriunde pentru a schimba direcția.
+Acest joc este creat pentru a fi jucat cu muzica pornită.
+Nu glisați. Nu funcționează.
+Nu este necesar să atingeți în timpul zborului.
+Nu atingeți când intrați în piramidă la 45°
+Puteți schimba aspectul personajului făcând clic pe cubul plutitor.
+Colectați toate diamantele și coroanele pentru a finaliza perfect nivelurile.
+Realizări
+[Ascuns]
+Completat: #x#
+#x# - Completat
+#x# - 10 diamante
+#x# - 3 coroane
+Finalizați #x#
+Colectați toate diamantele în #x#
+Colectați toate coroanele în #x#
+Secretul Dragoniei
+Găsiți cel puțin o cale ascunsă în Poveștile din Dragonia
+E Paimon acela?
+Ce-ar fi să explorăm zona din fața noastră mai târziu?
+M.A.Z.E.
+Găsiți calea ascunsă în Labirint
+Pacifism
+Intrați în povestea păcii din Războiul
+A 2-a Petrecere Aniversară
+Crăciun fericit...\nși a 2-a Aniversară
+Maestru fără pietre prețioase
+Întâlniți un evadat din temniță în Aventura
+Cer înstelat
+Întinderea înstelată promite surprize încântătoare
+Atribuiri de taste
+Se așteaptă introducerea...\nApăsați tasta pe care doriți să o utilizați pe tastatură sau pe controler
+Înapoi
+Pauză joc
+Control personaj
+Linie de ghidare
+Setări
+Aspect
+Stânga
+Dreapta
+Confirmare
+Repornire
+Realizări
+Backspace
+Enter
+Enter
+ESC
+Spațiu
+Win stânga
+Win dreapta
+CMD stânga
+CMD dreapta
+▲
+▼
+◀
+▶
+Shift stânga
+Shift dreapta
+Opțiune stânga
+Opțiune dreapta
+CTRL stânga
+CTRL dreapta
+Opțiune stânga
+Opțiune dreapta
+Meniu
+Completat
+Punct de control
+Crăciun fericit
+Colectați
+Atingeți
+Acest lucru nu se poate întâmpla fără voi.\nSuntem una.
+De ce...
+Totul merge mai rău...
+Sfârșitul lumii
+Urmează-ți propria stea! -Dante
+Odată ce ai zburat, vei păși cu ochii spre cer \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Nu ești singur.
+Nu regreta nimic în materie\nde dragoste și mâncare.
+Normal
+Căști
+Hârtie
+Zeus
+Haos
+Munți
+Pensulă chinezească
+Vrăjitoare magică
+Alunecare
+Domino
+Modul
+Lumină
+Bulgăre de zăpadă
+Săgeată
+Balenă
+Ceață de zăpadă
+Stalagnită
+Clovn
+Nor zburător
+Șarpe
+Jeleu
+Mantie magică
+Schelet bombă
+Balon
+Bilă de foc
+Piramidă
+Bilă
+Bilă cyan
+Bilă neagră
+Bilă simplă
+Baschet
+Putere stelară
+Robot
+Nivel fără nume
+Începutul
+Timpul
+Pianul
+Plaja
+Iarna
+Savana
+Vestul
+Ziua Îndrăgostiților
+Halloweenul
+Aleea
+Deșertul
+Furtuna
+Furtuna
+Munții
+Câmpiile
+Câmpiile
+Labirintul
+Pământul
+Paradisul focurilor de artificii
+Ajunul Crăciunului
+Toamna
+Cristalul
+A treia aniversare
+A cincea aniversare
+Haosul
+Catedrala
+Catedrala
+Povestea marinarului
+Legenda asasinului
+Grădina chinezească
+Cursa
+În curând
+Sfârșitul - Theo5970
+Romanța
+Primăvara
+Festivalul primăverii
+Samuraiul
+Poveștile din Dragonia
+Rățușca urâtă
+Jocul video
+Exodul
+Oceanul
+Taurul
+Visul cerului
+Baschetul
+Petrecerea de Crăciun
+Călătoria indiană
+Războiul
+Misterul
+Fotbalul
+Evoluția Hip Hop
+Paștele
+Cântecul de leagăn al primăverii
+Puzzle de Halloween
+Parcul de distracții
+Faded - Alan Walker
+Faded (Versiunea Tutorial)
+Despacito
+Alone - Alan Walker
+Grădina Zen
+Samuraiul HD
+Ferma
+Faded - Alan Walker
+Totul despre noi
+Evoluția (P13)
+Tărâmul deserturilor
+Spațiul
+Descoperirea - Chronos
+Aventura
+Apocalipsa
+Călătoria
+Matematica
+Burnița
+Rătăcirea
+Golul
+Memoria
+Furtuna de furie
+Niciuna
+Căciulă de Crăciun
+Elicopter de bambus
+Căciulă de vrăjitor
+Căciulă mexicană
+Pălărie bowler
+Căciulă câine drăguț
+Spiriduș
+Șobolan
+Se descarcă nivelul nou
+Vă rugăm să rămâneți conectați la internet
+HUD intrare
+Descărcarea nivelului a eșuat
+Ștergere cache
+Cache-ul precum datele nivelului și muzicii descărcate vor fi șterse, continuați ștergerea?
+Versiunea actuală #Current# este învechită, trebuie să actualizați la cel puțin #Latest# pentru a juca.
+Nu s-au putut încărca configurațiile pentru anunțuri
+Reîncercați
+Se caută actualizări...
+Se actualizează configurațiile
+Se descarcă actualizările
+Călătoria nu s-a sfârșit...
+Altele vor urma...
+Vă mulțumim tuturor, jucători de Dancing Line!
+Actualizare necesară
+Reglare globală de sincronizare
+Reglare nivel de sincronizare
+Corectare automată
+Partajați
+Copiați textul
+Salvați imaginea
+Copiați imaginea
+Alegeți ce să ștergeți
+Ștergere progres joc
+Nou record
+Perfect
+Nu este de vânzare
+Provocarea notelor
+Magazin de note
+Vândut integral
+Stele × {0}
+Cuburi × {0}
+Provocare
+Marți — Duminică
+Reguli
+Finalizați acest nivel perfect pentru a obține note!
+Provocarea notelor s-a încheiat, încercați mai târziu!
+• În acest eveniment, misiunea voastră este să colectați fiecare diamant și coroană, să cuceriți nivelul cu un singur cub și — nu uitați — fără reînvieri permise! Sunteți pregătiți pentru provocare?\n\n• Liniile de ghidare sunt dezactivate în timpul jocului, așa că totul depinde de abilitățile voastre!\n\n• Odată ce ați perfecționat nivelul, nu uitați să vă întoarceți la pagina evenimentului pentru a vă revendica recompensele!
+Conectarea la internet a eșuat, asigurați-vă că rețeaua este stabilă și încercați din nou.
+Articol revendicat
+S-a revendicat cu succes #item#
+Doriți să revendicați #item#?
+Magazinul se reînnoiește în fiecare luni
+Magazinul de note s-a reînoit, vedeți ce este nou!
+Provocarea notelor din această săptămână este disponibilă, veniți să bateți nivelurile!
+Bilă de bowling
+Bilă de tenis
+Provocare completată: #Level#
+Continuați descărcarea prin date mobile?
+Avertisment date mobile
+Eroare
+A apărut o eroare necunoscută!
+Ascunde cursorul
+Când e staționar
+În timpul jocului
+Niciodată
+Oficial
+Remix
+Eveniment
+Sezon
+Original
+Învechit
+Fanmade
+Max Studio
+WINDER Studio
+Conectați-vă la Game Center din Setările de sistem
+Bară de stare
+DLRS GAS
+Profil
+Setări cont
+Nume de utilizator: {0}\nID utilizator: {1}
+Rată de cadre
+Afișare rată de cadre
+Server
+Suport multi-touch
+Come & Get It - Selena Gomez
+Melodie
+Copiat în clipboard
+Pictogramă aplicație
+Exportare progres joc
+Importare progres joc
+Arborele Vidului
+Introduceți calea secretă în Gol
+Atingerea automată poate să nu fie precisă până când nivelul nu este descărcat.
+Se actualizează baza de date a jocului
+Implicit
+Verde
+Duetul
+Grup QQ
+Canal QQ
+Rezoluție de randare
+Auto
+Pălării
+Desechipați
+Sci-Fi
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+completat
+Albastru
+Galben
+Clasic
+Sesiune audio întreruptă
+Deoarece sesiunea audio curentă a fost întreruptă de sistem, jocul nu poate continua temporar. Încercați să evitați orice aplicație sau proces care ar putea întrerupe sunetul jocului și încercați din nou.
+Ultima sincronizare: {0}\nVersiune date cloud: {1}
+Sincronizați acum
+Sincronizarea este prea frecventă
+Sincronizare reușită
+Sincronizare eșuată
+Salvare în cloud
+Ultima sincronizare
+Versiune date cloud
+Se sincronizează...
+Urmează limba sistemului
+Copiați
+Deschideți directorul extern
+Deschiderea directă a unui director nu este acceptată momentan. Faceți clic pe buton pentru a copia următorul director și deschideți-l manual:\n\n#DIRECTORY#
+Sistem de conturi jocuri DL RS
+E-mail...
+Parolă...
+Reține utilizatorul
+Autentificare cont
+Autentificare
+Înregistrare
+Ați uitat parola
+Se autentifică...
+Timpul de autentificare a expirat
+Eroare
+E-mail sau parolă incorectă
+Acest cont nu este în lista albă
+Acest cont trebuie activat
+Aplicație învechită, verificați actualizările.
+Bun venit, {0}!
+Autentificare reușită
+Introduceți adresa de e-mail
+Introduceți parola
+Prin autentificare, sunteți de acord cu <b><color=#3d6ec0>Termenii de serviciu DLRS GAS</color></b>
+Cont recent
+Autentificare nouă
+Sigur doriți să eliminați contul #name#?
+Se deschide într-un browser extern...
+Acest cont a fost banat
+Se descarcă datele utilizatorului...
+Încărcarea datelor jucătorului a eșuat
+Deconectare
+Sigur doriți să vă deconectați de la #USERNAME#?
+Biblioteci open-source
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistici
+Completat
+Diamante
+Coroane
+Decese
+Încercări de nivel
+Revivaluri
+1
+Diamante preluate
+Coroane preluate
+Stele câștigate
+Stele cheltuite
+Cuburi de energie câștigate
+Cuburi de energie folosite
+Note câștigate
+Note cheltuite
+Skinuri deținute
+Pălării deținute
+AA multisample (#SHORT#)
+AA aprox. rapid (#SHORT#)
+AA temporal (#SHORT#)
+AA morfologic subpixel (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planetă
+Stea
+Mergi la #LEVELNAME#
+Utilizarea acestei opțiuni poate cauza întreruperi sau afișarea incorectă a imaginii în timpul jocului.
+Avertisment
+Dispozitiv audio
+Difuzor încorporat
+Difuzoare
+Nu s-au găsit niveluri care să corespundă cuvintelor cheie.
+Potrivire totală
+Potrivire parțială
+Jucabil
+Autentificare prin e-mail și parolă
+Autentificare prin OAuth
+Autorizarea a eșuat. Vă rugăm să încercați din nou.
+De dezactivat
+De activat
+Când este dezactivat, statisticile dvs. vor fi șterse, iar jocul nu va mai înregistra date decât dacă îl reactivați.
+Aplicație învechită, verificați actualizările.
+Cod de răscumpărare
+Introduceți codul de răscumpărare...
+Răscumpără
+Răscumpărarea este în pauză, încercați din nou mai târziu.
+Codul de răscumpărare este invalid sau a fost deja folosit.
+Următoarele articole au fost răscumpărate cu succes:
+Nivel: #NAME#
+Skin: #NAME#
+Pălărie: #NAME#
+Note × {0}
+Capul în nori
+Termeni de serviciu
+Verificarea integrității mediului de joc a eșuat.
+Suprapunere Steam
+Monument Valley
+Ursuleț de pluș Cheetah
+Vrăjitorul din Oz
+Loong
+Mixer audio
+Mono
+Stereo
+Surround 4.0
+Surround 5.0
+Surround 5.1
+Surround 7.1
+Selectați nivelul
+Colecție de niveluri
+Cumpărați pe Steam
+Cumpărați și instalați acest DLC din Magazinul Steam
+Moștenit
+Trimitere nivel
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Descărcarea actualizărilor a eșuat. Reîncercați?
+Noi actualizări disponibile, este necesară descărcarea {0}. Continuați?
+Refugiul uitat
+Verificarea actualizărilor a eșuat, reîncercați?
+Descărcarea actualizărilor a eșuat. Se reîncearcă...
+Colaborare
+Sari peste nivel
+Utilizați {0} note pentru a sări peste acest nivel de provocare?
+Nu sunt suficiente note. Aveți nevoie de cel puțin {0} pentru a sări.
+{0}z {1}h
+Se reînnoiește în: {0}
+Decorațiune
+VSync este activat momentan. Setările ratei de cadre produc efecte doar când VSync este dezactivat.\nDoriți să dezactivați VSync?
+Serverul este în mentenanță momentan. Jocul va fi indisponibil în această perioadă.\n\nMotiv mentenanță: {0}\nTimp de încheiere: {1}
+Rămâneți aproape pentru viitoare anunțuri oficiale.
+Sesiunea contului dvs. a expirat. Este posibil să fiți autentificat de pe alt dispozitiv.\nVă rugăm să vă autentificați din nou.
+Serverul este în mentenanță momentan. Vă puteți autentifica în joc în timpul mentenanței, dar serviciul jocului poate fi instabil.\n\nMotiv mentenanță: {0}\nTimp de încheiere: {1}
+Misiuni
+Se reînnoiește în: {0}
+Conectați-vă în joc
+Finalizați orice nivel de {0} ori
+Consumați {0} cuburi
+Consumați {0} stele
+Muriți de {0} ori în orice nivel
+Colectați {0} diamante în orice nivel
+Colectați {0} coroane în orice nivel
+Revivați de {0} ori în orice nivel
+Obțineți stele
+Interacțiune specială de nivel
+Acest nivel prezintă interacțiuni speciale care pot fi declanșate prin ecranul tactil sau prin menținerea apăsată a tastei.
+Imposibil de conectat la Rețeaua Steam
+Steam Cloud
+Nivel blocat
+Funcția 1
+Funcția 2
+Funcția 3
+Funcția 4
+Funcția 5
+Înapoi
+Anulați
+Cumpărare
+Nivelul următor
+Meniu principal
+Începe nivelul
+Ieși din joc
+Nivelul anterior
+Pagina anterioară
+Pagina următoare
+Audio
+Volum principal
+Inițializarea clientului Steam a eșuat, reporniți jocul.
+Nu se poate conecta la clientul Steam. Asigurați-vă că rulează clientul Steam și reporniți jocul.
+Clientul Steam pare învechit, asigurați-vă că este actualizat.
+Eroare Steam
+Salvarea în cloud Steam este coruptă și nu poate fi citită.\nAcest lucru se poate datora ieșirii din joc în timpul salvării, ceea ce a dus la scrierea unor date incomplete.\nJocul a încercat să citească salvarea din cache-ul local, dar a eșuat din nou.\nPuteți alege să porniți jocul cu o salvare nouă. Doriți să continuați?
+Eroare Steam Cloud
+Modul de practică va activa linia de ghidare.\n\nUrmați linia de ghidare pentru a învăța traseul și bucurați-vă liber de tot ce are de oferit nivelul.\n\nLuați-vă timp pentru a găsi calea înainte — recordul poate aștepta. Progresul realizat în Modul de practică nu va conta pentru scoruri, misiuni sau realizări.\n\nActivați Modul de practică?
+Mod de practică
+Mod de practică
+AVERTISMENT: FOTOSENSIBILITATE / CRIZE DE EPILEPSIE
+<b>CITIȚI ACEST ANUNȚ ÎNAINTE DE A JUCA</b>\n\nUn procent foarte mic de persoane poate suferi crize de epilepsie sau leșinuri când sunt expuse la anumite tipuri de lumini intermitente sau modele luminoase. Aceste persoane, sau chiar cele fără istoric de crize sau epilepsie, pot manifesta simptome epileptice sau convulsii în timp ce se joacă jocuri video.\n\nDacă dumneavoastră sau o rudă ați suferit de o afecțiune epileptică sau ați avut crize de orice fel, consultați medicul înainte de a juca jocuri video.\n\nÎNTRERUPEȚI IMEDIAT utilizarea și consultați un medic dacă dumneavoastră sau copilul dumneavoastră experimentați oricare dintre următoarele simptome: amețeli, tulburări de vedere, spasme oculare sau musculare, mișcări involuntare, pierderea conștienței, dezorientare sau convulsii. Părinții ar trebui să urmărească sau să își întrebe copiii despre simptomele de mai sus.\n\nPuteți reduce riscul de crize epileptice fotosensibile luând următoarele măsuri de precauție: stați mai departe de ecran, utilizați un ecran mai mic, jucați într-o cameră bine iluminată și nu jucați când sunteți somnoros sau obosit.
+Clasament Steam
+Linie de ghidare
+Deblocare nivel
