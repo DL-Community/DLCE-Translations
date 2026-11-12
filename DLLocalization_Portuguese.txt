@@ -17,7 +17,7 @@ Comprar {0} Cubos
 Cubos Infinitos
 Recarrega em: {0}
 Cubos recarregados. Vamos dançar novamente.
-toque para jogar
+toque para começar
 OK
 Sim
 Não
@@ -253,7 +253,7 @@ O Patinho Feio
 O Videogame
 O Êxodo
 O Oceano
-O Touro
+O Signo de Touro
 Sonho do Céu
 O Basquete
 A Festa de Natal
