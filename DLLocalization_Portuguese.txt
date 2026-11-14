@@ -502,7 +502,7 @@ Notas × {0}
 Nas Nuvens
 Termos de Serviço
 Falha na verificação da integridade do ambiente do jogo.
-Sobreposição do Steam
+Sobreposição da Steam
 Monument Valley
 Ursinho Cheetah
 O Mágico de Oz
@@ -516,7 +516,7 @@ Surround 5.1
 Surround 7.1
 Selecionar Nível
 Coleção de Níveis
-Comprar no Steam
+Comprar na Steam
 Compre e instale este DLC na Loja Steam
 Clássico
 Envio de Níveis
@@ -577,14 +577,14 @@ Volume Geral
 Falha ao inicializar o cliente Steam. Reinicie o jogo.
 Não foi possível conectar ao cliente Steam. Verifique se ele está em execução e reinicie o jogo.
 O cliente Steam parece estar desatualizado. Verifique se ele está atualizado.
-Erro do Steam
+Erro da Steam
 O salvamento na nuvem Steam está corrompido e não pode ser lido.\nIsso pode ter acontecido porque você saiu do jogo durante o salvamento, causando a gravação de dados incompletos.\nO jogo tentou ler o salvamento do cache local, mas também falhou.\nVocê pode iniciar o jogo com um novo salvamento. Deseja continuar?
-Erro do Steam Cloud
+Erro da Steam Cloud
 O Modo de Prática ativará a linha-guia.\n\nSiga a linha-guia para aprender o percurso e aproveitar livremente tudo o que o nível oferece.\n\nVá com calma para encontrar o caminho — seu recorde pode esperar. O progresso no Modo de Prática não contará para pontuações, missões ou conquistas.\n\nAtivar o Modo de Prática?
 Modo de Prática
 Modo de Prática
 AVISO: FOTOSSENSIBILIDADE/CRISES EPILÉPTICAS
 <b>LEIA ESTE AVISO ANTES DE JOGAR</b>\n\nUma porcentagem muito pequena de pessoas pode sofrer crises epilépticas ou desmaios quando exposta a determinados tipos de luzes piscantes ou padrões luminosos. Essas pessoas, e até mesmo aquelas sem histórico de convulsões ou epilepsia, podem apresentar sintomas epilépticos ou crises ao jogar videogames.\n\nSe você ou algum familiar tem epilepsia ou já sofreu qualquer tipo de convulsão, consulte um médico antes de jogar videogames.\n\nPARE IMEDIATAMENTE de jogar e procure um médico se você ou seu filho apresentar algum dos seguintes sintomas: tontura, alterações na visão, contrações nos olhos ou músculos, movimentos involuntários, perda de consciência, desorientação ou convulsões. Pais e responsáveis devem observar ou perguntar às crianças sobre esses sintomas.\n\nVocê pode reduzir o risco de crises epilépticas fotossensíveis tomando estas precauções: sente-se mais longe da tela, use uma tela menor, jogue em um ambiente bem iluminado e não jogue quando estiver com sono ou cansado.
-Classificação do Steam
+Classificação da Steam
 Linha-guia
 Desbloquear Nível
