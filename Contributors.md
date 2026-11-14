@@ -16,7 +16,7 @@
 | ✅ | Korean | [Dohyun3015](https://github.com/Dohyun3015) | [DLLocalization_Korean.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Korean.txt) |
 | ✅ | Macedonian | [Kli](https://github.com/dlkingkli) | [DLLocalization_Macedonian.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Macedonian.txt) |
 | ❌ | Polish | ~~Anonymous~~ | [DLLocalization_Polish.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Polish.txt) |
-| ❌ | Portuguese | ~~MateusDancingLineFan~~ | [DLLocalization_Portuguese.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Portuguese.txt) |
+| ✅ | Portuguese | [CaviarDreamsSoftware](https://github.com/CaviarDreamsSoftware), ~~MateusDancingLineFan~~ | [DLLocalization_Portuguese.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Portuguese.txt) |
 | ❌ | Russian | - | [DLLocalization_Russian.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Russian.txt) |
 | ❓ | Spanish | [bigblah9](https://github.com/bigblah9) | [DLLocalization_Spanish.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Spanish.txt) |
 | ✅ | Ukrainian | [FANGO](https://github.com/FANGO11) | [DLLocalization_Ukrainian.txt](https://github.com/DL-Community/DLCE-Translations/blob/main/DLLocalization_Ukrainian.txt) |
