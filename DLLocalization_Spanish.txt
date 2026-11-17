@@ -71,7 +71,7 @@ Ten en cuenta que, al completar este proceso, tus datos de Dancing Line (incluid
 Eliminar
 Eliminando datos…\nSe borrarán tus partidas guardadas locales y en la nube
 Accesibilidad
-¿Puedes superar el X % en Dancing Line? ¡Ven a jugar conmigo!
+¿Puedes superar el X% en Dancing Line? ¡Ven a jugar conmigo!
 Ver Registros De Depuración
 Restaurar Valores Predeterminados
 Avisos Legales Y Privacidad

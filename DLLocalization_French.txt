@@ -71,7 +71,7 @@ Gardez à l'esprit qu'une fois cette opération terminée, vos données Dancing 
 Supprimer
 Suppression des Données…\nVos sauvegardes locales et dans le cloud seront effacées
 Accessibilité
-Peux-tu dépasser X % dans Dancing Line ? Viens jouer avec moi !
+Peux-tu dépasser X% dans Dancing Line ? Viens jouer avec moi !
 Afficher les Journaux de Débogage
 Rétablir les Paramètres par Défaut
 Mentions Légales et Confidentialité
@@ -274,7 +274,7 @@ Jardin Zen
 Le Samouraï HD
 Le Ranch
 Faded - Alan Walker
-Tout sur Nous
+All About Us
 L'Évolution (P13)
 Le Pays des Merveilles des Desserts
 L'Espace

@@ -71,7 +71,7 @@ Upozorňujeme, že po dokončení tohoto procesu budou vaše data hry Dancing Li
 Smazat
 Mazání dat…\nCloudové i místní uložené pozice budou odstraněny
 Přístupnost
-Dokážete v Dancing Line překonat X %? Pojďte si zahrát se mnou!
+Dokážete v Dancing Line překonat X%? Pojďte si zahrát se mnou!
 Zobrazit Ladicí Protokoly
 Obnovit Výchozí Nastavení
 Právní Informace A Soukromí

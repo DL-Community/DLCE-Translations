@@ -71,7 +71,7 @@ Please bear in mind that once you complete this process, your Dancing Line data 
 Delete
 Deleting Data…\nYour cloud and local saves will be cleared
 Accessibility
-Can you beat X% in DancingLine? Come Play With Me!
+Can you beat X% in Dancing Line? Come Play With Me!
 View Debug Logs
 Restore Default
 Legal & Privacy

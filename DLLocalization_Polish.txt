@@ -71,7 +71,7 @@ Pamiętaj, że po zakończeniu tego procesu Twoje dane Dancing Line (w tym dane 
 Usuń
 Usuwanie danych…\nZapisy w chmurze i na urządzeniu zostaną wyczyszczone
 Ułatwienia dostępu
-Pokonasz X% w DancingLine? Zagraj ze mną!
+Pokonasz X% w Dancing Line? Zagraj ze mną!
 Wyświetl dzienniki debugowania
 Przywróć domyślne
 Prawo i prywatność
@@ -274,7 +274,7 @@ Ogród zen
 Samuraj HD
 Ranczo
 Faded – Alan Walker
-Wszystko o nas
+All About Us
 Ewolucja (P13)
 Kraina słodkości
 Kosmos

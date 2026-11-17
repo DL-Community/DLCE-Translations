@@ -71,7 +71,7 @@ Bu işlemi tamamladığınızda Dancing Line verilerinizin (kişisel bilgilerini
 Sil
 Veriler siliniyor…\nBulut ve yerel kayıtlarınız temizlenecek
 Erişilebilirlik
-Dancing Line'da %X'i geçebilir misin? Gel, benimle oyna!
+Dancing Line'da X%'i geçebilir misin? Gel, benimle oyna!
 Hata Ayıklama Günlüklerini Görüntüle
 Varsayılana Sıfırla
 Yasal Bilgiler ve Gizlilik

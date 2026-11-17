@@ -71,7 +71,7 @@ Houd er rekening mee dat je Dancing Line-gegevens (waaronder persoonsgegevens en
 Verwijderen
 Gegevens verwijderen…\nJe cloudopslag en lokale opslag worden gewist
 Toegankelijkheid
-Kun jij X% halen in DancingLine? Speel met me mee!
+Kun jij X% halen in Dancing Line? Speel met me mee!
 Debuglogboeken bekijken
 Standaardinstellingen herstellen
 Juridisch en privacy
@@ -274,7 +274,7 @@ Zentuin
 De Samoerai HD
 De Ranch
 Faded - Alan Walker
-Alles over Ons
+All About Us
 De Evolutie (P13)
 Het Toetjeswonderland
 De Ruimte

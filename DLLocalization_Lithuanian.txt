@@ -71,7 +71,7 @@ Atminkite, kad užbaigus šį procesą jūsų „Dancing Line“ duomenys (įska
 Ištrinti
 Duomenys trinami…\nBus išvalyti debesies ir vietiniai išsaugojimai
 Prieinamumas
-Ar gali pasiekti X % žaidime „Dancing Line“? Žaisk kartu su manimi!
+Ar gali pasiekti X% žaidime „Dancing Line“? Žaisk kartu su manimi!
 Peržiūrėti derinimo žurnalus
 Atkurti numatytuosius nustatymus
 Teisinė informacija ir privatumas
@@ -274,7 +274,7 @@ Dzeno sodas
 Samurajus HD
 Ranča
 Faded – Alan Walker
-Viskas apie mus
+All About Us
 Evoliucija (P13)
 Desertų stebuklų šalis
 Kosmosas

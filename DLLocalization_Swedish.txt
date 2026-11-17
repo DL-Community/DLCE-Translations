@@ -71,7 +71,7 @@ Observera att när du slutför processen raderas dina Dancing Line-data (inklusi
 Radera
 Raderar data…\nDina sparfiler i molnet och lokalt rensas
 Tillgänglighet
-Kan du slå X % i Dancing Line? Kom och spela med mig!
+Kan du slå X% i Dancing Line? Kom och spela med mig!
 Visa felsökningsloggar
 Återställ standardinställningar
 Juridik och integritet

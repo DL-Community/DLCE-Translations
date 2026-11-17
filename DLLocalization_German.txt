@@ -71,7 +71,7 @@ Bitte beachte, dass nach Abschluss dieses Vorgangs deine Dancing-Line-Daten (ein
 Löschen
 Daten werden gelöscht …\nDeine Cloud- und lokalen Spielstände werden entfernt
 Barrierefreiheit
-Schaffst du X % in Dancing Line? Spiel mit mir!
+Schaffst du X% in Dancing Line? Spiel mit mir!
 Debug-Protokolle Anzeigen
 Standardeinstellungen Wiederherstellen
 Rechtliches Und Datenschutz
