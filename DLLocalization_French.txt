@@ -3,396 +3,396 @@ English
 
 Dancing Line
 Langue
-LIKEZ-NOUS
-CHARGEMENT
-Obtenir des cubes
-Utilisez des écouteurs pour une meilleure expérience
-Impossible de charger la vidéo
-Regardez une pub pour débloquer temporairement
-Essai gratuit
+SUIVEZ-NOUS
+Chargement
+Obtenir des Cubes
+pour profiter pleinement du jeu\nutilisez un casque
+Vidéo indisponible
+Regardez une vidéo pour le débloquer temporairement
+Déblocage Gratuit
 Débloquer
-Nouveau niveau débloqué :
-Obtenir {0} gratuitement
-Acheter {0} cubes
-Énergie infinie
-Recharge dans : {0} s
-Cubes rechargés. Revenez dancer !
-appuyer pour commencer
+Nouveau niveau débloqué :
+Obtenir {0} Gratuitement
+Acheter {0} Cubes
+Cubes Infinis
+Recharge dans : {0}
+Cubes rechargés. Dansons à nouveau.
+touchez pour commencer
 OK
 Oui
 Non
-On
-Off
+Activé
+Désactivé
 Annuler
-EN PAUSE
-QUALITÉ
-LA PLUS BASSE
-BASSE
-MOYENNE
-HAUTE
-ULTRA
-ULTRA ＋
-ANTICRÉNELAGE
-SON
+En pause
+Qualité
+Très Faible
+Faible
+Moyenne
+Élevée
+Ultra
+Max
+Anticrénelage
+Son
 VSync
-SYNCHRONISATION
-AJUSTEMENT AUTO
-DÉLAI MUSIQUE
-RETOUR TACTILE
-Confirmation
-Voulez-vous quitter le jeu ?
+Synchronisation
+Réglage Automatique
+Décalage Musical
+Retour Tactile
+Confirmer la Sortie
+Voulez-vous quitter le jeu ?
 À propos
 Version
-Concepteurs
-Équipe de localisation
+Concepteurs de Niveaux
+Équipe de Localisation
 Bilibili
 YouTube
-Contrat de licence de l’utilisateur final
-Politique de confidentialité
-Serveur Discord officiel
-Mode d’affichage
-Plein écran exclusif
-PLEIN ÉCRAN
-FENÊTRÉ
-PORTRAIT
-PAYSAGE
-DÉFINITION D’ÉCRAN
-Continuer du dernier checkpoint ?
-Encore #X%# pour un #nouveau record#
-Encore #X%# jusqu’au #prochain checkpoint#
-Encore #X%# pour #terminer#
-GRATUIT
+Contrat de Licence Utilisateur Final
+Politique de Confidentialité
+Discord
+Mode d'Affichage
+Plein Écran Exclusif
+Fenêtré Plein Écran
+Fenêtré
+Portrait
+Paysage
+Résolution
+Continuer depuis le dernier point de contrôle ?
+Encore #X%# pour un #Nouveau Record#
+Encore #X%# pour le #Prochain Point de Contrôle#
+Encore #X%# pour #Terminer#
+Gratuit
 Continuer
 Rechercher
-Supprimer les données
-Data reseted, please restart the game.
-Vos données de jeu seront supprimées à l’issue de ce processus. Soyez prudent.
-Comprenez bien qu’une fois ce processus terminé, vos données Dancing Line (y compris des données personnelles et toutes autres données générées en utilisant des produits Dancing Line, ici appelées les « données Dancing Line ») seront supprimées de façon permanente et ne pourront être récupérées. Faites le bon choix et continuez avec précaution.
-SUPPRIMER
-Suppression des données…\nVos sauvegardes cloud et locales seront effacées
+Supprimer les Données
+Données réinitialisées, veuillez redémarrer le jeu.
+Vos données de jeu seront supprimées une fois cette opération terminée. Procédez avec prudence.
+Gardez à l'esprit qu'une fois cette opération terminée, vos données Dancing Line (y compris vos informations personnelles et toute autre donnée générée lors de l'utilisation des produits Dancing Line) seront définitivement supprimées et irrécupérables. Réfléchissez bien avant de continuer.
+Supprimer
+Suppression des Données…\nVos sauvegardes locales et dans le cloud seront effacées
 Accessibilité
-Arriveras-tu à dépasser X% dans DancingLine ? Viens jouer avec moi !
-Exporter les logs
-Valeurs par défaut
-Légal & confidentialité
-Avant d’utiliser cette app, vous devez accepter notre contrat de licence de l’utilisateur final et notre politique de confidentialité.
+Peux-tu dépasser X % dans Dancing Line ? Viens jouer avec moi !
+Afficher les Journaux de Débogage
+Rétablir les Paramètres par Défaut
+Mentions Légales et Confidentialité
+Avant d'utiliser l'application, vous devez accepter notre Contrat de Licence Utilisateur Final et notre Politique de Confidentialité.
 Accepter et continuer
-Je n’accepte pas
-Taille de tampon DSP
-Délai de sortie audio
-Délai d’entrée
-
-Effets du gyroscope
+Quitter le jeu
+Taille du Tampon E/S
+Latence de Sortie Audio
+Latence des Commandes Tactiles
+VERSION BÊTA ##UID# NE PAS DIFFUSER
+Effets Gyroscopiques
 Game Center
 Récupérer
-Gemmes gratuites quotidiennes
-Récupérable d’ici {0}
+Étoiles Gratuites Quotidiennes
+Disponible dans {0}
 Équipé
 Équiper
-Reprises gratuites : {0}/{1}
-Voulez-vous dépenser {0} gemmes et débloquer l'indice de guidage pour cette fois ?
-Impossible de récupérer les gemmes gratuites quotidiennes, la vérification de l’heure a échoué.
-Paramètres avancés
-This setting only applies to the current level, allowing individual adjustments for each level based on global music delay.\n\n<b>Actual Delay = Level Delay + Global Delay</b>
+Résurrections Gratuites : {0}/{1}
+Voulez-vous dépenser {0} étoiles pour débloquer temporairement la ligne de guidage ?
+Impossible de récupérer les étoiles gratuites quotidiennes : échec de la vérification de l'heure.
+Paramètres Avancés
+Ce paramètre ne s'applique qu'au niveau actuel et permet un réglage individuel pour chaque niveau en fonction du décalage musical global.\n\n<b>Décalage Réel = Décalage du Niveau + Décalage Global</b>
 Récompenses
-Récompenses : {0}
-{0} diamants récoltés dans le niveau : {1}
-{0} couronnes récoltées dans le niveau : {1}
-Niveau terminé : {0}
-Appuyez n’importe où pour changer de direction.
-Ce jeu est conçu pour être joué avec la musique.
-Ne balayez pas. Ça ne marche pas.
-Dans les airs, inutile d’appuyer.
-N’appuyez pas en entrant dans la pyramide à 45°.
-Vous pouvez changer votre skin en cliquant sur le cube lévitant.
-Récupérez tous les diamants et les couronnes pour réussir les niveaux parfaitement.
-RÉALISATIONS
+Récompenses : {0}
+{0} diamants collectés dans le niveau : {1}
+{0} couronnes collectées dans le niveau : {1}
+Niveau terminé : {0}
+Suivez le rythme et touchez n'importe où pour changer de direction.
+Ce jeu est conçu pour être joué avec le son activé.
+Ne faites pas glisser votre doigt. Ça ne fonctionne pas.
+Inutile de toucher l'écran pendant le vol.
+Ne touchez pas l'écran en entrant dans la pyramide à 45°.
+Vous pouvez changer l'apparence du personnage en touchant le cube flottant.
+Collectez tous les diamants et toutes les couronnes pour terminer parfaitement les niveaux.
+Succès
 [Masqué] 
-Terminé : #x#
+Terminé : #x#
 #x# - Terminé
-#x# - 10 diamants
-#x# - 3 couronnes
-Terminez #x#
-Récupérez tous les diamants de #x#
-Récupérez toutes les couronnes de #x#
-Les secrets de Dragonia
-Trouvez au moins un chemin secret dans Les récits de Dragonia 
-Est-ce que c’est Paimon ?
-Et si on explorait la prochaine zone plus tard ?
+#x# - 10 Diamants
+#x# - 3 Couronnes
+Terminer #x#
+Collecter tous les diamants dans #x#
+Collecter toutes les couronnes dans #x#
+Le Secret de Dragonia
+Trouver au moins un chemin caché dans Les Contes de Dragonia
+C'est Paimon ?
+Et si nous explorions la zone devant nous plus tard ?
 L.A.B.Y.R.I.N.T.H.E.
-Trouvez le chemin secret dans  Le labyrinthe 
-Armistice
-Accédez au scénario de la paix dans  La guerre 
-Fête du 2e anniversaire
-Joyeux Noël…\net 2e anniversaire
-Maître Gemless
-Rencontrez un évadé de donjon dans The Adventure
-Ciel étoilé
-L’étendue étoilée recèle de délicieuses surprises
-AFFECTATION DES TOUCHES
-En attente d’une touche\nAppuyez sur la touche que souhaitez utiliser
+Trouver le chemin caché dans Le Labyrinthe
+Pacifisme
+Suivre le scénario pacifique dans La Guerre
+Fête du 2e Anniversaire
+Joyeux Noël……\net bon 2e anniversaire
+Maître Sans Gemmes
+Rencontrer un évadé du donjon dans L'Aventure
+Ciel Étoilé
+L'immensité étoilée promet de belles surprises
+Attribution des Touches
+En attente d'une commande…\nAppuyez sur la touche souhaitée du clavier ou de la manette
 Retour
-Pause
-Contrôle
-Indice de Guidage
+Mettre le Jeu en Pause
+Contrôle du Personnage
+Ligne de Guidage
 Paramètres
-Apparances
+Apparence
 Gauche
 Droite
 Confirmer
 Recommencer
-Réalisations
-Ret. arr.
+Succès
+Retour Arrière
 Entrée
 Entrée
 Échap
 Espace
-Win (gauche)
-Win (droit)
-CMD (gauche)
-CMD (droit)
-Haut
-Bas
-Gauche
-Droite
-MAJ (gauche)
-MAJ (droit)
-Option (gauche)
-Option (droit)
-CTRL (gauche)
-CTRL (droit)
-Option (gauche)
-Option (droit)
+WIN Gauche
+WIN Droite
+CMD Gauche
+CMD Droite
+▲
+▼
+◀
+▶
+Maj Gauche
+Maj Droite
+Option Gauche
+Option Droite
+CTRL Gauche
+CTRL Droite
+Option Gauche
+Option Droite
 Menu
 Terminé
 Point de Contrôle
 Joyeux Noël
-Récupérer
+Collecter
 Toucher
-Rien ne serait possible sans vous.\nNous ne faisons qu’un.
+Cela n'aurait pas été possible sans toi.\nNous ne faisons qu'un.
 Pourquoi…
-Tout va mal…
-Fin du monde
-Suis ta propre étoile ! — Dante
-Une fois que vous aurez goûté au vol, vous\nmarcherez à jamais les yeux tournés vers le ciel\n\t\t\t\t\t\t\t\t ― Léonard de Vinci
-Tu n’es pas seul.
-N’ayez pas de regret en matière\nd’amour et de nourriture.
+Tout va de mal en pis…
+Fin du Monde
+Suis ta propre étoile ! -Dante
+Une fois que tu auras volé, tu marcheras les yeux tournés vers le ciel \n\t\t\t\t\t\t\t\t Léonard de Vinci
+Tu n'es pas seul.
+Ne regrette rien en matière\nd'amour et de nourriture.
 Normal
 Casque
 Papier
 Zeus
 Chaos
 Montagnes
-Pinceau chinois
-Sorcière
-Slither
+Pinceau Chinois
+Sorcière Magique
+Serpentement
 Dominos
 Module
 Lumière
-Boule de neige
+Boule de Neige
 Flèche
 Baleine
-Blizzard
+Brume Neigeuse
 Stalagmite
 Clown
-Nuage
+Nuage Volant
 Serpent
 Gelée
-Cape magique
-Squelette à bombe
+Cape Magique
+Squelette Explosif
 Ballon
-Ballon ardent
+Boule de Feu
 Pyramide
 Balle
-Balle cyan
-Balle noire
-Balle simple
-Ballon de basket
-Pouvoir stellaire
+Balle Cyan
+Balle Noire
+Balle Unie
+Ballon de Basket
+Pouvoir Stellaire
 Robot
-Niveau sans nom
-Le début
-Le temps
-Le piano
-La plage
-L’hiver
-La savane
-L’Ouest
+Niveau Sans Nom
+Le Commencement
+Le Temps
+Le Piano
+La Plage
+L'Hiver
+La Savane
+L'Ouest
 La Saint-Valentin
 Halloween
-L’allée
-Le désert
-La tempête
-La tempête
-Les montagnes
-Les plaines
-Les plaines
-Le labyrinthe
+La Ruelle
+Le Désert
+La Tempête
+La Tempête
+Les Montagnes
+Les Plaines
+Les Plaines
+Le Labyrinthe
 La Terre
-Les paradis des feux d’artifice
-Le réveillon de Noël
-L’automne
-Le cristal
-Le troisième anniversaire
-Le cinquième anniversaire
-Le chaos
-La cathédrale
-La cathédrale
-L’histoire du marin
-La légende de l’assassin
-Le jardin chinois
-La course
-Prochainement
-La fin - Theo5970
-L’histoire d’amour
-Le printemps
-Le Nouvel An chinois
-Le samouraï
-Les récits de Dragonia
+Le Paradis des Feux d'Artifice
+Le Réveillon de Noël
+L'Automne
+Le Cristal
+Le Troisième Anniversaire
+Le Cinquième Anniversaire
+Le Chaos
+La Cathédrale
+La Cathédrale
+Le Conte du Marin
+La Légende de l'Assassin
+Le Jardin Chinois
+La Course
+Bientôt Disponible
+La Fin - Theo5970
+La Romance
+Le Printemps
+Le Nouvel An Chinois
+Le Samouraï
+Les Contes de Dragonia
 Le Vilain Petit Canard
-Le jeu vidéo
-L’exode
-L’océan
-Le taureau
-Rêve céleste
-Le basket-ball
-La fête de Noël
-Le périple indien
-La guerre
-Le mystère
-Le football
-Hip-Hop Evolution
+Le Jeu Vidéo
+L'Exode
+L'Océan
+Le Signe du Taureau
+Rêve de Ciel
+Le Basket-ball
+La Fête de Noël
+Le Voyage en Inde
+La Guerre
+Le Mystère
+Le Football
+L'Évolution du Hip-Hop
 Pâques
-La berceuse du printemps
-Le casse-tête d’Halloween
-Le parc d’attractions
+La Berceuse du Printemps
+L'Énigme d'Halloween
+Le Parc d'Attractions
 Faded - Alan Walker
-Faded (version tutorielle)
+Faded (Version Tutoriel)
 Despacito
 Alone - Alan Walker
-Le jardin zen
-Le samouraï (HD)
-Le ranch
+Jardin Zen
+Le Samouraï HD
+Le Ranch
 Faded - Alan Walker
-All About Us
-L’évolution (P13)
-Pays des délices
-L’espace
-La découverte - Chronos
-L’aventure
-L’apocalypse
-Le périple
-Les mathématiques
-La bruine
-L’escapade
-Le vide
-Le souvenir
-Tempête de fureur
+Tout sur Nous
+L'Évolution (P13)
+Le Pays des Merveilles des Desserts
+L'Espace
+La Découverte - Chronos
+L'Aventure
+L'Apocalypse
+Le Voyage
+Les Mathématiques
+La Bruine
+L'Errance
+Le Vide
+Le Souvenir
+Tempête de Colère
 Aucun
-Chapeau de Noël
-Libellule en bambou
-Chapeau de magicien
-Chapeau mexicain
-Chapeau melon
-Chapeau Sweet Dog
-Sprite
+Bonnet de Noël
+Hélice en Bambou
+Chapeau de Sorcier
+Sombrero
+Chapeau Melon
+Chapeau de Chien Adorable
+Lutin
 Rat
-Téléchargement du niveau
-Ne vous déconnectez pas d’Internet
-ATH des commandes
+Un nouveau niveau est en cours de téléchargement
+Veuillez rester connecté à Internet
+Interface des Commandes
 Échec du téléchargement du niveau
-Vider le cache
-Les caches tels que les données de niveaux et de musiques téléchargées seront effacés, voulez-vous continuer ?
-La version actuelle (#Current#) est obsolète, veuillez mettre à jour vers la dernière version (#Latest#).
-Échec du chargement des configurations de publicité
+Vider le Cache
+Les données en cache, notamment les niveaux et les musiques téléchargés, seront supprimées. Continuer ?
+La version actuelle #Current# est obsolète. Vous devez installer au moins la version #Latest# pour jouer.
+Échec du chargement des paramètres publicitaires
 Réessayer
-Vérification du contenu téléchargeable
-Mise à jour des configurations
-Téléchargement de contenu essentiel
-Le voyage n’est pas terminé…
-D’autres sont à venir…
-Merci pour tout, les joueurs de Dancing Line !
-Mise à jour requise
-Ajustement global de la synchro.
-Ajustement de la synchro. par niveau
-Correction auto.
+Recherche de Mises à Jour…
+Mise à Jour des Paramètres
+Téléchargement des Mises à Jour
+Le voyage n'est pas terminé…
+D'autres aventures arrivent…
+Merci à tous les joueurs de Dancing Line !
+Mise à Jour Requise
+Réglage de Synchronisation Global
+Réglage de Synchronisation du Niveau
+Correction Automatique
 Partager
-Copier le texte
-Enregistrer l’image
-Copier l’image
-Choisissez ce qui va être effacé
-Effacer la progression
-Nouveau record
+Copier le Texte
+Enregistrer l'Image
+Copier l'Image
+Choisir les éléments à effacer
+Effacer la Progression du Jeu
+Nouveau Record
 Parfait
-Pas à vendre
-Défi des notes
-Magasin de notes
-Rupture de stock
-Gemmes × {0}
+Non disponible à la vente
+Défi des Notes
+Boutique des Notes
+Épuisé
+Étoiles × {0}
 Cubes × {0}
 Défi
-Lundi — dimanche
+Mardi — Dimanche
 Règles
-Réussissez ce niveau parfaitement pour obtenir des notes !
-Défi des notes terminé, revenez plus tard !
-• Dans cet évènement, votre mission consiste à récupérer chaque diamant et chaque couronne, venir à bout du niveau avec un seul cube, et n’oubliez pas que les reprises sont interdites ! Êtes-vous de taille à relever ce défi ?\n\`n• Les lignes de guidage sont désactivées pendant le jeu, vous ne pourrez donc compter que sur votre talent !\n\n• Une fois le niveau réussi parfaitement, n’oubliez pas de revenir à la page de l’évènement pour récupérer vos récompenses !
-Échec de la connexion à Internet, veuillez vous assurer que votre réseau est stable puis réessayez.
-Objet récupéré
-#item# a été récupéré(e) avec succès
-Voulez vous récupérer #item# ?
-Le magasin est renouvelé tous les lundis
-Le Magasin de notes a été renouvelé, jetez donc un œil aux nouveautés !
-Le Défi des notes de la semaine est maintenant disponible, venez vous frotter aux niveaux !
-Boule de bowling
-Balle de tennis
-Défi réussi : #Level#
-Poursuivre le téléchargement via les données cellulaires ?
-Avertissement sur les données cellulaires
+Terminez parfaitement ce niveau pour obtenir des notes !
+Le Défi des Notes est terminé, revenez plus tard !
+• Lors de cet événement, votre mission est de collecter chaque diamant et chaque couronne, de terminer le niveau avec un seul cube et, surtout, sans aucune résurrection ! Êtes-vous prêt à relever le défi ?\n\n• Les lignes de guidage sont désactivées pendant la partie : tout dépend de votre talent !\n\n• Une fois le niveau parfaitement terminé, n'oubliez pas de retourner sur la page de l'événement pour récupérer vos récompenses !
+Connexion à Internet impossible. Vérifiez la stabilité de votre réseau et réessayez.
+Objet Échangé
+#item# obtenu avec succès
+Voulez-vous échanger #item# ?
+La boutique est renouvelée chaque lundi
+La Boutique des Notes a été renouvelée, découvrez les nouveautés !
+Le Défi des Notes de cette semaine est disponible, venez terminer les niveaux !
+Boule de Bowling
+Balle de Tennis
+Défi Terminé : #Level#
+Continuer le téléchargement avec les données mobiles ?
+Avertissement sur les Données Mobiles
 Erreur
-Une erreur inconnue s’est produite !
-Masquer le curseur
-Lorsqu’il est stationnaire
-Pendant le jeu
+Une erreur inconnue s'est produite !
+Masquer le Curseur
+À l'Arrêt
+Pendant la Partie
 Jamais
 Officiel
 Remix
-Évènement
+Événement
 Saison
 Original
 Classique
-Créé par les fans
+Créé par les Fans
 Max Studio
 WINDER Studio
-Veuillez vous connecter à Game Center dans les Réglages système
-Barre de statut
-Compte DLRS GAS
+Veuillez vous connecter à Game Center dans les paramètres système
+Barre d'État
+DLRS GAS
 Profil
-Paramètres du compte
-Pseudo : {0}\nIdentifiant : {1}
-Fréquence de rafraîchissement
-Nombre d’images par seconde
+Paramètres du Compte
+Nom d'utilisateur : {0}\nID utilisateur : {1}
+Fréquence d'Images
+Afficher la Fréquence d'Images
 Serveur
-Prise en charge du multi-touch
+Prise en Charge du Multitouch
 Come & Get It - Selena Gomez
 Chanson
 Copié dans le presse-papiers
-Icône de l’application
-Exporter la progression du jeu
-Importer la progression du jeu
-L’arbre du néant
-Empruntez le chemin secret dans Le vide
-Le clic automatique pourrait ne pas être précis jusqu’à ce que le niveau soit téléchargé
-Mise à niveau de la base de données du jeu
-Par défaut
+Icône de l'Application
+Exporter la Progression du Jeu
+Importer la Progression du Jeu
+L'Arbre du Néant
+Emprunter le chemin secret dans Le Vide
+Le clic automatique peut être imprécis tant que le niveau n'est pas téléchargé.
+Mise à Niveau de la Base de Données du Jeu
+Par Défaut
 Vert
-Le duo
+Le Duo
 Groupe QQ
-Chaîne QQ
-Résolution de rendu
+Canal QQ
+Résolution de Rendu
 Auto
 Chapeaux
-Déséquiper
-Science-fiction
+Retirer
+Science-Fiction
 https://dl-community.github.io/Docs/#/en/legal/eula
 https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
@@ -401,162 +401,162 @@ terminé
 Bleu
 Jaune
 Classique
-Session audio interrompue
-La session audio actuelle ayant été interrompue par le système, le jeu est momentanément dans l’incapacité de continuer. Veuillez éviter tout processus ou application pouvant interrompre le son du jeu et réessayez.
-Dernière synchro. : {0}\nVersion des données du cloud : {1}
-Synchroniser maintenant
-Synchro. trop fréquente
-La synchro. a réussi
-La synchro. a échoué
-Sauvegarde dans le cloud
-Dernière synchro.
-Version des données du cloud
-Synchro. en cours…
-S’aligner sur la langue du système
+Session Audio Interrompue
+La session audio actuelle ayant été interrompue par le système, le jeu ne peut temporairement pas continuer. Évitez les applications ou processus susceptibles d'interrompre le son du jeu, puis réessayez.
+Dernière Synchronisation : {0}\nVersion des Données Cloud : {1}
+Synchroniser Maintenant
+Synchronisation trop fréquente
+Synchronisation réussie
+Échec de la synchronisation
+Sauvegarde Cloud
+Dernière Synchronisation
+Version des Données Cloud
+Synchronisation…
+Suivre la Langue du Système
 Copier
-Ouvrir un répertoire externe
-Il n’est pas actuellement possible d’ouvrir un répertoire directement. Veuillez cliquer sur le bouton pour copier le chemin d’accès ci-dessous et ouvrez-le manuellement :\n\n#DIRECTORY#
-DL RS Games Account System
+Ouvrir le Dossier Externe
+L'ouverture directe d'un dossier n'est pas prise en charge actuellement. Cliquez sur le bouton pour copier le chemin ci-dessous, puis ouvrez-le manuellement :\n\n#DIRECTORY#
+Système de Comptes DL RS Games
 E-mail…
 Mot de passe…
-Se souvenir de moi
-Connexion au compte
-Se connecter
-Créer un compte
-Mot de passe oublié
-Connexion…
-Délai de connexion expiré
+Se Souvenir de l'Utilisateur
+Connexion au Compte
+Se Connecter
+S'Inscrire
+Mot de Passe Oublié
+Connexion en cours…
+Délai de connexion dépassé
 Erreur
-E-mail ou mot de passe erroné
-Ce compte n’est pas sur la liste blanche
+E-mail ou mot de passe incorrect
+Ce compte ne figure pas sur la liste des comptes autorisés
 Ce compte doit être activé
-Application obsolète, veuillez chercher une mise à jour
-Bienvenue, {0} !
+Application obsolète, recherchez des mises à jour.
+Bienvenue, {0} !
 Connexion réussie
 Veuillez saisir votre e-mail
 Veuillez saisir votre mot de passe
-En vous connectant, vous acceptez les <b><color=#3d6ec0>Conditions d’utilisation de DLRS GAS</color></b>
-Compte récent
-Nouvelle connexion
-Voulez-vous vraiment retirer le compte #name# ?
+En vous connectant, vous acceptez les <b><color=#3d6ec0>Conditions d'Utilisation de DLRS GAS</color></b>
+Compte Récent
+Nouvelle Connexion
+Voulez-vous vraiment supprimer le compte #name# ?
 Ouverture dans un navigateur externe…
 Ce compte a été banni
-Téléchargement des sauvegardes cloud…
-Échec du téléchargement des sauvegardes cloud
-Déconnexion
-Voulez-vous vraiment vous déconnecter de #USERNAME# ?
-Bibliothèques open source
+Téléchargement des données utilisateur…
+Échec du chargement des données du joueur
+Se Déconnecter
+Voulez-vous vraiment vous déconnecter de #USERNAME# ?
+Bibliothèques Open Source
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 Statistiques
 Terminés
 Diamants
 Couronnes
 Morts
-Tentatives
-Reprises
-Nombre de réussites
-Diamants récoltés
-Couronnes récoltées
-Étoiles gagnées
-Étoiles dépensées
-Cubes d’énergie gagnés
-Cubes d’énergie utilisés
-Notes gagnées
-Notes dépensées
-Skins obtenus
-Chapeaux obtenus
-
-
-
-
+Tentatives de Niveaux
+Résurrections
+Niveaux Terminés
+Diamants Ramassés
+Couronnes Ramassées
+Étoiles Gagnées
+Étoiles Dépensées
+Cubes d'Énergie Gagnés
+Cubes d'Énergie Utilisés
+Notes Gagnées
+Notes Dépensées
+Apparences Possédées
+Chapeaux Possédés
+Anticrénelage Multisampling (#SHORT#)
+Anticrénelage Approximatif Rapide (#SHORT#)
+Anticrénelage Temporel (#SHORT#)
+Anticrénelage Morphologique des Sous-Pixels (#SHORT#)
 AMD FidelityFX™ Super Resolution (#SHORT#)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mascotte Cheetah
+Planète
+Étoile
+Aller à #LEVELNAME#
+L'utilisation de cette option peut provoquer des saccades ou un affichage incorrect pendant la partie.
+Avertissement
+Périphérique Audio
+Haut-Parleur Intégré
+Haut-Parleurs
+Aucun niveau ne correspond aux mots-clés.
+Correspondance Totale
+Correspondance Partielle
+Jouable
+Connexion par e-mail et mot de passe
+Connexion via OAuth
+Échec de l'autorisation. Veuillez réessayer.
+Désactiver
+Activer
+Si cette option est désactivée, vos statistiques seront effacées et le jeu n'enregistrera plus de données tant que vous ne l'aurez pas réactivée.
+Application obsolète, recherchez des mises à jour.
+Code de Récompense
+Saisir un code de récompense…
+Échanger
+Veuillez patienter avant d'utiliser un autre code de récompense.
+Ce code de récompense est invalide ou a déjà été utilisé.
+Les objets suivants ont été obtenus :
+Niveau : #NAME#
+Apparence : #NAME#
+Chapeau : #NAME#
+Notes × {0}
+La Tête dans les Nuages
+Conditions d'Utilisation
+Échec de la vérification de l'intégrité de l'environnement du jeu.
+Overlay Steam
+Monument Valley
+Ourson Cheetah
 Le Magicien d'Oz
-Dragon Chinois
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Le Havre Oublié
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Rafraîchit dans : {0}
+Le Dragon Chinois
+Mixeur Audio
+Mono
+Stéréo
+Surround 4.0
+Surround 5.0
+Surround 5.1
+Surround 7.1
+Sélectionner un Niveau
+Collection de Niveaux
+Acheter sur Steam
+Acheter et installer ce DLC sur la boutique Steam
+Classique
+Soumission de Niveau
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Échec du téléchargement des mises à jour. Réessayer ?
+De nouvelles mises à jour sont disponibles. Téléchargement de {0} requis. Continuer ?
+Le Refuge Oublié
+Échec de la recherche de mises à jour. Réessayer ?
+Échec du téléchargement des mises à jour. Nouvelle tentative…
+Collaboration
+Passer le Niveau
+Utiliser {0} notes pour passer ce niveau du défi ?
+Pas assez de notes. Il en faut au moins {0} pour passer.
+{0}j {1}h
+Actualisation dans : {0}
+Décoration
+La VSync est actuellement activée. Les paramètres de fréquence d'images ne prennent effet que lorsque la VSync est désactivée.\nVoulez-vous désactiver la VSync ?
+Le serveur est actuellement en maintenance. Le jeu sera indisponible pendant cette période.\n\nMotif de la Maintenance : {0}\nHeure de Fin : {1}
+Restez à l'écoute des prochaines annonces officielles.
+Votre session a expiré. Vous vous êtes peut-être connecté depuis un autre appareil.\nVeuillez vous reconnecter.
+Le serveur est actuellement en maintenance. Vous pouvez vous connecter au jeu, mais le service risque d'être instable.\n\nMotif de la Maintenance : {0}\nHeure de Fin : {1}
+Missions
+Actualisation dans : {0}
 Se connecter au jeu
-Terminez n'importe quel niveau {0} fois
-Consommez {0} cubes
-Consommez {0} étoiles
-Mourez {0} fois dans n'importe quel niveau
-Collectez {0} diamants dans n'importe quel niveau
-Collectez {0} couronnes dans n'importe quel niveau
-Revivez {0} fois dans n'importe quel niveau
-Obtenir des étoiles
-Interaction spéciale du niveau
-Ce niveau propose des interactions spéciales, qui peuvent être déclenchées via l'écran tactile ou en maintenant la touche enfoncée.
-Impossible de se connecter au réseau Steam
-
-Niveau verrouillé
+Terminer n'importe quel niveau {0} fois
+Utiliser {0} cubes
+Utiliser {0} étoiles
+Mourir {0} fois dans n'importe quel niveau
+Collecter {0} diamants dans n'importe quel niveau
+Collecter {0} couronnes dans n'importe quel niveau
+Ressusciter {0} fois dans n'importe quel niveau
+Obtenir des Étoiles
+Interaction Spéciale du Niveau
+Ce niveau comporte des interactions spéciales, activables en touchant l'écran ou en maintenant la touche enfoncée.
+Connexion au Réseau Steam Impossible
+Steam Cloud
+Niveau Verrouillé
 Fonction 1
 Fonction 2
 Fonction 3
@@ -565,26 +565,26 @@ Fonction 5
 Retour
 Annuler
 Acheter
-Niveau suivant
-Menu principal
-Commencer le niveau
-Quitter le jeu
-Niveau precedent
-Page precedente
-Page suivante
+Niveau Suivant
+Menu Principal
+Commencer le Niveau
+Quitter le Jeu
+Niveau Précédent
+Page Précédente
+Page Suivante
 Audio
-Volume principal
-Échec de l'initialisation du client Steam, veuillez relancer le jeu.
-Impossible de se connecter au client Steam. Veuillez vous assurer que le client Steam est en cours d'exécution, puis relancez le jeu.
-Le client Steam semble être obsolète, veuillez vous assurer que votre client Steam est à jour.
+Volume Principal
+Échec de l'initialisation du client Steam. Veuillez relancer le jeu.
+Impossible de se connecter au client Steam. Vérifiez qu'il est en cours d'exécution, puis relancez le jeu.
+Le client Steam semble obsolète. Assurez-vous de disposer de la dernière version.
 Erreur Steam
-La sauvegarde Steam Cloud est corrompue et ne peut pas être lue.\nCela est peut-être dû au fait que vous avez quitté le jeu pendant la sauvegarde, ce qui a entraîné l'écriture de données incomplètes dans la sauvegarde.\nLe jeu a tenté de lire la sauvegarde depuis le cache local, mais a échoué.\nVous avez la possibilité de créer une nouvelle sauvegarde et de lancer le jeu. Voulez-vous continuer ?
+La sauvegarde Steam Cloud est corrompue et ne peut pas être lue.\nCela peut être dû à une fermeture du jeu pendant la sauvegarde, entraînant l'écriture de données incomplètes.\nLe jeu a également tenté de lire la sauvegarde depuis le cache local, sans succès.\nVous pouvez choisir de démarrer avec une nouvelle sauvegarde. Voulez-vous continuer ?
 Erreur Steam Cloud
-Activer la ligne guide dans ce niveau vous fera passer en mode entraînement : tous les scores ne compteront pas pour la progression du niveau et des missions quotidiennes, aucune récompense ne pourra être obtenue et les succès ne pourront pas être obtenus. Activer ?
-Mode entraînement
-Mode entraînement
-A LIRE AVANT TOUTE UTILISATION D‘UN JEU VIDEO PAR VOUS-MEME OU PAR VOTRE ENFANT
-<b>I. – Précautions à prendre dans tous les cas pour l’utilisation d’un jeu vidéo</b>\n\nEvitez de jouer si vous êtes fatigué ou si vous manquez de sommeil. Assurez-vous que vous jouez dans une pièce bien éclairée en modérant la luminosité de votre écran. Lorsque vous utilisez un jeu vidéo susceptible d’être connecté à un écran, jouez à bonne distance de cet écran de télévision et aussi loin que le permet le cordon de raccordement. En cours d’utilisation, faites des pauses de dix à quinze minutes toutes les heures.\n\n<b>II. – Avertissement sur l’épilepsie</b>\n\nCertaines personnes sont susceptibles de faire des crises d‘épilepsie comportant, le cas échéant, des pertes de conscience à la vue, notamment, de certains types de stimulations lumineuses fortes : succession rapide d’images ou répétition de figures géométriques simples, d‘éclairs ou d’explosions. Ces personnes s‘exposent à des crises lorsqu’elles jouent à certains jeux vidéo comportant de telles stimulations, alors même qu‘elles n’ont pas d‘antécédent médical ou n’ont jamais été sujettes elles-mêmes à des crises d‘épilepsie. Si vous-même ou un membre de votre famille avez déjà présenté des symptômes liés à l’épilepsie (crise ou perte de conscience) en présence de stimulations lumineuses, consultez votre médecin avant toute utilisation.\n\nParents : veillez à ce que vos enfants respectent les précautions d‘usage ci-dessus. Tout au long de l’utilisation d‘un jeu vidéo, soyez attentifs à l’apparition éventuelle chez vos enfants des symptômes suivants : vertiges, brouissement de la vue, contraction des yeux ou des muscles, troubles de la conscience, désorientation, ou mouvements involontaires. Si vos enfants présentent un de ces symptômes, arrêtez immédiatement le jeu et consultez un médecin.
-
-Indice de Guidage
-Déverrouillage de niveau
+Le Mode Entraînement active la Ligne de Guidage.\n\nSuivez la Ligne de Guidage pour apprendre le parcours et profiter librement de tout ce que le niveau propose.\n\nPrenez le temps de trouver votre chemin —— votre record peut attendre. La progression en Mode Entraînement ne compte pas pour les scores, les missions ou les succès.\n\nActiver le Mode Entraînement ?
+Mode Entraînement
+Mode Entraînement
+AVERTISSEMENT : CRISES D'ÉPILEPSIE / PHOTOSENSIBILITÉ
+<b>LISEZ CET AVERTISSEMENT AVANT DE JOUER</b>\n\nUn très faible pourcentage de personnes peut subir des crises d'épilepsie ou des pertes de connaissance lorsqu'elles sont exposées à certains types de lumières clignotantes ou de motifs lumineux. Ces personnes, ainsi que d'autres n'ayant aucun antécédent de crises ou d'épilepsie, peuvent présenter des symptômes épileptiques ou subir des crises en jouant à des jeux vidéo.\n\nSi vous ou un membre de votre famille souffrez d'épilepsie ou avez déjà subi une crise, consultez votre médecin avant de jouer à un jeu vidéo.\n\nCESSEZ IMMÉDIATEMENT de jouer et consultez un médecin si vous ou votre enfant présentez l'un des symptômes suivants : vertiges, troubles de la vision, contractions des yeux ou des muscles, mouvements involontaires, perte de conscience, désorientation ou convulsions. Les parents doivent surveiller l'apparition de ces symptômes chez leurs enfants ou les interroger à ce sujet.\n\nPour réduire les risques de crises d'épilepsie photosensibles, prenez les précautions suivantes : éloignez-vous de l'écran, utilisez un écran plus petit, jouez dans une pièce bien éclairée et ne jouez pas si vous êtes somnolent ou fatigué.
+Classement Steam
+Ligne de Guidage
+Déblocage de Niveau

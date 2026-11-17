@@ -1,0 +1,590 @@
+Italiano
+English
+
+Dancing Line
+Lingua
+SEGUICI
+Caricamento
+Ottieni Cubi
+per un'esperienza migliore\nusa le cuffie
+Video non disponibile
+Guarda un video per sbloccarlo temporaneamente
+Sblocco Gratuito
+Sblocca
+Nuovo livello sbloccato:
+Ottieni {0} Gratis
+Acquista {0} Cubi
+Cubi Infiniti
+Ricarica tra: {0}
+Cubi ricaricati. Torniamo a ballare.
+tocca per iniziare
+OK
+Sì
+No
+Attivo
+Disattivo
+Annulla
+In pausa
+Qualità
+Molto Bassa
+Bassa
+Media
+Alta
+Ultra
+Massima
+Antialiasing
+Audio
+VSync
+Sincronizzazione
+Regolazione Automatica
+Ritardo Musica
+Feedback Tattile
+Conferma Uscita
+Vuoi uscire dal gioco?
+Informazioni
+Versione
+Progettisti dei Livelli
+Team di Localizzazione
+Bilibili
+YouTube
+Contratto di Licenza con l'Utente Finale
+Informativa sulla Privacy
+Discord
+Modalità Schermo
+Schermo Intero Esclusivo
+Finestra a Schermo Intero
+In Finestra
+Verticale
+Orizzontale
+Risoluzione
+Continuare dall'ultimo checkpoint?
+Manca #X%# per #Nuovo Record#
+Manca #X%# per il #Prossimo Checkpoint#
+Manca #X%# per #Completare#
+Gratis
+Continua
+Cerca
+Elimina Dati
+Dati ripristinati. Riavvia il gioco.
+I tuoi dati di gioco verranno eliminati al termine di questa procedura. Procedi con cautela.
+Tieni presente che, una volta completata questa procedura, i tuoi dati di Dancing Line (incluse le informazioni personali e qualsiasi altro dato generato dall'utilizzo dei prodotti Dancing Line) saranno eliminati definitivamente e non potranno essere recuperati. Valuta attentamente prima di procedere.
+Elimina
+Eliminazione dati…\nI salvataggi nel cloud e in locale verranno cancellati
+Accessibilità
+Riesci a superare X% in Dancing Line? Vieni a giocare con me!
+Visualizza Log di Debug
+Ripristina Predefiniti
+Note Legali e Privacy
+Prima di usare l'app, devi accettare il Contratto di Licenza con l'Utente Finale e l'Informativa sulla Privacy.
+Accetta e continua
+Esci dal gioco
+Dimensione Buffer I/O
+Latenza Uscita Audio
+Latenza Input Tattile
+VERSIONE BETA ##UID# NON DIVULGARE
+Effetti Giroscopio
+Game Center
+Riscatta
+Stelle Gratuite Giornaliere
+Disponibile tra {0}
+Equipaggiato
+Equipaggia
+Rianimazioni Gratuite: {0}/{1}
+Vuoi spendere {0} stelle per sbloccare temporaneamente la linea guida?
+Impossibile riscattare le stelle gratuite giornaliere: verifica dell'ora non riuscita.
+Impostazioni Avanzate
+Questa impostazione si applica solo al livello attuale e consente regolazioni individuali per ogni livello in base al ritardo musicale globale.\n\n<b>Ritardo Effettivo = Ritardo Livello + Ritardo Globale</b>
+Ricompense
+Ricompense: {0}
+Raccolti {0} diamanti nel livello: {1}
+Raccolte {0} corone nel livello: {1}
+Livello completato: {0}
+Segui il ritmo e tocca un punto qualsiasi per cambiare direzione.
+Questo gioco è pensato per essere giocato con la musica attiva.
+Non scorrere con il dito. Non funziona.
+Non serve toccare mentre sei in volo.
+Non toccare quando entri nella piramide a 45°
+Puoi cambiare l'aspetto del personaggio toccando il cubo fluttuante.
+Raccogli tutti i diamanti e le corone per completare perfettamente i livelli.
+Obiettivi
+[Nascosto] 
+Completato: #x#
+#x# - Completato
+#x# - 10 Diamanti
+#x# - 3 Corone
+Completa #x#
+Raccogli tutti i diamanti in #x#
+Raccogli tutte le corone in #x#
+Il Segreto di Dragonia
+Trova almeno un percorso nascosto in  Le Storie di Dragonia 
+È Paimon?
+Che ne dici di esplorare più tardi la zona davanti a noi?
+L.A.B.I.R.I.N.T.O.
+Trova il percorso nascosto in  Il Labirinto 
+Pacifismo
+Segui il percorso pacifico in  La Guerra 
+Festa del 2° Anniversario
+Buon Natale……\ne buon 2° anniversario
+Maestro Senza Gemme
+Incontra un evaso dal dungeon in  L'Avventura 
+Cielo Stellato
+La distesa stellata promette piacevoli sorprese
+Associazione Tasti
+In attesa di input…\nPremi il tasto che vuoi usare sulla tastiera o sul controller
+Indietro
+Metti in Pausa
+Controllo Personaggio
+Linea Guida
+Impostazioni
+Aspetto
+Sinistra
+Destra
+Conferma
+Ricomincia
+Obiettivi
+Backspace
+Invio
+Invio
+ESC
+Spazio
+WIN Sinistro
+WIN Destro
+CMD Sinistro
+CMD Destro
+▲
+▼
+◀
+▶
+Maiusc Sinistro
+Maiusc Destro
+Option Sinistro
+Option Destro
+CTRL Sinistro
+CTRL Destro
+Option Sinistro
+Option Destro
+Menu
+Completato
+Checkpoint
+Buon Natale
+Raccogli
+Tocca
+Senza di te non sarebbe possibile.\nSiamo una cosa sola.
+Perché…
+Va tutto sempre peggio…
+Fine del Mondo
+Segui la tua stella! -Dante
+Una volta che avrai volato, camminerai con gli occhi rivolti al cielo \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Non sei solo.
+Non rimpiangere nulla quando si tratta\ndi amore e cibo.
+Normale
+Cuffie
+Carta
+Zeus
+Caos
+Montagne
+Pennello Cinese
+Strega Magica
+Serpeggiante
+Domino
+Modulo
+Luce
+Palla di Neve
+Freccia
+Balena
+Nebbia Nevosa
+Stalagmite
+Clown
+Nuvola Volante
+Serpente
+Gelatina
+Mantello Magico
+Scheletro Esplosivo
+Palloncino
+Palla di Fuoco
+Piramide
+Palla
+Palla Ciano
+Palla Nera
+Palla Semplice
+Pallone da Basket
+Potere Stellare
+Robot
+Livello Senza Nome
+L'Inizio
+Il Tempo
+Il Pianoforte
+La Spiaggia
+L'Inverno
+La Savana
+Il West
+San Valentino
+Halloween
+Il Vicolo
+Il Deserto
+La Tempesta
+La Tempesta
+Le Montagne
+Le Pianure
+Le Pianure
+Il Labirinto
+La Terra
+Il Paradiso dei Fuochi d'Artificio
+La Vigilia di Natale
+L'Autunno
+Il Cristallo
+Il Terzo Anniversario
+Il Quinto Anniversario
+Il Caos
+La Cattedrale
+La Cattedrale
+Il Racconto del Marinaio
+La Leggenda dell'Assassino
+Il Giardino Cinese
+La Corsa
+Prossimamente
+La Fine - Theo5970
+Il Romanticismo
+La Primavera
+Il Capodanno Cinese
+Il Samurai
+Le Storie di Dragonia
+Il Brutto Anatroccolo
+Il Videogioco
+L'Esodo
+L'Oceano
+Il Segno del Toro
+Sogno del Cielo
+Il Basket
+La Festa di Natale
+Il Viaggio in India
+La Guerra
+Il Mistero
+Il Calcio
+L'Evoluzione dell'Hip Hop
+La Pasqua
+La Ninnananna di Primavera
+Il Rompicapo di Halloween
+Il Parco Divertimenti
+Faded - Alan Walker
+Faded (Versione Tutorial)
+Despacito
+Alone - Alan Walker
+Giardino Zen
+Il Samurai HD
+Il Ranch
+Faded - Alan Walker
+Tutto su di Noi
+L'Evoluzione (P13)
+Il Paese delle Meraviglie dei Dolci
+Lo Spazio
+La Scoperta - Chronos
+L'Avventura
+L'Apocalisse
+Il Viaggio
+La Matematica
+La Pioggerellina
+Il Vagabondaggio
+Il Vuoto
+Il Ricordo
+Tempesta di Rabbia
+Nessuno
+Cappello di Natale
+Elicottero di Bambù
+Cappello da Mago
+Sombrero
+Bombetta
+Cappello da Cagnolino
+Folletto
+Topo
+Download del nuovo livello in corso
+Rimani connesso a Internet
+HUD degli Input
+Download del livello non riuscito
+Svuota Cache
+I dati memorizzati nella cache, come i livelli e la musica scaricati, verranno eliminati. Continuare?
+La versione attuale #Current# è obsoleta. Per giocare devi aggiornare almeno alla versione #Latest#.
+Impossibile caricare le configurazioni pubblicitarie
+Riprova
+Ricerca Aggiornamenti…
+Aggiornamento Configurazioni
+Download Aggiornamenti
+Il viaggio non è finito…
+Ne arriveranno altri…
+Grazie di tutto, giocatori di Dancing Line!
+Aggiornamento Necessario
+Regolazione Sincronizzazione Globale
+Regolazione Sincronizzazione Livello
+Correzione Automatica
+Condividi
+Copia Testo
+Salva Immagine
+Copia Immagine
+Scegli cosa cancellare
+Cancella Progressi di Gioco
+Nuovo Record
+Perfetto
+Non in vendita
+Sfida delle Note
+Negozio delle Note
+Esaurito
+Stelle × {0}
+Cubi × {0}
+Sfida
+Martedì — Domenica
+Regole
+Completa perfettamente questo livello per ottenere note!
+La Sfida delle Note è terminata, riprova più tardi!
+• In questo evento, la tua missione è raccogliere ogni diamante e corona e superare il livello con un solo cubo. E ricorda: non sono consentite rianimazioni! Accetti la sfida?\n\n• Le linee guida sono disattivate durante la partita: dovrai affidarti soltanto alle tue abilità!\n\n• Dopo aver completato perfettamente il livello, non dimenticare di tornare alla pagina dell'evento per riscattare le ricompense!
+Connessione a Internet non riuscita. Assicurati che la rete sia stabile e riprova.
+Oggetto Riscattato
+#item# riscattato con successo
+Vuoi riscattare #item#?
+Il negozio si aggiorna ogni lunedì
+Il Negozio delle Note è stato aggiornato: scopri le novità!
+La Sfida delle Note di questa settimana è disponibile: vieni a superare i livelli!
+Palla da Bowling
+Palla da Tennis
+Sfida Completata: #Level#
+Continuare il download usando i dati mobili?
+Avviso Dati Mobili
+Errore
+Si è verificato un errore sconosciuto!
+Nascondi Cursore
+Quando Inattivo
+Durante il Gioco
+Mai
+Ufficiale
+Remix
+Evento
+Stagione
+Originale
+Classico
+Creato dai Fan
+Max Studio
+WINDER Studio
+Accedi a Game Center nelle Impostazioni di Sistema
+Barra di Stato
+DLRS GAS
+Profilo
+Impostazioni Account
+Nome utente: {0}\nID utente: {1}
+Frequenza Fotogrammi
+Mostra Frequenza Fotogrammi
+Server
+Supporto Multi-touch
+Come & Get It - Selena Gomez
+Brano
+Copiato negli appunti
+Icona App
+Esporta Progressi di Gioco
+Importa Progressi di Gioco
+L'Albero del Vuoto
+Entra nel percorso segreto in Il Vuoto
+I clic automatici potrebbero non essere precisi finché il livello non è stato scaricato.
+Aggiornamento Database di Gioco
+Predefinito
+Verde
+Il Duetto
+Gruppo QQ
+Canale QQ
+Risoluzione Rendering
+Auto
+Cappelli
+Rimuovi
+Fantascienza
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+completato
+Blu
+Giallo
+Classico
+Sessione Audio Interrotta
+Poiché la sessione audio è stata interrotta dal sistema, il gioco non può temporaneamente proseguire. Cerca di evitare app o processi che potrebbero interferire con l'audio del gioco e riprova.
+Ultima sincronizzazione: {0}\nVersione dati cloud: {1}
+Sincronizza Ora
+Sincronizzazioni troppo frequenti
+Sincronizzazione riuscita
+Sincronizzazione non riuscita
+Salvataggio Cloud
+Ultima Sincronizzazione
+Versione Dati Cloud
+Sincronizzazione…
+Segui Lingua di Sistema
+Copia
+Apri Cartella Esterna
+L'apertura diretta di una cartella non è attualmente supportata. Premi il pulsante per copiare il percorso seguente e aprirlo manualmente:\n\n#DIRECTORY#
+Sistema Account DL RS Games
+Email…
+Password…
+Ricorda Utente
+Accesso Account
+Accedi
+Registrati
+Password Dimenticata
+Accesso in corso…
+Tempo di accesso scaduto
+Errore
+Email o password errate
+Questo account non è nella lista autorizzata
+Questo account deve essere attivato
+App obsoleta, controlla gli aggiornamenti.
+Benvenuto, {0}!
+Accesso riuscito
+Inserisci l'email
+Inserisci la password
+Accedendo, accetti i <b><color=#3d6ec0>Termini di Servizio DLRS GAS</color></b>
+Account Recente
+Nuovo Accesso
+Vuoi davvero rimuovere l'account #name#?
+Apertura in un browser esterno…
+Questo account è stato bannato
+Download dati utente…
+Impossibile caricare i dati del giocatore
+Esci dall'Account
+Vuoi davvero disconnetterti da  #USERNAME#?
+Librerie Open Source
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistiche
+Completato
+Diamanti
+Corone
+Morti
+Tentativi Livello
+Rianimazioni
+Volte Completato
+Diamanti Raccolti
+Corone Raccolte
+Stelle Guadagnate
+Stelle Spese
+Cubi Energia Guadagnati
+Cubi Energia Usati
+Note Guadagnate
+Note Spese
+Aspetti Posseduti
+Cappelli Posseduti
+Antialiasing Multicampionamento (#SHORT#)
+Antialiasing Approssimativo Rapido (#SHORT#)
+Antialiasing Temporale (#SHORT#)
+Antialiasing Morfologico Subpixel (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Pianeta
+Stella
+Vai a #LEVELNAME#
+Questa opzione può causare scatti o una visualizzazione errata delle immagini durante il gioco.
+Avviso
+Dispositivo Audio
+Altoparlante Integrato
+Altoparlanti
+Nessun livello corrisponde alle parole chiave.
+Corrispondenza con Tutti
+Corrispondenza con Qualsiasi
+Giocabile
+Accedi con email e password
+Accedi tramite OAuth
+Autorizzazione non riuscita. Riprova.
+Disabilita
+Abilita
+Se disabilitata, le statistiche verranno cancellate e il gioco non registrerà più dati finché non riattiverai la funzione.
+App obsoleta, controlla gli aggiornamenti.
+Codice Riscatto
+Inserisci codice riscatto…
+Riscatta
+Riscatto in attesa: riprova più tardi.
+Il codice riscatto non è valido oppure è già stato utilizzato.
+I seguenti oggetti sono stati riscattati con successo:
+Livello: #NAME#
+Aspetto: #NAME#
+Cappello: #NAME#
+Note × {0}
+Con la Testa fra le Nuvole
+Termini di Servizio
+Verifica dell'integrità dell'ambiente di gioco non riuscita.
+Overlay di Steam
+Monument Valley
+Orsetto Cheetah
+Il Mago di Oz
+Il Drago Cinese
+Mixer Audio
+Mono
+Stereo
+Surround 4.0
+Surround 5.0
+Surround 5.1
+Surround 7.1
+Seleziona Livello
+Raccolta Livelli
+Acquista su Steam
+Acquista e installa questo DLC nel Negozio di Steam
+Classico
+Invio Livello
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Download aggiornamenti non riuscito. Riprovare?
+Nuovi aggiornamenti disponibili: download di {0} necessario. Continuare?
+Il Rifugio Dimenticato
+Impossibile verificare gli aggiornamenti. Riprovare?
+Download aggiornamenti non riuscito. Nuovo tentativo…
+Collaborazione
+Salta Livello
+Usare {0} note per saltare questo livello della sfida?
+Note insufficienti. Ne servono almeno {0} per saltare.
+{0}g {1}h
+Si aggiorna tra: {0}
+Decorazione
+VSync è attualmente attivo. Le impostazioni della frequenza fotogrammi hanno effetto solo quando VSync è disattivato.\nVuoi disattivare VSync?
+Il server è attualmente in manutenzione. Il gioco non sarà disponibile durante questo periodo.\n\nMotivo della manutenzione: {0}\nOra di fine: {1}
+Resta in attesa di ulteriori annunci ufficiali.
+La sessione del tuo account è scaduta. Potresti aver effettuato l'accesso da un altro dispositivo.\nAccedi nuovamente.
+Il server è attualmente in manutenzione. Puoi accedere al gioco durante la manutenzione, ma il servizio potrebbe essere instabile.\n\nMotivo della manutenzione: {0}\nOra di fine: {1}
+Missioni
+Si aggiorna tra: {0}
+Accedi al gioco
+Completa un livello qualsiasi {0} volte
+Consuma {0} cubi
+Consuma {0} stelle
+Muori {0} volte in un livello qualsiasi
+Raccogli {0} diamanti in un livello qualsiasi
+Raccogli {0} corone in un livello qualsiasi
+Rianimati {0} volte in un livello qualsiasi
+Ottieni Stelle
+Interazione Speciale del Livello
+Questo livello presenta interazioni speciali, attivabili tramite lo schermo tattile o tenendo premuto il tasto.
+Impossibile connettersi alla Rete Steam
+Steam Cloud
+Livello Bloccato
+Funzione 1
+Funzione 2
+Funzione 3
+Funzione 4
+Funzione 5
+Indietro
+Annulla
+Acquista
+Livello Successivo
+Menu Principale
+Inizia Livello
+Esci dal Gioco
+Livello Precedente
+Pagina Precedente
+Pagina Successiva
+Audio
+Volume Principale
+Impossibile inizializzare il client Steam. Riavvia il gioco.
+Impossibile connettersi al client Steam. Assicurati che sia in esecuzione e riavvia il gioco.
+Il client Steam sembra obsoleto. Assicurati che sia aggiornato.
+Errore Steam
+Il salvataggio di Steam Cloud è danneggiato e non può essere letto.\nPotrebbe essere successo perché hai chiuso il gioco durante il salvataggio, causando la scrittura di dati incompleti.\nIl gioco ha provato a leggere il salvataggio dalla cache locale, ma senza successo.\nPuoi scegliere di avviare il gioco con un nuovo salvataggio. Vuoi continuare?
+Errore Steam Cloud
+La Modalità Allenamento attiverà la Linea Guida.\n\nSegui la Linea Guida per imparare il percorso e goderti liberamente tutto ciò che il livello ha da offrire.\n\nPrenditi il tempo necessario per trovare la strada —— il tuo record può aspettare. I progressi nella Modalità Allenamento non verranno conteggiati per punteggi, missioni o obiettivi.\n\nAttivare la Modalità Allenamento?
+Modalità Allenamento
+Modalità Allenamento
+ATTENZIONE: CRISI EPILETTICHE DA FOTOSENSIBILITÀ
+<b>LEGGI QUESTO AVVISO PRIMA DI GIOCARE</b>\n\nUna percentuale molto ridotta di persone può avere crisi epilettiche o perdite di coscienza se esposta a determinati tipi di luci lampeggianti o schemi luminosi. Queste persone, e persino chi non ha mai avuto crisi epilettiche o una diagnosi di epilessia, possono manifestare sintomi o crisi durante l'uso dei videogiochi.\n\nSe tu o un tuo familiare soffrite di epilessia o avete avuto crisi di qualsiasi tipo, consultate un medico prima di giocare a qualsiasi videogioco.\n\nINTERROMPI IMMEDIATAMENTE il gioco e consulta un medico se tu o tuo figlio manifestate uno dei seguenti sintomi: vertigini, alterazioni della vista, contrazioni degli occhi o dei muscoli, movimenti involontari, perdita di coscienza, disorientamento o convulsioni. I genitori devono osservare i propri figli e chiedere loro se presentano questi sintomi.\n\nPuoi ridurre il rischio di crisi epilettiche fotosensibili adottando le seguenti precauzioni: siediti più lontano dallo schermo, usa uno schermo più piccolo, gioca in una stanza ben illuminata e non giocare quando hai sonno o sei stanco.
+Classifica Steam
+Linea Guida
+Sblocco Livello

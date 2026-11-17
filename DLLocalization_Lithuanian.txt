@@ -1,0 +1,590 @@
+Lietuvių
+English
+lt
+Dancing Line
+Kalba
+SEKITE MUS
+Įkeliama
+Gauti kubų
+kad žaisti būtų maloniau\nnaudokite ausines
+Vaizdo įrašas nepasiekiamas
+Žiūrėkite vaizdo įrašą, kad laikinai atrakintumėte
+Nemokamas atrakinimas
+Atrakinti
+Atrakintas naujas lygis:
+Gauti {0} nemokamai
+Pirkti {0} kubų
+Neriboti kubai
+Papildymas po: {0}
+Kubai papildyti. Šokime dar kartą.
+bakstelėkite, kad pradėtumėte
+GERAI
+Taip
+Ne
+Įjungta
+Išjungta
+Atšaukti
+Pristabdyta
+Kokybė
+Labai žema
+Žema
+Vidutinė
+Aukšta
+Ypač aukšta
+Didžiausia
+Kraštų glodinimas
+Garsas
+Vertikalioji sinchronizacija
+Sinchronizavimas
+Automatinis reguliavimas
+Muzikos delsa
+Lietimo atsakas
+Patvirtinti išėjimą
+Ar norite išeiti iš žaidimo?
+Apie
+Versija
+Lygių kūrėjai
+Lokalizavimo komanda
+Bilibili
+YouTube
+Galutinio naudotojo licencijos sutartis
+Privatumo politika
+Discord
+Rodymo režimas
+Išskirtinis viso ekrano režimas
+Viso ekrano langas
+Lango režimas
+Vertikaliai
+Horizontaliai
+Raiška
+Tęsti nuo paskutinio kontrolinio taško?
+Iki #Naujo rekordo# dar trūksta #X%#
+Iki #Kito kontrolinio taško# dar trūksta #X%#
+Iki #Užbaigimo# dar trūksta #X%#
+Nemokamai
+Tęsti
+Ieškoti
+Ištrinti duomenis
+Duomenys iš naujo nustatyti. Paleiskite žaidimą iš naujo.
+Užbaigus šį procesą, jūsų žaidimo duomenys bus ištrinti. Būkite atsargūs.
+Atminkite, kad užbaigus šį procesą jūsų „Dancing Line“ duomenys (įskaitant asmens informaciją ir visus kitus naudojantis „Dancing Line“ produktais sukurtus duomenis) bus visam laikui ištrinti ir jų atkurti nebus galima. Prieš tęsdami gerai pagalvokite.
+Ištrinti
+Duomenys trinami…\nBus išvalyti debesies ir vietiniai išsaugojimai
+Prieinamumas
+Ar gali pasiekti X % žaidime „Dancing Line“? Žaisk kartu su manimi!
+Peržiūrėti derinimo žurnalus
+Atkurti numatytuosius nustatymus
+Teisinė informacija ir privatumas
+Prieš naudodamiesi programa turite sutikti su mūsų galutinio naudotojo licencijos sutartimi ir privatumo politika.
+Sutikti ir tęsti
+Išeiti iš žaidimo
+Įvesties / išvesties buferio dydis
+Garso išvesties delsa
+Lietimo įvesties delsa
+BETA VERSIJA ##UID# NEPLATINTI
+Giroskopo efektai
+Game Center
+Atsiimti
+Kasdienės nemokamos žvaigždės
+Galima atsiimti po {0}
+Uždėta
+Uždėti
+Nemokami atgaivinimai: {0}/{1}
+Ar norite išleisti {0} žvaigždžių, kad laikinai atrakintumėte pagalbinę liniją?
+Nepavyko atsiimti kasdienių nemokamų žvaigždžių: nepavyko patikrinti laiko.
+Išplėstiniai nustatymai
+Šis nustatymas taikomas tik dabartiniam lygiui ir leidžia kiekvienam lygiui atskirai reguliuoti delsą pagal bendrą muzikos delsą.\n\n<b>Faktinė delsa = Lygio delsa + Bendroji delsa</b>
+Apdovanojimai
+Apdovanojimai: {0}
+Surinkta {0} deimantų lygyje: {1}
+Surinkta {0} karūnų lygyje: {1}
+Užbaigtas lygis: {0}
+Sekite ritmą ir bakstelėkite bet kur, kad pakeistumėte kryptį.
+Šis žaidimas skirtas žaisti įjungus muziką.
+Nebandykite braukti. Tai neveikia.
+Skrendant bakstelėti nebūtina.
+Nebakstelėkite įskrisdami į piramidę 45° kampu.
+Veikėjo išvaizdą galite pakeisti spustelėję plūduriuojantį kubą.
+Surinkite visus deimantus ir karūnas, kad lygius įveiktumėte tobulai.
+Pasiekimai
+[Paslėpta] 
+Užbaigta: #x#
+#x# – Užbaigta
+#x# – 10 deimantų
+#x# – 3 karūnos
+Užbaikite #x#
+Surinkite visus deimantus lygyje #x#
+Surinkite visas karūnas lygyje #x#
+Drakonijos paslaptis
+Raskite bent vieną slaptą kelią „Drakonijos pasakose“
+Ar tai Paimonas?
+Gal priešakyje esančią vietovę patyrinėsime vėliau?
+L.A.B.I.R.I.N.T.A.S.
+Raskite slaptą kelią „Labirinte“
+Pacifizmas
+Pasirinkite taikų siužetą „Kare“
+Antrojo jubiliejaus vakarėlis
+Linksmų Kalėdų……\nir antrojo jubiliejaus proga
+Meistras be brangakmenių
+Sutikite iš požemio pabėgusį kalinį „Nuotykyje“
+Žvaigždėtas dangus
+Žvaigždėtas skliautas žada malonių staigmenų
+Klavišų priskyrimas
+Laukiama įvesties…\nPaspauskite norimą klaviatūros arba valdiklio mygtuką
+Atgal
+Pristabdyti žaidimą
+Veikėjo valdymas
+Pagalbinė linija
+Nustatymai
+Išvaizda
+Kairėn
+Dešinėn
+Patvirtinti
+Paleisti iš naujo
+Pasiekimai
+Backspace
+Enter
+Enter
+ESC
+Tarpas
+Kairysis WIN
+Dešinysis WIN
+Kairysis CMD
+Dešinysis CMD
+▲
+▼
+◀
+▶
+Kairysis Shift
+Dešinysis Shift
+Kairysis Option
+Dešinysis Option
+Kairysis CTRL
+Dešinysis CTRL
+Kairysis Option
+Dešinysis Option
+Meniu
+Užbaigta
+Kontrolinis taškas
+Linksmų Kalėdų
+Surinkti
+Bakstelėti
+Be jūsų tai nebūtų įmanoma.\nMes esame vieningi.
+Kodėl…
+Viskas tik blogėja…
+Pasaulio pabaiga
+Sek savo žvaigždę! – Dantė
+Kartą pakilęs skristi, vaikščiosi žvelgdamas į dangų. \n\t\t\t\t\t\t\t\t Leonardas da Vinčis
+Tu ne vienas.
+Nesigailėk nieko, kai kalbama\napie meilę ir maistą.
+Įprastas
+Ausinės
+Popierius
+Dzeusas
+Chaosas
+Kalnai
+Kiniškas teptukas
+Stebuklingoji ragana
+Šliaužimas
+Domino
+Modulis
+Šviesa
+Sniego gniūžtė
+Strėlė
+Banginis
+Sniego rūkas
+Stalagmitas
+Klounas
+Skraidantis debesis
+Gyvatė
+Želė
+Stebuklingasis apsiaustas
+Skeletas su bomba
+Balionas
+Ugnies kamuolys
+Piramidė
+Kamuolys
+Žydras kamuolys
+Juodas kamuolys
+Paprastas kamuolys
+Krepšinio kamuolys
+Žvaigždžių galia
+Robotas
+Nepavadintas lygis
+Pradžia
+Laikas
+Pianinas
+Paplūdimys
+Žiema
+Savana
+Vakarai
+Valentino diena
+Helovinas
+Skersgatvis
+Dykuma
+Audra
+Audra
+Kalnai
+Lygumos
+Lygumos
+Labirintas
+Žemė
+Fejerverkų rojus
+Kūčių vakaras
+Ruduo
+Kristalas
+Trečiasis jubiliejus
+Penktasis jubiliejus
+Chaosas
+Katedra
+Katedra
+Jūreivio pasakojimas
+Žudiko legenda
+Kiniškas sodas
+Lenktynės
+Netrukus
+Pabaiga – Theo5970
+Romantika
+Pavasaris
+Kinų Naujieji metai
+Samurajus
+Drakonijos pasakos
+Bjaurusis ančiukas
+Vaizdo žaidimas
+Išėjimas
+Vandenynas
+Jaučio zodiako ženklas
+Dangaus svajonė
+Krepšinis
+Kalėdų vakarėlis
+Kelionė po Indiją
+Karas
+Paslaptis
+Futbolas
+Hiphopo evoliucija
+Velykos
+Pavasario lopšinė
+Helovino galvosūkis
+Pramogų parkas
+Faded – Alan Walker
+Faded (mokomoji versija)
+Despacito
+Alone – Alan Walker
+Dzeno sodas
+Samurajus HD
+Ranča
+Faded – Alan Walker
+Viskas apie mus
+Evoliucija (P13)
+Desertų stebuklų šalis
+Kosmosas
+Atradimas – Chronos
+Nuotykis
+Apokalipsė
+Kelionė
+Matematika
+Dulksna
+Klajonės
+Tuštuma
+Prisiminimas
+Pykčio audra
+Nėra
+Kalėdinė kepurė
+Bambukinis sraigtasparnis
+Burtininko skrybėlė
+Meksikietiška skrybėlė
+Katiliukas
+Mielo šuniuko kepurė
+Dvaselė
+Žiurkė
+Atsisiunčiamas naujas lygis
+Palaikykite interneto ryšį
+Įvesties indikatorius
+Nepavyko atsisiųsti lygio
+Išvalyti podėlį
+Ar norite išvalyti podėlį, įskaitant atsisiųstus lygių ir muzikos duomenis?
+Dabartinė versija #Current# pasenusi. Norėdami žaisti, turite atnaujinti bent iki #Latest#.
+Nepavyko įkelti reklamų konfigūracijos
+Bandyti dar kartą
+Ieškoma naujinimų…
+Atnaujinama konfigūracija
+Atsisiunčiami naujinimai
+Kelionė dar nesibaigė…
+Dar laukia daugiau…
+Ačiū visiems „Dancing Line“ žaidėjams!
+Būtina atnaujinti
+Bendrasis sinchronizavimo reguliavimas
+Lygio sinchronizavimo reguliavimas
+Automatinis taisymas
+Bendrinti
+Kopijuoti tekstą
+Išsaugoti paveikslėlį
+Kopijuoti paveikslėlį
+Pasirinkite, ką išvalyti
+Ištrinti žaidimo pažangą
+Naujas rekordas
+Tobula
+Neparduodama
+Natų iššūkis
+Natų parduotuvė
+Išparduota
+Žvaigždės × {0}
+Kubai × {0}
+Iššūkis
+Antradienis — sekmadienis
+Taisyklės
+Tobulai įveikite šį lygį ir gaukite natų!
+Natų iššūkis baigėsi. Bandykite kitą kartą!
+• Šiame renginyje jūsų užduotis – surinkti visus deimantus ir karūnas bei įveikti lygį su vienu kubu. Ir atminkite: atgaivinti negalima! Ar priimate iššūkį?\n\n• Žaidimo metu pagalbinės linijos išjungtos, tad viskas priklauso nuo jūsų įgūdžių!\n\n• Tobulai įveikę lygį, nepamirškite grįžti į renginio puslapį ir atsiimti apdovanojimų!
+Nepavyko prisijungti prie interneto. Patikrinkite ryšio stabilumą ir bandykite dar kartą.
+Daiktas iškeistas
+Sėkmingai iškeista: #item#
+Ar norite iškeisti #item#?
+Parduotuvė atnaujinama kiekvieną pirmadienį
+Natų parduotuvė atnaujinta. Peržiūrėkite naujienas!
+Šios savaitės natų iššūkis jau pasiekiamas. Ateikite įveikti lygius!
+Boulingo kamuolys
+Teniso kamuoliukas
+Iššūkis įveiktas: #Level#
+Tęsti atsisiuntimą naudojant mobiliuosius duomenis?
+Įspėjimas dėl mobiliųjų duomenų
+Klaida
+Įvyko nežinoma klaida!
+Slėpti žymeklį
+Kai nejuda
+Žaidžiant
+Niekada
+Oficialus
+Remiksas
+Renginys
+Sezonas
+Originalus
+Ankstesnis
+Gerbėjų sukurtas
+Max Studio
+WINDER Studio
+Prisijunkite prie „Game Center“ sistemos nustatymuose
+Būsenos juosta
+DLRS GAS
+Profilis
+Paskyros nustatymai
+Naudotojo vardas: {0}\nNaudotojo ID: {1}
+Kadrų dažnis
+Rodyti kadrų dažnį
+Serveris
+Kelių prisilietimų palaikymas
+Come & Get It – Selena Gomez
+Daina
+Nukopijuota į iškarpinę
+Programos piktograma
+Eksportuoti žaidimo pažangą
+Importuoti žaidimo pažangą
+Tuštumos medis
+Įeikite į slaptą kelią „Tuštumoje“
+Automatinis bakstelėjimas gali būti netikslus, kol lygis neatsisiųstas.
+Atnaujinama žaidimo duomenų bazė
+Numatytasis
+Žalia
+Duetas
+QQ grupė
+QQ kanalas
+Atvaizdavimo raiška
+Automatinis
+Skrybėlės
+Nusiimti
+Mokslinė fantastika
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+užbaigta
+Mėlyna
+Geltona
+Klasikinė
+Garso seansas nutrauktas
+Sistemai nutraukus dabartinį garso seansą, žaidimas laikinai negali tęstis. Stenkitės nenaudoti programų ar procesų, galinčių trukdyti žaidimo garsui, ir bandykite dar kartą.
+Paskutinį kartą sinchronizuota: {0}\nDebesies duomenų versija: {1}
+Sinchronizuoti dabar
+Sinchronizuojama per dažnai
+Sinchronizavimas sėkmingas
+Sinchronizuoti nepavyko
+Išsaugojimas debesyje
+Paskutinį kartą sinchronizuota
+Debesies duomenų versija
+Sinchronizuojama…
+Naudoti sistemos kalbą
+Kopijuoti
+Atidaryti išorinį katalogą
+Tiesioginis katalogo atidarymas šiuo metu nepalaikomas. Spustelėkite mygtuką, kad nukopijuotumėte toliau nurodytą katalogą, ir atidarykite jį rankiniu būdu:\n\n#DIRECTORY#
+DL RS Games paskyrų sistema
+El. paštas…
+Slaptažodis…
+Prisiminti naudotoją
+Prisijungimas prie paskyros
+Prisijungti
+Registruotis
+Pamiršote slaptažodį?
+Jungiamasi…
+Baigėsi prisijungimo laukimo laikas
+Klaida
+Neteisingas el. paštas arba slaptažodis
+Šios paskyros nėra leidžiamų paskyrų sąraše
+Šią paskyrą reikia aktyvinti
+Programa pasenusi. Patikrinkite, ar yra naujinimų.
+Sveiki, {0}!
+Sėkmingai prisijungta
+Įveskite el. paštą
+Įveskite slaptažodį
+Prisijungdami sutinkate su <b><color=#3d6ec0>DLRS GAS paslaugų teikimo sąlygomis</color></b>
+Neseniai naudota paskyra
+Naujas prisijungimas
+Ar tikrai norite pašalinti paskyrą #name#?
+Atidaroma išorinėje naršyklėje…
+Ši paskyra užblokuota
+Atsisiunčiami naudotojo duomenys…
+Nepavyko įkelti žaidėjo duomenų
+Atsijungti
+Ar tikrai norite atsijungti nuo #USERNAME#?
+Atvirojo kodo bibliotekos
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistika
+Užbaigta
+Deimantai
+Karūnos
+Mirtys
+Bandymų įveikti lygius skaičius
+Atgaivinimai
+Įveikimų skaičius
+Surinkti deimantai
+Surinktos karūnos
+Uždirbtos žvaigždės
+Išleistos žvaigždės
+Gauti energijos kubai
+Panaudoti energijos kubai
+Gautos natos
+Išleistos natos
+Turimos išvaizdos
+Turimos skrybėlės
+Daugiapakopis kraštų glodinimas (#SHORT#)
+Greitasis apytikslis kraštų glodinimas (#SHORT#)
+Laikinis kraštų glodinimas (#SHORT#)
+Popikselinis morfologinis kraštų glodinimas (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planeta
+Žvaigždė
+Eiti į #LEVELNAME#
+Naudojant šią parinktį žaidimas gali strigti arba vaizdas gali būti rodomas netinkamai.
+Įspėjimas
+Garso įrenginys
+Integruotas garsiakalbis
+Garsiakalbiai
+Nepavyko rasti lygių, atitinkančių raktažodžius.
+Atitikti visus
+Atitikti bet kurį
+Galima žaisti
+Prisijungti el. paštu ir slaptažodžiu
+Prisijungti naudojant OAuth
+Autorizavimas nepavyko. Bandykite dar kartą.
+Išjungti
+Įjungti
+Išjungus jūsų statistika bus išvalyta, o žaidimas nebefiksuos duomenų, kol funkcija vėl nebus įjungta.
+Programa pasenusi. Patikrinkite, ar yra naujinimų.
+Išpirkimo kodas
+Įveskite išpirkimo kodą…
+Iškeisti
+Kodą bus galima panaudoti vėliau. Bandykite dar kartą.
+Išpirkimo kodas neteisingas arba jau panaudotas.
+Sėkmingai gauti šie daiktai:
+Lygis: #NAME#
+Išvaizda: #NAME#
+Skrybėlė: #NAME#
+Natos × {0}
+Galva debesyse
+Paslaugų teikimo sąlygos
+Nepavyko patikrinti žaidimo aplinkos vientisumo.
+Steam perdanga
+Paminklų slėnis
+Meškiukas Cheetah
+Ozo šalies burtininkas
+Kinų drakonas
+Garso maišytuvas
+Monofoninis
+Stereofoninis
+4.0 erdvinis garsas
+5.0 erdvinis garsas
+5.1 erdvinis garsas
+7.1 erdvinis garsas
+Pasirinkti lygį
+Lygių rinkinys
+Pirkti per Steam
+Pirkite ir įdiekite šį DLC „Steam“ parduotuvėje
+Ankstesnis
+Lygio pateikimas
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Nepavyko atsisiųsti naujinimų. Bandyti dar kartą?
+Yra naujų naujinimų. Reikia atsisiųsti {0}. Tęsti?
+Užmirštas prieglobstis
+Nepavyko patikrinti naujinimų. Bandyti dar kartą?
+Nepavyko atsisiųsti naujinimų. Bandoma dar kartą…
+Bendradarbiavimas
+Praleisti lygį
+Ar panaudoti {0} natų šiam iššūkio lygiui praleisti?
+Nepakanka natų. Norint praleisti, reikia bent {0}.
+{0}d {1}h
+Atnaujinama po: {0}
+Dekoracija
+Šiuo metu įjungta vertikalioji sinchronizacija. Kadrų dažnio nustatymai veikia tik ją išjungus.\nAr norite išjungti vertikaliąją sinchronizaciją?
+Šiuo metu vykdoma serverio priežiūra. Šiuo laikotarpiu žaisti nebus galima.\n\nPriežiūros priežastis: {0}\nPabaigos laikas: {1}
+Sekite tolesnius oficialius pranešimus.
+Jūsų paskyros seansas baigėsi. Galbūt prisijungėte iš kito įrenginio.\nPrisijunkite iš naujo.
+Šiuo metu vykdoma serverio priežiūra. Jos metu galite prisijungti prie žaidimo, tačiau paslauga gali veikti nestabiliai.\n\nPriežiūros priežastis: {0}\nPabaigos laikas: {1}
+Užduotys
+Atnaujinama po: {0}
+Prisijunkite prie žaidimo
+Įveikite bet kurį lygį {0} kartų
+Panaudokite {0} kubų
+Panaudokite {0} žvaigždžių
+Žūkite {0} kartų bet kuriame lygyje
+Surinkite {0} deimantų bet kuriame lygyje
+Surinkite {0} karūnų bet kuriame lygyje
+Atgimkite {0} kartų bet kuriame lygyje
+Gauti žvaigždžių
+Specialioji lygio sąveika
+Šiame lygyje yra specialių sąveikų, kurias galima suaktyvinti palietus ekraną arba laikant nuspaustą klavišą.
+Nepavyksta prisijungti prie „Steam“ tinklo
+Steam Cloud
+Užrakintas lygis
+1 funkcija
+2 funkcija
+3 funkcija
+4 funkcija
+5 funkcija
+Atgal
+Atšaukti
+Pirkti
+Kitas lygis
+Pagrindinis meniu
+Pradėti lygį
+Išeiti iš žaidimo
+Ankstesnis lygis
+Ankstesnis puslapis
+Kitas puslapis
+Garsas
+Pagrindinis garsumas
+Nepavyko inicijuoti „Steam“ kliento. Paleiskite žaidimą iš naujo.
+Nepavyksta prisijungti prie „Steam“ kliento. Įsitikinkite, kad jis veikia, ir paleiskite žaidimą iš naujo.
+Atrodo, kad „Steam“ klientas pasenęs. Įsitikinkite, kad naudojate naujausią versiją.
+Steam klaida
+„Steam“ debesyje išsaugoti duomenys sugadinti ir jų perskaityti nepavyksta.\nTaip galėjo nutikti, jei išėjote iš žaidimo išsaugojimo metu ir duomenys buvo įrašyti nevisi.\nŽaidimas bandė perskaityti vietinio podėlio išsaugojimą, bet ir tai nepavyko.\nGalite pradėti žaidimą su nauju išsaugojimu. Ar norite tęsti?
+Steam debesies klaida
+Praktikos režimu įjungiama pagalbinė linija.\n\nSekite pagalbinę liniją, kad išmoktumėte maršrutą ir galėtumėte laisvai mėgautis viskuo, ką siūlo lygis.\n\nNeskubėkite ieškodami kelio pirmyn – rekordas gali palaukti. Praktikos režimu pasiekta pažanga nebus įskaitoma į rezultatus, užduotis ar pasiekimus.\n\nĮjungti praktikos režimą?
+Praktikos režimas
+Praktikos režimas
+ĮSPĖJIMAS: JAUTRUMAS ŠVIESAI / EPILEPSIJOS PRIEPUOLIAI
+<b>PRIEŠ ŽAISDAMI PERSKAITYKITE ŠĮ PRANEŠIMĄ</b>\n\nLabai nedidelei daliai žmonių tam tikri mirksinčios šviesos ar šviesos raštų tipai gali sukelti epilepsijos priepuolius arba sąmonės netekimą. Šiems žmonėms, taip pat ir tiems, kurie anksčiau nepatyrė priepuolių ar nesirgo epilepsija, žaidžiant vaizdo žaidimus gali pasireikšti epilepsijos simptomų ar priepuolių.\n\nJei jūs arba kuris nors jūsų artimasis serga epilepsija ar yra patyręs bet kokių priepuolių, prieš žaisdami bet kokį vaizdo žaidimą pasitarkite su gydytoju.\n\nNEDELSDAMI NUSTOKITE žaisti ir kreipkitės į gydytoją, jei jums arba jūsų vaikui pasireiškia bent vienas iš šių simptomų: galvos svaigimas, regėjimo pokyčiai, akių ar raumenų trūkčiojimas, nevalingi judesiai, sąmonės sutrikimas, orientacijos praradimas arba traukuliai. Tėvai turėtų stebėti vaikus arba jų paklausti apie šiuos simptomus.\n\nJautrumo šviesai sukeltų epilepsijos priepuolių riziką galite sumažinti laikydamiesi šių atsargumo priemonių: sėdėkite toliau nuo ekrano, naudokite mažesnį ekraną, žaiskite gerai apšviestoje patalpoje ir nežaiskite, kai esate mieguisti ar pavargę.
+Steam lyderių lentelė
+Pagalbinė linija
+Lygio atrakinimas

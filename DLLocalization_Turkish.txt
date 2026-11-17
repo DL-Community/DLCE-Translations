@@ -1,0 +1,590 @@
+Türkçe
+English
+tr
+Dancing Line
+Dil
+BİZİ BEĞENİN
+Yükleniyor
+Küp Al
+en iyi deneyim için\nkulaklık kullanın
+Video kullanılamıyor
+Geçici olarak açmak için video izleyin
+Ücretsiz Aç
+Kilidi Aç
+Yeni bölüm açıldı:
+{0} Ücretsiz Al
+{0} Küp Satın Al
+Sınırsız Küp
+Yenilenmesine kalan süre: {0}
+Küpler yenilendi. Yeniden dans edelim!
+başlamak için dokun
+Tamam
+Evet
+Hayır
+Açık
+Kapalı
+İptal
+Duraklatıldı
+Kalite
+Çok Düşük
+Düşük
+Orta
+Yüksek
+Ultra
+Maksimum
+Kenar Yumuşatma
+Ses
+VSync
+Senkronizasyon
+Otomatik Ayarlama
+Müzik Gecikmesi
+Dokunma Geri Bildirimi
+Çıkışı Onayla
+Oyundan çıkmak istiyor musunuz?
+Hakkında
+Sürüm
+Bölüm Tasarımcıları
+Yerelleştirme Ekibi
+Bilibili
+YouTube
+Son Kullanıcı Lisans Sözleşmesi
+Gizlilik Politikası
+Discord
+Görüntüleme Modu
+Özel Tam Ekran
+Pencereli Tam Ekran
+Pencereli
+Dikey
+Yatay
+Çözünürlük
+Son kontrol noktasından devam edilsin mi?
+#Yeni Rekor# için #X%# daha gerekli
+#Sonraki Kontrol Noktası# için #X%# daha gerekli
+#Tamamlama# için #X%# daha gerekli
+Ücretsiz
+Devam Et
+Ara
+Verileri Sil
+Veriler sıfırlandı, lütfen oyunu yeniden başlatın.
+Bu işlem tamamlandığında oyun verileriniz silinecektir. Lütfen dikkatli olun.
+Bu işlemi tamamladığınızda Dancing Line verilerinizin (kişisel bilgileriniz ve Dancing Line ürünlerini kullanırken oluşturulan diğer tüm veriler dâhil) kalıcı olarak silineceğini ve kurtarılamayacağını unutmayın. Lütfen dikkatli karar verin.
+Sil
+Veriler siliniyor…\nBulut ve yerel kayıtlarınız temizlenecek
+Erişilebilirlik
+Dancing Line'da %X'i geçebilir misin? Gel, benimle oyna!
+Hata Ayıklama Günlüklerini Görüntüle
+Varsayılana Sıfırla
+Yasal Bilgiler ve Gizlilik
+Uygulamayı kullanmadan önce Son Kullanıcı Lisans Sözleşmemizi ve Gizlilik Politikamızı kabul etmelisiniz.
+Kabul Et ve Devam Et
+Oyundan Çık
+G/Ç Arabellek Boyutu
+Ses Çıkışı Gecikmesi
+Dokunma Girişi Gecikmesi
+BETA SÜRÜMÜ ##UID# PAYLAŞMAYIN
+Jiroskop Efektleri
+Game Center
+Al
+Günlük Ücretsiz Yıldızlar
+{0} sonra alınabilir
+Kuşanıldı
+Kuşan
+Ücretsiz Dirilmeler: {0}/{1}
+Yardımcı çizgiyi geçici olarak açmak için {0} yıldız harcamak istiyor musunuz?
+Günlük ücretsiz yıldızlar alınamadı; zaman doğrulaması başarısız oldu.
+Gelişmiş Ayarlar
+Bu ayar yalnızca mevcut bölüm için geçerlidir ve genel müzik gecikmesine göre her bölümün ayrı ayrı ayarlanmasını sağlar.\n\n<b>Gerçek Gecikme = Bölüm Gecikmesi + Genel Gecikme</b>
+Ödüller
+Ödüller: {0}
+{1} bölümünde {0} elmas toplandı
+{1} bölümünde {0} taç toplandı
+Tamamlanan bölüm: {0}
+Ritmi takip edin ve yön değiştirmek için herhangi bir yere dokunun.
+Bu oyun müzik açıkken oynanmak üzere tasarlanmıştır.
+Kaydırmayın. İşe yaramaz.
+Uçarken dokunmanız gerekmez.
+Piramitlere 45° açıyla girerken dokunmayın
+Havada duran küpe dokunarak karakterin görünümünü değiştirebilirsiniz.
+Bölümleri kusursuz tamamlamak için tüm elmasları ve taçları toplayın.
+Başarımlar
+[Gizli] 
+Tamamlandı: #x#
+#x# - Tamamlandı
+#x# - 10 Elmas
+#x# - 3 Taç
+#x# bölümünü tamamla
+#x# bölümündeki tüm elmasları topla
+#x# bölümündeki tüm taçları topla
+Dragonia'nın Sırrı
+Dragonia Hikâyeleri bölümünde en az bir gizli yol bul
+Bu Paimon mu?
+Önümüzdeki bölgeyi daha sonra keşfetsek nasıl olur?
+L.A.B.İ.R.E.N.T.
+Labirent bölümündeki gizli yolu bul
+Pasifizm
+Savaş bölümündeki barış hikâyesine gir
+2. Yıl Dönümü Partisi
+Mutlu Noeller……\nve 2. yıl dönümümüz kutlu olsun
+Mücevhersiz Usta
+Macera bölümünde zindandan kaçan biriyle karşılaş
+Yıldızlı Gökyüzü
+Yıldızlarla dolu gökyüzü hoş sürprizler vaat ediyor
+Tuş Atamaları
+Giriş bekleniyor…\nKlavyede veya kontrolcüde kullanmak istediğiniz tuşa basın
+Geri
+Oyunu Duraklat
+Karakter Kontrolü
+Yardımcı Çizgi
+Ayarlar
+Görünüm
+Sol
+Sağ
+Onayla
+Yeniden Başlat
+Başarımlar
+Geri Silme
+Enter
+Enter
+ESC
+Boşluk
+Sol WIN
+Sağ WIN
+Sol CMD
+Sağ CMD
+▲
+▼
+◀
+▶
+Sol Shift
+Sağ Shift
+Sol Option
+Sağ Option
+Sol CTRL
+Sağ CTRL
+Sol Option
+Sağ Option
+Menü
+Tamamlandı
+Kontrol Noktası
+Mutlu Noeller
+Topla
+Dokun
+Bu, siz olmadan mümkün olmazdı.\nBiz bir bütünüz.
+Neden…
+Her şey daha da kötüye gidiyor…
+Dünyanın Sonu
+Kendi yıldızını takip et! -Dante
+Bir kez uçtunuz mu, hep gökyüzüne bakarak yürürsünüz. \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Yalnız değilsin.
+Aşk ve yemek söz konusu olduğunda\nhiçbir şeyden pişman olma.
+Normal
+Kulaklık
+Kâğıt
+Zeus
+Kaos
+Dağlar
+Çin Fırçası
+Sihirli Cadı
+Süzülme
+Dominolar
+Modül
+Işık
+Kartopu
+Ok
+Balina
+Kar Sisi
+Dikit
+Palyaço
+Uçan Bulut
+Yılan
+Jöle
+Sihirli Pelerin
+Bomba İskelet
+Balon
+Ateş Topu
+Piramit
+Top
+Camgöbeği Top
+Siyah Top
+Düz Top
+Basketbol Topu
+Yıldız Gücü
+Robot
+Adsız Bölüm
+Başlangıç
+Zaman
+Piyano
+Sahil
+Kış
+Savan
+Batı
+Sevgililer Günü
+Cadılar Bayramı
+Ara Sokak
+Çöl
+Fırtına
+Fırtına
+Dağlar
+Ovalar
+Ovalar
+Labirent
+Dünya
+Havai Fişek Cenneti
+Noel Arifesi
+Sonbahar
+Kristal
+Üçüncü Yıl Dönümü
+Beşinci Yıl Dönümü
+Kaos
+Katedral
+Katedral
+Denizcinin Hikâyesi
+Suikastçının Efsanesi
+Çin Bahçesi
+Yarış
+Çok Yakında
+Son - Theo5970
+Romantizm
+İlkbahar
+Çin Yeni Yılı
+Samuray
+Dragonia Hikâyeleri
+Çirkin Ördek Yavrusu
+Video Oyunu
+Göç
+Okyanus
+Boğa Burcu
+Gökyüzü Rüyası
+Basketbol
+Noel Partisi
+Hindistan Yolculuğu
+Savaş
+Gizem
+Futbol
+Hip Hop'un Evrimi
+Paskalya
+İlkbahar Ninnisi
+Cadılar Bayramı Bulmacası
+Lunapark
+Faded - Alan Walker
+Faded (Eğitim Sürümü)
+Despacito
+Alone - Alan Walker
+Zen Bahçesi
+Samuray HD
+Çiftlik
+Faded - Alan Walker
+All About Us
+Evrim (P13)
+Tatlılar Diyarı
+Uzay
+Keşif - Chronos
+Macera
+Kıyamet
+Yolculuk
+Matematik
+Çiseleme
+Gezinme
+Boşluk
+Anı
+Öfke Fırtınası
+Yok
+Noel Şapkası
+Bambu Helikopter
+Büyücü Şapkası
+Meksika Şapkası
+Melon Şapka
+Sevimli Köpek Şapkası
+Peri
+Fare
+Yeni bölüm indiriliyor
+Lütfen internet bağlantınızı kesmeyin
+Giriş Göstergesi
+Bölüm indirilemedi
+Önbelleği Temizle
+İndirilen bölüm ve müzik verileri gibi önbellekler temizlenecek. Devam edilsin mi?
+Mevcut #Current# sürümü güncel değil. Oynamak için en az #Latest# sürümüne güncellemeniz gerekiyor.
+Reklam yapılandırmaları yüklenemedi
+Tekrar Dene
+Güncellemeler denetleniyor…
+Yapılandırmalar güncelleniyor
+Güncellemeler indiriliyor
+Yolculuk henüz bitmedi…
+Daha fazlası geliyor…
+Tüm Dancing Line oyuncularına teşekkürler!
+Güncelleme Gerekli
+Genel Senkronizasyon Ayarı
+Bölüm Senkronizasyon Ayarı
+Otomatik Düzeltme
+Paylaş
+Metni Kopyala
+Görseli Kaydet
+Görseli Kopyala
+Nelerin temizleneceğini seçin
+Oyun İlerlemesini Temizle
+Yeni Rekor
+Kusursuz
+Satılık Değil
+Nota Mücadelesi
+Nota Mağazası
+Tükendi
+Yıldız × {0}
+Küp × {0}
+Mücadele
+Salı — Pazar
+Kurallar
+Nota kazanmak için bu bölümü kusursuz tamamlayın!
+Nota Mücadelesi sona erdi. Bir dahaki sefere katılın!
+• Bu etkinlikte göreviniz tüm elmasları ve taçları toplamak, bölümü tek bir küple tamamlamak ve dirilme kullanmamaktır! Meydan okumaya hazır mısınız?\n\n• Oyun sırasında yardımcı çizgiler kapalıdır; tamamen becerilerinize güvenmelisiniz!\n\n• Bölümü kusursuz tamamladıktan sonra ödüllerinizi almak için etkinlik sayfasına dönmeyi unutmayın!
+İnternete bağlanılamadı. Lütfen bağlantınızın kararlı olduğundan emin olup tekrar deneyin.
+Öğe Alındı
+#item# başarıyla alındı
+#item# öğesini almak istiyor musunuz?
+Mağaza her pazartesi yenilenir
+Nota Mağazası yenilendi. Yeniliklere göz atın!
+Bu haftanın Nota Mücadelesi başladı. Gelin, bölümleri tamamlayın!
+Bowling Topu
+Tenis Topu
+Mücadele Tamamlandı: #Level#
+Mobil veriyle indirmeye devam edilsin mi?
+Mobil Veri Uyarısı
+Hata
+Bilinmeyen bir hata oluştu!
+İmleci Gizle
+Hareketsizken
+Oynarken
+Asla
+Resmî
+Remiks
+Etkinlik
+Sezon
+Orijinal
+Klasik
+Hayran Yapımı
+Max Studio
+WINDER Studio
+Lütfen Sistem Ayarları'ndan Game Center'a giriş yapın
+Durum Çubuğu
+DLRS GAS
+Profil
+Hesap Ayarları
+Kullanıcı Adı: {0}\nKullanıcı Kimliği: {1}
+Kare Hızı
+Kare Hızını Göster
+Sunucu
+Çoklu Dokunma Desteği
+Come & Get It - Selena Gomez
+Şarkı
+Panoya kopyalandı
+Uygulama Simgesi
+Oyun İlerlemesini Dışa Aktar
+Oyun İlerlemesini İçe Aktar
+Boşluk Ağacı
+Boşluk bölümündeki gizli yola gir
+Bölüm indirilene kadar otomatik dokunma doğru çalışmayabilir.
+Oyun Veritabanı Yükseltiliyor
+Varsayılan
+Yeşil
+Düet
+QQ Grubu
+QQ Kanalı
+İşleme Çözünürlüğü
+Otomatik
+Şapkalar
+Çıkar
+Bilim Kurgu
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+tamamlandı
+Mavi
+Sarı
+Klasik
+Ses Oturumu Kesintiye Uğradı
+Sistem ses oturumunu kestiği için oyun geçici olarak devam edemiyor. Lütfen oyun sesini kesintiye uğratabilecek uygulamalardan veya işlemlerden kaçının ve tekrar deneyin.
+Son Eşitleme: {0}\nBulut Verisi Sürümü: {1}
+Şimdi Eşitle
+Çok sık eşitleme yapılıyor
+Eşitleme başarılı
+Eşitleme başarısız
+Bulut Kaydı
+Son Eşitleme
+Bulut Verisi Sürümü
+Eşitleniyor…
+Sistem Dilini Kullan
+Kopyala
+Harici Dizini Aç
+Dizin doğrudan açılamıyor. Aşağıdaki dizini kopyalamak için düğmeye tıklayın ve dizini elle açın:\n\n#DIRECTORY#
+DL RS Games Hesap Sistemi
+E-posta…
+Şifre…
+Kullanıcıyı Hatırla
+Hesaba Giriş
+Giriş Yap
+Kaydol
+Şifremi Unuttum
+Giriş yapılıyor…
+Giriş zaman aşımına uğradı
+Hata
+E-posta veya şifre yanlış
+Bu hesap izin verilenler listesinde değil
+Bu hesabın etkinleştirilmesi gerekiyor
+Uygulama güncel değil. Lütfen güncellemeleri kontrol edin.
+Hoş geldiniz, {0}!
+Giriş başarılı
+Lütfen e-posta adresinizi girin
+Lütfen şifrenizi girin
+Giriş yaparak <b><color=#3d6ec0>DLRS GAS Hizmet Şartları</color></b>'nı kabul etmiş olursunuz
+Son Kullanılan Hesap
+Yeni Giriş
+#name# hesabını kaldırmak istediğinizden emin misiniz?
+Harici tarayıcıda açılıyor…
+Bu hesap yasaklandı
+Kullanıcı verileri indiriliyor…
+Oyuncu verileri yüklenemedi
+Çıkış Yap
+#USERNAME# hesabından çıkış yapmak istediğinizden emin misiniz?
+Açık Kaynak Kütüphaneleri
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+İstatistikler
+Tamamlandı
+Elmaslar
+Taçlar
+Ölümler
+Bölüm Denemeleri
+Dirilmeler
+Tamamlama Sayısı
+Toplanan Elmaslar
+Toplanan Taçlar
+Kazanılan Yıldızlar
+Harcanan Yıldızlar
+Kazanılan Enerji Küpleri
+Kullanılan Enerji Küpleri
+Kazanılan Notalar
+Harcanan Notalar
+Sahip Olunan Görünümler
+Sahip Olunan Şapkalar
+Çoklu Örneklemeli AA (#SHORT#)
+Hızlı Yaklaşık AA (#SHORT#)
+Zamansal AA (#SHORT#)
+Alt Piksel Morfolojik AA (#SHORT#)
+AMD FidelityFX™ Süper Çözünürlük (#SHORT#)
+Gezegen
+Yıldız
+#LEVELNAME# bölümüne git
+Bu seçeneğin kullanılması oyun sırasında takılmalara veya görüntü bozulmalarına neden olabilir.
+Uyarı
+Ses Aygıtı
+Dahili Hoparlör
+Hoparlörler
+Anahtar kelimelerle eşleşen bölüm bulunamadı.
+Tümünü Eşleştir
+Herhangi Birini Eşleştir
+Oynanabilir
+E-posta ve şifreyle giriş yap
+OAuth ile giriş yap
+Yetkilendirme başarısız. Lütfen tekrar deneyin.
+Devre Dışı Bırak
+Etkinleştir
+Devre dışı bırakıldığında istatistikleriniz silinir ve yeniden etkinleştirilene kadar oyun veri kaydetmez.
+Uygulama güncel değil. Lütfen güncellemeleri kontrol edin.
+Hediye Kodu
+Hediye kodunu girin…
+Kodu Kullan
+Kod kullanımı için bekleme süresi devam ediyor. Lütfen daha sonra tekrar deneyin.
+Hediye kodu geçersiz veya daha önce kullanılmış.
+Aşağıdaki öğeler başarıyla alındı:
+Bölüm: #NAME#
+Görünüm: #NAME#
+Şapka: #NAME#
+Nota × {0}
+Bulutların Üzerinde
+Hizmet Şartları
+Oyun ortamının bütünlüğü doğrulanamadı.
+Steam Arayüzü
+Monument Valley
+Cheetah Ayıcığı
+Oz Büyücüsü
+Çin Ejderhası
+Ses Mikseri
+Mono
+Stereo
+4.0 Çevresel Ses
+5.0 Çevresel Ses
+5.1 Çevresel Ses
+7.1 Çevresel Ses
+Bölüm Seç
+Bölüm Koleksiyonu
+Steam'den Satın Al
+Bu DLC'yi Steam Mağazası'ndan satın alıp yükleyin
+Miras
+Bölüm Gönderimi
+{0}sn
+{0}dk {1}sn
+{0}sa {1}dk {3}sn
+{0}sa {1}dk
+Güncellemeler indirilemedi. Tekrar denensin mi?
+Yeni güncellemeler mevcut, {0} indirilmesi gerekiyor. Devam edilsin mi?
+Unutulmuş Sığınak
+Güncellemeler denetlenemedi. Tekrar denensin mi?
+Güncellemeler indirilemedi. Yeniden deneniyor…
+İş Birliği
+Bölümü Atla
+Bu mücadele bölümünü atlamak için {0} nota kullanılsın mı?
+Yeterli nota yok. Atlamak için en az {0} nota gerekli.
+{0}g {1}sa
+Yenilenmesine kalan süre: {0}
+Süsleme
+VSync şu anda etkin. Kare hızı ayarları yalnızca VSync devre dışıyken geçerlidir.\nVSync devre dışı bırakılsın mı?
+Sunucu şu anda bakımda. Bu süre boyunca oyun oynanamayacak.\n\nBakım Nedeni: {0}\nBitiş Saati: {1}
+Diğer resmî duyurular için bizi takip edin.
+Hesap oturumunuzun süresi doldu. Başka bir cihazdan giriş yapmış olabilirsiniz.\nLütfen tekrar giriş yapın.
+Sunucu şu anda bakımda. Bakım sırasında oyuna giriş yapabilirsiniz ancak oyun hizmeti kararsız olabilir.\n\nBakım Nedeni: {0}\nBitiş Saati: {1}
+Görevler
+Yenilenmesine kalan süre: {0}
+Oyuna giriş yap
+Herhangi bir bölümü {0} kez tamamla
+{0} küp harca
+{0} yıldız harca
+Herhangi bir bölümde {0} kez öl
+Herhangi bir bölümde {0} elmas topla
+Herhangi bir bölümde {0} taç topla
+Herhangi bir bölümde {0} kez diril
+Yıldız Al
+Bölüme Özel Etkileşim
+Bu bölümde dokunmatik ekranla veya tuşu basılı tutarak etkinleştirilebilen özel etkileşimler bulunur.
+Steam Ağı'na bağlanılamıyor
+Steam Bulutu
+Kilitli Bölüm
+İşlev 1
+İşlev 2
+İşlev 3
+İşlev 4
+İşlev 5
+Geri
+İptal
+Satın Al
+Sonraki Bölüm
+Ana Menü
+Bölümü Başlat
+Oyundan Çık
+Önceki Bölüm
+Önceki Sayfa
+Sonraki Sayfa
+Ses
+Ana Ses Düzeyi
+Steam istemcisi başlatılamadı. Lütfen oyunu yeniden açın.
+Steam istemcisine bağlanılamıyor. Steam istemcisinin çalıştığından emin olun ve oyunu yeniden başlatın.
+Steam istemcisi güncel görünmüyor. Lütfen Steam istemcisini güncelleyin.
+Steam Hatası
+Steam bulut kaydı bozulmuş ve okunamıyor.\nBunun nedeni, kayıt sırasında oyundan çıkmanız ve kayıt verilerinin eksik yazılması olabilir.\nOyun, kaydı yerel önbellekten okumayı denedi ancak başarısız oldu.\nYeni bir kayıtla oyuna başlamayı seçebilirsiniz. Devam etmek istiyor musunuz?
+Steam Bulut Hatası
+Alıştırma Modu, Yardımcı Çizgi'yi etkinleştirir.\n\nRotayı öğrenmek ve bölümün sunduğu her şeyin tadını özgürce çıkarmak için Yardımcı Çizgi'yi takip edin.\n\nİlerlemek için acele etmeyin; rekorunuz bekleyebilir. Alıştırma Modu'ndaki ilerleme puanlara, görevlere veya başarımlara sayılmaz.\n\nAlıştırma Modu etkinleştirilsin mi?
+Alıştırma Modu
+Alıştırma Modu
+UYARI: IŞIĞA DUYARLILIK / EPİLEPTİK NÖBETLER
+<b>OYUNU OYNAMADAN ÖNCE BU UYARIYI OKUYUN</b>\n\nİnsanların çok küçük bir bölümünde belirli yanıp sönen ışıklar veya ışık desenleri epileptik nöbetlere ya da bilinç kaybına yol açabilir. Daha önce nöbet veya epilepsi öyküsü olmayan kişilerde bile video oyunu oynarken epileptik belirtiler veya nöbetler görülebilir.\n\nSizde veya yakınlarınızda epilepsi varsa ya da herhangi bir tür nöbet geçirilmişse video oyunu oynamadan önce doktorunuza danışın.\n\nSizde veya çocuğunuzda şu belirtilerden biri görülürse oyunu DERHÂL BIRAKIN ve doktora başvurun: baş dönmesi, görme değişiklikleri, göz veya kas seğirmesi, istemsiz hareketler, bilinç kaybı, yönelim bozukluğu veya kasılmalar. Ebeveynler çocuklarında bu belirtileri gözlemlemeli veya çocuklarına bunları yaşayıp yaşamadıklarını sormalıdır.\n\nIşığa duyarlı epileptik nöbet riskini azaltmak için ekrandan daha uzakta oturun, daha küçük bir ekran kullanın, iyi aydınlatılmış bir odada oynayın ve uykulu veya yorgunken oynamayın.
+Steam Liderlik Tablosu
+Yardımcı Çizgi
+Bölüm Kilidini Aç

@@ -1,215 +1,215 @@
 Polski
 English
 
-
+Dancing Line
 Język
 POLUB NAS
-ŁADOWANIE
+Ładowanie
 Zdobądź kostki
-Zalecamy korzystanie ze słuchawek
+dla najlepszych wrażeń\nużywaj słuchawek
 Film niedostępny
-Aby tymczasowo odblokować, obejrzyj film
+Obejrzyj film, aby tymczasowo odblokować
+Darmowe odblokowanie
 Odblokuj
-NA STAŁE
 Odblokowano nowy poziom:
 Zdobądź {0} za darmo
-Kup kostki: {0}
-Nieskończona energia
+Kup {0} kostek
+Nieskończone kostki
 Odnowienie za: {0}
-Kostki uzupełnione. Zatańczmy ponownie.
+Kostki zostały odnowione. Zatańczmy ponownie.
 dotknij, aby rozpocząć
-
+OK
 Tak
 Nie
 Wł.
 Wył.
 Anuluj
-PAUZA
-JAKOŚĆ
-NAJNIŻSZA
-NISKA
-ŚREDNIA
-WYSOKA
-ULTRA
-ULTRA＋
-ANTYALIASING
-DŹWIĘK
-V-SYNC
-SYNCRHONIZACJA
-AUTOREGULACJA
-OPÓŹNIENIE MUZYKI
-POKAŻ DOTYK
-Potwierdź wyjście
-Czy na pewno chcesz wyjść z gry?
-O grze
+Pauza
+Jakość
+Bardzo niska
+Niska
+Średnia
+Wysoka
+Ultra
+Maksymalna
+Wygładzanie krawędzi
+Dźwięk
+VSync
+Synchronizacja
+Automatyczne dostosowanie
+Opóźnienie muzyki
+Informacja zwrotna dotyku
+Potwierdzenie wyjścia
+Czy chcesz wyjść z gry?
+Informacje
 Wersja
-Twórcy poziomów
-Ekipa tłumaczy
-
-
-Umowa Licencyjna Użytkownika Końcowego
+Projektanci poziomów
+Zespół lokalizacyjny
+Bilibili
+YouTube
+Umowa licencyjna użytkownika końcowego
 Polityka prywatności
-Oficjalny serwer Discord
-
-
-PEŁNY EKRAN
-OKNO
-ORIENTACJA PIONOWA
-ORIENTACJA POZIOMA
-ROZDZIELCZOŚĆ
-Kontynuować od ostatniego checkpointa?
-Jeszcze #X%# do #Nowego Najlepszego Wyniku#
-Jeszcze #X%# do #Następnego Checkpointa#
-Jeszcze #X%# do #Ukończenia#
-ZA DARMO
+Discord
+Tryb wyświetlania
+Tryb pełnoekranowy na wyłączność
+Okno bez ramek
+Okno
+Pionowo
+Poziomo
+Rozdzielczość
+Kontynuować od ostatniego punktu kontrolnego?
+Brakuje #X%# do #Nowego Rekordu#
+Brakuje #X%# do #Następnego Punktu Kontrolnego#
+Brakuje #X%# do #Ukończenia#
+Za darmo
 Kontynuuj
 Szukaj
 Usuń dane
-
-Po zakończeniu tego procesu dane gry zostaną usunięte.
-Pamiętaj, że po zakończeniu tego procesu, twoje dane Dancing Line (w tym wszelkie dane osobowe oraz inne dane powstałe w wyniku korzystania z produktów Dancing Line, zwane dalej „danymi Dancing Line”) zostaną trwale usunięte i nie będzie można ich odzyskać. Podejmij swoją decyzję ostrożnie.
-USUŃ
-Usuwanie danych...\nZapisy znajdujące się na urządzeniu i w chmurze zostaną usunięte.
+Dane zostały zresetowane. Uruchom grę ponownie.
+Po zakończeniu tego procesu dane gry zostaną usunięte. Zachowaj ostrożność.
+Pamiętaj, że po zakończeniu tego procesu Twoje dane Dancing Line (w tym dane osobowe oraz wszelkie inne dane powstałe podczas korzystania z produktów Dancing Line) zostaną trwale usunięte i nie będzie można ich odzyskać. Przed kontynuowaniem dokładnie przemyśl swoją decyzję.
+Usuń
+Usuwanie danych…\nZapisy w chmurze i na urządzeniu zostaną wyczyszczone
 Ułatwienia dostępu
-Czy jesteś w stanie pokonać X% w Dancing Line? Zagraj ze mną!
-Eksportuj logi
+Pokonasz X% w DancingLine? Zagraj ze mną!
+Wyświetl dzienniki debugowania
 Przywróć domyślne
-Kwestie prawne i ochrona prywatności
-Przed rozpoczęciem korzystania z aplikacji wymagane jest wyrażenie zgody na naszą Umowę Licencyjną Użytkownika Końcowego i Politykę Prywatności.
-Wyrażam zgodę
-Nie wyrażam zgody
-Rozmiar bufora CPS
+Prawo i prywatność
+Przed rozpoczęciem korzystania z aplikacji musisz zaakceptować Umowę licencyjną użytkownika końcowego i Politykę prywatności.
+Zaakceptuj i kontynuuj
+Wyjdź z gry
+Rozmiar bufora wejścia/wyjścia
 Opóźnienie wyjścia audio
-Opóźnienie rejestracji dotyku
-
-Żyroskop
-
-Zbierz
-Darmowe Dzienne Klejnoty
-Zbierz za {0}
-Wybrana
-Wybierz
-Darmowe wznowienia: {0}/{1}
-Czy chcesz wydać {0} klejnotów, aby odblkować linię pomocniczą w trakcie tej gry?
-Nie można zebrać darmowych dziennych klejnotów, weryfikacja czasu nie powiodła się.
-
-
+Opóźnienie wejścia dotykowego
+WERSJA BETA ##UID# NIE UDOSTĘPNIAĆ
+Efekty żyroskopowe
+Game Center
+Odbierz
+Codzienne darmowe gwiazdki
+Dostępne za {0}
+Wyposażono
+Załóż
+Darmowe wskrzeszenia: {0}/{1}
+Czy chcesz wydać {0} gwiazdek, aby tymczasowo odblokować linię pomocniczą?
+Nie udało się odebrać codziennych darmowych gwiazdek: weryfikacja czasu nie powiodła się.
+Ustawienia zaawansowane
+To ustawienie dotyczy tylko bieżącego poziomu i umożliwia osobną regulację każdego poziomu względem globalnego opóźnienia muzyki.\n\n<b>Rzeczywiste opóźnienie = Opóźnienie poziomu + Opóźnienie globalne</b>
 Nagrody
 Nagrody: {0}
-Zebrano {0} diamentów w poziomie: {1}
-Zebrano {0} koron w poziomie: {1}
+Zebrano {0} diamentów na poziomie: {1}
+Zebrano {0} koron na poziomie: {1}
 Ukończono poziom: {0}
-Stuknij w dowolnym miejscu, aby zmienić kierunek linii.
-Zalecamy grę przy włączonej muzyce.
-Nie próbuj przesuwać palcem. To nie działa.
-Stukanie podczas lotu nie jest konieczne.
-Nie stukaj w ekran podczas wchodzenia do piramidy pod kątem 45°.
-Możesz zmienić skórkę swojej postaci, klikając w latający sześcian.
-Zbierz wszystkie diamenty i korony, aby ukończyć poziom.
-OSIĄGNIĘCIA
+Podążaj za rytmem i dotknij dowolnego miejsca, aby zmienić kierunek.
+W tę grę najlepiej grać z włączoną muzyką.
+Nie przesuwaj palcem. To nie działa.
+Nie musisz dotykać ekranu podczas lotu.
+Nie dotykaj ekranu podczas wchodzenia do piramidy pod kątem 45°
+Możesz zmienić wygląd postaci, klikając unoszącą się kostkę.
+Zbierz wszystkie diamenty i korony, aby perfekcyjnie ukończyć poziomy.
+Osiągnięcia
 [Ukryte] 
 Ukończono: #x#
-#x# - Ukończono
-#x# - 10 diamentów
-#x# - 3 korony
-Ukończ poziom #x#, aby otrzymać to osiągnięcie
-Zbierz wszystkie diamenty w poziomie #x#, aby otrzymać to osiągnięcie
-Zbierz wszystkie korony w poziomie #x#, aby otrzymać to osiągnięcie
-Sekrety Dragonii
-Napotkaj bynajmniej jedną ukrytą ścieżkę w poziomie  Opowieści z Dragonii , aby otrzymać to osiągnięcie
-Czyż to Paimon?
-Co powiesz na to, żebyśmy później zwiedzili teren przed nami?
+#x# – Ukończono
+#x# – 10 diamentów
+#x# – 3 korony
+Ukończ #x#
+Zbierz wszystkie diamenty w #x#
+Zbierz wszystkie korony w #x#
+Sekret Dragonii
+Znajdź co najmniej jedną ukrytą ścieżkę w Opowieściach Dragonii
+Czy to Paimon?
+Może później zbadamy teren przed nami?
 L.A.B.I.R.Y.N.T.
-Odkryj ukrytą ścieżkę w poziomie  Labirynt , aby otrzymać to osiągnięcie
+Znajdź ukrytą ścieżkę w Labiryncie
 Pacyfizm
-Wybierz ścieżkę pokoju w poziomie  Wojna 
-Szczęśliwej drugiej rocznicy!
-Wesołych Świąt......\noraz drugiej rocznicy
-Hojny Podróżnik
-Spotkaj zamkowego uciekiniera w poziomie  Przygoda 
-
-
-USTAWIENIA KLAWISZY
-Oczekiwanie na ingerencję użytkownika\nWybierz klawisz, który chcesz ustawić, lub naciśnij dowolny przycisk myszy, aby zresetować ustawienie
-Powrót
-Pauza
-Sterowanie postaci
-Linie pomocnicze
+Wybierz pokojową fabułę w Wojnie
+Przyjęcie z okazji 2. rocznicy
+Wesołych Świąt…\ni wszystkiego najlepszego z okazji 2. rocznicy
+Mistrz bez klejnotów
+Spotkaj uciekiniera z lochu w Przygodzie
+Gwiaździste niebo
+Gwiaździsty bezkres obiecuje miłe niespodzianki
+Przypisanie klawiszy
+Oczekiwanie na naciśnięcie klawisza…\nNaciśnij wybrany klawisz na klawiaturze lub przycisk kontrolera
+Wstecz
+Wstrzymaj grę
+Sterowanie postacią
+Linia pomocnicza
 Ustawienia
-Skórki
+Wygląd
 Lewo
 Prawo
 Potwierdź
-
+Uruchom ponownie
 Osiągnięcia
-
-
-
-Escape
+Backspace
+Enter
+Enter
+ESC
 Spacja
-Windows (lewy)
-Windows (prawy)
-Command (lewy)
-Command (prawy)
-Strzałka w górę
-Strzałka w dół
-Strzałka w lewo
-Strzałka w prawo
-Shift (lewy)
-Shift (prawy)
-Option (lewy)
-Option (prawy)
-Control (lewy)
-Control (prawy)
-Option (lewy)
-Option (prawy)
-
+Lewy WIN
+Prawy WIN
+Lewy CMD
+Prawy CMD
+▲
+▼
+◀
+▶
+Lewy Shift
+Prawy Shift
+Lewy Option
+Prawy Option
+Lewy CTRL
+Prawy CTRL
+Lewy Option
+Prawy Option
+Menu
 Ukończono
-
+Punkt kontrolny
 Wesołych Świąt
 Zbierz
-Naciśnij
-Bez ciebie nigdy by nas tu nie było.\nJesteśmy jednością.
-Dlaczego...
-wszystko się pogarsza...
+Dotknij
+Bez Ciebie nie byłoby to możliwe.\nJesteśmy jednością.
+Dlaczego…
+Wszystko idzie coraz gorzej…
 Koniec świata
-Podążaj za swoją własną gwiazdą! -Dante
-Kiedy już zasmakujesz lotu, będziesz chodzić z oczami skierowanymi w górę \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Podążaj za własną gwiazdą! – Dante
+Gdy raz wzlecisz, będziesz chodzić z oczami zwróconymi ku niebu\n\t\t\t\t\t\t\t\t Leonardo da Vinci
 Nie jesteś sam.
 Nie żałuj niczego w sprawach\nmiłości i jedzenia.
-Normalna
+Normalny
 Słuchawki
 Papier
-
-
+Zeus
+Chaos
 Góry
-Chiński Pędzel
-Baba Jaga
-Pełzacz
+Chiński pędzel
+Magiczna wiedźma
+Pełzanie
 Domino
 Moduł
 Światło
 Śnieżka
-Strzałka
+Strzała
 Wieloryb
-Śnieżna Mgła
+Śnieżna mgła
 Stalagmit
 Klaun
-Latający Nimbus
+Latająca chmura
 Wąż
 Galaretka
-Magiczna Peleryna
-Wybukościec
+Magiczny płaszcz
+Szkielet z bombą
 Balon
-Ognista Piłka
+Kula ognia
 Piramida
-
-
-
-
-
-
-
+Piłka
+Turkusowa piłka
+Czarna piłka
+Zwykła piłka
+Piłka do koszykówki
+Gwiezdna moc
+Robot
 Poziom bez nazwy
 Początek
 Czas
@@ -220,371 +220,371 @@ Sawanna
 Dziki Zachód
 Walentynki
 Halloween
-Aleja
+Zaułek
 Pustynia
 Burza
 Burza
 Góry
-Niziny
-Niziny
+Równiny
+Równiny
 Labirynt
 Ziemia
-Fajerwerkowy Raj
+Raj fajerwerków
 Wigilia
 Jesień
 Kryształ
-Trzecia Rocznica
-Piąta Rocznica
+Trzecia rocznica
+Piąta rocznica
 Chaos
 Katedra
 Katedra
-Opowieści Marynarza
-Legenda o Asasynie
-Ogród Chiński
+Opowieść żeglarza
+Legenda zabójcy
+Chiński ogród
 Wyścig
-Już wkrótce
-Koniec - Theo5970
-Historia Miłosna
+Wkrótce
+Koniec – Theo5970
+Romans
 Wiosna
-Święto Wiosny
+Chiński Nowy Rok
 Samuraj
-Opowieści z Dragonii
-Brzydkie Kaczątko
-Gra Wideo
-Wyjście Izraelitów z Egiptu
+Opowieści Dragonii
+Brzydkie kaczątko
+Gra wideo
+Exodus
 Ocean
-Byk - Znak Zodiaku
-Sen o Niebie
+Znak zodiaku Byk
+Sen o niebie
 Koszykówka
-Świąteczna Impreza
-Indyjska Wyprawa
+Przyjęcie bożonarodzeniowe
+Podróż po Indiach
 Wojna
 Tajemnica
-Piłka Nożna
-Ewolucja Hip-Hopu
+Piłka nożna
+Ewolucja hip-hopu
 Wielkanoc
-Wiosenna Kołysanka
-Halloweenowa Zagadka
-Wesołe Miasteczko
-Faded
-Faded - Tryb Łatwy
-
-
-Chiny
+Wiosenna kołysanka
+Halloweenowa łamigłówka
+Park rozrywki
+Faded – Alan Walker
+Faded (Wersja samouczkowa)
+Despacito
+Alone – Alan Walker
+Ogród zen
 Samuraj HD
 Ranczo
-Faded
-
-Ewolucja (cz. 13)
-Deserowy Raj
-Przestrzeń
-Odkrycie - Chronos
+Faded – Alan Walker
+Wszystko o nas
+Ewolucja (P13)
+Kraina słodkości
+Kosmos
+Odkrycie – Chronos
 Przygoda
 Apokalipsa
 Podróż
-
-
-
+Matematyka
+Mżawka
+Wędrówka
 Pustka
-
-
+Wspomnienie
+Burza gniewu
 Brak
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Obecna wersja (#Current#) jest nieaktualna, proszę zaktualizować do najnowszej wersji (#Latest#).
-Nie udało się załadować konfiguracji reklam
-Ponów próbę
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Czapka świąteczna
+Bambusowy helikopterek
+Kapelusz czarodzieja
+Meksykański kapelusz
+Melonik
+Czapka słodkiego pieska
+Duszek
+Szczur
+Pobieranie nowego poziomu
+Pozostań połączony z internetem
+Nakładka sterowania
+Nie udało się pobrać poziomu
+Wyczyść pamięć podręczną
+Czy wyczyścić pamięć podręczną, w tym pobrane dane poziomów i muzyki?
+Bieżąca wersja #Current# jest nieaktualna. Aby grać, musisz zaktualizować grę co najmniej do wersji #Latest#.
+Nie udało się wczytać konfiguracji reklam
+Spróbuj ponownie
+Sprawdzanie aktualizacji…
+Aktualizowanie konfiguracji
+Pobieranie aktualizacji
+Podróż jeszcze się nie skończyła…
+Wkrótce pojawi się więcej…
+Dziękujemy wszystkim graczom Dancing Line!
+Wymagana aktualizacja
+Globalna regulacja synchronizacji
+Regulacja synchronizacji poziomu
+Automatyczna korekcja
+Udostępnij
+Kopiuj tekst
+Zapisz obraz
+Kopiuj obraz
+Wybierz dane do wyczyszczenia
+Wyczyść postępy w grze
+Nowy rekord
+Perfekcyjnie
+Nie na sprzedaż
+Wyzwanie nut
+Sklep z nutami
+Wyprzedane
+Gwiazdki × {0}
+Kostki × {0}
+Wyzwanie
+Wtorek — niedziela
+Zasady
+Ukończ ten poziom perfekcyjnie, aby zdobyć nuty!
+Wyzwanie nut dobiegło końca. Spróbuj następnym razem!
+• W tym wydarzeniu Twoim zadaniem jest zebranie wszystkich diamentów i koron oraz pokonanie poziomu przy użyciu tylko jednej kostki. Pamiętaj: wskrzeszenia są zabronione! Podejmiesz wyzwanie?\n\n• Linie pomocnicze są wyłączone podczas gry, więc wszystko zależy od Twoich umiejętności!\n\n• Po perfekcyjnym ukończeniu poziomu wróć na stronę wydarzenia, aby odebrać nagrody!
+Nie udało się połączyć z internetem. Sprawdź stabilność połączenia i spróbuj ponownie.
+Przedmiot odebrany
+Pomyślnie odebrano #item#
+Czy chcesz odebrać #item#?
+Sklep odświeża się w każdy poniedziałek
+Sklep z nutami został odświeżony. Sprawdź nowości!
+Wyzwanie nut na ten tydzień jest już dostępne. Spróbuj swoich sił na kolejnych poziomach!
+Kula do kręgli
+Piłka tenisowa
+Wyzwanie ukończone: #Level#
+Kontynuować pobieranie przez sieć komórkową?
+Ostrzeżenie o transmisji danych komórkowych
+Błąd
+Wystąpił nieznany błąd!
+Ukryj kursor
+Gdy kursor jest nieruchomy
+Podczas gry
+Nigdy
+Oficjalne
+Remiks
+Wydarzenie
+Sezon
+Oryginalne
+Klasyczne
+Stworzone przez fanów
+Max Studio
+WINDER Studio
+Zaloguj się do Game Center w ustawieniach systemu
+Pasek stanu
+DLRS GAS
+Profil
+Ustawienia konta
+Nazwa użytkownika: {0}\nID użytkownika: {1}
+Liczba klatek na sekundę
+Wyświetlaj liczbę klatek na sekundę
+Serwer
+Obsługa wielodotyku
+Come & Get It – Selena Gomez
+Utwór
+Skopiowano do schowka
+Ikona aplikacji
+Eksportuj postępy w grze
+Importuj postępy w grze
+Drzewo Pustki
+Wejdź na tajną ścieżkę w Pustce
+Automatyczne klikanie może być niedokładne do czasu pobrania poziomu.
+Aktualizowanie bazy danych gry
+Domyślne
+Zielony
+Duet
+Grupa QQ
+Kanał QQ
+Rozdzielczość renderowania
+Automatycznie
+Nakrycia głowy
+Zdejmij
+Science fiction
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+ukończono
+Niebieski
+Żółty
+Klasyczny
+Przerwana sesja audio
+Sesja audio została przerwana przez system, dlatego gra jest tymczasowo niedostępna. Zamknij aplikacje lub procesy, które mogą zakłócać dźwięk gry, i spróbuj ponownie.
+Ostatnia synchronizacja: {0}\nWersja danych w chmurze: {1}
+Synchronizuj teraz
+Zbyt częsta synchronizacja
+Synchronizacja zakończona pomyślnie
+Synchronizacja nie powiodła się
+Zapis w chmurze
+Ostatnia synchronizacja
+Wersja danych w chmurze
+Synchronizowanie…
+Używaj języka systemowego
+Kopiuj
+Otwórz katalog zewnętrzny
+Bezpośrednie otwieranie katalogu nie jest obecnie obsługiwane. Kliknij przycisk, aby skopiować poniższą ścieżkę, a następnie otwórz ją ręcznie:\n\n#DIRECTORY#
+System kont DL RS Games
+E-mail…
+Hasło…
+Zapamiętaj użytkownika
+Logowanie do konta
+Zaloguj się
+Zarejestruj się
+Nie pamiętasz hasła?
+Logowanie…
+Przekroczono czas logowania
+Błąd
+Nieprawidłowy adres e-mail lub hasło
+To konto nie znajduje się na liście dozwolonych
+To konto wymaga aktywacji
+Aplikacja jest nieaktualna. Sprawdź aktualizacje.
+Witaj, {0}!
+Logowanie zakończone pomyślnie
+Wprowadź adres e-mail
+Wprowadź hasło
+Logując się, akceptujesz <b><color=#3d6ec0>Warunki korzystania z DLRS GAS</color></b>
+Ostatnio używane konto
+Nowe logowanie
+Czy na pewno chcesz usunąć konto #name#?
+Otwieranie w przeglądarce zewnętrznej…
+To konto zostało zablokowane
+Pobieranie danych użytkownika…
+Nie udało się wczytać danych gracza
+Wyloguj się
+Czy na pewno chcesz wylogować się z konta #USERNAME#?
+Biblioteki open source
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statystyki
 Ukończono
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Maskotka Cheetah
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Powrót
+Diamenty
+Korony
+Śmierci
+Próby przejścia poziomów
+Wskrzeszenia
+Liczba ukończeń
+Zebrane diamenty
+Zebrane korony
+Zdobyte gwiazdki
+Wydane gwiazdki
+Zdobyte kostki energii
+Zużyte kostki energii
+Zdobyte nuty
+Wydane nuty
+Posiadane skórki
+Posiadane nakrycia głowy
+Wielopróbkowe wygładzanie krawędzi (#SHORT#)
+Szybkie przybliżone wygładzanie krawędzi (#SHORT#)
+Czasowe wygładzanie krawędzi (#SHORT#)
+Morfologiczne wygładzanie krawędzi subpikseli (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planeta
+Gwiazda
+Przejdź do #LEVELNAME#
+Ta opcja może powodować zacinanie się gry lub nieprawidłowe wyświetlanie obrazu.
+Ostrzeżenie
+Urządzenie audio
+Wbudowany głośnik
+Głośniki
+Nie znaleziono poziomów pasujących do słów kluczowych.
+Dopasuj wszystkie
+Dopasuj dowolne
+Dostępny do gry
+Logowanie przez e-mail i hasło
+Logowanie przez OAuth
+Autoryzacja nie powiodła się. Spróbuj ponownie.
+Wyłącz
+Włącz
+Po wyłączeniu statystyki zostaną wyczyszczone, a gra przestanie zapisywać dane do czasu ponownego włączenia tej funkcji.
+Aplikacja jest nieaktualna. Sprawdź aktualizacje.
+Kod promocyjny
+Wprowadź kod promocyjny…
+Zrealizuj
+Odczekaj przed ponowną realizacją kodu. Spróbuj później.
+Kod promocyjny jest nieprawidłowy lub został już wykorzystany.
+Pomyślnie odebrano następujące przedmioty:
+Poziom: #NAME#
+Skórka: #NAME#
+Nakrycie głowy: #NAME#
+Nuty × {0}
+Z głową w chmurach
+Warunki korzystania z usługi
+Weryfikacja integralności środowiska gry nie powiodła się.
+Nakładka Steam
+Monument Valley
+Miś Cheetah
+Czarnoksiężnik z Krainy Oz
+Chiński smok
+Mikser audio
+Mono
+Stereo
+Dźwięk przestrzenny 4.0
+Dźwięk przestrzenny 5.0
+Dźwięk przestrzenny 5.1
+Dźwięk przestrzenny 7.1
+Wybierz poziom
+Kolekcja poziomów
+Kup na Steam
+Kup i zainstaluj to DLC w sklepie Steam
+Dziedzictwo
+Przesyłanie poziomu
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Nie udało się pobrać aktualizacji. Spróbować ponownie?
+Dostępne są nowe aktualizacje. Wymagane pobranie {0}. Kontynuować?
+Zapomniana przystań
+Nie udało się sprawdzić aktualizacji. Spróbować ponownie?
+Nie udało się pobrać aktualizacji. Ponawianie próby…
+Współpraca
+Pomiń poziom
+Użyć {0} nut, aby pominąć ten poziom wyzwania?
+Za mało nut. Aby pominąć poziom, potrzebujesz co najmniej {0}.
+{0}d {1}h
+Odświeżenie za: {0}
+Dekoracja
+Synchronizacja VSync jest obecnie włączona. Ustawienia liczby klatek na sekundę działają tylko przy wyłączonej synchronizacji VSync.\nCzy chcesz wyłączyć VSync?
+Serwer jest obecnie w trakcie konserwacji. Gra będzie w tym czasie niedostępna.\n\nPowód konserwacji: {0}\nCzas zakończenia: {1}
+Śledź kolejne oficjalne ogłoszenia.
+Twoja sesja konta wygasła. Możliwe, że zalogowano się na innym urządzeniu.\nZaloguj się ponownie.
+Serwer jest obecnie w trakcie konserwacji. Możesz zalogować się do gry, ale usługa może działać niestabilnie.\n\nPowód konserwacji: {0}\nCzas zakończenia: {1}
+Misje
+Odświeżenie za: {0}
+Zaloguj się do gry
+Ukończ dowolny poziom {0} razy
+Zużyj {0} kostek
+Zużyj {0} gwiazdek
+Zgiń {0} razy na dowolnym poziomie
+Zbierz {0} diamentów na dowolnym poziomie
+Zbierz {0} koron na dowolnym poziomie
+Wskrześ się {0} razy na dowolnym poziomie
+Zdobądź gwiazdki
+Specjalna interakcja na poziomie
+Ten poziom zawiera specjalne interakcje, które można uruchomić przez dotknięcie ekranu lub przytrzymanie klawisza.
+Nie można połączyć się z siecią Steam
+Chmura Steam
+Zablokowany poziom
+Funkcja 1
+Funkcja 2
+Funkcja 3
+Funkcja 4
+Funkcja 5
+Wstecz
 Anuluj
-
-Nastepny poziom
-Menu glowne
+Kup
+Następny poziom
+Menu główne
 Rozpocznij poziom
-Wyjdz z gry
+Wyjdź z gry
 Poprzedni poziom
 Poprzednia strona
-Nastepna strona
-
-
-
-
-
-
-
-
-Włączenie linii prowadzącej na tym poziomie spowoduje wejście w tryb treningowy: wszystkie wyniki nie będą wliczane do postępu poziomu i codziennych misji, nie będzie można zdobyć żadnych nagród ani osiągnięć. Włączyć?
+Następna strona
+Dźwięk
+Głośność główna
+Nie udało się zainicjować klienta Steam. Uruchom grę ponownie.
+Nie można połączyć się z klientem Steam. Upewnij się, że klient Steam jest uruchomiony, i ponownie uruchom grę.
+Klient Steam wydaje się nieaktualny. Upewnij się, że korzystasz z najnowszej wersji.
+Błąd Steam
+Zapis w chmurze Steam jest uszkodzony i nie można go odczytać.\nMożliwe, że gra została zamknięta podczas zapisywania, przez co dane zapisu są niekompletne.\nGra próbowała odczytać zapis z lokalnej pamięci podręcznej, ale bez powodzenia.\nMożesz rozpocząć grę z nowym zapisem. Czy chcesz kontynuować?
+Błąd chmury Steam
+Tryb treningowy włącza linię pomocniczą.\n\nPodążaj za linią pomocniczą, aby poznać trasę i swobodnie cieszyć się wszystkim, co oferuje poziom.\n\nNie spiesz się ze znalezieniem drogi naprzód — rekord może poczekać. Postępy w trybie treningowym nie będą uwzględniane w wynikach, misjach ani osiągnięciach.\n\nWłączyć tryb treningowy?
 Tryb treningowy
 Tryb treningowy
-
-
-
-Linie pomocnicze
-
+OSTRZEŻENIE: NADWRAŻLIWOŚĆ NA ŚWIATŁO / NAPADY PADACZKOWE
+<b>PRZECZYTAJ TO OSTRZEŻENIE PRZED ROZPOCZĘCIEM GRY</b>\n\nU niewielkiego odsetka osób mogą wystąpić napady padaczkowe lub utrata przytomności w wyniku ekspozycji na określone migające światła lub wzory świetlne. Takie objawy mogą pojawić się także u osób, które nigdy wcześniej nie miały napadów ani rozpoznanej padaczki, podczas grania w gry wideo.\n\nJeśli Ty lub ktoś z Twojej rodziny choruje na padaczkę albo miał jakiekolwiek napady, skonsultuj się z lekarzem przed rozpoczęciem gry.\n\nNATYCHMIAST PRZERWIJ GRĘ i skonsultuj się z lekarzem, jeśli u Ciebie lub Twojego dziecka wystąpi którykolwiek z następujących objawów: zawroty głowy, zaburzenia widzenia, drganie oczu lub mięśni, mimowolne ruchy, utrata świadomości, dezorientacja lub drgawki. Rodzice powinni obserwować swoje dzieci i pytać je o występowanie takich objawów.\n\nAby zmniejszyć ryzyko napadów padaczkowych wywołanych światłem, zachowaj następujące środki ostrożności: usiądź dalej od ekranu, używaj mniejszego ekranu, graj w dobrze oświetlonym pomieszczeniu i nie graj, gdy odczuwasz senność lub zmęczenie.
+Ranking Steam
+Linia pomocnicza
+Odblokowanie poziomu

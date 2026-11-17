@@ -3,560 +3,560 @@ English
 
 Dancing Line
 Sprache
-Geben Sie uns ein Like
-Läd
-Erhalte Würfel
-Benutzen Sie Kopfhörer für das beste Spielerlebnis
+FOLGE UNS
+Wird geladen
+Würfel Erhalten
+für das beste spielerlebnis\nkopfhörer verwenden
 Video nicht verfügbar
-Sehen Sie sich ein Video an, um es vorübergehend freizuschalten
-Kostenlos freischalten
+Sieh dir ein Video an, um es vorübergehend freizuschalten
+Kostenlos Freischalten
 Freischalten
 Neues Level freigeschaltet:
-Bekommen Sie {0} Kostenlos
-Kaufen Sie {0} Würfel
-Unendliche Energie
-Aufladung in : {0}
-Würfel aufgeladen. Let's dance again.
-Tippe zum spielen
+{0} Kostenlos Erhalten
+{0} Würfel Kaufen
+Unbegrenzte Würfel
+Aufladung in: {0}
+Würfel aufgeladen. Lass uns wieder tanzen!
+zum starten tippen
 OK
 Ja
 Nein
-An
+Ein
 Aus
 Abbrechen
 Pausiert
 Qualität
-Sehr niedrig
+Sehr Niedrig
 Niedrig
 Mittel
 Hoch
 Ultra
-Max
-Anti Aliasing
-Sound
+Maximum
+Kantenglättung
+Ton
 VSync
-Synchronisation
-Automatische Einstellung
-Musik Verzögerung
-Touch Empfindlichkeit
-Verlassen bestätigen
-Willst du das Spiel verlassen?
-Über
+Synchronisierung
+Automatische Anpassung
+Musikverzögerung
+Berührungsfeedback
+Beenden Bestätigen
+Möchtest du das Spiel beenden?
+Über das Spiel
 Version
-Level Designer
-Lokalisierungsteam
+Leveldesigner
+Übersetzungsteam
 Bilibili
 YouTube
-Endbenutzer-Lizenzvertrag
-Datenschutzrichtlinien
+Endbenutzer-Lizenzvereinbarung
+Datenschutzerklärung
 Discord
-Display Modus
+Anzeigemodus
 Exklusiver Vollbildmodus
-Vollbildfenster
-Windowed
-Portrait
-Landscape
+Randloses Vollbildfenster
+Fenstermodus
+Hochformat
+Querformat
 Auflösung
-Vom letzten checkpoint fortfahren?
-Sie brauchen #X%# mehr für #New Best#
-Sie brauchen #X%# mehr für #Next Checkpoint#
-Sie brauchen #X%# mehr um #Complete#
+Vom letzten Kontrollpunkt fortfahren?
+Noch #X%# bis zum #Neuen Rekord#
+Noch #X%# bis zum #Nächsten Kontrollpunkt#
+Noch #X%# bis zum #Abschluss#
 Kostenlos
 Fortfahren
-Suche
-Daten löschen
-Daten gelöscht, bitte starte das Spiel neu.
-Ihre Spieldaten werden gelöscht, sobald dieser Vorgang abgeschlossen ist. Bitte fahren Sie vorsichtig vort.
-Bitte beachten Sie, dass nach Abschluss dieses Vorgangs Ihre Dancing Line-Daten (dazu gehören alle persönlichen Informationen und alle anderen Daten, die durch die Nutzung von Dancing Line-Produkten generiert werden) dauerhaft gelöscht werden und nicht wiederhergestellt werden können. Bitte wählen Sie sorgfältig aus und gehen Sie vorsichtig vor.
+Suchen
+Daten Löschen
+Daten zurückgesetzt. Bitte starte das Spiel neu.
+Nach Abschluss dieses Vorgangs werden deine Spieldaten gelöscht. Bitte gehe vorsichtig vor.
+Bitte beachte, dass nach Abschluss dieses Vorgangs deine Dancing-Line-Daten (einschließlich personenbezogener Informationen und aller anderen durch die Nutzung der Dancing-Line-Produkte erzeugten Daten) dauerhaft gelöscht werden und nicht wiederhergestellt werden können. Überlege dir deine Entscheidung sorgfältig.
 Löschen
-Daten werden gelöscht...\nIhre Cloud- und lokalen Speicherungen werden gelöscht
+Daten werden gelöscht …\nDeine Cloud- und lokalen Spielstände werden entfernt
 Barrierefreiheit
-Können Sie X% in DancingLine schlagen? Kommen Sie und spielen Sie mit uns!
-Debug Logs anzeigen
-Standard wiederherstellen
-Rechtliche Hinweise & Datenschutz
-Bevor Sie diese App nutzen, müssen Sie unserer Endbenutzer-Lizenzvereinbarung und Datenschutzrichtlinie zustimmen.
+Schaffst du X % in Dancing Line? Spiel mit mir!
+Debug-Protokolle Anzeigen
+Standardeinstellungen Wiederherstellen
+Rechtliches Und Datenschutz
+Bevor du die App nutzt, musst du unserer Endbenutzer-Lizenzvereinbarung und Datenschutzerklärung zustimmen.
 Akzeptieren und fortfahren
-Spiel verlassen
-DSP-Puffergröße
-Audio Ausgabeverzögerung
-Touch Eingabeverzögerung
-Betaversion ##UID# Nicht veröffentlichen
+Spiel beenden
+E/A-Puffergröße
+Audioausgabelatenz
+Berührungseingabelatenz
+BETA-VERSION ##UID# NICHT WEITERGEBEN
 Gyroskopeffekte
 Game Center
-Einsammeln
-Täglich kostenlose Edelsteine
-Einsammeln nach {0}
+Abholen
+Tägliche Gratissterne
+Verfügbar in {0}
 Ausgerüstet
 Ausrüsten
 Kostenlose Wiederbelebungen: {0}/{1}
-Möchten Sie in dieser Runde {0} Edelsteine ​​ausgeben, um die Hilfslinie freizuschalten?
-Die täglich kostenlosen Edelsteine können nicht eingesammelt werden, die Zeitüberprüfung ist fehlgeschlagen.
+Möchtest du {0} Sterne ausgeben, um die Hilfslinie vorübergehend freizuschalten?
+Tägliche Gratissterne konnten nicht abgeholt werden: Zeitüberprüfung fehlgeschlagen.
 Erweiterte Einstellungen
-Diese Einstellung gilt nur für das aktuelle Level und ermöglicht die individuelle Anpassungen für jedes Level basierend auf der globalen Musikverzögerung.\n\n<b>Tatsächliche Verzögerung = Levelverzögerung + globale Verzögerung</b>
+Diese Einstellung gilt nur für das aktuelle Level und ermöglicht eine individuelle Anpassung auf Grundlage der globalen Musikverzögerung.\n\n<b>Tatsächliche Verzögerung = Levelverzögerung + globale Verzögerung</b>
 Belohnungen
 Belohnungen: {0}
-Sie haben {0} Diamanten im Level {1} gesammelt
-Sie haben {0} Kronen im Level {1} gesammelt
-Abgeschlossene Level: {0}
-Folgen Sie dem Rhythmus und tippen Sie an einer beliebige Stelle, um die Richtung zu ändern.
-Dieses Spiel wurde entwickelt, um mit Musik gespielt zu werden.
-Nicht wischen. Dies funktioniert nicht.
-Tippen während des Fliegens ist nicht notwendig.
-Tippen Sie nicht, wenn Sie in die Pyramide mit 45° fahren.
-Sie können den Skin des Charakters ändern, indem Sie auf den schwebenden Würfel klicken.
+{0} Diamanten gesammelt in Level: {1}
+{0} Kronen gesammelt in Level: {1}
+Level abgeschlossen: {0}
+Folge dem Rhythmus und tippe irgendwo, um die Richtung zu ändern.
+Dieses Spiel sollte mit eingeschalteter Musik gespielt werden.
+Nicht wischen. Das funktioniert nicht.
+Während des Fliegens musst du nicht tippen.
+Tippe nicht, wenn du die Pyramide im 45°-Winkel betrittst.
+Du kannst das Aussehen deiner Spielfigur ändern, indem du auf den schwebenden Würfel tippst.
 Sammle alle Diamanten und Kronen, um die Level perfekt abzuschließen.
-ERFOLGE
-[Versteckt] 
+Erfolge
+[Versteckt]
 Abgeschlossen: #x#
-#x# - Abgeschlossen
-#x# - 10 Diamanten
-#x# - 3 Kronen
-Schliesen Sie #x# ab
-Sammeln Sie alle Diamanten in #x#
-Sammeln Sie alle Kronen in #x#
-The Secret of Dragonia
-Finden Sie mindestens einen versteckten Pfad in  The Tales of Dragonia 
+#x# – Abgeschlossen
+#x# – 10 Diamanten
+#x# – 3 Kronen
+Schließe #x# ab
+Sammle alle Diamanten in #x#
+Sammle alle Kronen in #x#
+Das Geheimnis von Dragonia
+Finde mindestens einen versteckten Weg in Die Geschichten von Dragonia
 Ist das Paimon?
-Wie wäre es, wenn wir später die vor uns liegende Gegend erkunden würden?
-M.A.Z.E.
-Finden Sie den versteckten Pfad in  The Maze 
+Wie wäre es, wenn wir das Gebiet vor uns später erkunden?
+L.A.B.Y.R.I.N.T.H.
+Finde den versteckten Weg in Das Labyrinth
 Pazifismus
-Betreten Sie den Pfad des Friedens in  The War
-2nd Anniversary Party
-Happy Xmas......\nand the 2nd Anniversary
-Edelsteinloser Meister
-Begegnen Sie einem Dungeon-Flüchtling in  The Adventure 
-Starry Sky
-Die sternenklare Weite verspricht reizvolle Überraschungen
+Erreiche den friedlichen Handlungsverlauf in Der Krieg
+Party zum 2. Jubiläum
+Frohe Weihnachten …\nund alles Gute zum 2. Jubiläum
+Meister Ohne Edelsteine
+Begegne einem aus dem Kerker Geflohenen in Das Abenteuer
+Sternenhimmel
+Der Sternenhimmel verspricht wunderbare Überraschungen
 Tastenbelegung
-Warten auf Tastatureingabe\nDrücken Sie die Taste, die Sie verwenden möchten
+Warte auf Eingabe …\nDrücke die gewünschte Taste auf der Tastatur oder dem Controller
 Zurück
-Spiel pausieren
-Charakterkontrolle
+Spiel Pausieren
+Figur Steuern
 Hilfslinie
 Einstellungen
-Skins
+Skin
 Links
 Rechts
 Bestätigen
-Neustarten
+Neustart
 Erfolge
 Rücktaste
 Eingabetaste
 Eingabetaste
 ESC
 Leertaste
-WIN Links
-WIN Rechts
-CMD Links
-CMD Rechts
+Linke Windows-Taste
+Rechte Windows-Taste
+Linke Befehlstaste
+Rechte Befehlstaste
 ▲
 ▼
 ◀
 ▶
-Shift Links
-Shift Rechts
-Option Links
-Option Rechts
-CTRL Links
-CTRL Rechts
-Option Links
-Option Rechts
+Linke Umschalttaste
+Rechte Umschalttaste
+Linke Wahltaste
+Rechte Wahltaste
+Linke Strg-Taste
+Rechte Strg-Taste
+Linke Wahltaste
+Rechte Wahltaste
 Menü
-Vollendet
-Checkpoint
-Merry Christmas
-Einsammeln
+Abgeschlossen
+Kontrollpunkt
+Frohe Weihnachten
+Sammeln
 Tippen
-Das kann nicht ohne Dich passieren.\nWir sind eins.
-Warum...
-Alles wird schlechter...
+Ohne dich wäre das nicht möglich.\nWir gehören zusammen.
+Warum …
+Alles wird schlimmer …
 Weltuntergang
-Dem eigenen Stern folgen! -Dante
-Wer einmal fliegen durfte, wird seinen Blick immer auf den Himmel richten, da er dort war und dorthin zurückkehren möchte. \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Folge deinem eigenen Stern! – Dante
+Wenn du einmal geflogen bist, wirst du mit zum Himmel gerichteten Augen gehen.\n\t\t\t\t\t\t\t\t Leonardo da Vinci
 Du bist nicht allein.
-Bereue nichts in Sachen Liebe und Essen.
+Bereue nichts, wenn es um\nLiebe und Essen geht.
 Normal
-Headphones
-Paper
+Kopfhörer
+Papier
 Zeus
 Chaos
-Mountains
-Chinese Brush
-Magic Witch
-Slither
-Dominoes
-Module
-Light
-Snowball
-Arrow
-Whale
-Snow Fog
-Stalagmite
+Berge
+Chinesischer Pinsel
+Magische Hexe
+Schlängeln
+Dominosteine
+Modul
+Licht
+Schneeball
+Pfeil
+Wal
+Schneenebel
+Stalagmit
 Clown
-Flying Nimbus
-Snake
-Jelly
-Magic Cloak
-Bomb Skeleton
-Balloon
-Fireball
-Pyramid
+Fliegende Wolke
+Schlange
+Gelee
+Magischer Umhang
+Bombenskelett
+Ballon
+Feuerball
+Pyramide
 Ball
-Cyan Ball
-Black Ball
-Plain Ball
+Türkiser Ball
+Schwarzer Ball
+Einfacher Ball
 Basketball
-Stern Power
+Sternenkraft
 Roboter
 Unbenanntes Level
-The Beginning
-The Time
-The Piano
-The Beach
-The Winter
-The Savanna
-The West
-The Valentines
-The Halloween
-The Alley
-The Desert
-The Storm
-The Storm
-The Mountains
-The Plains
-The Plains
-The Maze
-The Earth
-The Firework Paradise
-The Christmas Eve
-The Autumn
-The Crystal
-The Third Anniversary
-The Fifth Anniversary
-The Chaos
-The Cathedral
-The Cathedral
-The Sailor's Tale
-The Legend of Assassin
-The Chinese Garden
-The Racing
-Demnächst verfügbar
-The End - Theo5970
-The Romance
-The Spring
-The Spring Festival
-The Samurai
-The Tales of Dragonia
-The Ugly Duckling
-The Video Game
-The Exodus
-The Ocean
-The Taurus
-Dream of Sky
-The Basketball
-The Christmas Party
-The Indian Journey
-The War
-The Mystery
-The Football
-The Hip Hop Evolution
-The Easter
-The Spring Lullaby
-The Halloween Puzzle
-The Amusement Park
-Faded - Alan Walker
-Faded (Tutorial Version)
+Der Anfang
+Die Zeit
+Das Klavier
+Der Strand
+Der Winter
+Die Savanne
+Der Westen
+Der Valentinstag
+Halloween
+Die Gasse
+Die Wüste
+Der Sturm
+Der Sturm
+Die Berge
+Die Ebenen
+Die Ebenen
+Das Labyrinth
+Die Erde
+Das Feuerwerksparadies
+Heiligabend
+Der Herbst
+Der Kristall
+Das Dritte Jubiläum
+Das Fünfte Jubiläum
+Das Chaos
+Die Kathedrale
+Die Kathedrale
+Die Geschichte Des Seemanns
+Die Legende des Assassinen
+Der Chinesische Garten
+Das Rennen
+Demnächst
+Das Ende – Theo5970
+Die Romanze
+Der Frühling
+Das Chinesische Neujahr
+Der Samurai
+Die Geschichten von Dragonia
+Das Hässliche Entlein
+Das Videospiel
+Der Exodus
+Der Ozean
+Das Sternzeichen Stier
+Traum vom Himmel
+Der Basketball
+Die Weihnachtsparty
+Die Reise Durch Indien
+Der Krieg
+Das Geheimnis
+Der Fußball
+Die Entwicklung Des Hip-Hop
+Ostern
+Das Frühlingswiegenlied
+Das Halloween-Rätsel
+Der Vergnügungspark
+Faded – Alan Walker
+Faded (Tutorialversion)
 Despacito
-Alone - Alan Walker
-Zen Garden
-The Samurai HD
-The Ranch
-Faded - Alan Walker
+Alone – Alan Walker
+Zen-Garten
+Der Samurai HD
+Die Ranch
+Faded – Alan Walker
 All About Us
-The Evolution (P13)
-Dessert Wonderland
-The Space
-The Discovery - Chronos
-The Adventure
-The Apocalypse
-The Journey
-The Mathematics
-The Drizzle
-The Wandering
-The Hollowness
-The Memory
-Storm of Anger
-Nichts
-Christmas Hat
-Bamboo Dragonfly
-Wizard Hat
-Mexican Hat
-Bowler Hat
-Sweet Dog Hat
-Sprite
+Die Evolution (P13)
+Dessert-Wunderland
+Der Weltraum
+Die Entdeckung – Chronos
+Das Abenteuer
+Die Apokalypse
+Die Reise
+Die Mathematik
+Der Nieselregen
+Das Umherwandern
+Die Leere
+Die Erinnerung
+Sturm der Wut
+Keine
+Weihnachtsmütze
+Bambuslibelle
+Zaubererhut
+Mexikanischer Hut
+Melone
+Süße Hundemütze
+Waldgeist
 Ratte
 Neues Level wird heruntergeladen
-Bitte bleiben Sie mit dem Internet verbunden
-Eingabe HUD
-Das Herunterladen des Levels ist fehlgeschlagen
-Cache leeren
-Caches von heruntergeladenen Leveln & Musikdaten werden gelöscht. Mit dem Löschen fortfahren?
-Die aktuelle Version (#Current#) ist veraltet. Bitte aktualisieren Sie auf die neueste Version (#Latest#).
-Werbungskonfigurationen konnten nicht geladen werden
-Nochmal versuchen
-Herunterladbare Inhalte überprüfen
-Konfigurationen werden aktualisiert
-Wichtige Inhalte werden heruntergeladen
-Die Reise ist noch nicht zu Ende...
-Mehr kommt bald...
-Vielen Dank für alles, Dancing Line Spieler!
-Update erforderlich
-Globale Verzögerungseinstellung
-Level Verzögerungseinstellung
+Bitte bleibe mit dem Internet verbunden
+Eingabeanzeige
+Level konnte nicht heruntergeladen werden
+Cache Leeren
+Heruntergeladene Daten wie Level und Musik werden gelöscht. Fortfahren?
+Die aktuelle Version #Current# ist veraltet. Du musst mindestens auf #Latest# aktualisieren, um spielen zu können.
+Werbekonfigurationen konnten nicht geladen werden
+Erneut versuchen
+Suche nach Updates …
+Konfigurationen Werden Aktualisiert
+Updates Werden Heruntergeladen
+Die Reise ist noch nicht zu Ende …
+Mehr kommt noch …
+Danke für alles, Dancing-Line-Spieler!
+Update Erforderlich
+Globale Synchronisierung Anpassen
+Level-Synchronisierung Anpassen
 Automatische Korrektur
 Teilen
-Text kpieren
-Bild speichern
-Bild kopieren
-Wählen Sie aus, was gelöscht werden soll
-Spielfortschritt löschen
+Text Kopieren
+Bild Speichern
+Bild Kopieren
+Auswählen, was gelöscht werden soll
+Spielfortschritt Löschen
 Neuer Rekord
 Perfekt
 Nicht zum Verkauf
-Noten Challenge
-Noten Store
+Noten-Herausforderung
+Noten-Shop
 Ausverkauft
-Edelsteine × {0}
+Sterne × {0}
 Würfel × {0}
-Challenge
-Dienstag — Sonntag
+Herausforderung
+Dienstag Bis Sonntag
 Regeln
 Schließe dieses Level perfekt ab, um Noten zu erhalten!
-Noten Herausforderung beendet, versuchen Sie es später!
-• In diesem Event besteht deine Mission darin, alle Diamanten und Kronen zu sammeln und das Level mit nur einem Würfel zu meistern. Und – nicht vergessen – Wiederbelebungen sind nicht erlaubt! Bist du bereit für die Herausforderung?\n\n• Die Führungslinien sind während des Spiels deaktiviert, es kommt also ganz auf dein Können an!\n\n• Vergiss nicht, nach dem Levelabschluss zur Eventseite zurückzukehren, um deine Belohnungen einzufordern!
-Die Verbindung zum Internet konnte nicht hergestellt werden. Bitte stellen Sie sicher, dass Ihre Netzwerkverbindung stabil ist, und versuchen Sie es erneut.
-Artikel eingelöst
-#item# erfolgreich erhalten
-Möchten Sie #item# erhalten?
-Store aktualisiert sich jeden Montag
-Notes Store aktualisiert, sehen Sie sich an, was es Neues gibt!
-Die Noten-Challenge dieser Woche ist jetzt verfügbar. Kommen Sie und stellen Sie sich der Herausforderung!
-Bowling Ball
-Tennis Ball
-Herausforderung abgeschlossen : #Level#
-Download über Mobile Daten fortsetzen?
-Mobile Daten Warnung
+Die Noten-Herausforderung ist beendet. Versuche es später erneut!
+• In diesem Event musst du jeden Diamanten und jede Krone sammeln und das Level mit nur einem Würfel meistern – und denk daran: Wiederbelebungen sind nicht erlaubt! Bist du bereit?\n\n• Die Hilfslinien sind während des Spiels deaktiviert. Jetzt kommt es ganz auf dein Können an!\n\n• Wenn du das Level perfekt abgeschlossen hast, kehre zur Eventseite zurück und hole deine Belohnungen ab!
+Verbindung zum Internet fehlgeschlagen. Überprüfe deine Netzwerkverbindung und versuche es erneut.
+Gegenstand Eingelöst
+#item# erfolgreich eingelöst
+Möchtest du #item# einlösen?
+Der Shop wird jeden Montag aktualisiert
+Der Noten-Shop wurde aktualisiert. Entdecke die neuen Angebote!
+Die Noten-Herausforderung dieser Woche ist jetzt verfügbar. Meistere die Level!
+Bowlingkugel
+Tennisball
+Herausforderung Abgeschlossen: #Level#
+Download über mobile Daten fortsetzen?
+Warnung Zu Mobilen Daten
 Fehler
 Ein unbekannter Fehler ist aufgetreten!
-Cursor ausblenden
-Im Stillstand
-Während dem Spielen
-Niemals
-Official
+Mauszeiger Ausblenden
+Bei Inaktivität
+Während Des Spielens
+Nie
+Offiziell
 Remix
 Event
-Season
+Saison
 Original
-Legacy
-Fanmade
+Klassiker
+Von Fans erstellt
 Max Studio
 WINDER Studio
-Bitte melden Sie sich in den Systemeinstellungen beim Game Center an
-Status Bar
+Bitte melde dich in den Systemeinstellungen bei Game Center an
+Statusleiste
 DLRS GAS
 Profil
-Account Einstellungen
-Benutzername: {0}\nUser ID: {1}
-Bildwiederholrate
-Bildwiederholrate anzeigen
+Kontoeinstellungen
+Benutzername: {0}\nBenutzer-ID: {1}
+Bildrate
+Bildrate Anzeigen
 Server
-Multi-touch Unterstützung
-Come & Get It - Selena Gomez
+Multitouch-Unterstützung
+Come & Get It – Selena Gomez
 Song
 In die Zwischenablage kopiert
-App Icon
-Spielfortschritt exportieren
-Spielfortschritt importieren
-The Tree of Void
-Betreten Sie den geheimen Pfad in The Hollowness
-Das automatische Klicken ist möglicherweise nicht genau, bis das Level heruntergeladen wurde.
-Aktualisieren der Spieldatenbank
+App-Symbol
+Spielfortschritt Exportieren
+Spielfortschritt Importieren
+Der Baum der Leere
+Betritt den geheimen Weg in Die Leere
+Automatisches Tippen ist möglicherweise ungenau, bis das Level heruntergeladen wurde.
+Spieldatenbank Wird Aktualisiert
 Standard
 Grün
-The Duet
-QQ Group
-QQ Channel
-Render Auflösung
+Das Duett
+QQ-Gruppe
+QQ-Kanal
+Renderauflösung
 Automatisch
 Hüte
 Ablegen
-Sci-Fi
+Science-Fiction
 https://dl-community.github.io/Docs/#/en/legal/eula
 https://dl-community.github.io/Docs/#/en/legal/privacy
 https://dl-community.github.io/Docs/#/dlce/level_information
 https://dl-community.github.io/Docs/#/en/dlce/localization
-Vollendet
+abgeschlossen
 Blau
 Gelb
 Klassisch
-Audiositzung unterbrochen
-Da die aktuelle Audiositzung vom System unterbrochen wurde, kann das Spiel vorübergehend nicht fortgesetzt werden. Bitte vermeiden Sie alle Apps oder Prozesse, die den Spielton unterbrechen könnten, und versuchen Sie es erneut.
-Zuletzt synchronisiert: {0}\nCloud Data Version: {1}
-Jetzt synchronisieren
-Die Synchronisierung erfolgt zu häufig.
+Audiowiedergabe Unterbrochen
+Da die Audiowiedergabe derzeit vom System unterbrochen wird, kann das Spiel vorübergehend nicht fortgesetzt werden. Bitte schließe Apps oder Prozesse, die den Spielton unterbrechen könnten, und versuche es erneut.
+Letzte Synchronisierung: {0}\nCloud-Datenversion: {1}
+Jetzt Synchronisieren
+Synchronisierung erfolgt zu häufig
 Synchronisierung erfolgreich
 Synchronisierung fehlgeschlagen
-Cloud-Spielstand
-Zuletzt synchronisiert
-Cloud Data Version
-Synchronisierung...
-Der Systemsprache folgen
+Cloud-Speicherstand
+Zuletzt Synchronisiert
+Cloud-Datenversion
+Wird synchronisiert …
+Systemsprache Verwenden
 Kopieren
-Externes Verzeichnis öffnen
-Das direkte Öffnen eines Verzeichnisses wird derzeit nicht unterstützt. Bitte klicken Sie auf die Schaltfläche, um das folgende Verzeichnis zu kopieren und manuell zu öffnen:\n\n#DIRECTORY#
-DL RS Spiele-Account System
-Email…
-Password…
-Nutzername speichern
-Account Login
-Login
+Externes Verzeichnis Öffnen
+Das direkte Öffnen eines Verzeichnisses wird derzeit nicht unterstützt. Klicke auf die Schaltfläche, um den folgenden Pfad zu kopieren, und öffne ihn manuell:\n\n#DIRECTORY#
+DL RS Games-Kontosystem
+E-Mail …
+Passwort …
+Benutzer Merken
+Kontoanmeldung
+Anmelden
 Registrieren
-Passwort vergessen
-Anmeldung…
-Anmeldung abgelaufen
+Passwort Vergessen
+Anmeldung läuft …
+Zeitüberschreitung bei der Anmeldung
 Fehler
 Falsche E-Mail-Adresse oder falsches Passwort
-Dieser Account befindet sich nicht auf der Whitelist
-Dieser Account muss aktiviert werden
-App veraltet, bitte auf Updates prüfen.
+Dieses Konto steht nicht auf der Freigabeliste
+Dieses Konto muss aktiviert werden
+App veraltet. Bitte suche nach Updates.
 Willkommen, {0}!
 Anmeldung erfolgreich
 Bitte E-Mail-Adresse eingeben
 Bitte Passwort eingeben
-Durch die Anmeldung stimmen Sie den <b><color=#3d6ec0>DLRS GAS Nutzungsbedingungen</color></b> zu.
-Kürzlich genutzter Account
+Mit der Anmeldung stimmst du den <b><color=#3d6ec0>Nutzungsbedingungen von DLRS GAS</color></b> zu
+Zuletzt Verwendetes Konto
 Neue Anmeldung
-Sind Sie sicher, dass Sie das Konto #name# entfernen möchten?
-Wird in einem externen Browser geöffnet…
-Dieser Account wurde gesperrt
-Benutzerdaten werden heruntergeladen…
+Möchtest du das Konto #name# wirklich entfernen?
+Wird in einem externen Browser geöffnet …
+Dieses Konto wurde gesperrt
+Benutzerdaten werden heruntergeladen …
 Spielerdaten konnten nicht geladen werden
 Abmelden
-Sind Sie sicher, dass Sie sich von #USERNAME# abmelden möchten?
-Open Source Libraries
+Möchtest du dich wirklich von #USERNAME# abmelden?
+Open-Source-Bibliotheken
 https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
 Statistiken
 Abgeschlossen
 Diamanten
 Kronen
-Gestorben
-Level Versuche
+Tode
+Levelversuche
 Wiederbelebungen
-Level Abgeschlossen
-Eingesammelte Diamanten
-Eingesammelte Kronen
-Eingesammelte Sterne
+Abgeschlossene Durchläufe
+Aufgesammelte Diamanten
+Aufgesammelte Kronen
+Verdiente Sterne
 Ausgegebene Sterne
-Verdiente Energiewürfel
+Erhaltene Energiewürfel
 Verbrauchte Energiewürfel
 Verdiente Noten
 Ausgegebene Noten
-Skins im Besitz
-Hüte im Besitz
-Multisample AA (#SHORT#)
-Fast Approximate AA (#SHORT#)
-Temporal AA (#SHORT#)
-Subpixel Morphological AA (#SHORT#)
+Eigene Skins
+Eigene Hüte
+Multisample-Kantenglättung (#SHORT#)
+Schnelle Approximative Kantenglättung (#SHORT#)
+Zeitliche Kantenglättung (#SHORT#)
+Subpixel-morphologische Kantenglättung (#SHORT#)
 AMD FidelityFX™ Super Resolution (#SHORT#)
 Planet
 Stern
-Gehe zu #LEVELNAME#
-Die Verwendung dieser Option kann während des Spiels zu Rucklern oder einer fehlerhaften Bilddarstellung führen.
+Zu #LEVELNAME# wechseln
+Diese Option kann während des Spielens zu Rucklern oder Darstellungsfehlern führen.
 Warnung
-Audio Gerät
-Eingebauter Lautsprecher
+Audiogerät
+Integrierter Lautsprecher
 Lautsprecher
-Es konnten kein Level unter diesem Namen gefunden werden.
-Alle Übereinstimmungen
-Beliebige Übereinstimmung
+Keine Level gefunden, die den Suchbegriffen entsprechen.
+Alle Begriffe
+Beliebiger Begriff
 Spielbar
-Anmeldung mit E-Mail und Passwort
-Anmeldung über OAuth
-Autorisierung fehlgeschlagen. Bitte versuchen Sie es erneut.
+Mit E-Mail und Passwort anmelden
+Mit OAuth anmelden
+Autorisierung fehlgeschlagen. Bitte versuche es erneut.
 Deaktivieren
 Aktivieren
-Wenn diese Funktion deaktiviert wird, werden Ihre Statistiken gelöscht und das Spiel zeichnet keine Daten mehr auf, bis sie wieder aktiviert wird.
-App veraltet, bitte auf Updates prüfen.
-Einlösungscode
-Einlösungscode eingeben…
+Wenn du diese Funktion deaktivierst, werden deine Statistiken gelöscht. Das Spiel zeichnet erst wieder Daten auf, wenn du sie erneut aktivierst.
+App veraltet. Bitte suche nach Updates.
+Einlösecode
+Einlösecode eingeben …
 Einlösen
-Einlösung läuft noch, bitte versuchen Sie es etwas später erneut.
-Der Einlösungscode ist ungültig oder wurde bereits verwendet.
-Folgende Inhalte wurden erfolgreich eingelöst:
+Einlösen vorübergehend gesperrt. Bitte versuche es später erneut.
+Der Einlösecode ist ungültig oder wurde bereits verwendet.
+Folgende Gegenstände wurden erfolgreich eingelöst:
 Level: #NAME#
 Skin: #NAME#
 Hut: #NAME#
 Noten × {0}
-Head in the Clouds
+Über den Wolken
 Nutzungsbedingungen
-Die Überprüfung der Integrität der Spielumgebung ist fehlgeschlagen.
-Steam Overlay
+Integritätsprüfung der Spielumgebung fehlgeschlagen.
+Steam-Overlay
 Monument Valley
 Cheetah-Teddy
 Der Zauberer von Oz
-Chinesischer Drache
-Audio Mixer
+Der Chinesische Drache
+Audiomixer
 Mono
 Stereo
-4.0 Surround
-5.0 Surround
-5.1 Surround
-7.1 Surround
-Level auswählen
-Level Kollektion
+4.0-Surround
+5.0-Surround
+5.1-Surround
+7.1-Surround
+Level Auswählen
+Levelsammlung
 Auf Steam kaufen
-Dies kann über Steam als DLC gekauft und installiert werden
-Legacy
-Level Einreichung
+Kaufe und installiere diesen DLC im Steam-Shop
+Klassiker
+Level Einreichen
 {0}s
 {0}m {1}s
 {0}h {1}m {3}s
 {0}h {1}m
-Herunterladen der Updates fehlgeschlagen. Erneut versuchen?
-Neue Updates verfügbar, {0} Download(s) erforderlich. Fortfahren?
-Der vergessene Hafen
-Überprüfung auf Updates fehlgeschlagen. Erneut versuchen?
-Herunterladen der Updates fehlgeschlagen. Erneuter Versuch…
+Update-Download fehlgeschlagen. Erneut versuchen?
+Neue Updates verfügbar. Download von {0} erforderlich. Fortfahren?
+Der Vergessene Zufluchtsort
+Updateprüfung fehlgeschlagen. Erneut versuchen?
+Update-Download fehlgeschlagen. Neuer Versuch …
 Zusammenarbeit
-Level überspringen
-{0} Noten verwenden, um dieses Challenge Level zu überspringen?
-Nicht genügend Noten. Du benötigst mindestens {0}, um überspringen zu können.
+Level Überspringen
+{0} Noten ausgeben, um dieses Herausforderungslevel zu überspringen?
+Nicht genügend Noten. Du benötigst mindestens {0}, um es zu überspringen.
 {0}d {1}h
 Aktualisierung in: {0}
-Decoration
-VSync is currently enabled. Frame rate settings only take effect when VSync is disabled.\nDo you want to disable VSync?
-Der Server wird derzeit gewartet. Während dieser Zeit ist das Spielen nicht möglich.\n\nGrund für die Wartung: {0}\nEndzeitpunkt: {1}
-Bitte achten Sie auf weitere offizielle Ankündigungen.
-Ihre Sitzung ist abgelaufen. Möglicherweise haben Sie sich von einem anderen Gerät aus angemeldet. \nBitte melden Sie sich erneut an.
-Der Server wird derzeit gewartet. Sie können sich während der Wartung im Spiel anmelden, jedoch kann das Spiel instabil sein.\n\nGrund für die Wartung: {0}\nEndzeit: {1}
+Dekoration
+VSync ist derzeit aktiviert. Die Bildrateneinstellungen wirken sich nur aus, wenn VSync deaktiviert ist.\nMöchtest du VSync deaktivieren?
+Der Server wird derzeit gewartet. Während dieser Zeit ist das Spielen nicht möglich.\n\nGrund der Wartung: {0}\nEndzeit: {1}
+Bitte achte auf weitere offizielle Ankündigungen.
+Deine Kontositzung ist abgelaufen. Möglicherweise hast du dich auf einem anderen Gerät angemeldet.\nBitte melde dich erneut an.
+Der Server wird derzeit gewartet. Du kannst dich während der Wartung anmelden, aber der Spieldienst ist möglicherweise instabil.\n\nGrund der Wartung: {0}\nEndzeit: {1}
 Missionen
 Aktualisierung in: {0}
-Im Spiel anmelden
-Schließe ein beliebiges Level {0} Mal ab
+Beim Spiel anmelden
+Schließe ein beliebiges Level {0}-mal ab
 Verbrauche {0} Würfel
 Verbrauche {0} Sterne
-Stirb {0} Mal in einem beliebigen Level
+Stirb {0}-mal in einem beliebigen Level
 Sammle {0} Diamanten in einem beliebigen Level
 Sammle {0} Kronen in einem beliebigen Level
-Stelle {0} Mal in einem beliebigen Level wieder her
-Sterne erhalten
-Level-spezielle Interaktion
-Dieses Level bietet spezielle Interaktionen, die über den Touchscreen oder durch Gedrückthalten der Taste ausgelöst werden können.
+Belebe dich {0}-mal in einem beliebigen Level wieder
+Sterne Erhalten
+Besondere Levelinteraktion
+Dieses Level enthält besondere Interaktionen, die durch Berühren des Bildschirms oder Gedrückthalten einer Taste ausgelöst werden können.
 Verbindung zum Steam-Netzwerk nicht möglich
 Steam Cloud
-Gesperrter Level
+Gesperrtes Level
 Funktion 1
 Funktion 2
 Funktion 3
@@ -565,26 +565,26 @@ Funktion 5
 Zurück
 Abbrechen
 Kaufen
-Naechstes Level
-Hauptmenue
-Level starten
-Spiel beenden
+Nächstes Level
+Hauptmenü
+Level Starten
+Spiel Beenden
 Vorheriges Level
 Vorherige Seite
-Naechste Seite
+Nächste Seite
 Audio
-Hauptlautstärke
-Initialisierung des Steam-Clients fehlgeschlagen, bitte starten Sie das Spiel neu.
-Keine Verbindung zum Steam-Client möglich. Bitte stellen Sie sicher, dass der Steam-Client ausgeführt wird, und starten Sie das Spiel neu.
-Der Steam-Client scheint veraltet zu sein, bitte stellen Sie sicher, dass Ihr Steam-Client auf dem neuesten Stand ist.
+Gesamtlautstärke
+Steam-Client konnte nicht initialisiert werden. Bitte starte das Spiel neu.
+Verbindung zum Steam-Client nicht möglich. Stelle sicher, dass Steam läuft, und starte das Spiel neu.
+der Steam-client scheint veraltet zu sein. bitte aktualisiere Steam.
 Steam-Fehler
-Der Steam-Cloud-Speicherstand ist beschädigt und kann nicht gelesen werden.\nMöglicherweise haben Sie das Spiel während des Speichervorgangs beendet, wodurch unvollständige Daten in den Speicherstand geschrieben wurden.\nDas Spiel hat versucht, den Speicherstand aus dem lokalen Cache zu lesen, was jedoch fehlgeschlagen ist.\nSie können einen neuen Speicherstand erstellen und das Spiel starten. Möchten Sie fortfahren ?
+Der Steam-Cloud-Spielstand ist beschädigt und kann nicht gelesen werden.\nMöglicherweise hast du das Spiel während des Speicherns beendet, sodass unvollständige Daten gespeichert wurden.\nDas Spiel hat versucht, den Spielstand aus dem lokalen Cache zu lesen, aber auch das ist fehlgeschlagen.\nDu kannst das Spiel mit einem neuen Spielstand starten. Möchtest du fortfahren?
 Steam-Cloud-Fehler
-Wenn du die Führungslinie in diesem Level aktivierst, wechselst du in den Übungsmodus: Alle Ergebnisse zählen nicht zum Fortschritt von Level und täglichen Missionen, es können keine Belohnungen erhalten und keine Erfolge freigeschaltet werden. Aktivieren?
+Im Übungsmodus wird die Hilfslinie aktiviert.\n\nFolge der Hilfslinie, um den Weg kennenzulernen und alles zu genießen, was das Level zu bieten hat.\n\nLass dir Zeit, den richtigen Weg zu finden – dein Rekord kann warten. Fortschritte im Übungsmodus zählen nicht für Punktestände, Missionen oder Erfolge.\n\nÜbungsmodus aktivieren?
 Übungsmodus
 Übungsmodus
-WARNUNG: LICHTEMPFINDLICHKEIT / EPILEPTISCHE ANFÄLLE
-<b>Photosensitive seizures</b>\n\nEine sehr geringe Anzahl von Personen kann unter Umständen einen epileptischen Anfall erleiden, wenn sie bestimmten visuellen Bildern ausgesetzt ist, einschließlich blinkender Lichter oder Muster, die in Videospielen vorkommen. Selbst Personen ohne Vorgeschichte von Anfällen oder Epilepsie können eine unerkannte Erkrankung haben, die während des Spielens von Videospielen zu diesen „lichtempfindlichen epileptischen Anfällen“ führen kann. Diese Anfälle können verschiedene Symptome umfassen, wie Benommenheit, verändertes Sehvermögen, Zuckungen im Augen- oder Gesichtsbereich, Ruckeln oder Schütteln der Arme oder Beine, Orientierungsstörungen, Verwirrung oder kurzzeitigen Bewusstseinsverlust. Anfälle können auch zu Bewusstlosigkeit oder Krämpfen führen, die zu Verletzungen durch Hinfallen oder Anstoßen an nahe gelegene Gegenstände führen können. Beenden Sie das Spiel sofort und konsultieren Sie einen Arzt, wenn Sie eines dieser Symptome bei sich bemerken. Eltern sollten bei ihren Kindern auf die oben genannten Symptome achten bzw. sie danach fragen – Kinder und Jugendliche sind anfälliger für diese Anfälle als Erwachsene.\n\nDas Risiko von lichtempfindlichen epileptischen Anfällen kann verringert werden, indem Sie die folgenden Vorsichtsmaßnahmen befolgen: • Setzen oder stellen Sie sich weiter vom Bildschirm weg. • Verwenden Sie einen kleineren Bildschirm. • Spielen Sie in einem gut beleuchteten Raum. • Spielen Sie nicht, wenn Sie müde oder erschöpft sind. • Wenn bei Ihnen oder einem Ihrer Verwandten in der Vergangenheit bereits Anfälle oder Epilepsie aufgetreten sind, fragen Sie vor dem Spielen Ihren Arzt um Rat.
-
+WARNUNG: LICHTEMPFINDLICHKEIT/EPILEPTISCHE ANFÄLLE
+<b>BITTE LIES DIESEN HINWEIS VOR DEM SPIELEN</b>\n\nBei einem sehr kleinen Prozentsatz der Menschen können bestimmte blinkende Lichter oder Lichtmuster epileptische Anfälle oder Bewusstlosigkeit auslösen. Auch Menschen ohne bekannte Vorgeschichte von Anfällen oder Epilepsie können beim Spielen von Videospielen entsprechende Symptome oder Anfälle erleben.\n\nWenn du oder jemand aus deiner Familie an Epilepsie leidet oder jemals einen Anfall hatte, konsultiere vor dem Spielen von Videospielen einen Arzt.\n\nBEENDE DAS SPIEL SOFORT und suche ärztliche Hilfe, wenn bei dir oder deinem Kind eines der folgenden Symptome auftritt: Schwindel, Sehstörungen, Augen- oder Muskelzucken, unwillkürliche Bewegungen, Bewusstseinsverlust, Orientierungslosigkeit oder Krämpfe. Eltern sollten auf diese Symptome achten oder ihre Kinder danach fragen.\n\nDu kannst das Risiko lichtempfindlichkeitsbedingter epileptischer Anfälle verringern, indem du weiter vom Bildschirm entfernt sitzt, einen kleineren Bildschirm verwendest, in einem gut beleuchteten Raum spielst und nicht spielst, wenn du schläfrig oder erschöpft bist.
+Steam-Bestenliste
 Hilfslinie
 Level-Freischaltung

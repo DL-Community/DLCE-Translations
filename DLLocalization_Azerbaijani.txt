@@ -1,0 +1,590 @@
+Azərbaycan dili
+English
+az
+Dancing Line
+Dil
+BİZİ BƏYƏNİN
+Yüklənir
+Kublar Əldə Et
+ən yaxşı təcrübə üçün\nqulaqlıqdan istifadə edin
+Video əlçatan deyil
+Müvəqqəti açmaq üçün videoya baxın
+Pulsuz Aç
+Kilidi aç
+Yeni səviyyə açıldı:
+{0} Pulsuz Əldə Et
+{0} Kub Al
+Sonsuz Kublar
+Yenidən dolmasına qalan vaxt: {0}
+Kublar yenidən doldu. Gəlin yenə rəqs edək!
+başlamaq üçün toxunun
+OLDU
+Bəli
+Xeyr
+Aktiv
+Deaktiv
+Ləğv et
+Fasilə verildi
+Keyfiyyət
+Çox Aşağı
+Aşağı
+Orta
+Yüksək
+Ultra
+Maksimum
+Kənar hamarlama
+Səs
+Şaquli sinxronizasiya
+Sinxronizasiya
+Avtomatik Tənzimləmə
+Musiqi Gecikməsi
+Toxunma Reaksiyası
+Çıxışı Təsdiqlə
+Oyundan çıxmaq istəyirsiniz?
+Haqqında
+Versiya
+Səviyyə Dizaynerləri
+Tərcümə Komandası
+Bilibili
+YouTube
+Son İstifadəçi Lisenziya Müqaviləsi
+Məxfilik Siyasəti
+Discord
+Ekran Rejimi
+Eksklüziv Tam Ekran
+Pəncərəli Tam Ekran
+Pəncərəli
+Şaquli
+Üfüqi
+Ekran təsvir ölçüsü
+Son nəzarət nöqtəsindən davam edilsin?
+#Yeni Rekord# üçün daha #X%# lazımdır
+#Növbəti Yoxlama Nöqtəsi# üçün daha #X%# lazımdır
+#Tamamlama# üçün daha #X%# lazımdır
+Pulsuz
+Davam et
+Axtar
+Məlumatları Sil
+Məlumatlar sıfırlandı. Oyunu yenidən başladın.
+Bu əməliyyat tamamlandıqdan sonra oyun məlumatlarınız silinəcək. Ehtiyatlı olun.
+Nəzərə alın ki, bu əməliyyatı tamamladıqdan sonra Dancing Line məlumatlarınız (şəxsi məlumatlarınız və Dancing Line məhsullarından istifadə zamanı yaradılmış digər məlumatlar daxil olmaqla) həmişəlik silinəcək və bərpa edilə bilməyəcək. Qərarınızı diqqətlə verin.
+Sil
+Məlumatlar silinir…\nBulud və yerli yaddaşdakı oyun qeydləriniz təmizlənəcək
+Əlçatanlıq
+Dancing Line oyununda X%-i keçə bilərsiniz? Gəlin birlikdə oynayaq!
+Sazlama Jurnallarına Bax
+Standart Ayarları Bərpa Et
+Hüquqi Məlumatlar Və Məxfilik
+Tətbiqdən istifadə etməzdən əvvəl Son İstifadəçi Lisenziya Müqaviləsini və Məxfilik Siyasətini qəbul etməlisiniz.
+Qəbul et və davam et
+Oyundan çıx
+Giriş/Çıxış Buferinin Ölçüsü
+Səs Çıxışının Gecikməsi
+Toxunma Girişinin Gecikməsi
+BETA VERSİYA ##UID# YAYMAYIN
+Giroskop Effektləri
+Game Center
+Götür
+Gündəlik Pulsuz Ulduzlar
+{0} sonra götürmək olar
+Təchiz edilib
+Təchiz et
+Pulsuz Dirilmələr: {0}/{1}
+İstiqamət xəttini müvəqqəti açmaq üçün {0} ulduz xərcləmək istəyirsiniz?
+Gündəlik pulsuz ulduzları götürmək mümkün olmadı: vaxt yoxlaması uğursuz oldu.
+Qabaqcıl Ayarlar
+Bu ayar yalnız cari səviyyəyə tətbiq olunur və qlobal musiqi gecikməsinə əsasən hər səviyyə üçün ayrıca tənzimləmə aparmağa imkan verir.\n\n<b>Faktiki gecikmə = Səviyyə gecikməsi + Qlobal gecikmə</b>
+Mükafatlar
+Mükafatlar: {0}
+{1} səviyyəsində {0} almaz toplandı
+{1} səviyyəsində {0} tac toplandı
+Səviyyə tamamlandı: {0}
+Ritmə uyğun olaraq istiqaməti dəyişmək üçün ekranın istənilən yerinə toxunun.
+Bu oyun musiqi ilə oynanmaq üçün hazırlanıb.
+Barmağınızı sürüşdürməyin. Bu işləmir.
+Uçarkən ekrana toxunmağa ehtiyac yoxdur.
+Piramidaya 45° bucaq altında daxil olarkən toxunmayın.
+Üzən kuba toxunaraq personajın görünüşünü dəyişə bilərsiniz.
+Səviyyələri mükəmməl tamamlamaq üçün bütün almazları və tacları toplayın.
+Nailiyyətlər
+[Gizli]
+Tamamlandı: #x#
+#x# - Tamamlandı
+#x# - 10 almaz
+#x# - 3 tac
+#x# səviyyəsini tamamla
+#x# səviyyəsində bütün almazları topla
+#x# səviyyəsində bütün tacları topla
+Draqoniyanın sirri
+Draqoniya nağıllarında ən azı bir gizli yol tap
+Bu, Paymondur?
+Qarşımızdakı ərazini sonra araşdırsaq, necə olar?
+L.A.B.İ.R.İ.N.T.
+Labirintdə gizli yolu tap
+Pasifizm
+Müharibədə sülh süjet xəttinə daxil ol
+2-ci ildönümü şənliyi
+Miladınız mübarək……\nvə 2-ci ildönümümüz mübarək!
+Daşsız Usta
+Macərada zindandan qaçan biri ilə qarşılaş
+Ulduzlu Səma
+Ulduzlarla dolu səma xoş sürprizlər vəd edir
+Düymə Təyinatları
+Daxiletmə gözlənilir…\nKlaviaturada və ya kontrollerdə istifadə etmək istədiyiniz düyməni basın
+Geri
+Oyuna Fasilə Ver
+Personajın Idarə Edilməsi
+İstiqamət Xətti
+Ayarlar
+Görünüş
+Sol
+Sağ
+Təsdiqlə
+Yenidən başlat
+Nailiyyətlər
+Backspace
+Enter
+Enter
+ESC
+Space
+Sol WIN
+Sağ WIN
+Sol CMD
+Sağ CMD
+▲
+▼
+◀
+▶
+Sol Shift
+Sağ Shift
+Sol Option
+Sağ Option
+Sol CTRL
+Sağ CTRL
+Sol Option
+Sağ Option
+Menyu
+Tamamlandı
+Nəzarət nöqtəsi
+Miladınız Mübarək!
+Topla
+Toxun
+Bu, sənsiz mümkün olmazdı.\nBiz birik.
+Niyə…
+Hər şey daha da pisləşir…
+Dünyanın Sonu
+Öz ulduzunun ardınca get! — Dante
+Bir dəfə uçduqdan sonra gözlərin həmişə göyə dikiləcək. \n\t\t\t\t\t\t\t\t Leonardo da Vinçi
+Sən tək deyilsən.
+Sevgi və yeməklə bağlı\nheç nəyə peşman olma.
+Normal
+Qulaqlıqlar
+Kağız
+Zevs
+Xaos
+Dağlar
+Çin Fırçası
+Sehrli Cadugər
+Sürüşən ilan
+Domino daşları
+Modul
+İşıq
+Qar topu
+Ox
+Balina
+Qarlı Duman
+Stalaqmit
+Kloun
+Uçan Bulud
+İlan
+Jele
+Sehrli Plaş
+Bomba Skeleti
+Şar
+Od topu
+Piramida
+Top
+Firuzəyi Top
+Qara Top
+Sadə Top
+Basketbol topu
+Ulduz Gücü
+Robot
+Adsız Səviyyə
+Başlanğıc
+Zaman
+Piano
+Çimərlik
+Qış
+Savanna
+Qərb
+Sevgililər Günü
+Hellouin
+Dalana Gedən Küçə
+Səhra
+Fırtına
+Fırtına
+Dağlar
+Düzənliklər
+Düzənliklər
+Labirint
+Yer
+Atəşfəşanlıq Cənnəti
+Milad Ərəfəsi
+Payız
+Kristal
+Üçüncü Ildönümü
+Beşinci Ildönümü
+Xaos
+Kafedral
+Kafedral
+Dənizçinin Hekayəsi
+Qatilin əfsanəsi
+Çin Bağı
+Yarış
+Tezliklə
+Son — Theo5970
+Romantika
+Bahar
+Çin Yeni Ili
+Samuray
+Draqoniya nağılları
+Çirkin Ördək Balası
+Videooyun
+Köç
+Okean
+Buğa Bürcü
+Səma arzusu
+Basketbol
+Milad Şənliyi
+Hindistan Səyahəti
+Müharibə
+Sirr
+Futbol
+Hip-hopun Təkamülü
+Pasxa
+Bahar Laylası
+Hellouin Tapmacası
+Əyləncə Parkı
+Faded — Alan Walker
+Faded (Təlim Versiyası)
+Despacito
+Alone — Alan Walker
+Zen Bağı
+Samuray HD
+Ranço
+Faded — Alan Walker
+All About Us
+Təkamül (P13)
+Şirniyyat Möcüzələr Diyarı
+Kosmos
+Kəşf — Chronos
+Macəra
+Apokalipsis
+Səyahət
+Riyaziyyat
+Çiskin
+Sərgərdanlıq
+Boşluq
+Xatirə
+Qəzəb fırtınası
+Yoxdur
+Milad Papağı
+Bambuk Pərvanə
+Sehrbaz Papağı
+Meksika Papağı
+Kotelyon
+Şirin It Papağı
+Pəri
+Siçovul
+Yeni səviyyə endirilir
+İnternet bağlantısını kəsməyin
+Daxiletmə Göstəricisi
+Səviyyəni endirmək mümkün olmadı
+Keşi Təmizlə
+Səviyyə və musiqi kimi endirilmiş keş məlumatları silinəcək. Davam edilsin?
+Cari #Current# versiyası köhnəlib. Oynamaq üçün ən azı #Latest# versiyasına yeniləməlisiniz.
+Reklam konfiqurasiyalarını yükləmək mümkün olmadı
+Yenidən cəhd et
+Yeniləmələr yoxlanılır…
+Konfiqurasiyalar Yenilənir
+Yeniləmələr Endirilir
+Səyahət hələ bitməyib…
+Daha çoxu gələcək…
+Hər şey üçün təşəkkürlər, Dancing Line oyunçuları!
+Yeniləmə Tələb Olunur
+Qlobal Sinxronizasiya Tənzimləməsi
+Səviyyə Sinxronizasiyasının Tənzimlənməsi
+Avtomatik Düzəliş
+Paylaş
+Mətni Kopyala
+Şəkli Saxla
+Şəkli Kopyala
+Nəyin silinəcəyini seçin
+Oyun Irəliləyişini Sil
+Yeni Rekord
+Mükəmməl
+Satışda deyil
+Not Çağırışı
+Not Mağazası
+Tükənib
+Ulduzlar × {0}
+Kublar × {0}
+Çağırış
+Çərşənbə Axşamı — Bazar
+Qaydalar
+Not qazanmaq üçün bu səviyyəni mükəmməl tamamlayın!
+Not çağırışı başa çatıb. Daha sonra yenidən sınayın!
+• Bu tədbirdə məqsədiniz bütün almazları və tacları toplamaq və səviyyəni cəmi bir kubla keçməkdir. Unutmayın: dirilməyə icazə verilmir! Çağırışa hazırsınız?\n\n• Oyun zamanı istiqamət xətləri söndürülür. Hər şey sizin bacarığınızdan asılıdır!\n\n• Səviyyəni mükəmməl tamamladıqdan sonra mükafatlarınızı götürmək üçün tədbir səhifəsinə qayıtmağı unutmayın!
+İnternetə qoşulmaq mümkün olmadı. Bağlantınızın sabit olduğuna əmin olun və yenidən cəhd edin.
+Əşya Əldə Edildi
+#item# uğurla əldə edildi
+#item# əldə etmək istəyirsiniz?
+Mağaza hər bazar ertəsi yenilənir
+Not mağazası yeniləndi. Yeniliklərə baxın!
+Bu həftənin Not çağırışı artıq əlçatandır. Gəlin səviyyələri keçin!
+Boulinq Topu
+Tennis Topu
+Çağırış Tamamlandı: #Level#
+Mobil internet vasitəsilə endirməyə davam edilsin?
+Mobil Internet Xəbərdarlığı
+Xəta
+Naməlum xəta baş verdi!
+Kursoru Gizlət
+Hərəkətsiz Olduqda
+Oyun Zamanı
+Heç vaxt
+Rəsmi
+Remiks
+Tədbir
+Mövsüm
+Orijinal
+Köhnə versiya
+Azarkeşlərin hazırladığı
+Max Studio
+WINDER Studio
+Sistem ayarlarında Game Center hesabınıza daxil olun
+Status Sətri
+DLRS GAS
+Profil
+Hesab Ayarları
+İstifadəçi Adı: {0}\nİstifadəçi ID-si: {1}
+Kadr Tezliyi
+Kadr Tezliyini Göstər
+Server
+Çoxnöqtəli Toxunma Dəstəyi
+Come & Get It — Selena Gomez
+Mahnı
+Mübadilə buferinə kopyalandı
+Tətbiq Nişanı
+Oyun Irəliləyişini Ixrac Et
+Oyun Irəliləyişini Idxal Et
+Boşluq ağacı
+Boşluq səviyyəsində gizli yola daxil ol
+Səviyyə endirilənədək avtomatik toxunmalar dəqiq olmaya bilər.
+Oyun Verilənlər Bazası Yenilənir
+Standart
+Yaşıl
+Duet
+QQ qrupu
+QQ kanalı
+Render Təsvir Ölçüsü
+Avtomatik
+Papaqlar
+Çıxar
+Elmi fantastika
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+tamamlandı
+Mavi
+Sarı
+Klassik
+Səs Sessiyası Kəsildi
+Səs sessiyası sistem tərəfindən kəsildiyinə görə oyun müvəqqəti olaraq davam edə bilmir. Oyunun səsini kəsə biləcək tətbiq və proseslərdən çəkinin və yenidən cəhd edin.
+Son Sinxronizasiya: {0}\nBulud Məlumatlarının Versiyası: {1}
+İndi Sinxronizasiya Et
+Sinxronizasiya çox tez-tez aparılır
+Sinxronizasiya uğurlu oldu
+Sinxronizasiya uğursuz oldu
+Bulud Yaddaşı
+Son Sinxronizasiya
+Bulud Məlumatlarının Versiyası
+Sinxronizasiya edilir…
+Sistem Dilini Izlə
+Kopyala
+Xarici Qovluğu Aç
+Hazırda qovluğu birbaşa açmaq dəstəklənmir. Aşağıdakı qovluq yolunu kopyalamaq üçün düyməyə basın və onu əl ilə açın:\n\n#DIRECTORY#
+DL RS Games Hesab Sistemi
+E-poçt…
+Şifrə…
+İstifadəçini Yadda Saxla
+Hesaba Giriş
+Daxil ol
+Qeydiyyatdan keç
+Şifrəni Unutmusunuz?
+Daxil olunur…
+Giriş üçün vaxt limiti bitdi
+Xəta
+E-poçt və ya şifrə yanlışdır
+Bu hesab icazəli istifadəçilər siyahısında deyil
+Bu hesab aktivləşdirilməlidir
+Tətbiq köhnəlib. Yeniləmələri yoxlayın.
+Xoş gəlmisiniz, {0}!
+Giriş uğurlu oldu
+E-poçt ünvanını daxil edin
+Şifrəni daxil edin
+Daxil olmaqla <b><color=#3d6ec0>DLRS GAS Xidmət Şərtləri</color></b> ilə razılaşırsınız
+Son Istifadə Olunan Hesab
+Yeni Giriş
+#name# hesabını silmək istədiyinizə əminsiniz?
+Xarici brauzerdə açılır…
+Bu hesab bloklanıb
+İstifadəçi məlumatları endirilir…
+Oyunçu məlumatlarını yükləmək mümkün olmadı
+Hesabdan çıx
+#USERNAME# hesabından çıxmaq istədiyinizə əminsiniz?
+Açıq Mənbəli Kitabxanalar
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistika
+Tamamlandı
+Almazlar
+Taclar
+Ölümlər
+Səviyyəyə Başlama Sayı
+Dirilmələr
+Səviyyəni Tamamlama Sayı
+Götürülən Almazlar
+Götürülən Taclar
+Qazanılan Ulduzlar
+Xərclənən Ulduzlar
+Qazanılan Enerji Kubları
+İstifadə Olunan Enerji Kubları
+Qazanılan Notlar
+Xərclənən Notlar
+Sahib Olunan Görünüşlər
+Sahib Olunan Papaqlar
+Çoxnümunəli Kənar Hamarlama (#SHORT#)
+Sürətli Təxmini Kənar Hamarlama (#SHORT#)
+Zamansal Kənar Hamarlama (#SHORT#)
+Altpiksel Morfoloji Kənar Hamarlama (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planet
+Ulduz
+#LEVELNAME# səviyyəsinə keç
+Bu seçim oyun zamanı donmalara və ya görüntünün səhv göstərilməsinə səbəb ola bilər.
+Xəbərdarlıq
+Səs Cihazı
+Daxili Dinamik
+Dinamiklər
+Axtarış sözlərinə uyğun səviyyə tapılmadı.
+Hamısına Uyğun
+Hər Hansı Birinə Uyğun
+Oynanıla bilən
+E-poçt və şifrə ilə daxil ol
+OAuth ilə daxil ol
+İcazələndirmə uğursuz oldu. Yenidən cəhd edin.
+Deaktiv et
+Aktiv et
+Deaktiv edildikdə statistikanız silinəcək və yenidən aktivləşdirilənədək oyun məlumatları qeydə almayacaq.
+Tətbiq köhnəlib. Yeniləmələri yoxlayın.
+Hədiyyə Kodu
+Hədiyyə kodunu daxil edin…
+Kodu istifadə et
+Koddan istifadə üçün gözləmə müddəti bitməyib. Daha sonra cəhd edin.
+Hədiyyə kodu etibarsızdır və ya artıq istifadə olunub.
+Aşağıdakı əşyalar uğurla əldə edildi:
+Səviyyə: #NAME#
+Görünüş: #NAME#
+Papaq: #NAME#
+Notlar × {0}
+Buludların üstündə
+Xidmət şərtləri
+Oyun mühitinin bütövlüyünün yoxlanması uğursuz oldu.
+Steam örtüyü
+Monument Valley
+Cheetah ayıcığı
+Oz ölkəsinin sehrbazı
+Çin Əjdahası
+Səs Mikşeri
+Mono
+Stereo
+4.0 ətraf səs
+5.0 ətraf səs
+5.1 ətraf səs
+7.1 ətraf səs
+Səviyyə Seç
+Səviyyə Kolleksiyası
+Steam-də satın al
+Bu əlavə məzmunu Steam mağazasından alıb quraşdırın
+Köhnə versiya
+Səviyyə Təqdimatı
+{0}san
+{0}dəq {1}san
+{0}saat {1}dəq {3}san
+{0}saat {1}dəq
+Yeniləmələri endirmək mümkün olmadı. Yenidən cəhd edilsin?
+Yeni yeniləmələr mövcuddur. {0} endirilməlidir. Davam edilsin?
+Unudulmuş Sığınacaq
+Yeniləmələri yoxlamaq mümkün olmadı. Yenidən cəhd edilsin?
+Yeniləmələri endirmək mümkün olmadı. Yenidən cəhd edilir…
+Əməkdaşlıq
+Səviyyəni Ötür
+Bu çağırış səviyyəsini ötürmək üçün {0} not istifadə edilsin?
+Kifayət qədər not yoxdur. Ötürmək üçün ən azı {0} not lazımdır.
+{0}g {1}saat
+Yenilənməyə qalan vaxt: {0}
+Bəzək
+Hazırda VSync aktivdir. Kadr tezliyi ayarları yalnız VSync deaktiv olduqda qüvvəyə minir.\nVSync deaktiv edilsin?
+Server hazırda texniki xidmətdədir. Bu müddətdə oyun əlçatan olmayacaq.\n\nTexniki xidmətin səbəbi: {0}\nBitmə vaxtı: {1}
+Əlavə rəsmi elanları izləyin.
+Hesab sessiyanızın müddəti bitib. Ola bilsin, başqa cihazdan daxil olmusunuz.\nYenidən daxil olun.
+Server hazırda texniki xidmətdədir. Bu müddətdə oyuna daxil ola bilərsiniz, lakin oyun xidməti qeyri-sabit işləyə bilər.\n\nTexniki xidmətin səbəbi: {0}\nBitmə vaxtı: {1}
+Tapşırıqlar
+Yenilənməyə qalan vaxt: {0}
+Oyuna daxil ol
+İstənilən səviyyəni {0} dəfə tamamla
+{0} kub xərclə
+{0} ulduz xərclə
+İstənilən səviyyədə {0} dəfə məğlub ol
+İstənilən səviyyədə {0} almaz topla
+İstənilən səviyyədə {0} tac topla
+İstənilən səviyyədə {0} dəfə diril
+Ulduz Əldə Et
+Səviyyəyə Məxsus Xüsusi Qarşılıqlı Əlaqə
+Bu səviyyədə ekrana toxunmaqla və ya düyməni basılı saxlamaqla aktivləşdirilən xüsusi qarşılıqlı əlaqələr var.
+Steam şəbəkəsinə qoşulmaq mümkün deyil
+Steam Cloud
+Kilidli Səviyyə
+Funksiya 1
+Funksiya 2
+Funksiya 3
+Funksiya 4
+Funksiya 5
+Geri
+Ləğv et
+Satın al
+Növbəti Səviyyə
+Əsas Menyu
+Səviyyəyə Başla
+Oyundan Çıx
+Əvvəlki Səviyyə
+Əvvəlki Səhifə
+Növbəti Səhifə
+Səs
+Ümumi Səs Səviyyəsi
+Steam müştərisini başlatmaq mümkün olmadı. Oyunu yenidən başladın.
+Steam müştərisinə qoşulmaq mümkün deyil. Steam-in işlədiyinə əmin olun və oyunu yenidən başladın.
+Steam müştərisi köhnəlib. Steam-i ən son versiyaya yeniləyin.
+Steam xətası
+Steam bulud yaddaşındakı oyun qeydi zədələnib və oxuna bilmir.\nBuna oyundan yadda saxlanma zamanı çıxmağınız və məlumatların natamam yazılması səbəb ola bilər.\nOyun yerli keşdən qeydi oxumağa çalışdı, lakin bu da uğursuz oldu.\nYeni oyun qeydi ilə başlaya bilərsiniz. Davam etmək istəyirsiniz?
+Steam Cloud Xətası
+Məşq rejimi istiqamət xəttini aktivləşdirəcək.\n\nMarşrutu öyrənmək və səviyyənin bütün imkanlarından sərbəst yararlanmaq üçün istiqamət xəttini izləyin.\n\nTələsmədən irəliləyin — rekord gözləyə bilər. Məşq rejimində əldə edilən irəliləyiş xallara, tapşırıqlara və nailiyyətlərə hesablanmır.\n\nMəşq rejimi aktiv edilsin?
+Məşq Rejimi
+Məşq Rejimi
+XƏBƏRDARLIQ: İŞIĞA HƏSSASLIQ / EPİLEPTİK TUTMALAR
+<b>OYNAMAZDAN ƏVVƏL BU BİLDİRİŞİ OXUYUN</b>\n\nİnsanların çox kiçik bir hissəsi müəyyən yanıb-sönən işıqlara və ya işıq naxışlarına məruz qaldıqda epileptik tutmalar və ya huş itirmə halları yaşaya bilər. Hətta əvvəllər epileptik tutma keçirməmiş şəxslərdə də videooyun zamanı belə əlamətlər və ya tutmalar yarana bilər.\n\nSizdə və ya qohumlarınızda epilepsiya varsa, yaxud hər hansı tutma baş veribsə, videooyun oynamazdan əvvəl həkimlə məsləhətləşin.\n\nSizdə və ya uşağınızda aşağıdakı əlamətlərdən hər hansı biri yaranarsa, oyunu DƏRHAL DAYANDIRIN və həkimə müraciət edin: başgicəllənmə, görmədə dəyişiklik, göz və ya əzələ səyriməsi, qeyri-iradi hərəkətlər, şüurun itməsi, istiqaməti müəyyənləşdirə bilməmə və ya qıcolmalar. Valideynlər uşaqlarında bu əlamətləri müşahidə etməli və onlardan bu barədə soruşmalıdırlar.\n\nİşığa həssaslıqla bağlı epileptik tutma riskini azaltmaq üçün ekrandan uzaqda oturun, daha kiçik ekrandan istifadə edin, yaxşı işıqlandırılmış otaqda oynayın və yuxulu və ya yorğun olduğunuz zaman oynamayın.
+Steam liderlər cədvəli
+İstiqamət Xətti
+Səviyyənin Kilidini Aç

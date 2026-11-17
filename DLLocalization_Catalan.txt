@@ -1,0 +1,590 @@
+Català
+English
+ca
+Dancing Line
+Idioma
+SEGUEIX-NOS
+Carregant
+Aconsegueix Cubs
+per gaudir de la millor experiència\nutilitza auriculars
+Vídeo no disponible
+Mira un vídeo per desbloquejar-lo temporalment
+Desbloqueig Gratuït
+Desbloqueja
+Nou nivell desbloquejat:
+Aconsegueix {0} Gratis
+Compra {0} Cubs
+Cubs Infinits
+Es recarregaran d'aquí a: {0}
+Els cubs s'han recarregat. Tornem a ballar!
+toca per començar
+D'ACORD
+Sí
+No
+Activat
+Desactivat
+Cancel·la
+En pausa
+Qualitat
+Molt Baixa
+Baixa
+Mitjana
+Alta
+Ultra
+Màxima
+Antialiàsing
+So
+Sincronització vertical
+Sincronització
+Ajust Automàtic
+Retard De La Música
+Resposta Tàctil
+Confirma La Sortida
+Vols sortir del joc?
+Quant a
+Versió
+Dissenyadors De Nivells
+Equip De Localització
+Bilibili
+YouTube
+Acord De Llicència D'usuari Final
+Política De Privadesa
+Discord
+Mode De Visualització
+Pantalla Completa Exclusiva
+Finestra A Pantalla Completa
+Mode finestra
+Vertical
+Horitzontal
+Resolució
+Vols continuar des de l'últim punt de control?
+Falta un #X%# per al #Nou rècord#
+Falta un #X%# per al #Següent punt de control#
+Falta un #X%# per #Completar#
+Gratis
+Continua
+Cerca
+Suprimeix Les Dades
+S'han restablert les dades. Reinicia el joc.
+Les dades del joc se suprimiran quan acabi aquest procés. Continua amb precaució.
+Tingues en compte que, un cop completat aquest procés, les teves dades de Dancing Line (incloses les dades personals i qualsevol altra dada generada en utilitzar els productes de Dancing Line) se suprimiran permanentment i no es podran recuperar. Decideix-ho amb cura abans de continuar.
+Suprimeix
+Suprimint les dades…\nS'esborraran les partides desades al núvol i al dispositiu
+Accessibilitat
+Pots superar el X% a Dancing Line? Vine a jugar amb mi!
+Mostra Els Registres De Depuració
+Restaura Els Valors Predeterminats
+Informació Legal I Privadesa
+Abans d'utilitzar l'aplicació, has d'acceptar l'Acord de llicència d'usuari final i la Política de privadesa.
+Accepta i continua
+Surt del joc
+Mida De La Memòria Intermèdia D'E/S
+Latència De Sortida D'àudio
+Latència D'entrada Tàctil
+VERSIÓ BETA ##UID# NO LA DIFONGUIS
+Efectes Del Giroscopi
+Game Center
+Reclama
+Estrelles Diàries Gratuïtes
+Disponible d'aquí a {0}
+Equipat
+Equipa
+Reanimacions Gratuïtes: {0}/{1}
+Vols gastar {0} estrelles per desbloquejar temporalment la línia guia?
+No s'han pogut reclamar les estrelles diàries gratuïtes: ha fallat la verificació de l'hora.
+Configuració Avançada
+Aquesta opció només s'aplica al nivell actual i permet ajustar cada nivell individualment a partir del retard global de la música.\n\n<b>Retard real = Retard del nivell + Retard global</b>
+Recompenses
+Recompenses: {0}
+Has recollit {0} diamants al nivell: {1}
+Has recollit {0} corones al nivell: {1}
+Nivell completat: {0}
+Segueix el ritme i toca qualsevol punt de la pantalla per canviar de direcció.
+Aquest joc està pensat per jugar-hi amb la música activada.
+No llisquis el dit. No funciona.
+No cal tocar la pantalla mentre voles.
+No toquis la pantalla quan entris a la piràmide a 45°.
+Pots canviar l'aspecte del personatge tocant el cub flotant.
+Recull tots els diamants i les corones per completar els nivells perfectament.
+Assoliments
+[Ocult]
+Completats: #x#
+#x# - Completat
+#x# - 10 diamants
+#x# - 3 corones
+Completa #x#
+Recull tots els diamants a #x#
+Recull totes les corones a #x#
+El secret de Dragonia
+Troba almenys un camí ocult a Les històries de Dragonia
+És la Paimon?
+I si explorem la zona que tenim al davant més tard?
+L.A.B.E.R.I.N.T.
+Troba el camí ocult a El laberint
+Pacifisme
+Accedeix a la història de pau a La guerra
+Festa del segon aniversari
+Bon Nadal…\ni feliç segon aniversari
+Mestre Sense Gemmes
+Troba algú que s'hagi escapat d'una masmorra a L'aventura
+Cel Estrellat
+La immensitat estrellada promet sorpreses meravelloses
+Assignació De Tecles
+Esperant una entrada…\nPrem la tecla que vulguis utilitzar al teclat o al comandament
+Enrere
+Posa El Joc En Pausa
+Control Del Personatge
+Línia Guia
+Configuració
+Aspecte
+Esquerra
+Dreta
+Confirma
+Reinicia
+Assoliments
+Retrocés
+Retorn
+Intro
+ESC
+Espai
+Windows Esquerra
+Windows Dreta
+Command Esquerra
+Command Dreta
+▲
+▼
+◀
+▶
+Majúscules Esquerra
+Majúscules Dreta
+Opció Esquerra
+Opció Dreta
+Ctrl Esquerra
+Ctrl Dreta
+Opció Esquerra
+Opció Dreta
+Menú
+Completat
+Punt de control
+Bon Nadal
+Recull
+Toca
+Això no hauria estat possible sense tu.\nSom un de sol.
+Per què…
+Tot empitjora…
+La Fi Del Món
+Segueix la teva pròpia estrella! —Dante
+Quan hagis volat, caminaràs mirant cap al cel.\n\t\t\t\t\t\t\t\t Leonardo da Vinci
+No estàs sol.
+No et penedeixis de res\nen qüestions d'amor i menjar.
+Normal
+Auriculars
+Paper
+Zeus
+Caos
+Muntanyes
+Pinzell Xinès
+Bruixa Màgica
+Serp lliscant
+Dòminos
+Mòdul
+Llum
+Bola de neu
+Fletxa
+Balena
+Boira De Neu
+Estalagmita
+Pallasso
+Núvol Volador
+Serp
+Gelatina
+Capa Màgica
+Esquelet Bomba
+Globus
+Bola de foc
+Piràmide
+Pilota
+Pilota Cian
+Pilota Negra
+Pilota Llisa
+Pilota de bàsquet
+Poder Estel·Lar
+Robot
+Nivell Sense Nom
+El Començament
+El Temps
+El Piano
+La Platja
+L'hivern
+La Sabana
+L'oest
+Sant Valentí
+Halloween
+El Carreró
+El Desert
+La Tempesta
+La Tempesta
+Les Muntanyes
+Les Planes
+Les Planes
+El Laberint
+La Terra
+El Paradís Dels Focs Artificials
+La Nit De Nadal
+La Tardor
+El Cristall
+El Tercer Aniversari
+El Cinquè Aniversari
+El Caos
+La Catedral
+La Catedral
+El Relat Del Mariner
+La llegenda de l'assassí
+El Jardí Xinès
+La Cursa
+Pròximament
+El Final - Theo5970
+El Romanç
+La Primavera
+L'Any Nou Xinès
+El Samurai
+Les històries de Dragonia
+L'aneguet Lleig
+El Videojoc
+L'èxode
+L'oceà
+El Signe de Taure
+Somni del cel
+El Bàsquet
+La Festa De Nadal
+El Viatge A L'Índia
+La Guerra
+El Misteri
+El Futbol
+L'evolució Del Hip-hop
+Pasqua
+La Cançó De Bressol Primaveral
+El Trencaclosques De Halloween
+El Parc D'atraccions
+Faded - Alan Walker
+Faded (Versió Tutorial)
+Despacito
+Alone - Alan Walker
+Jardí Zen
+El Samurai HD
+El Ranxo
+Faded - Alan Walker
+All About Us
+L'evolució (P13)
+El País De Les Meravelles Dels Postres
+L'espai
+El Descobriment - Chronos
+L'aventura
+L'apocalipsi
+El Viatge
+Les Matemàtiques
+El Plugim
+El Vagareig
+El Buit
+El Record
+Tempesta d'ira
+Cap
+Barret De Nadal
+Libèl·Lula De Bambú
+Barret De Mag
+Barret Mexicà
+Barret Bombí
+Barret De Gosset Dolç
+Follet
+Rata
+S'està baixant un nivell nou
+Mantén la connexió a Internet
+Indicadors D'entrada
+No s'ha pogut baixar el nivell
+Esborra La Memòria Cau
+S'esborraran les dades desades a la memòria cau, com ara els nivells i la música baixats. Vols continuar?
+La versió actual #Current# està obsoleta. Has d'actualitzar com a mínim a la versió #Latest# per jugar.
+No s'han pogut carregar les configuracions dels anuncis
+Torna-ho a provar
+Comprovant si hi ha actualitzacions…
+Actualitzant Les Configuracions
+Baixant Les Actualitzacions
+El viatge encara no s'ha acabat…
+N'arribaran més…
+Gràcies per tot, jugadors de Dancing Line!
+Cal Actualitzar
+Ajust De Sincronització Global
+Ajust De Sincronització Del Nivell
+Correcció Automàtica
+Comparteix
+Copia El Text
+Desa La Imatge
+Copia La Imatge
+Tria què vols esborrar
+Esborra El Progrés Del Joc
+Nou Rècord
+Perfecte
+No està a la venda
+Repte De Notes
+Botiga De Notes
+Esgotat
+Estrelles × {0}
+Cubs × {0}
+Repte
+De Dimarts A Diumenge
+Normes
+Completa aquest nivell perfectament per aconseguir notes!
+El repte de notes ha acabat. Torna-ho a provar més endavant!
+• En aquest esdeveniment, la teva missió és recollir tots els diamants i les corones i superar el nivell amb un sol cub. I recorda: no es permeten reanimacions! Acceptes el repte?\n\n• Les línies guia estan desactivades durant la partida, així que tot depèn de la teva habilitat!\n\n• Quan hagis completat el nivell perfectament, torna a la pàgina de l'esdeveniment per reclamar les recompenses!
+No s'ha pogut connectar a Internet. Comprova que la connexió sigui estable i torna-ho a provar.
+Objecte Bescanviat
+Has bescanviat #item# correctament
+Vols bescanviar #item#?
+La botiga es renova cada dilluns
+La botiga de notes s'ha renovat. Descobreix les novetats!
+El repte de notes d'aquesta setmana ja està disponible. Vine a superar els nivells!
+Bola De Bitlles
+Pilota De Tennis
+Repte Completat: #Level#
+Vols continuar la baixada amb dades mòbils?
+Avís Sobre Les Dades Mòbils
+Error
+S'ha produït un error desconegut!
+Amaga El Cursor
+Quan Estigui Inactiu
+Durant La Partida
+Mai
+Oficial
+Remescla
+Esdeveniment
+Temporada
+Original
+Clàssic
+Creat per fans
+Max Studio
+WINDER Studio
+Inicia la sessió a Game Center des de la configuració del sistema
+Barra D'estat
+DLRS GAS
+Perfil
+Configuració Del Compte
+Nom D'usuari: {0}\nID D'usuari: {1}
+Fotogrames Per Segon
+Mostra Els Fotogrames Per Segon
+Servidor
+Compatibilitat Multitàctil
+Come & Get It - Selena Gomez
+Cançó
+Copiat al porta-retalls
+Icona De L'aplicació
+Exporta El Progrés Del Joc
+Importa El Progrés Del Joc
+L'arbre del buit
+Entra al camí secret d'El buit
+Els clics automàtics poden ser imprecisos fins que s'hagi baixat el nivell.
+Actualitzant La Base De Dades Del Joc
+Predeterminat
+Verd
+El Duet
+Grup de QQ
+Canal de QQ
+Resolució De Renderització
+Automàtic
+Barrets
+Desequipa
+Ciència-ficció
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+completat
+Blau
+Groc
+Clàssic
+Sessió D'àudio Interrompuda
+El sistema ha interromput la sessió d'àudio actual i el joc no pot continuar temporalment. Evita les aplicacions o els processos que puguin interrompre l'àudio del joc i torna-ho a provar.
+Última Sincronització: {0}\nVersió De Les Dades Al Núvol: {1}
+Sincronitza Ara
+Les sincronitzacions són massa freqüents
+Sincronització correcta
+Ha fallat la sincronització
+Partida Desada Al Núvol
+Última Sincronització
+Versió De Les Dades Al Núvol
+Sincronitzant…
+Segueix L'idioma Del Sistema
+Copia
+Obre El Directori Extern
+Actualment no es pot obrir un directori directament. Prem el botó per copiar el directori següent i obre'l manualment:\n\n#DIRECTORY#
+Sistema De Comptes DL RS Games
+Correu electrònic…
+Contrasenya…
+Recorda L'usuari
+Inici De Sessió Del Compte
+Inicia la sessió
+Registra't
+Has Oblidat La Contrasenya?
+Iniciant la sessió…
+S'ha esgotat el temps d'espera de l'inici de sessió
+Error
+Correu electrònic o contrasenya incorrectes
+Aquest compte no és a la llista de comptes autoritzats
+Cal activar aquest compte
+L'aplicació està obsoleta. Comprova si hi ha actualitzacions.
+Et donem la benvinguda, {0}!
+Sessió iniciada correctament
+Introdueix el correu electrònic
+Introdueix la contrasenya
+En iniciar la sessió, acceptes les <b><color=#3d6ec0>Condicions del servei de DLRS GAS</color></b>
+Compte Recent
+Inici De Sessió Nou
+Segur que vols eliminar el compte #name#?
+Obrint al navegador extern…
+Aquest compte ha estat bloquejat
+Baixant les dades de l'usuari…
+No s'han pogut carregar les dades del jugador
+Tanca la sessió
+Segur que vols tancar la sessió de #USERNAME#?
+Biblioteques De Codi Obert
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Estadístiques
+Completats
+Diamants
+Corones
+Morts
+Intents De Nivell
+Reanimacions
+Vegades Completat
+Diamants Recollits
+Corones Recollides
+Estrelles Aconseguides
+Estrelles Gastades
+Cubs D'energia Aconseguits
+Cubs D'energia Utilitzats
+Notes Aconseguides
+Notes Gastades
+Aspectes Obtinguts
+Barrets Obtinguts
+Antialiàsing De Mostreig Múltiple (#SHORT#)
+Antialiàsing Aproximat Ràpid (#SHORT#)
+Antialiàsing Temporal (#SHORT#)
+Antialiàsing Morfològic De Subpíxels (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planeta
+Estrella
+Ves a #LEVELNAME#
+Aquesta opció pot provocar interrupcions o una visualització incorrecta de les imatges durant la partida.
+Avís
+Dispositiu D'àudio
+Altaveu Integrat
+Altaveus
+No s'han trobat nivells que coincideixin amb les paraules clau.
+Coincidència Amb Totes
+Coincidència Amb Qualsevol
+Jugable
+Inicia la sessió amb correu electrònic i contrasenya
+Inicia la sessió amb OAuth
+Ha fallat l'autorització. Torna-ho a provar.
+Desactiva
+Activa
+Si ho desactives, s'esborraran les estadístiques i el joc deixarà de registrar dades fins que ho tornis a activar.
+L'aplicació està obsoleta. Comprova si hi ha actualitzacions.
+Codi De Bescanvi
+Introdueix el codi de bescanvi…
+Bescanvia
+Has d'esperar abans de tornar a bescanviar un codi. Torna-ho a provar més tard.
+El codi de bescanvi no és vàlid o ja s'ha utilitzat.
+Has bescanviat correctament els objectes següents:
+Nivell: #NAME#
+Aspecte: #NAME#
+Barret: #NAME#
+Notes × {0}
+Amb el cap als núvols
+Condicions del servei
+Ha fallat la verificació de la integritat de l'entorn del joc.
+Superposició de Steam
+Monument Valley
+Osset Cheetah
+El màgic d'Oz
+El Drac Xinès
+Mesclador D'àudio
+Mono
+Estèreo
+So envoltant 4.0
+So envoltant 5.0
+So envoltant 5.1
+So envoltant 7.1
+Selecciona Un Nivell
+Col·Lecció De Nivells
+Compra a Steam
+Compra i instal·la aquest DLC a la botiga de Steam
+Clàssic
+Enviament De Nivells
+{0}s
+{0}min {1}s
+{0}h {1}min {3}s
+{0}h {1}min
+Ha fallat la baixada de les actualitzacions. Vols tornar-ho a provar?
+Hi ha actualitzacions noves disponibles. Cal baixar {0}. Vols continuar?
+El Refugi Oblidat
+No s'han pogut comprovar les actualitzacions. Vols tornar-ho a provar?
+Ha fallat la baixada de les actualitzacions. Tornant-ho a provar…
+Col·laboració
+Salta El Nivell
+Vols utilitzar {0} notes per saltar aquest nivell del repte?
+No tens prou notes. En necessites almenys {0} per saltar-lo.
+{0}d {1}h
+Es renova d'aquí a: {0}
+Decoració
+La sincronització vertical està activada. Els ajustos de fotogrames per segon només tenen efecte quan està desactivada.\nVols desactivar-la?
+El servidor està en manteniment. No es podrà jugar durant aquest període.\n\nMotiu del manteniment: {0}\nHora de finalització: {1}
+Estigues pendent dels pròxims anuncis oficials.
+La sessió del compte ha caducat. És possible que hagis iniciat la sessió en un altre dispositiu.\nTorna a iniciar la sessió.
+El servidor està en manteniment. Pots iniciar la sessió durant el manteniment, però el servei de joc pot ser inestable.\n\nMotiu del manteniment: {0}\nHora de finalització: {1}
+Missions
+Es renoven d'aquí a: {0}
+Inicia la sessió al joc
+Completa qualsevol nivell {0} vegades
+Gasta {0} cubs
+Gasta {0} estrelles
+Mor {0} vegades en qualsevol nivell
+Recull {0} diamants en qualsevol nivell
+Recull {0} corones en qualsevol nivell
+Reanima't {0} vegades en qualsevol nivell
+Aconsegueix Estrelles
+Interacció Especial Del Nivell
+Aquest nivell inclou interaccions especials que es poden activar tocant la pantalla o mantenint premuda una tecla.
+No es pot connectar a la xarxa de Steam
+Steam Cloud
+Nivell Bloquejat
+Funció 1
+Funció 2
+Funció 3
+Funció 4
+Funció 5
+Enrere
+Cancel·la
+Compra
+Nivell Següent
+Menú Principal
+Inicia El Nivell
+Surt Del Joc
+Nivell Anterior
+Pàgina Anterior
+Pàgina Següent
+Àudio
+Volum General
+No s'ha pogut inicialitzar el client de Steam. Torna a iniciar el joc.
+No es pot connectar al client de Steam. Comprova que estigui en execució i torna a iniciar el joc.
+sembla que el client de Steam està obsolet. assegura't que estigui actualitzat.
+Error de Steam
+La partida desada a Steam Cloud està malmesa i no es pot llegir.\nÉs possible que hagis sortit del joc mentre es desava, cosa que ha provocat que les dades s'escrivissin incompletes.\nEl joc ha intentat llegir la partida des de la memòria cau local, però tampoc no ho ha aconseguit.\nPots iniciar el joc amb una partida nova. Vols continuar?
+Error De Steam Cloud
+El mode de pràctica activarà la línia guia.\n\nSegueix-la per aprendre el recorregut i gaudir lliurement de tot el que ofereix el nivell.\n\nPren-te el temps que necessitis per trobar el camí: el rècord pot esperar. El progrés del mode de pràctica no comptarà per a les puntuacions, les missions ni els assoliments.\n\nVols activar el mode de pràctica?
+Mode De Pràctica
+Mode De Pràctica
+AVÍS: FOTOSENSIBILITAT I CRISIS EPILÈPTIQUES
+<b>LLEGEIX AQUEST AVÍS ABANS DE JUGAR</b>\n\nUn percentatge molt petit de persones pot patir crisis epilèptiques o pèrdues de consciència en exposar-se a determinats llums intermitents o patrons lluminosos. Aquestes persones, i fins i tot persones sense antecedents de crisis o epilèpsia, poden experimentar símptomes epilèptics o crisis mentre juguen a videojocs.\n\nSi tu o algun familiar teniu epilèpsia o heu patit qualsevol tipus de crisi, consulteu un metge abans de jugar a videojocs.\n\nDEIXA DE JUGAR IMMEDIATAMENT i consulta un metge si tu o el teu fill experimenteu algun dels símptomes següents: mareig, alteracions de la visió, espasmes oculars o musculars, moviments involuntaris, pèrdua de consciència, desorientació o convulsions. Els pares han d'observar si els fills presenten aquests símptomes o preguntar-los-ho.\n\nPots reduir el risc de crisis epilèptiques fotosensibles prenent les precaucions següents: seu més lluny de la pantalla, utilitza una pantalla més petita, juga en una habitació ben il·luminada i no juguis si tens son o estàs cansat.
+Classificació de Steam
+Línia Guia
+Desbloqueig Del Nivell

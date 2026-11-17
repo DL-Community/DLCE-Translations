@@ -1,0 +1,590 @@
+Gaeilge
+English
+ga
+Dancing Line
+Teanga
+IS MAITH LEAT SINN
+Ag lódáil
+Faigh Ciúbanna
+chun an t-eispéireas is fearr a fháil\núsáid cluasáin
+Níl an físeán ar fáil
+Féach ar fhíseán chun é a dhíghlasáil go sealadach
+Díghlasáil Saor in Aisce
+Díghlasáil
+Díghlasáladh leibhéal nua:
+Faigh {0} Saor in Aisce
+Ceannaigh {0} Ciúb
+Ciúbanna Gan Teorainn
+Athluchtú i gceann: {0}
+Athluchtaíodh na ciúbanna. Déanaimis damhsa arís.
+tapáil chun tosú
+OK
+Sea
+Níl
+Ar
+As
+Cealaigh
+Ar Sos
+Cáilíocht
+An-Íseal
+Íseal
+Meánach
+Ard
+An-Ard
+Uasmhéid
+Frithailiasú
+Fuaim
+VSync
+Sioncrónú
+Coigeartú Uathoibríoch
+Moill an Cheoil
+Aiseolas Tadhaill
+Deimhnigh Scoir
+Ar mhaith leat éirí as an gcluiche?
+Eolas
+Leagan
+Dearthóirí Leibhéal
+Foireann Logánaithe
+Bilibili
+YouTube
+Comhaontú Ceadúnais Úsáideora Deiridh
+Polasaí Príobháideachais
+Discord
+Mód Taispeána
+Lánscáileán Eisiach
+Fuinneog Lánscáileáin
+I bhFuinneog
+Portráid
+Tírdhreach
+Taifeach
+Lean ar aghaidh ón seicphointe deireanach?
+Teastaíonn #X%# eile chun #Taifead Nua# a bhaint amach
+Teastaíonn #X%# eile chun an #Chéad Seicphointe Eile# a bhaint amach
+Teastaíonn #X%# eile le haghaidh #Críochnú#
+Saor in Aisce
+Lean ar Aghaidh
+Cuardaigh
+Scrios Sonraí
+Athshocraíodh na sonraí. Atosaigh an cluiche, le do thoil.
+Scriosfar do shonraí cluiche nuair a bheidh an próiseas seo críochnaithe. Lean ar aghaidh go cúramach, le do thoil.
+Cuimhnigh go scriosfar do shonraí Dancing Line go buan nuair a chríochnóidh tú an próiseas seo (lena n-áirítear aon fhaisnéis phearsanta agus aon sonraí eile a cruthaíodh trí tháirgí Dancing Line a úsáid), agus nach mbeifear in ann iad a aisghabháil. Déan do rogha go cúramach.
+Scrios
+Ag Scriosadh Sonraí…\nGlanfar do shábhálacha néil agus áitiúla
+Inrochtaineacht
+An féidir leat X% a shárú in Dancing Line? Tar ag imirt liom!
+Féach ar Logaí Dífhabhtaithe
+Athchóirigh Réamhshocruithe
+Dlí agus Príobháideachas
+Sula n-úsáideann tú an aip, caithfidh tú glacadh lenár gComhaontú Ceadúnais Úsáideora Deiridh agus lenár bPolasaí Príobháideachais.
+Glac leis agus lean ar aghaidh
+Fág an cluiche
+Méid Maoláin I/A
+Moill Aschuir Fuaime
+Moill Ionchuir Tadhaill
+LEAGAN BÉITE ##UID# NÁ SCEITH É
+Éifeachtaí Gíreascóip
+Game Center
+Éiligh
+Réaltaí Laethúla Saor in Aisce
+Ar fáil le héileamh tar éis {0}
+Feistithe
+Feistigh
+Athbheochana Saor in Aisce: {0}/{1}
+Ar mhaith leat {0} réalta a chaitheamh chun an líne threorach a dhíghlasáil go sealadach?
+Níorbh fhéidir na réaltaí laethúla saor in aisce a éileamh; theip ar fhíorú ama.
+Ardsocruithe
+Ní bhaineann an socrú seo ach leis an leibhéal reatha, agus ceadaíonn sé coigeartuithe ar leith do gach leibhéal bunaithe ar an moill cheoil dhomhanda.\n\n<b>Moill Iarbhír = Moill an Leibhéil + Moill Dhomhanda</b>
+Luaíochtaí
+Luaíochtaí: {0}
+Bailíodh {0} diamant i leibhéal: {1}
+Bailíodh {0} coróin i leibhéal: {1}
+Críochnaíodh leibhéal: {0}
+Lean an rithim agus tapáil áit ar bith chun treo a athrú.
+Tá an cluiche seo ceaptha le himirt agus an ceol ar siúl.
+Ná sleamhnaigh do mhéar. Ní oibríonn sé.
+Ní gá tapáil agus tú ag eitilt.
+Ná tapáil agus tú ag dul isteach sa phirimid ag 45°
+Is féidir leat cuma an charachtair a athrú ach cliceáil ar an gciúb ar snámh.
+Bailigh na diamaint agus na corónacha go léir chun na leibhéil a chríochnú go foirfe.
+Éachtaí
+[Faoi Cheilt] 
+Críochnaithe: #x#
+#x# - Críochnaithe
+#x# - 10 nDiamant
+#x# - 3 Choróin
+Críochnaigh #x#
+Bailigh gach diamant in #x#
+Bailigh gach coróin in #x#
+Rún Dragonia
+Aimsigh cosán folaithe amháin ar a laghad in  Scéalta Dragonia 
+An é Paimon é sin?
+Cad faoi iniúchadh a dhéanamh ar an gceantar romhainn níos déanaí?
+C.A.T.H.A.I.R.G.H.R.Í.O.B.H.Á.I.N.
+Aimsigh an cosán folaithe in  An Chathair Ghríobháin 
+Síochánachas
+Téigh isteach i scéal na síochána in  An Cogadh 
+Cóisir an Dara Comóradh
+Nollaig Shona……\nagus an Dara Comóradh
+Máistir Gan Seoda
+Cas le duine a d'éalaigh as dúnfort in  An Eachtra 
+Spéir Réaltach
+Geallann fairsinge na spéire réaltacha iontais aoibhne.
+Ceangail Eochracha
+Ag fanacht le hionchur…\nBrúigh an eochair is mian leat a úsáid ar an méarchlár nó ar an rialtóir
+Siar
+Cuir an Cluiche ar Sos
+Rialú Carachtair
+Líne Threorach
+Socruithe
+Cuma
+Clé
+Deas
+Deimhnigh
+Atosaigh
+Éachtaí
+Cúlspás
+Iontráil
+Iontráil
+ESC
+Spás
+WIN Clé
+WIN Deas
+CMD Clé
+CMD Deas
+▲
+▼
+◀
+▶
+Shift Clé
+Shift Deas
+Option Clé
+Option Deas
+CTRL Clé
+CTRL Deas
+Option Clé
+Option Deas
+Roghchlár
+Críochnaithe
+Seicphointe
+Nollaig Shona
+Bailigh
+Tapáil
+Ní fhéadfaí é seo a dhéanamh gan tusa.\nIs aon dream amháin sinn.
+Cén fáth…
+Tá gach rud ag dul in olcas…
+Deireadh an Domhain
+Lean do réalta féin! -Dante
+Nuair a eitlíonn tú uair amháin, siúlfaidh tú agus do shúile ar an spéir \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Níl tú i d'aonar.
+Ná bíodh aiféala ort faoi chúrsaí\ngrá ná bia.
+Gnáth
+Cluasáin
+Páipéar
+Séas
+Anord
+Sléibhte
+Scuab Shíneach
+Cailleach Dhraíochta
+Sleamhnú
+Dúradáin
+Modúl
+Solas
+Liathróid Sneachta
+Saighead
+Míol Mór
+Ceo Sneachta
+Stalagmhít
+Fear Grinn
+Scamall Eitilte
+Nathair
+Glóthach
+Clóca Draíochta
+Cnámharlach Buama
+Balún
+Liathróid Tine
+Pirimid
+Liathróid
+Liathróid Chian
+Liathróid Dhubh
+Liathróid Shimplí
+Liathróid Cispheile
+Cumhacht Réalta
+Róbat
+Leibhéal Gan Ainm
+An Tús
+An tAm
+An Pianó
+An Trá
+An Geimhreadh
+An tSavána
+An tIarthar
+Lá Fhéile Vailintín
+Oíche Shamhna
+An Caolsráid
+An Fásach
+An Stoirm
+An Stoirm
+Na Sléibhte
+Na Machairí
+Na Machairí
+An Chathair Ghríobháin
+An Domhan
+Parthas na dTinte Ealaíne
+Oíche Nollag
+An Fómhar
+An Criostal
+An Tríú Comóradh
+An Cúigiú Comóradh
+An tAnord
+An Ardeaglais
+An Ardeaglais
+Scéal an Mhairnéalaigh
+Finscéal an Fheallmharfóra
+An Gairdín Síneach
+An Rásaíocht
+Ag Teacht Go Luath
+An Deireadh - Theo5970
+An Rómáns
+An tEarrach
+Bliain Nua na Síne
+An Samúraí
+Scéalta Dragonia
+An Lacha Ghránna
+An Físchluiche
+An tEaxodus
+An tAigéan
+Comhartha Stoidiaca an Tairbh
+Aisling faoin Spéir
+An Chispheil
+Cóisir na Nollag
+An Turas Indiach
+An Cogadh
+An Rúndiamhair
+An Pheil
+Éabhlóid an Hip-Hop
+An Cháisc
+Suantraí an Earraigh
+Puzal Oíche Shamhna
+An Pháirc Siamsaíochta
+Faded - Alan Walker
+Faded (Leagan Teagaisc)
+Despacito
+Alone - Alan Walker
+Gairdín Zen
+An Samúraí HD
+An Feirm
+Faded - Alan Walker
+Gach Rud Fúinn
+An Éabhlóid (P13)
+Tír Iontais na Milseog
+An Spás
+An Fhionnachtain - Chronos
+An Eachtra
+An tApacailipsis
+An Turas
+An Mhatamaitic
+An Ceobhrán
+An Fánaíocht
+An Folús
+An Chuimhne
+Stoirm na Feirge
+Ceann Ar Bith
+Hata Nollag
+Héileacaptar Bambú
+Hata Draoi
+Hata Meicsiceach
+Hata Babhlála
+Hata Madra Gleoite
+Síog
+Francach
+Tá leibhéal nua á íoslódáil
+Fan ceangailte leis an idirlíon, le do thoil
+HUD Ionchuir
+Theip ar íoslódáil an leibhéil
+Glan an Taisce
+Glanfar sonraí taisce amhail leibhéil agus ceol íoslódáilte. Ar mhaith leat leanúint ar aghaidh?
+Tá an leagan reatha #Current# as dáta. Ní mór duit nuashonrú go #Latest# ar a laghad chun imirt.
+Theip ar chumraíochtaí fógraí a lódáil
+Bain Triail Eile As
+Ag Seiceáil le haghaidh Nuashonruithe…
+Ag Nuashonrú Cumraíochtaí
+Ag Íoslódáil Nuashonruithe
+Níl deireadh leis an turas fós…
+Tá tuilleadh le teacht…
+Go raibh maith agaibh as gach rud, a imreoirí Dancing Line!
+Nuashonrú Riachtanach
+Coigeartú Sioncronaithe Domhanda
+Coigeartú Sioncronaithe Leibhéil
+Ceartú Uathoibríoch
+Comhroinn
+Cóipeáil Téacs
+Sábháil Íomhá
+Cóipeáil Íomhá
+Roghnaigh Cad atá le Glanadh
+Glan Dul Chun Cinn an Chluiche
+Taifead Nua
+Foirfe
+Níl ar Díol
+Dúshlán Nótaí
+Siopa Nótaí
+Díolta Amach
+Réaltaí × {0}
+Ciúbanna × {0}
+Dúshlán
+Dé Máirt — Dé Domhnaigh
+Rialacha
+Críochnaigh an leibhéal seo go foirfe chun nótaí a fháil!
+Tá Dúshlán na Nótaí thart. Bain triail as níos déanaí!
+• San imeacht seo, is é do mhisean gach diamant agus coróin a bhailiú agus an leibhéal a shárú le ciúb amháin — agus cuimhnigh, níl aon athbheochan ceadaithe! An bhfuil tú réidh don dúshlán?\n\n• Bíonn na Línte Treorach múchta le linn imeartha, mar sin braitheann sé ar do scileanna féin!\n\n• Nuair a chríochnaíonn tú an leibhéal go foirfe, ná déan dearmad filleadh ar leathanach an imeachta chun do luaíochtaí a éileamh!
+Theip ar nascadh leis an idirlíon. Cinntigh go bhfuil do líonra cobhsaí agus bain triail eile as.
+Mír Fuascailte
+Fuascailt rathúil: #item#
+Ar mhaith leat #item# a fhuascailt?
+Athnuachan an siopa gach Luan
+Athnuadh Siopa na Nótaí. Féach cad atá nua!
+Tá Dúshlán Nótaí na seachtaine seo ar fáil anois. Tar agus sáraigh na leibhéil!
+Liathróid Bhabhlála
+Liathróid Leadóige
+Dúshlán Críochnaithe: #Level#
+Lean ar aghaidh leis an íoslódáil trí shonraí móibíleacha?
+Rabhadh Sonraí Móibíleacha
+Earráid
+Tharla earráid anaithnid!
+Folaigh an Cúrsóir
+Nuair atá sé ina Stad
+Agus tú ag Imirt
+Riamh
+Oifigiúil
+Athmheascadh
+Imeacht
+Séasúr
+Bunaidh
+Oidhreacht
+Déanta ag Lucht Leanúna
+Max Studio
+WINDER Studio
+Logáil isteach i Game Center i Socruithe an Chórais, le do thoil
+Barra Stádais
+DLRS GAS
+Próifíl
+Socruithe Cuntais
+Ainm Úsáideora: {0}\nAitheantas Úsáideora: {1}
+Ráta Frámaí
+Taispeáin Ráta Frámaí
+Freastalaí
+Tacaíocht Il-Tadhaill
+Come & Get It - Selena Gomez
+Amhrán
+Cóipeáladh chuig an ngearrthaisce
+Deilbhín Aipe
+Easpórtáil Dul Chun Cinn an Chluiche
+Iompórtáil Dul Chun Cinn an Chluiche
+Crann an Fholúis
+Téigh isteach sa chosán rúnda in An Folús
+Seans nach mbeidh an t-uathchliceáil cruinn go dtí go n-íoslódálfar an leibhéal.
+Ag Uasghrádú Bhunachar Sonraí an Chluiche
+Réamhshocrú
+Glas
+An Díséad
+Grúpa QQ
+Cainéal QQ
+Taifeach Rindreála
+Uathoibríoch
+Hataí
+Dífheistigh
+Ficsean Eolaíochta
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+críochnaithe
+Gorm
+Buí
+Clasaiceach
+Seisiún Fuaime Idirbhriste
+Toisc gur chuir an córas isteach ar an seisiún fuaime reatha, ní féidir leis an gcluiche leanúint ar aghaidh go sealadach. Seachain aipeanna nó próisis a d'fhéadfadh cur isteach ar fhuaim an chluiche agus bain triail eile as.
+Sioncronaithe go Deireanach: {0}\nLeagan Sonraí Néil: {1}
+Sioncrónaigh Anois
+Tá sioncronú á dhéanamh ró-mhinic
+D'éirigh leis an sioncronú
+Theip ar an sioncronú
+Sábháil Néil
+Sioncronaithe go Deireanach
+Leagan Sonraí Néil
+Ag Sioncronú…
+Lean Teanga an Chórais
+Cóipeáil
+Oscail Comhadlann Sheachtrach
+Ní thacaítear le comhadlann a oscailt go díreach faoi láthair. Cliceáil an cnaipe chun an chomhadlann seo a chóipeáil agus í a oscailt de láimh:\n\n#DIRECTORY#
+Córas Cuntas DL RS Games
+Ríomhphost…
+Pasfhocal…
+Cuimhnigh ar an Úsáideoir
+Logáil Isteach sa Chuntas
+Logáil Isteach
+Cláraigh
+Dearmad ar an bPasfhocal
+Ag Logáil Isteach…
+Chuaigh an tréimhse logála isteach in éag
+Earráid
+Ríomhphost nó pasfhocal mícheart
+Níl an cuntas seo ar an liosta ceadaithe
+Ní mór an cuntas seo a ghníomhachtú
+Tá an aip as dáta. Seiceáil le haghaidh nuashonruithe.
+Fáilte, {0}!
+D'éirigh leis an logáil isteach
+Cuir isteach ríomhphost, le do thoil
+Cuir isteach pasfhocal, le do thoil
+Trí logáil isteach, aontaíonn tú le <b><color=#3d6ec0>Téarmaí Seirbhíse DLRS GAS</color></b>
+Cuntas Le Déanaí
+Logáil Isteach Nua
+An bhfuil tú cinnte gur mhaith leat cuntas #name# a bhaint?
+Á oscailt i mbrabhsálaí seachtrach…
+Cuireadh cosc ar an gcuntas seo
+Ag Íoslódáil Sonraí Úsáideora…
+Theip ar shonraí an imreora a lódáil
+Logáil Amach
+An bhfuil tú cinnte gur mhaith leat logáil amach as #USERNAME#?
+Leabharlanna Foinse Oscailte
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Staitisticí
+Críochnaithe
+Diamaint
+Corónacha
+Básanna
+Iarrachtaí Leibhéil
+Athbheochana
+Líon na gCríochnuithe
+Diamaint Bailithe
+Corónacha Bailithe
+Réaltaí Tuillte
+Réaltaí Caite
+Ciúbanna Fuinnimh Tuillte
+Ciúbanna Fuinnimh Úsáidte
+Nótaí Tuillte
+Nótaí Caite
+Craicne Faoi Úinéireacht
+Hataí Faoi Úinéireacht
+Frithailiasú Ilshamplach (#SHORT#)
+Frithailiasú Garbh Tapa (#SHORT#)
+Frithailiasú Ama (#SHORT#)
+Frithailiasú Moirfeolaíoch Fophicteilíní (#SHORT#)
+AMD FidelityFX™ Sárthaifeach (#SHORT#)
+Pláinéad
+Réalta
+Téigh go #LEVELNAME#
+D'fhéadfadh an rogha seo a bheith ina cúis le stadanna gearra nó taispeáint mhícheart íomhánna le linn imeartha.
+Rabhadh
+Gléas Fuaime
+Callaire Ionsuite
+Callairí
+Níor aimsíodh aon leibhéil a mheaitseálann na heochairfhocail.
+Meaitseáil Gach Ceann
+Meaitseáil Ceann Ar Bith
+Inimeartha
+Logáil isteach le ríomhphost agus pasfhocal
+Logáil isteach trí OAuth
+Theip ar údarú. Bain triail eile as.
+Díchumasaigh
+Cumasaigh
+Nuair a dhíchumasaítear é, glanfar do staitisticí agus ní thaifeadfaidh an cluiche sonraí a thuilleadh go dtí go gcumasófar arís é.
+Tá an aip as dáta. Seiceáil le haghaidh nuashonruithe.
+Cód Fuascailte
+Cuir isteach cód fuascailte…
+Fuascail
+Tá an fhuascailt ar fionraí go sealadach. Bain triail eile as níos déanaí.
+Tá an cód fuascailte neamhbhailí nó úsáideadh cheana é.
+Fuascailt rathúil ar na míreanna seo a leanas:
+Leibhéal: #NAME#
+Cuma: #NAME#
+Hata: #NAME#
+Nótaí × {0}
+Ceann sna Scamaill
+Téarmaí Seirbhíse
+Theip ar fhíorú sláine thimpeallacht an chluiche.
+Forleagan Steam
+Monument Valley
+Béirín Cheetah
+Draoi Oz
+Dragún na Síne
+Meascthóir Fuaime
+Mona
+Steirió
+Timpeallfhuaim 4.0
+Timpeallfhuaim 5.0
+Timpeallfhuaim 5.1
+Timpeallfhuaim 7.1
+Roghnaigh Leibhéal
+Bailiúchán Leibhéal
+Ceannaigh ar Steam
+Ceannaigh agus suiteáil an DLC seo i Siopa Steam
+Oidhreacht
+Leibhéal a Chur Isteach
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Theip ar íoslódáil nuashonruithe. Bain triail eile as?
+Tá nuashonruithe nua ar fáil. Tá íoslódáil {0} de dhíth. Lean ar aghaidh?
+An Tearmann Dearmadta
+Theip ar sheiceáil nuashonruithe. Bain triail eile as?
+Theip ar íoslódáil nuashonruithe. Ag atriail…
+Comhoibriú
+Scipeáil Leibhéal
+Úsáid {0} Nóta chun an leibhéal dúshláin seo a scipeáil?
+Níl dóthain Nótaí ann. Teastaíonn {0} ar a laghad chun scipeáil.
+{0}d {1}h
+Athnuachan i gceann: {0}
+Maisiú
+Tá VSync cumasaithe faoi láthair. Ní bheidh éifeacht ag socruithe ráta frámaí ach nuair a bheidh VSync díchumasaithe.\nAr mhaith leat VSync a dhíchumasú?
+Tá cothabháil ar siúl ar an bhfreastalaí faoi láthair. Ní bheidh an cluiche ar fáil le linn na tréimhse seo.\n\nCúis na Cothabhála: {0}\nAm Críochnaithe: {1}
+Coinnigh súil ar fhógraí oifigiúla eile, le do thoil.
+Tá do sheisiún cuntais imithe in éag. Seans gur logáil tú isteach ar ghléas eile.\nLogáil isteach arís, le do thoil.
+Tá cothabháil ar siúl ar an bhfreastalaí faoi láthair. Is féidir leat logáil isteach sa chluiche le linn na cothabhála, ach d'fhéadfadh an tseirbhís a bheith éagobhsaí.\n\nCúis na Cothabhála: {0}\nAm Críochnaithe: {1}
+Misin
+Athnuachan i gceann: {0}
+Logáil isteach sa chluiche
+Críochnaigh leibhéal ar bith {0} uair
+Úsáid {0} ciúb
+Úsáid {0} réalta
+Faigh bás {0} uair in aon leibhéal
+Bailigh {0} diamant in aon leibhéal
+Bailigh {0} coróin in aon leibhéal
+Athbheoigh {0} uair in aon leibhéal
+Faigh Réaltaí
+Idirghníomhú Speisialta Leibhéil
+Tá idirghníomhaíochtaí speisialta sa leibhéal seo, ar féidir iad a ghníomhachtú trí theagmháil leis an scáileán nó tríd an eochair a choinneáil brúite.
+Ní féidir ceangal le Líonra Steam
+Steam Cloud
+Leibhéal Faoi Ghlas
+Feidhm 1
+Feidhm 2
+Feidhm 3
+Feidhm 4
+Feidhm 5
+Siar
+Cealaigh
+Ceannaigh
+An Chéad Leibhéal Eile
+Príomh-Roghchlár
+Tosaigh Leibhéal
+Fág an Cluiche
+An Leibhéal Roimhe Seo
+An Leathanach Roimhe Seo
+An Chéad Leathanach Eile
+Fuaim
+Príomh-Airde Fuaime
+Theip ar chliant Steam a thúsú. Atosaigh an cluiche, le do thoil.
+Ní féidir ceangal le cliant Steam. Cinntigh go bhfuil cliant Steam ag rith agus atosaigh an cluiche.
+Is cosúil go bhfuil cliant Steam as dáta. Cinntigh go bhfuil do chliant Steam cothrom le dáta.
+Earráid Steam
+Tá sábháil néil Steam truaillithe agus ní féidir í a léamh.\nD'fhéadfadh sé gur fhág tú an cluiche agus é ag sábháil, rud a d'fhág sonraí neamhiomlána sa tsábháil.\nRinne an cluiche iarracht an tsábháil a léamh ón taisce áitiúil ach theip air fós.\nIs féidir leat an cluiche a thosú le sábháil nua. Ar mhaith leat leanúint ar aghaidh?
+Earráid Néil Steam
+Cumasaíonn an Mód Cleachtaidh an Líne Threorach.\n\nLean an Líne Threorach chun an bealach a fhoghlaim agus taitneamh a bhaint as gach rud atá le tairiscint ag an leibhéal.\n\nTóg do chuid ama chun an bealach chun cinn a aimsiú —— is féidir le do thaifead fanacht. Ní chuirfear dul chun cinn sa Mhód Cleachtaidh san áireamh i scóir, misin ná éachtaí.\n\nAn bhfuil fonn ort an Mód Cleachtaidh a chumasú?
+Mód Cleachtaidh
+Mód Cleachtaidh
+RABHADH: TAOMANNA FÓTAÍOGAIREACHTA/TITIMIS
+<b>LÉIGH AN FÓGRA SEO SULA N-IMRÍONN TÚ</b>\n\nD'fhéadfadh taomanna titimis nó cailliúint comhfhiosachta tarlú do chéatadán an-bheag daoine nuair a nochtar iad do chineálacha áirithe soilse gealánacha nó patrúin solais. D'fhéadfadh comharthaí titimis nó taomanna tarlú do na daoine seo, nó fiú do dhaoine nach raibh taomanna ná titimeas orthu riamh, agus físchluichí á n-imirt acu.\n\nMá tá titimeas ort féin nó ar aon duine de do ghaolta, nó má bhí taom de chineál ar bith agaibh, téigh i gcomhairle le do dhochtúir sula n-imríonn tú aon fhíschluiche.\n\nSTOP LÁITHREACH den imirt agus téigh i gcomhairle le dochtúir má bhíonn aon cheann de na hairíonna seo a leanas ort féin nó ar do leanbh: meadhrán, athruithe ar an radharc, preabadh sna súile nó sna matáin, gluaiseachtaí ainneonacha, cailliúint feasachta, mearbhall nó trithí. Ba chóir do thuismitheoirí faire amach do na hairíonna seo nó fiafraí dá leanaí fúthu.\n\nIs féidir leat an baol taomanna titimis fótaíogaireachta a laghdú trí na réamhchúraimí seo a ghlacadh: suigh níos faide ón scáileán, úsáid scáileán níos lú, imir i seomra dea-shoilsithe, agus ná himir nuair atá codladh nó tuirse ort.
+Clár Ceannairí Steam
+Líne Threorach
+Díghlasáil Leibhéil
