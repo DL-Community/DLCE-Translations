@@ -1,0 +1,590 @@
+Bosanski
+English
+bs
+Dancing Line
+Jezik
+PRATITE NAS
+Učitavanje
+Nabavi Kocke
+za najbolje iskustvo\nkoristite slušalice
+Videozapis nije dostupan
+Pogledajte videozapis da ga privremeno otključate
+Besplatno Otključavanje
+Otključaj
+Otključan je novi nivo:
+Preuzmi {0} Besplatno
+Kupi {0} Kocki
+Neograničene Kocke
+Obnova za: {0}
+Kocke su obnovljene. Zaplešimo ponovo.
+dodirnite za početak
+U REDU
+Da
+Ne
+Uključeno
+Isključeno
+Otkaži
+Pauzirano
+Kvalitet
+Vrlo Nizak
+Nizak
+Srednji
+Visok
+Ultra
+Maksimalan
+Zaglađivanje ivica
+Zvuk
+Vertikalna sinhronizacija
+Sinhronizacija
+Automatsko Podešavanje
+Kašnjenje Muzike
+Povratna Informacija Na Dodir
+Potvrda Izlaska
+Želite li izaći iz igre?
+O igri
+Verzija
+Dizajneri Nivoa
+Tim Za Lokalizaciju
+Bilibili
+YouTube
+Ugovor O Licenci Za Krajnjeg Korisnika
+Pravila Privatnosti
+Discord
+Način Prikaza
+Ekskluzivni Prikaz Preko Cijelog Ekrana
+Prozor Preko Cijelog Ekrana
+Prozorski način
+Uspravno
+Položeno
+Rezolucija
+Nastaviti od posljednje kontrolne tačke?
+Još #X%# do #Novog rekorda#
+Još #X%# do #Sljedeće kontrolne tačke#
+Još #X%# do #Završetka#
+Besplatno
+Nastavi
+Pretraži
+Izbriši Podatke
+Podaci su izbrisani. Ponovo pokrenite igru.
+Nakon završetka ovog postupka vaši podaci iz igre bit će izbrisani. Nastavite oprezno.
+Imajte na umu da će nakon završetka ovog postupka vaši podaci iz igre Dancing Line (uključujući lične podatke i sve ostale podatke nastale korištenjem proizvoda Dancing Line) biti trajno izbrisani i neće ih biti moguće vratiti. Pažljivo odlučite prije nego što nastavite.
+Izbriši
+Brisanje podataka…\nSačuvani podaci u oblaku i na uređaju bit će izbrisani
+Pristupačnost
+Možete li nadmašiti X% u igri Dancing Line? Igrajte sa mnom!
+Prikaži Zapisnike Za Otklanjanje Grešaka
+Vrati Zadane Postavke
+Pravni Dokumenti I Privatnost
+Prije korištenja aplikacije morate prihvatiti naš Ugovor o licenci za krajnjeg korisnika i Pravila privatnosti.
+Prihvati i nastavi
+Izađi iz igre
+Veličina Ulazno-izlaznog Međuspremnika
+Kašnjenje Audioizlaza
+Kašnjenje Unosa Dodirom
+BETA VERZIJA ##UID# NE DIJELITI
+Efekti Žiroskopa
+Game Center
+Preuzmi
+Besplatne Dnevne Zvjezdice
+Dostupno za {0}
+Opremljeno
+Opremi
+Besplatna Oživljavanja: {0}/{1}
+Želite li potrošiti {0} zvjezdica da privremeno otključate liniju vodilju?
+Nije moguće preuzeti besplatne dnevne zvjezdice jer provjera vremena nije uspjela.
+Napredne Postavke
+Ova postavka važi samo za trenutni nivo i omogućava pojedinačno podešavanje svakog nivoa na osnovu globalnog kašnjenja muzike.\n\n<b>Stvarno kašnjenje = Kašnjenje nivoa + Globalno kašnjenje</b>
+Nagrade
+Nagrade: {0}
+Sakupljeno {0} dijamanata na nivou: {1}
+Sakupljeno {0} kruna na nivou: {1}
+Završen nivo: {0}
+Pratite ritam i dodirnite bilo gdje da promijenite smjer.
+Ova igra se igra uz uključenu muziku.
+Nemojte prevlačiti prstom. To ne funkcioniše.
+Nije potrebno dodirivati ekran tokom leta.
+Nemojte dodirivati ekran pri ulasku u piramidu pod uglom od 45°.
+Izgled lika možete promijeniti dodirom lebdeće kocke.
+Sakupite sve dijamante i krune da biste savršeno završili nivoe.
+Postignuća
+[Skriveno] 
+Završeno: #x#
+#x# – Završeno
+#x# – 10 dijamanata
+#x# – 3 krune
+Završite #x#
+Sakupite sve dijamante u nivou #x#
+Sakupite sve krune u nivou #x#
+Tajna Dragonije
+Pronađite barem jedan skriveni put u Pričama o Dragoniji
+Je li to Paimon?
+Možda da kasnije istražimo područje ispred nas?
+L.A.V.I.R.I.N.T.
+Pronađite skriveni put u Labirintu
+Pacifizam
+Odaberite miroljubivi tok priče u Ratu
+Proslava druge godišnjice
+Sretan Božić……\ni druga godišnjica
+Majstor Bez Dragulja
+Susretnite bjegunca iz tamnice u Avanturi
+Zvjezdano Nebo
+Zvjezdano prostranstvo obećava divna iznenađenja
+Dodjela Tipki
+Čekanje unosa…\nPritisnite željenu tipku na tastaturi ili kontroleru
+Nazad
+Pauziraj Igru
+Upravljanje Likom
+Linija Vodilja
+Postavke
+Izgled
+Lijevo
+Desno
+Potvrdi
+Ponovo pokreni
+Postignuća
+Backspace
+Enter
+Enter
+ESC
+Razmaknica
+Lijevi WIN
+Desni WIN
+Lijevi CMD
+Desni CMD
+▲
+▼
+◀
+▶
+Lijevi Shift
+Desni Shift
+Lijevi Option
+Desni Option
+Lijevi CTRL
+Desni CTRL
+Lijevi Option
+Desni Option
+Meni
+Završeno
+Kontrolna tačka
+Sretan Božić
+Sakupi
+Dodirni
+Ovo ne bi bilo moguće bez vas.\nMi smo jedno.
+Zašto…
+Sve postaje gore…
+Kraj Svijeta
+Slijedi svoju zvijezdu! – Dante
+Jednom kada poletiš, hodat ćeš s pogledom uprtim u nebo \n\t\t\t\t\t\t\t\t Leonardo da Vinci
+Nisi sam.
+Ne žali ni za čim kada su u pitanju\nljubav i hrana.
+Obično
+Slušalice
+Papir
+Zevs
+Haos
+Planine
+Kineski Kist
+Čarobna Vještica
+Klizanje
+Domine
+Modul
+Svjetlost
+Snježna kugla
+Strijela
+Kit
+Snježna Magla
+Stalagmit
+Klaun
+Leteći Oblak
+Zmija
+Žele
+Čarobni Plašt
+Kostur S Bombom
+Balon
+Vatrena kugla
+Piramida
+Lopta
+Tirkizna Lopta
+Crna Lopta
+Obična Lopta
+Košarkaška lopta
+Moć Zvijezda
+Robot
+Neimenovani Nivo
+Početak
+Vrijeme
+Klavir
+Plaža
+Zima
+Savana
+Zapad
+Dan Zaljubljenih
+Noć Vještica
+Uličica
+Pustinja
+Oluja
+Oluja
+Planine
+Ravnice
+Ravnice
+Labirint
+Zemlja
+Raj Vatrometa
+Badnja Večer
+Jesen
+Kristal
+Treća Godišnjica
+Peta Godišnjica
+Haos
+Katedrala
+Katedrala
+Mornareva Priča
+Legenda o ubici
+Kineski Vrt
+Utrka
+Uskoro
+Kraj – Theo5970
+Romansa
+Proljeće
+Kineska Nova Godina
+Samuraj
+Priče o Dragoniji
+Ružno Pače
+Videoigra
+Egzodus
+Okean
+Horoskopski Znak Bik
+San o nebu
+Košarka
+Božićna Zabava
+Putovanje Indijom
+Rat
+Misterija
+Nogomet
+Evolucija Hip-hopa
+Uskrs
+Proljetna Uspavanka
+Slagalica Za Noć Vještica
+Zabavni Park
+Faded – Alan Walker
+Faded (Verzija Za Učenje)
+Despacito
+Alone – Alan Walker
+Zen Vrt
+Samuraj HD
+Ranč
+Faded – Alan Walker
+All About Us
+Evolucija (P13)
+Zemlja Čuda Od Slastica
+Svemir
+Otkriće – Chronos
+Avantura
+Apokalipsa
+Putovanje
+Matematika
+Rosulja
+Lutanje
+Praznina
+Sjećanje
+Oluja bijesa
+Ništa
+Božićna Kapa
+Bambusov Propeler
+Čarobnjački Šešir
+Meksički Šešir
+Polucilindar
+Kapa Slatkog Psa
+Vilenjak
+Pacov
+Preuzimanje novog nivoa
+Ostanite povezani s internetom
+Prikaz Unosa
+Preuzimanje nivoa nije uspjelo
+Očisti Predmemoriju
+Preuzeti podaci, poput nivoa i muzike, bit će izbrisani. Želite li nastaviti?
+Trenutna verzija #Current# je zastarjela. Za igranje je potrebno ažurirati igru barem na verziju #Latest#.
+Učitavanje konfiguracije oglasa nije uspjelo
+Pokušaj ponovo
+Provjera ažuriranja…
+Ažuriranje Konfiguracija
+Preuzimanje Ažuriranja
+Putovanje još nije završeno…
+Još mnogo toga dolazi…
+Hvala svim igračima Dancing Line!
+Potrebno Je Ažuriranje
+Globalno Podešavanje Sinhronizacije
+Podešavanje Sinhronizacije Nivoa
+Automatska Korekcija
+Podijeli
+Kopiraj Tekst
+Sačuvaj Sliku
+Kopiraj Sliku
+Odaberite šta želite očistiti
+Izbriši Napredak U Igri
+Novi Rekord
+Savršeno
+Nije na prodaju
+Izazov Nota
+Prodavnica Nota
+Rasprodano
+Zvjezdice × {0}
+Kocke × {0}
+Izazov
+Utorak – Nedjelja
+Pravila
+Savršeno završite ovaj nivo da osvojite note!
+Izazov nota je završen. Pokušajte ponovo kasnije!
+• U ovom događaju vaš je zadatak sakupiti svaki dijamant i svaku krunu te završiti nivo sa samo jednom kockom. I zapamtite: oživljavanje nije dozvoljeno! Jeste li spremni za izazov?\n\n• Linije vodilje su isključene tokom igre, pa sve zavisi od vaše vještine!\n\n• Kada savršeno završite nivo, vratite se na stranicu događaja i preuzmite nagrade!
+Povezivanje s internetom nije uspjelo. Provjerite stabilnost mreže i pokušajte ponovo.
+Predmet Preuzet
+Uspješno preuzet predmet #item#
+Želite li preuzeti predmet #item#?
+Prodavnica se osvježava svakog ponedjeljka
+Prodavnica nota je osvježena. Pogledajte novosti!
+Ovosedmični Izazov nota je dostupan. Dođite i savladajte nivoe!
+Kugla Za Kuglanje
+Teniska Loptica
+Izazov Završen: #Level#
+Nastaviti preuzimanje putem mobilnih podataka?
+Upozorenje O Mobilnim Podacima
+Greška
+Došlo je do nepoznate greške!
+Sakrij Pokazivač
+Kada Miruje
+Tokom Igre
+Nikada
+Zvanično
+Remiks
+Događaj
+Sezona
+Original
+Naslijeđeno
+Kreirano od fanova
+Max Studio
+WINDER Studio
+Prijavite se u Game Center u sistemskim postavkama
+Statusna Traka
+DLRS GAS
+Profil
+Postavke Računa
+Korisničko Ime: {0}\nID Korisnika: {1}
+Broj Kadrova U Sekundi
+Prikaži Broj Kadrova U Sekundi
+Server
+Podrška Za Višestruki Dodir
+Come & Get It – Selena Gomez
+Pjesma
+Kopirano u međuspremnik
+Ikona Aplikacije
+Izvezi Napredak U Igri
+Uvezi Napredak U Igri
+Drvo praznine
+Uđite na tajni put u Praznini
+Automatsko dodirivanje možda neće biti precizno dok se nivo ne preuzme.
+Nadogradnja Baze Podataka Igre
+Zadano
+Zelena
+Duet
+QQ grupa
+QQ kanal
+Rezolucija Prikaza
+Automatski
+Šeširi
+Skini
+Naučna fantastika
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+završeno
+Plava
+Žuta
+Klasično
+Audio Sesija Je Prekinuta
+Sistem je prekinuo trenutnu audio sesiju, pa se igra privremeno ne može nastaviti. Zatvorite aplikacije ili procese koji mogu ometati zvuk igre i pokušajte ponovo.
+Posljednja Sinhronizacija: {0}\nVerzija Podataka U Oblaku: {1}
+Sinhroniziraj Sada
+Prečesta sinhronizacija
+Sinhronizacija uspješna
+Sinhronizacija nije uspjela
+Sačuvani Podaci U Oblaku
+Posljednja Sinhronizacija
+Verzija Podataka U Oblaku
+Sinhronizacija…
+Prati Jezik Sistema
+Kopiraj
+Otvori Vanjski Direktorij
+Direktno otvaranje direktorija trenutno nije podržano. Kliknite na dugme da kopirate sljedeću putanju i otvorite je ručno:\n\n#DIRECTORY#
+Sistem Računa DL RS Games
+E-pošta…
+Lozinka…
+Zapamti Korisnika
+Prijava Na Račun
+Prijavi se
+Registruj se
+Zaboravljena Lozinka
+Prijavljivanje…
+Vrijeme za prijavu je isteklo
+Greška
+Pogrešna e-pošta ili lozinka
+Ovaj račun nije na listi odobrenih
+Ovaj račun treba aktivirati
+Aplikacija je zastarjela. Provjerite ažuriranja.
+Dobro došli, {0}!
+Prijava uspješna
+Unesite e-poštu
+Unesite lozinku
+Prijavom prihvatate <b><color=#3d6ec0>Uslove korištenja DLRS GAS-a</color></b>
+Nedavno Korišten Račun
+Nova Prijava
+Želite li zaista ukloniti račun #name#?
+Otvaranje u vanjskom pregledniku…
+Ovaj račun je blokiran
+Preuzimanje korisničkih podataka…
+Učitavanje podataka igrača nije uspjelo
+Odjavi se
+Želite li se zaista odjaviti s računa #USERNAME#?
+Biblioteke Otvorenog Koda
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistika
+Završeni nivoi
+Dijamanti
+Krune
+Smrti
+Pokušaji Igranja Nivoa
+Oživljavanja
+Broj Završetaka
+Pokupljeni Dijamanti
+Pokupljene Krune
+Osvojene Zvjezdice
+Potrošene Zvjezdice
+Osvojene Energetske Kocke
+Potrošene Energetske Kocke
+Osvojene Note
+Potrošene Note
+Posjedovani Izgledi
+Posjedovani Šeširi
+Višestruko Uzorkovanje Za Zaglađivanje Ivica (#SHORT#)
+Brzo Približno Zaglađivanje Ivica (#SHORT#)
+Vremensko Zaglađivanje Ivica (#SHORT#)
+Morfološko Zaglađivanje Ivica Na Nivou Podpiksela (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planeta
+Zvijezda
+Idi na #LEVELNAME#
+Ova opcija može uzrokovati zastajkivanje ili nepravilan prikaz slike tokom igre.
+Upozorenje
+Audio Uređaj
+Ugrađeni Zvučnik
+Zvučnici
+Nisu pronađeni nivoi koji odgovaraju ključnim riječima.
+Podudaranje Sa Svim
+Podudaranje S Bilo Kojom
+Moguće igrati
+Prijava e-poštom i lozinkom
+Prijava putem OAuth-a
+Autorizacija nije uspjela. Pokušajte ponovo.
+Onemogući
+Omogući
+Ako onemogućite ovu opciju, statistika će biti izbrisana i igra više neće bilježiti podatke dok je ponovo ne omogućite.
+Aplikacija je zastarjela. Provjerite ažuriranja.
+Kod Za Preuzimanje Nagrade
+Unesite kod za preuzimanje…
+Preuzmi nagradu
+Preuzimanje nagrade je privremeno nedostupno. Pokušajte kasnije.
+Kod je nevažeći ili je već iskorišten.
+Uspješno ste preuzeli sljedeće predmete:
+Nivo: #NAME#
+Izgled: #NAME#
+Šešir: #NAME#
+Note × {0}
+Glava u oblacima
+Uslovi korištenja
+Provjera integriteta okruženja igre nije uspjela.
+Steam preklapanje
+Dolina Spomenika
+Medvjedić Cheetah
+Čarobnjak iz Oza
+Kineski Zmaj
+Audio Mikser
+Mono
+Stereo
+4.0 surround
+5.0 surround
+5.1 surround
+7.1 surround
+Odaberi Nivo
+Zbirka Nivoa
+Kupi na Steamu
+Kupite i instalirajte ovaj DLC u Steam prodavnici
+Naslijeđeno
+Slanje Nivoa
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Preuzimanje ažuriranja nije uspjelo. Pokušati ponovo?
+Dostupna su nova ažuriranja. Potrebno je preuzeti {0}. Nastaviti?
+Zaboravljeno Utočište
+Provjera ažuriranja nije uspjela. Pokušati ponovo?
+Preuzimanje ažuriranja nije uspjelo. Ponovni pokušaj…
+Saradnja
+Preskoči Nivo
+Potrošiti {0} nota da preskočite ovaj nivo izazova?
+Nemate dovoljno nota. Za preskakanje je potrebno najmanje {0}.
+{0}d {1}h
+Osvježava se za: {0}
+Ukras
+Vertikalna sinhronizacija je trenutno uključena. Postavke broja kadrova u sekundi primjenjuju se samo kada je isključena.\nŽelite li je isključiti?
+Server je trenutno na održavanju. Igranje neće biti dostupno tokom ovog perioda.\n\nRazlog održavanja: {0}\nVrijeme završetka: {1}
+Pratite buduća zvanična obavještenja.
+Sesija vašeg računa je istekla. Možda ste se prijavili s drugog uređaja.\nPrijavite se ponovo.
+Server je trenutno na održavanju. Možete se prijaviti u igru, ali usluga može biti nestabilna.\n\nRazlog održavanja: {0}\nVrijeme završetka: {1}
+Misije
+Osvježava se za: {0}
+Prijavite se u igru
+Završite bilo koji nivo {0} puta
+Potrošite {0} kocki
+Potrošite {0} zvjezdica
+Poginite {0} puta na bilo kojem nivou
+Sakupite {0} dijamanata na bilo kojem nivou
+Sakupite {0} kruna na bilo kojem nivou
+Oživite {0} puta na bilo kojem nivou
+Nabavi Zvjezdice
+Posebna Interakcija Nivoa
+Ovaj nivo sadrži posebne interakcije koje možete aktivirati dodirom ekrana ili držanjem tipke.
+Povezivanje sa Steam mrežom nije moguće
+Steam Cloud
+Zaključan Nivo
+Funkcija 1
+Funkcija 2
+Funkcija 3
+Funkcija 4
+Funkcija 5
+Nazad
+Otkaži
+Kupi
+Sljedeći Nivo
+Glavni Meni
+Pokreni Nivo
+Izađi Iz Igre
+Prethodni Nivo
+Prethodna Stranica
+Sljedeća Stranica
+Zvuk
+Glavna Jačina Zvuka
+Pokretanje Steam klijenta nije uspjelo. Ponovo pokrenite igru.
+Povezivanje sa Steam klijentom nije moguće. Provjerite je li Steam pokrenut, pa ponovo pokrenite igru.
+izgleda da je Steam klijent zastario. ažurirajte ga na najnoviju verziju.
+Steam greška
+Sačuvani podaci u Steam Cloudu su oštećeni i ne mogu se pročitati.\nMoguće je da ste izašli iz igre tokom spremanja, zbog čega podaci nisu u potpunosti zapisani.\nIgra je pokušala učitati podatke iz lokalne predmemorije, ali bez uspjeha.\nMožete pokrenuti igru s novim sačuvanim podacima. Želite li nastaviti?
+Greška Steam Clouda
+Način vježbanja uključuje liniju vodilju.\n\nPratite liniju vodilju da naučite putanju i bez žurbe uživate u svemu što nivo nudi.\n\nOdvojite vrijeme da pronađete put naprijed — vaš rekord može sačekati. Napredak ostvaren u načinu vježbanja ne računa se za rezultate, misije ni postignuća.\n\nUključiti način vježbanja?
+Način Vježbanja
+Način Vježbanja
+UPOZORENJE: FOTOOSJETLJIVOST / EPILEPTIČNI NAPADI
+<b>PROČITAJTE OVO OBAVJEŠTENJE PRIJE IGRANJA</b>\n\nVrlo mali postotak ljudi može doživjeti epileptični napad ili gubitak svijesti pri izlaganju određenim vrstama trepćućeg svjetla ili svjetlosnih obrazaca. Takvi simptomi ili napadi mogu se pojaviti tokom igranja videoigara čak i kod osoba koje ranije nisu imale epileptične napade ili dijagnozu epilepsije.\n\nAko vi ili neko od vaših srodnika imate epilepsiju ili ste ikada imali napade, posavjetujte se s ljekarom prije igranja bilo koje videoigre.\n\nODMAH PRESTANITE IGRATI i obratite se ljekaru ako vi ili vaše dijete osjetite neki od sljedećih simptoma: vrtoglavicu, promjene vida, trzanje očiju ili mišića, nevoljne pokrete, gubitak svijesti, dezorijentaciju ili grčeve. Roditelji trebaju pratiti ove simptome kod djece ili ih pitati jesu li ih osjetila.\n\nRizik od fotosenzitivnih epileptičnih napada možete smanjiti sljedećim mjerama: sjedite dalje od ekrana, koristite manji ekran, igrajte u dobro osvijetljenoj prostoriji i nemojte igrati kada ste pospani ili umorni.
+Steam rang-lista
+Linija Vodilja
+Otključavanje Nivoa

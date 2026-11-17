@@ -1,0 +1,590 @@
+Čeština
+English
+cs
+Dancing Line
+Jazyk
+SLEDUJTE NÁS
+Načítání
+Získat Kostky
+pro nejlepší zážitek\npoužívejte sluchátka
+Video není dostupné
+Podívejte se na video a dočasně odemkněte tuto úroveň
+Odemknout Zdarma
+Odemknout
+Nová úroveň odemčena:
+Získat {0} Zdarma
+Koupit {0} Kostek
+Neomezené Kostky
+Doplnění za: {0}
+Kostky byly doplněny. Pojďme znovu tančit.
+klepnutím začnete
+OK
+Ano
+Ne
+Zapnuto
+Vypnuto
+Zrušit
+Pozastaveno
+Kvalita
+Velmi Nízká
+Nízká
+Střední
+Vysoká
+Ultra
+Maximální
+Vyhlazování hran
+Zvuk
+Vertikální synchronizace
+Synchronizace
+Automatické Nastavení
+Zpoždění Hudby
+Odezva Na Dotyk
+Potvrdit Ukončení
+Opravdu chcete ukončit hru?
+O hře
+Verze
+Tvůrci Úrovní
+Lokalizační Tým
+Bilibili
+YouTube
+Licenční Smlouva S Koncovým Uživatelem
+Zásady Ochrany Osobních Údajů
+Discord
+Režim Zobrazení
+Exkluzivní Celá Obrazovka
+Okno Na Celou Obrazovku
+V okně
+Na výšku
+Na šířku
+Rozlišení
+Pokračovat od posledního kontrolního bodu?
+Do #Nového rekordu# zbývá #X%#
+Do #Dalšího kontrolního bodu# zbývá #X%#
+Do #Dokončení# zbývá #X%#
+Zdarma
+Pokračovat
+Hledat
+Smazat Data
+Data byla vymazána. Restartujte prosím hru.
+Po dokončení tohoto procesu budou vaše herní data smazána. Postupujte opatrně.
+Upozorňujeme, že po dokončení tohoto procesu budou vaše data hry Dancing Line (včetně osobních údajů a dalších dat vytvořených při používání produktů Dancing Line) trvale odstraněna a nebude možné je obnovit. Rozhodněte se prosím pečlivě.
+Smazat
+Mazání dat…\nCloudové i místní uložené pozice budou odstraněny
+Přístupnost
+Dokážete v Dancing Line překonat X%? Pojďte si zahrát se mnou!
+Zobrazit Ladicí Protokoly
+Obnovit Výchozí Nastavení
+Právní Informace A Soukromí
+Před použitím aplikace musíte souhlasit s licenční smlouvou s koncovým uživatelem a zásadami ochrany osobních údajů.
+Přijmout a pokračovat
+Ukončit hru
+Velikost Vstupně-výstupní Vyrovnávací Paměti
+Latence Zvukového Výstupu
+Latence Dotykového Vstupu
+BETA VERZE ##UID# NEŠÍŘIT
+Efekty Gyroskopu
+Game Center
+Vyzvednout
+Denní Hvězdy Zdarma
+K vyzvednutí za {0}
+Nasazeno
+Nasadit
+Bezplatná Oživení: {0}/{1}
+Chcete utratit {0} hvězd za dočasné odemčení vodicí čáry?
+Denní hvězdy zdarma nelze vyzvednout: ověření času selhalo.
+Pokročilá Nastavení
+Toto nastavení platí pouze pro aktuální úroveň a umožňuje upravit každou úroveň samostatně podle globálního zpoždění hudby.\n\n<b>Skutečné zpoždění = Zpoždění úrovně + Globální zpoždění</b>
+Odměny
+Odměny: {0}
+Sebráno {0} diamantů v úrovni: {1}
+Sebráno {0} korun v úrovni: {1}
+Dokončena úroveň: {0}
+Sledujte rytmus a klepnutím kamkoli změňte směr.
+Tato hra je určena k hraní se zapnutou hudbou.
+Nepřejíždějte prstem. Nefunguje to.
+Během letu není nutné klepat.
+Neklepejte při vstupu do pyramidy pod úhlem 45°.
+Vzhled postavy můžete změnit klepnutím na levitující kostku.
+Sesbírejte všechny diamanty a koruny, abyste úrovně dokončili dokonale.
+Úspěchy
+[Skryté]
+Dokončeno: #x#
+#x# – Dokončeno
+#x# – 10 diamantů
+#x# – 3 koruny
+Dokončete #x#
+Sesbírejte všechny diamanty v #x#
+Sesbírejte všechny koruny v #x#
+Tajemství Dragonie
+Najděte alespoň jednu skrytou cestu v úrovni Příběhy Dragonie
+Je to Paimon?
+Co kdybychom oblast před námi prozkoumali později?
+B.L.U.D.I.Š.T.Ě.
+Najděte skrytou cestu v úrovni Bludiště
+Pacifismus
+Vydejte se mírovou dějovou linií v úrovni Válka
+Oslava 2. výročí
+Veselé Vánoce…\na šťastné 2. výročí
+Mistr Bez Drahokamů
+Potkejte uprchlíka z podzemí v úrovni Dobrodružství
+Hvězdná Obloha
+Hvězdné dálavy slibují příjemná překvapení
+Přiřazení Kláves
+Čekání na vstup…\nStiskněte klávesu na klávesnici nebo ovladači, kterou chcete použít
+Zpět
+Pozastavit Hru
+Ovládání Postavy
+Vodicí Čára
+Nastavení
+Vzhled
+Vlevo
+Vpravo
+Potvrdit
+Restartovat
+Úspěchy
+Backspace
+Enter
+Enter
+ESC
+Mezerník
+Levý WIN
+Pravý WIN
+Levý CMD
+Pravý CMD
+▲
+▼
+◀
+▶
+Levý Shift
+Pravý Shift
+Levý Option
+Pravý Option
+Levý CTRL
+Pravý CTRL
+Levý Option
+Pravý Option
+Nabídka
+Dokončeno
+Kontrolní bod
+Veselé Vánoce
+Sebrat
+Klepnout
+Bez vás by to nebylo možné.\nJsme jedno.
+Proč…
+Všechno se zhoršuje…
+Konec Světa
+Následuj svou hvězdu! – Dante
+Jakmile jednou vzlétneš, budeš kráčet s očima upřenýma k nebi. \n\t\t\t\t\t\t\t\t Leonardo da Vinci
+Nejsi sám.
+Ničeho nelituj, pokud jde\no lásku a jídlo.
+Normální
+Sluchátka
+Papír
+Zeus
+Chaos
+Hory
+Čínský Štětec
+Kouzelná Čarodějnice
+Had
+Domino
+Modul
+Světlo
+Sněhová koule
+Šíp
+Velryba
+Sněhová Mlha
+Krápník
+Klaun
+Létající Oblak
+Had
+Želé
+Kouzelný Plášť
+Bombová Kostra
+Balónek
+Ohnivá koule
+Pyramida
+Míč
+Azurový Míč
+Černý Míč
+Obyčejný Míč
+Basketbalový míč
+Síla Hvězd
+Robot
+Nepojmenovaná Úroveň
+Začátek
+Čas
+Klavír
+Pláž
+Zima
+Savana
+Západ
+Valentýn
+Halloween
+Ulička
+Poušť
+Bouře
+Bouře
+Hory
+Pláně
+Pláně
+Bludiště
+Země
+Ráj Ohňostrojů
+Štědrý Večer
+Podzim
+Krystal
+Třetí Výročí
+Páté Výročí
+Chaos
+Katedrála
+Katedrála
+Námořníkův Příběh
+Legenda o asasínovi
+Čínská Zahrada
+Závod
+Již Brzy
+Konec – Theo5970
+Romance
+Jaro
+Čínský Nový Rok
+Samuraj
+Příběhy Dragonie
+Ošklivé Káčátko
+Videohra
+Exodus
+Oceán
+Znamení Býka
+Sen o obloze
+Basketbal
+Vánoční Večírek
+Indická Cesta
+Válka
+Tajemství
+Fotbal
+Vývoj Hip-hopu
+Velikonoce
+Jarní Ukolébavka
+Halloweenská Hádanka
+Zábavní Park
+Faded – Alan Walker
+Faded (Výuková Verze)
+Despacito
+Alone – Alan Walker
+Zenová Zahrada
+Samuraj HD
+Ranč
+Faded – Alan Walker
+All About Us
+Evoluce (P13)
+Říše Sladkostí
+Vesmír
+Objev – Chronos
+Dobrodružství
+Apokalypsa
+Cesta
+Matematika
+Mrholení
+Putování
+Prázdnota
+Vzpomínka
+Bouře hněvu
+Žádný
+Vánoční Čepice
+Bambusová Vrtulka
+Kouzelnický Klobouk
+Mexické Sombrero
+Buřinka
+Čepice Roztomilého Pejska
+Skřítek
+Krysa
+Stahuje se nová úroveň
+Zůstaňte prosím připojeni k internetu
+Zobrazení Vstupů
+Stažení úrovně se nezdařilo
+Vymazat Mezipaměť
+Stažená data, například úrovně a hudba, budou vymazána. Pokračovat?
+Aktuální verze #Current# je zastaralá. Pro hraní je nutné aktualizovat alespoň na verzi #Latest#.
+Načtení konfigurace reklam se nezdařilo
+Zkusit znovu
+Kontrola aktualizací…
+Aktualizace Nastavení
+Stahování Aktualizací
+Cesta ještě nekončí…
+Další obsah se chystá…
+Děkujeme všem hráčům Dancing Line!
+Je Vyžadována Aktualizace
+Globální Nastavení Synchronizace
+Nastavení Synchronizace Úrovně
+Automatická Korekce
+Sdílet
+Kopírovat Text
+Uložit Obrázek
+Kopírovat Obrázek
+Vyberte, co chcete vymazat
+Vymazat Postup Ve Hře
+Nový Rekord
+Perfektní
+Není na prodej
+Notová Výzva
+Obchod S Notami
+Vyprodáno
+Hvězdy × {0}
+Kostky × {0}
+Výzva
+Úterý – Neděle
+Pravidla
+Dokončete tuto úroveň dokonale a získejte noty!
+Notová výzva skončila. Zkuste to později!
+• V této události musíte sesbírat všechny diamanty a koruny, zvládnout úroveň s jedinou kostkou a hlavně se nesmíte oživit! Troufnete si?\n\n• Vodicí čáry jsou během hry vypnuté, takže záleží jen na vašich schopnostech!\n\n• Jakmile úroveň dokončíte dokonale, vraťte se na stránku události a vyzvedněte si odměny!
+Připojení k internetu se nezdařilo. Zkontrolujte stabilitu sítě a zkuste to znovu.
+Předmět Vyměněn
+Předmět #item# byl úspěšně získán
+Chcete vyměnit #item#?
+Obchod se obnovuje každé pondělí
+Obchod s notami byl obnoven. Podívejte se na novinky!
+Týdenní notová výzva je dostupná. Přijďte překonat úrovně!
+Bowlingová Koule
+Tenisový Míček
+Výzva Dokončena: #Level#
+Pokračovat ve stahování přes mobilní data?
+Upozornění Na Mobilní Data
+Chyba
+Došlo k neznámé chybě!
+Skrýt Kurzor
+Při Nečinnosti
+Během Hraní
+Nikdy
+Oficiální
+Remix
+Událost
+Sezóna
+Originální
+Původní
+Vytvořeno fanoušky
+Max Studio
+WINDER Studio
+Přihlaste se do Game Center v nastavení systému
+Stavový Řádek
+DLRS GAS
+Profil
+Nastavení Účtu
+Uživatelské Jméno: {0}\nID Uživatele: {1}
+Snímková Frekvence
+Zobrazit Snímkovou Frekvenci
+Server
+Podpora Vícedotykového Ovládání
+Come & Get It – Selena Gomez
+Skladba
+Zkopírováno do schránky
+Ikona Aplikace
+Exportovat Postup Ve Hře
+Importovat Postup Ve Hře
+Strom prázdnoty
+Vstupte na tajnou cestu v úrovni Prázdnota
+Automatické klepání nemusí být přesné, dokud se úroveň nestáhne.
+Aktualizace Herní Databáze
+Výchozí
+Zelená
+Duet
+Skupina QQ
+Kanál QQ
+Rozlišení Vykreslování
+Automaticky
+Klobouky
+Sundat
+Sci-fi
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+dokončeno
+Modrá
+Žlutá
+Klasický
+Přerušení Přehrávání Zvuku
+Systém přerušil aktuální zvukovou relaci, takže hra nemůže dočasně pokračovat. Zavřete aplikace nebo procesy, které mohou přerušovat zvuk hry, a zkuste to znovu.
+Poslední Synchronizace: {0}\nVerze Cloudových Dat: {1}
+Synchronizovat Nyní
+Synchronizace probíhá příliš často
+Synchronizace proběhla úspěšně
+Synchronizace se nezdařila
+Cloudové Ukládání
+Poslední Synchronizace
+Verze Cloudových Dat
+Synchronizace…
+Používat Jazyk Systému
+Kopírovat
+Otevřít Externí Složku
+Přímé otevření složky zatím není podporováno. Kliknutím na tlačítko zkopírujte následující cestu a otevřete ji ručně:\n\n#DIRECTORY#
+Systém Účtů DL RS Games
+E-mail…
+Heslo…
+Zapamatovat Uživatele
+Přihlášení K Účtu
+Přihlásit se
+Registrovat se
+Zapomenuté Heslo
+Přihlašování…
+Vypršel časový limit přihlášení
+Chyba
+Nesprávný e-mail nebo heslo
+Tento účet není na seznamu povolených účtů
+Tento účet je nutné aktivovat
+Aplikace je zastaralá. Zkontrolujte aktualizace.
+Vítejte, {0}!
+Přihlášení proběhlo úspěšně
+Zadejte e-mail
+Zadejte heslo
+Přihlášením souhlasíte s <b><color=#3d6ec0>podmínkami služby DLRS GAS</color></b>
+Nedávný Účet
+Nové Přihlášení
+Opravdu chcete odebrat účet #name#?
+Otevírání v externím prohlížeči…
+Tento účet byl zablokován
+Stahování uživatelských dat…
+Načtení dat hráče se nezdařilo
+Odhlásit se
+Opravdu chcete odhlásit uživatele #USERNAME#?
+Knihovny S Otevřeným Zdrojovým Kódem
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistiky
+Dokončené úrovně
+Diamanty
+Koruny
+Úmrtí
+Pokusy O Úrovně
+Oživení
+Počet Dokončení
+Sebrané Diamanty
+Sebrané Koruny
+Získané Hvězdy
+Utracené Hvězdy
+Získané Energetické Kostky
+Použité Energetické Kostky
+Získané Noty
+Utracené Noty
+Vlastněné Vzhledy
+Vlastněné Klobouky
+Vícevzorkové Vyhlazování Hran (#SHORT#)
+Rychlé Přibližné Vyhlazování Hran (#SHORT#)
+Časové Vyhlazování Hran (#SHORT#)
+Subpixelové Morfologické Vyhlazování Hran (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planeta
+Hvězda
+Přejít na #LEVELNAME#
+Použití této možnosti může způsobit zasekávání nebo nesprávné zobrazení obrazu během hraní.
+Upozornění
+Zvukové Zařízení
+Vestavěný Reproduktor
+Reproduktory
+Nebyly nalezeny žádné úrovně odpovídající hledaným slovům.
+Odpovídat Všem
+Odpovídat Kterémukoli
+Hratelné
+Přihlásit se e-mailem a heslem
+Přihlásit se přes OAuth
+Autorizace se nezdařila. Zkuste to znovu.
+Zakázat
+Povolit
+Po vypnutí budou vaše statistiky vymazány a hra přestane zaznamenávat data, dokud funkci znovu nepovolíte.
+Aplikace je zastaralá. Zkontrolujte aktualizace.
+Uplatňovací Kód
+Zadejte uplatňovací kód…
+Uplatnit
+Další kód lze uplatnit až po uplynutí čekací doby.
+Uplatňovací kód je neplatný nebo již byl použit.
+Úspěšně jste získali následující předměty:
+Úroveň: #NAME#
+Vzhled: #NAME#
+Klobouk: #NAME#
+Noty × {0}
+S hlavou v oblacích
+Podmínky služby
+Ověření integrity herního prostředí se nezdařilo.
+Překryvná vrstva Steamu
+Monument Valley
+Medvídek Cheetah
+Čaroděj ze země Oz
+Čínský Drak
+Zvukový Mixér
+Mono
+Stereo
+Prostorový zvuk 4.0
+Prostorový zvuk 5.0
+Prostorový zvuk 5.1
+Prostorový zvuk 7.1
+Vybrat Úroveň
+Sbírka Úrovní
+Koupit na Steamu
+Kupte a nainstalujte toto DLC v obchodě Steam
+Původní
+Odeslání Úrovně
+{0} s
+{0} min {1} s
+{0} h {1} min {3} s
+{0} h {1} min
+Stahování aktualizací se nezdařilo. Zkusit znovu?
+Jsou dostupné nové aktualizace. Je nutné stáhnout {0}. Pokračovat?
+Zapomenuté Útočiště
+Kontrola aktualizací se nezdařila. Zkusit znovu?
+Stahování aktualizací se nezdařilo. Opakování pokusu…
+Spolupráce
+Přeskočit Úroveň
+Použít {0} not k přeskočení této úrovně výzvy?
+Nemáte dostatek not. K přeskočení potřebujete alespoň {0}.
+{0} d {1} h
+Obnovení za: {0}
+Dekorace
+Vertikální synchronizace je zapnutá. Nastavení snímkové frekvence se projeví pouze při jejím vypnutí.\nChcete vertikální synchronizaci vypnout?
+Na serveru právě probíhá údržba. Během této doby nebude možné hrát.\n\nDůvod údržby: {0}\nČas ukončení: {1}
+Sledujte prosím další oficiální oznámení.
+Platnost relace vašeho účtu vypršela. Možná jste se přihlásili na jiném zařízení.\nPřihlaste se prosím znovu.
+Na serveru právě probíhá údržba. Do hry se můžete přihlásit, ale herní služby mohou být nestabilní.\n\nDůvod údržby: {0}\nČas ukončení: {1}
+Mise
+Obnovení za: {0}
+Přihlaste se do hry
+Dokončete libovolnou úroveň {0}krát
+Spotřebujte {0} kostek
+Utraťte {0} hvězd
+Zemřete {0}krát v libovolné úrovni
+Sesbírejte {0} diamantů v libovolné úrovni
+Sesbírejte {0} korun v libovolné úrovni
+Oživte se {0}krát v libovolné úrovni
+Získat Hvězdy
+Speciální Interakce V Úrovni
+Tato úroveň obsahuje speciální interakce, které lze aktivovat dotykem obrazovky nebo podržením klávesy.
+Nelze se připojit k síti Steam
+Steam Cloud
+Uzamčená Úroveň
+Funkce 1
+Funkce 2
+Funkce 3
+Funkce 4
+Funkce 5
+Zpět
+Zrušit
+Koupit
+Další Úroveň
+Hlavní Nabídka
+Spustit Úroveň
+Ukončit Hru
+Předchozí Úroveň
+Předchozí Stránka
+Další Stránka
+Zvuk
+Hlavní Hlasitost
+Nepodařilo se inicializovat klienta Steam. Spusťte hru znovu.
+Nelze se připojit ke klientovi Steam. Zkontrolujte, zda je spuštěný, a spusťte hru znovu.
+klient Steam je pravděpodobně zastaralý. ujistěte se, že používáte jeho nejnovější verzi.
+Chyba Steamu
+Cloudová uložená pozice Steamu je poškozená a nelze ji načíst.\nMohlo k tomu dojít, pokud jste hru ukončili během ukládání a data se nezapsala úplně.\nHra se pokusila načíst uloženou pozici z místní mezipaměti, ale neúspěšně.\nMůžete spustit hru s novou uloženou pozicí. Chcete pokračovat?
+Chyba Služby Steam Cloud
+Tréninkový režim zapne vodicí čáru.\n\nSledujte ji, naučte se trasu a užijte si vše, co úroveň nabízí.\n\nNespěchejte a v klidu hledejte cestu vpřed – rekord počká. Postup v tréninkovém režimu se nezapočítává do skóre, misí ani úspěchů.\n\nZapnout tréninkový režim?
+Tréninkový Režim
+Tréninkový Režim
+VAROVÁNÍ: FOTOSENZITIVITA / EPILEPTICKÉ ZÁCHVATY
+<b>PŘED HRANÍM SI PŘEČTĚTE TOTO UPOZORNĚNÍ</b>\n\nVelmi malé procento lidí může při vystavení určitým druhům blikajících světel nebo světelných vzorů zažít epileptické záchvaty nebo ztrátu vědomí. Tyto příznaky se mohou při hraní videoher objevit i u lidí, kteří nikdy neměli epileptický záchvat ani diagnostikovanou epilepsii.\n\nPokud máte vy nebo někdo z vašich příbuzných epilepsii či prodělal jakýkoli záchvat, poraďte se před hraním videoher s lékařem.\n\nOKAMŽITĚ PŘESTAŇTE HRÁT a vyhledejte lékaře, pokud se u vás nebo vašeho dítěte objeví některý z těchto příznaků: závratě, změny vidění, záškuby očí nebo svalů, mimovolní pohyby, ztráta vědomí, dezorientace nebo křeče. Rodiče by měli tyto příznaky u dětí sledovat nebo se na ně ptát.\n\nRiziko fotosenzitivních epileptických záchvatů můžete snížit dodržováním těchto opatření: seďte dále od obrazovky, používejte menší obrazovku, hrajte v dobře osvětlené místnosti a nehrajte, když jste ospalí nebo unavení.
+Žebříček Steamu
+Vodicí Čára
+Odemčení Úrovně

@@ -1,0 +1,590 @@
+Nederlands
+English
+nl
+Dancing Line
+Taal
+VOLG ONS
+Laden
+Kubussen krijgen
+voor de beste ervaring\ngebruik een koptelefoon
+Video niet beschikbaar
+Bekijk een video om dit tijdelijk te ontgrendelen
+Gratis ontgrendelen
+Ontgrendelen
+Nieuw level ontgrendeld:
+Ontvang {0} gratis
+Koop {0} kubussen
+Oneindig veel kubussen
+Opnieuw beschikbaar over: {0}
+Kubussen zijn aangevuld. Laten we weer dansen.
+tik om te beginnen
+OK
+Ja
+Nee
+Aan
+Uit
+Annuleren
+Gepauzeerd
+Kwaliteit
+Zeer laag
+Laag
+Gemiddeld
+Hoog
+Ultra
+Maximaal
+Anti-aliasing
+Geluid
+VSync
+Synchronisatie
+Automatische aanpassing
+Muziekvertraging
+Aanraakfeedback
+Afsluiten bevestigen
+Wil je het spel afsluiten?
+Over
+Versie
+Levelontwerpers
+Lokalisatieteam
+Bilibili
+YouTube
+Licentieovereenkomst voor eindgebruikers
+Privacybeleid
+Discord
+Weergavemodus
+Exclusief volledig scherm
+Randloos venster
+Venstermodus
+Staand
+Liggend
+Resolutie
+Doorgaan vanaf het laatste controlepunt?
+Nog #X%# nodig voor #Nieuw record#
+Nog #X%# nodig voor #Volgend controlepunt#
+Nog #X%# nodig om te #Voltooien#
+Gratis
+Doorgaan
+Zoeken
+Gegevens verwijderen
+Gegevens gereset. Start het spel opnieuw.
+Je spelgegevens worden verwijderd zodra dit proces is voltooid. Ga voorzichtig verder.
+Houd er rekening mee dat je Dancing Line-gegevens (waaronder persoonsgegevens en andere gegevens die worden gegenereerd tijdens het gebruik van Dancing Line-producten) na dit proces definitief worden verwijderd en niet kunnen worden hersteld. Maak je keuze zorgvuldig.
+Verwijderen
+Gegevens verwijderen…\nJe cloudopslag en lokale opslag worden gewist
+Toegankelijkheid
+Kun jij X% halen in Dancing Line? Speel met me mee!
+Debuglogboeken bekijken
+Standaardinstellingen herstellen
+Juridisch en privacy
+Voordat je de app gebruikt, moet je akkoord gaan met onze licentieovereenkomst voor eindgebruikers en ons privacybeleid.
+Accepteren en doorgaan
+Spel afsluiten
+I/O-buffergrootte
+Latentie van audio-uitvoer
+Latentie van aanraakinvoer
+BÈTAVERSIE ##UID# NIET VERSPREIDEN
+Gyroscoopeffecten
+Game Center
+Opeisen
+Dagelijkse gratis sterren
+Beschikbaar over {0}
+Uitgerust
+Uitrusten
+Gratis herlevingen: {0}/{1}
+Wil je {0} sterren uitgeven om de hulplijn tijdelijk te ontgrendelen?
+Dagelijkse gratis sterren konden niet worden opgeëist: tijdverificatie mislukt.
+Geavanceerde instellingen
+Deze instelling geldt alleen voor het huidige level, zodat je de vertraging per level kunt aanpassen op basis van de algemene muziekvertraging.\n\n<b>Werkelijke vertraging = Levelvertraging + Algemene vertraging</b>
+Beloningen
+Beloningen: {0}
+{0} diamanten verzameld in level: {1}
+{0} kronen verzameld in level: {1}
+Level voltooid: {0}
+Volg het ritme en tik ergens om van richting te veranderen.
+Dit spel is bedoeld om met geluid te spelen.
+Veeg niet. Dat werkt niet.
+Tijdens het vliegen hoef je niet te tikken.
+Tik niet wanneer je de piramide onder een hoek van 45° binnengaat
+Je kunt de skin van je personage veranderen door op de zwevende kubus te klikken.
+Verzamel alle diamanten en kronen om levels perfect te voltooien.
+Prestaties
+[Verborgen] 
+Voltooid: #x#
+#x# - Voltooid
+#x# - 10 diamanten
+#x# - 3 kronen
+Voltooi #x#
+Verzamel alle diamanten in #x#
+Verzamel alle kronen in #x#
+Het Geheim van Dragonia
+Vind minstens één verborgen pad in De Verhalen van Dragonia
+Is dat Paimon?
+Zullen we het gebied voor ons later verkennen?
+D.O.O.L.H.O.F.
+Vind het verborgen pad in Het Doolhof
+Pacifisme
+Kies het vreedzame verhaalpad in De Oorlog
+Feest voor het tweede jubileum
+Vrolijk kerstfeest……\nen een gelukkig tweede jubileum
+Meester zonder edelstenen
+Ontmoet een ontsnapte gevangene in Het Avontuur
+Sterrenhemel
+De uitgestrekte sterrenhemel belooft aangename verrassingen
+Toetstoewijzingen
+Wachten op invoer…\nDruk op de gewenste toets op je toetsenbord of controller
+Terug
+Spel pauzeren
+Personagebesturing
+Hulplijn
+Instellingen
+Skin
+Links
+Rechts
+Bevestigen
+Opnieuw beginnen
+Prestaties
+Backspace
+Enter
+Enter
+ESC
+Spatie
+Linker WIN
+Rechter WIN
+Linker CMD
+Rechter CMD
+▲
+▼
+◀
+▶
+Linker Shift
+Rechter Shift
+Linker Option
+Rechter Option
+Linker CTRL
+Rechter CTRL
+Linker Option
+Rechter Option
+Menu
+Voltooid
+Controlepunt
+Vrolijk kerstfeest
+Verzamelen
+Tikken
+Zonder jou was dit niet mogelijk.\nWe zijn één.
+Waarom…
+Alles wordt erger…
+Het Einde van de Wereld
+Volg je eigen ster! -Dante
+Als je eenmaal hebt gevlogen, zul je lopen met je blik naar de hemel gericht \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Je bent niet alleen.
+Heb nergens spijt van als het gaat\nom liefde en eten.
+Normaal
+Koptelefoon
+Papier
+Zeus
+Chaos
+Bergen
+Chinese penseelstreek
+Magische heks
+Kronkelen
+Domino's
+Module
+Licht
+Sneeuwbal
+Pijl
+Walvis
+Sneeuwmist
+Druipsteen
+Clown
+Vliegende wolk
+Slang
+Gelei
+Magische mantel
+Bomskelet
+Ballon
+Vuurbal
+Piramide
+Bal
+Cyaanblauwe bal
+Zwarte bal
+Eenvoudige bal
+Basketbal
+Sterrenkracht
+Robot
+Naamloos level
+Het Begin
+De Tijd
+De Piano
+Het Strand
+De Winter
+De Savanne
+Het Wilde Westen
+Valentijnsdag
+Halloween
+Het Steegje
+De Woestijn
+De Storm
+De Storm
+De Bergen
+De Vlakten
+De Vlakten
+Het Doolhof
+De Aarde
+Het Vuurwerkparadijs
+Kerstavond
+De Herfst
+Het Kristal
+Het Derde Jubileum
+Het Vijfde Jubileum
+De Chaos
+De Kathedraal
+De Kathedraal
+Het Verhaal van de Zeeman
+De Legende van de Huurmoordenaar
+De Chinese Tuin
+De Race
+Binnenkort beschikbaar
+Het Einde - Theo5970
+De Romantiek
+De Lente
+Het Chinese Nieuwjaar
+De Samoerai
+De Verhalen van Dragonia
+Het Lelijke Eendje
+Het Videospel
+De Uittocht
+De Oceaan
+Het Sterrenbeeld Stier
+Droom van de Hemel
+De Basketbal
+Het Kerstfeest
+De Indiase Reis
+De Oorlog
+Het Mysterie
+Het Voetbal
+De Hiphoprevolutie
+Pasen
+Het Lentewiegenlied
+De Halloweenpuzzel
+Het Pretpark
+Faded - Alan Walker
+Faded (Tutorialversie)
+Despacito
+Alone - Alan Walker
+Zentuin
+De Samoerai HD
+De Ranch
+Faded - Alan Walker
+All About Us
+De Evolutie (P13)
+Het Toetjeswonderland
+De Ruimte
+De Ontdekking - Chronos
+Het Avontuur
+De Apocalyps
+De Reis
+De Wiskunde
+De Motregen
+Het Rondzwerven
+De Leegte
+De Herinnering
+Storm van Woede
+Geen
+Kerstmuts
+Bamboehelikopter
+Tovenaarshoed
+Mexicaanse hoed
+Bolhoed
+Lieve hondenhoed
+Elfje
+Rat
+Nieuw level wordt gedownload
+Blijf verbonden met internet
+Invoer-HUD
+Downloaden van level mislukt
+Cache wissen
+Gedownloade gegevens, zoals levels en muziek, worden uit de cache verwijderd. Doorgaan?
+De huidige versie #Current# is verouderd. Je moet bijwerken naar minimaal #Latest# om te kunnen spelen.
+Advertentieconfiguraties laden mislukt
+Opnieuw proberen
+Controleren op updates…
+Configuraties bijwerken
+Updates downloaden
+De reis is nog niet voorbij…
+Er komt nog meer…
+Bedankt voor alles, Dancing Line-spelers!
+Update vereist
+Algemene synchronisatieaanpassing
+Synchronisatieaanpassing per level
+Automatische correctie
+Delen
+Tekst kopiëren
+Afbeelding opslaan
+Afbeelding kopiëren
+Kies wat je wilt wissen
+Spelvoortgang wissen
+Nieuw Record
+Perfect
+Niet te koop
+Notenuitdaging
+Notenwinkel
+Uitverkocht
+Sterren × {0}
+Kubussen × {0}
+Uitdaging
+Dinsdag — zondag
+Regels
+Voltooi dit level perfect om noten te verdienen!
+De notenuitdaging is afgelopen. Probeer het later opnieuw!
+• Tijdens dit evenement moet je elke diamant en kroon verzamelen en het level met slechts één kubus voltooien. En vergeet niet: herleven is niet toegestaan! Durf jij de uitdaging aan?\n\n• Hulplijnen zijn tijdens het spelen uitgeschakeld, dus alles hangt af van jouw vaardigheden!\n\n• Heb je het level perfect voltooid? Ga dan terug naar de evenementpagina om je beloningen op te eisen!
+Kan geen verbinding maken met internet. Controleer je netwerkverbinding en probeer het opnieuw.
+Voorwerp ingewisseld
+#item# succesvol ingewisseld
+Wil je #item# inwisselen?
+De winkel wordt elke maandag vernieuwd
+De notenwinkel is vernieuwd. Bekijk wat er nieuw is!
+De notenuitdaging van deze week is beschikbaar. Kom de levels verslaan!
+Bowlingbal
+Tennisbal
+Uitdaging voltooid: #Level#
+Doorgaan met downloaden via mobiele data?
+Waarschuwing voor mobiele data
+Fout
+Er is een onbekende fout opgetreden!
+Cursor verbergen
+Bij stilstand
+Tijdens het spelen
+Nooit
+Officieel
+Remix
+Evenement
+Seizoen
+Origineel
+Klassiek
+Door fans gemaakt
+Max Studio
+WINDER Studio
+Log in bij Game Center via de systeeminstellingen
+Statusbalk
+DLRS GAS
+Profiel
+Accountinstellingen
+Gebruikersnaam: {0}\nGebruikers-ID: {1}
+Framesnelheid
+Framesnelheid weergeven
+Server
+Ondersteuning voor multitouch
+Come & Get It - Selena Gomez
+Nummer
+Gekopieerd naar klembord
+App-pictogram
+Spelvoortgang exporteren
+Spelvoortgang importeren
+De Boom van de Leegte
+Betreed het geheime pad in De Leegte
+Automatisch klikken is mogelijk niet nauwkeurig totdat het level is gedownload.
+Speldatabase bijwerken
+Standaard
+Groen
+Het Duet
+QQ-groep
+QQ-kanaal
+Renderresolutie
+Automatisch
+Hoeden
+Afdoen
+Sciencefiction
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+voltooid
+Blauw
+Geel
+Klassiek
+Audiosessie onderbroken
+De audiosessie is door het systeem onderbroken, waardoor het spel tijdelijk niet kan doorgaan. Sluit apps of processen die het spelgeluid kunnen verstoren en probeer het opnieuw.
+Laatst gesynchroniseerd: {0}\nVersie van cloudgegevens: {1}
+Nu synchroniseren
+Te vaak gesynchroniseerd
+Synchronisatie geslaagd
+Synchronisatie mislukt
+Cloudopslag
+Laatst gesynchroniseerd
+Versie van cloudgegevens
+Synchroniseren…
+Systeemtaal volgen
+Kopiëren
+Externe map openen
+Een map rechtstreeks openen wordt momenteel niet ondersteund. Klik op de knop om het volgende pad te kopiëren en open de map handmatig:\n\n#DIRECTORY#
+DL RS Games-accountsysteem
+E-mail…
+Wachtwoord…
+Gebruiker onthouden
+Inloggen op account
+Inloggen
+Registreren
+Wachtwoord vergeten
+Inloggen…
+Time-out bij inloggen
+Fout
+Onjuist e-mailadres of wachtwoord
+Dit account staat niet op de toelatingslijst
+Dit account moet worden geactiveerd
+App verouderd. Controleer op updates.
+Welkom, {0}!
+Inloggen geslaagd
+Voer je e-mailadres in
+Voer je wachtwoord in
+Door in te loggen ga je akkoord met de <b><color=#3d6ec0>servicevoorwaarden van DLRS GAS</color></b>
+Recent account
+Nieuwe aanmelding
+Weet je zeker dat je account #name# wilt verwijderen?
+Openen in externe browser…
+Dit account is geblokkeerd
+Gebruikersgegevens downloaden…
+Spelersgegevens laden mislukt
+Uitloggen
+Weet je zeker dat je wilt uitloggen bij #USERNAME#?
+Opensourcebibliotheken
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistieken
+Voltooid
+Diamanten
+Kronen
+Sterfgevallen
+Levelpogingen
+Herlevingen
+Aantal keren voltooid
+Verzamelde diamanten
+Verzamelde kronen
+Verdiende sterren
+Uitgegeven sterren
+Verdiende energiekubussen
+Gebruikte energiekubussen
+Verdiende noten
+Uitgegeven noten
+Verkregen skins
+Verkregen hoeden
+Multisample-AA (#SHORT#)
+Snelle benaderende AA (#SHORT#)
+Temporele AA (#SHORT#)
+Subpixel-morfologische AA (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planeet
+Ster
+Ga naar #LEVELNAME#
+Deze optie kan tijdens het spelen haperingen of een onjuiste beeldweergave veroorzaken.
+Waarschuwing
+Audioapparaat
+Ingebouwde luidspreker
+Luidsprekers
+Geen levels gevonden die overeenkomen met de zoekwoorden.
+Alle overeenkomsten
+Een willekeurige overeenkomst
+Speelbaar
+Inloggen met e-mail en wachtwoord
+Inloggen via OAuth
+Autorisatie mislukt. Probeer het opnieuw.
+Uitschakelen
+Inschakelen
+Als je dit uitschakelt, worden je statistieken gewist en worden er geen nieuwe gegevens bijgehouden totdat je het opnieuw inschakelt.
+App verouderd. Controleer op updates.
+Inwisselcode
+Voer inwisselcode in…
+Inwisselen
+Je moet wachten voordat je opnieuw kunt inwisselen. Probeer het later opnieuw.
+De inwisselcode is ongeldig of al gebruikt.
+De volgende voorwerpen zijn succesvol ingewisseld:
+Level: #NAME#
+Skin: #NAME#
+Hoed: #NAME#
+Noten × {0}
+Met je Hoofd in de Wolken
+Servicevoorwaarden
+Controle van de integriteit van de spelomgeving mislukt.
+Steam-overlay
+Monument Valley
+Cheetah-beertje
+De Tovenaar van Oz
+De Chinese Draak
+Audiomixer
+Mono
+Stereo
+4.0-surround
+5.0-surround
+5.1-surround
+7.1-surround
+Level selecteren
+Levelverzameling
+Kopen op Steam
+Koop en installeer deze DLC in de Steam-winkel
+Klassiek
+Levelinzending
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Updates downloaden mislukt. Opnieuw proberen?
+Nieuwe updates beschikbaar. Download van {0} vereist. Doorgaan?
+De Vergeten Toevlucht
+Controleren op updates mislukt. Opnieuw proberen?
+Updates downloaden mislukt. Opnieuw proberen…
+Samenwerking
+Level overslaan
+Wil je {0} noten gebruiken om dit uitdagingslevel over te slaan?
+Niet genoeg noten. Je hebt minstens {0} nodig om over te slaan.
+{0}d {1}u
+Vernieuwt over: {0}
+Decoratie
+VSync is momenteel ingeschakeld. Instellingen voor de framesnelheid werken alleen wanneer VSync is uitgeschakeld.\nWil je VSync uitschakelen?
+De server is momenteel in onderhoud. Je kunt tijdens deze periode niet spelen.\n\nReden voor onderhoud: {0}\nEindtijd: {1}
+Houd de officiële aankondigingen in de gaten.
+Je accountsessie is verlopen. Mogelijk ben je op een ander apparaat ingelogd.\nLog opnieuw in.
+De server is momenteel in onderhoud. Je kunt tijdens het onderhoud inloggen, maar de spelservice kan instabiel zijn.\n\nReden voor onderhoud: {0}\nEindtijd: {1}
+Missies
+Vernieuwt over: {0}
+Log in op het spel
+Voltooi een willekeurig level {0} keer
+Gebruik {0} kubussen
+Gebruik {0} sterren
+Sterf {0} keer in een willekeurig level
+Verzamel {0} diamanten in een willekeurig level
+Verzamel {0} kronen in een willekeurig level
+Herleef {0} keer in een willekeurig level
+Sterren krijgen
+Speciale levelinteractie
+Dit level bevat speciale interacties die je kunt activeren via het aanraakscherm of door een toets ingedrukt te houden.
+Kan geen verbinding maken met het Steam-netwerk
+Steam Cloud
+Vergrendeld level
+Functie 1
+Functie 2
+Functie 3
+Functie 4
+Functie 5
+Terug
+Annuleren
+Kopen
+Volgend level
+Hoofdmenu
+Level starten
+Spel afsluiten
+Vorig level
+Vorige pagina
+Volgende pagina
+Audio
+Hoofdvolume
+Steam-client initialiseren mislukt. Start het spel opnieuw.
+Kan geen verbinding maken met de Steam-client. Controleer of Steam actief is en start het spel opnieuw.
+De Steam-client lijkt verouderd. Zorg ervoor dat je Steam-client is bijgewerkt.
+Steam-fout
+De Steam-cloudopslag is beschadigd en kan niet worden gelezen.\nDit kan zijn gebeurd doordat je het spel tijdens het opslaan hebt afgesloten, waardoor onvolledige gegevens zijn opgeslagen.\nHet spel heeft geprobeerd de opgeslagen gegevens uit de lokale cache te lezen, maar dat is ook mislukt.\nJe kunt ervoor kiezen om met een nieuwe opslag te beginnen. Wil je doorgaan?
+Steam Cloud-fout
+In de oefenmodus wordt de hulplijn ingeschakeld.\n\nVolg de hulplijn om de route te leren kennen en rustig te genieten van alles wat het level te bieden heeft.\n\nNeem de tijd om je weg te vinden —— je record kan wachten. Voortgang in de oefenmodus telt niet mee voor scores, missies of prestaties.\n\nOefenmodus inschakelen?
+Oefenmodus
+Oefenmodus
+WAARSCHUWING: LICHTGEVOELIGHEID/EPILEPTISCHE AANVALLEN
+<b>LEES DEZE MEDEDELING VOORDAT JE GAAT SPELEN</b>\n\nEen zeer klein percentage mensen kan epileptische aanvallen krijgen of het bewustzijn verliezen bij blootstelling aan bepaalde soorten flitsende lichten of lichtpatronen. Deze mensen, maar ook mensen zonder voorgeschiedenis van aanvallen of epilepsie, kunnen tijdens het spelen van videogames epileptische symptomen of aanvallen ervaren.\n\nAls jij of een familielid epilepsie heeft of ooit een aanval heeft gehad, raadpleeg dan een arts voordat je een videogame speelt.\n\nSTOP ONMIDDELLIJK met spelen en raadpleeg een arts als jij of je kind een van de volgende symptomen ervaart: duizeligheid, veranderd gezichtsvermogen, trekkingen van ogen of spieren, onwillekeurige bewegingen, bewustzijnsverlies, desoriëntatie of stuiptrekkingen. Ouders moeten op deze symptomen letten of hun kinderen ernaar vragen.\n\nJe kunt het risico op lichtgevoelige epileptische aanvallen verkleinen door de volgende voorzorgsmaatregelen te nemen: ga verder van het scherm zitten, gebruik een kleiner scherm, speel in een goed verlichte kamer en speel niet wanneer je slaperig of vermoeid bent.
+Steam-klassement
+Hulplijn
+Level ontgrendelen

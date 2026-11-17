@@ -1,0 +1,590 @@
+Svenska
+English
+sv
+Dancing Line
+Språk
+GILLA OSS
+Laddar
+Få kuber
+för bästa upplevelsen\nanvänd hörlurar
+Video inte tillgänglig
+Titta på en video för att låsa upp tillfälligt
+Lås upp gratis
+Lås upp
+Ny bana upplåst:
+Få {0} gratis
+Köp {0} kuber
+Obegränsat med kuber
+Laddas om om: {0}
+Kuberna har laddats om. Nu dansar vi igen.
+tryck för att börja
+OK
+Ja
+Nej
+På
+Av
+Avbryt
+Pausat
+Kvalitet
+Mycket låg
+Låg
+Medel
+Hög
+Ultra
+Max
+Kantutjämning
+Ljud
+VSync
+Synkronisering
+Automatisk justering
+Musikfördröjning
+Tryckåterkoppling
+Bekräfta avslut
+Vill du avsluta spelet?
+Om
+Version
+Bandesigners
+Översättningsteam
+Bilibili
+YouTube
+Slutanvändarlicensavtal
+Integritetspolicy
+Discord
+Visningsläge
+Exklusivt helskärmsläge
+Fönster i helskärm
+Fönsterläge
+Stående
+Liggande
+Upplösning
+Fortsätta från senaste kontrollpunkten?
+Behöver #X%# till för #Nytt Rekord#
+Behöver #X%# till för #Nästa Kontrollpunkt#
+Behöver #X%# till för #Slutförande#
+Gratis
+Fortsätt
+Sök
+Radera data
+Speldata har återställts. Starta om spelet.
+Dina speldata raderas när processen är klar. Fortsätt med försiktighet.
+Observera att när du slutför processen raderas dina Dancing Line-data (inklusive personuppgifter och andra data som skapats när du använt Dancing Line-produkter) permanent och kan inte återställas. Tänk efter noga innan du fortsätter.
+Radera
+Raderar data…\nDina sparfiler i molnet och lokalt rensas
+Tillgänglighet
+Kan du slå X% i Dancing Line? Kom och spela med mig!
+Visa felsökningsloggar
+Återställ standardinställningar
+Juridik och integritet
+Innan du använder appen måste du godkänna vårt slutanvändarlicensavtal och vår integritetspolicy.
+Godkänn och fortsätt
+Avsluta spelet
+Storlek på I/O-buffert
+Ljudutgångens latens
+Tryckinmatningens latens
+BETAVERSION ##UID# SPRID INTE
+Gyroskopeffekter
+Game Center
+Hämta
+Dagliga gratisstjärnor
+Kan hämtas om {0}
+Utrustad
+Utrusta
+Gratis återupplivningar: {0}/{1}
+Vill du använda {0} stjärnor för att låsa upp hjälplinjen tillfälligt?
+Kunde inte hämta dagliga gratisstjärnor. Tidsverifieringen misslyckades.
+Avancerade inställningar
+Den här inställningen gäller endast den aktuella banan och låter dig justera varje bana individuellt utifrån den globala musikfördröjningen.\n\n<b>Faktisk fördröjning = Banans fördröjning + Global fördröjning</b>
+Belöningar
+Belöningar: {0}
+Samlade {0} diamanter på banan: {1}
+Samlade {0} kronor på banan: {1}
+Klarade banan: {0}
+Följ rytmen och tryck var som helst för att ändra riktning.
+Det här spelet är gjort för att spelas med musiken på.
+Svep inte. Det fungerar inte.
+Du behöver inte trycka när du flyger.
+Tryck inte när du går in i pyramiden i 45° vinkel.
+Du kan ändra figurens utseende genom att trycka på den svävande kuben.
+Samla alla diamanter och kronor för att klara banorna perfekt.
+Prestationer
+[Dold] 
+Klarad: #x#
+#x# - Klarad
+#x# - 10 diamanter
+#x# - 3 kronor
+Klara #x#
+Samla alla diamanter i #x#
+Samla alla kronor i #x#
+Drakonias hemlighet
+Hitta minst en dold väg i Drakonias berättelser
+Är det Paimon?
+Ska vi utforska området framför oss senare?
+L.A.B.Y.R.I.N.T.
+Hitta den dolda vägen i Labyrinten
+Pacifism
+Välj den fredliga berättelsevägen i Kriget
+Tvåårsfest
+God jul……\noch grattis på tvåårsdagen
+Mästare utan ädelstenar
+Möt en rymling från fängelsehålan i Äventyret
+Stjärnhimmel
+Den stjärnklara himlen lovar härliga överraskningar
+Tangentbindningar
+Väntar på inmatning…\nTryck på den tangent eller kontrollknapp du vill använda
+Tillbaka
+Pausa spelet
+Figurkontroll
+Hjälplinje
+Inställningar
+Utseende
+Vänster
+Höger
+Bekräfta
+Starta om
+Prestationer
+Backsteg
+Retur
+Retur
+ESC
+Mellanslag
+Vänster WIN
+Höger WIN
+Vänster CMD
+Höger CMD
+▲
+▼
+◀
+▶
+Vänster Skift
+Höger Skift
+Vänster Alternativ
+Höger Alternativ
+Vänster CTRL
+Höger CTRL
+Vänster Alternativ
+Höger Alternativ
+Meny
+Klarad
+Kontrollpunkt
+God jul
+Samla
+Tryck
+Det här hade inte varit möjligt utan dig.\nVi hör ihop.
+Varför…
+Allt blir värre…
+Världens slut
+Följ din egen stjärna! – Dante
+När du väl har flugit kommer du att vandra med blicken mot himlen \n\t\t\t\t\t\t\t\t Leonardo da Vinci
+Du är inte ensam.
+Ångra ingenting när det gäller\nkärlek och mat.
+Normal
+Hörlurar
+Papper
+Zeus
+Kaos
+Berg
+Kinesisk pensel
+Magisk häxa
+Slingra
+Dominobrickor
+Modul
+Ljus
+Snöboll
+Pil
+Val
+Snödimma
+Stalagmit
+Clown
+Flygande moln
+Orm
+Gelé
+Magisk mantel
+Bombskelett
+Ballong
+Eldklot
+Pyramid
+Boll
+Turkos boll
+Svart boll
+Enkel boll
+Basketboll
+Stjärnkraft
+Robot
+Namnlös bana
+Början
+Tiden
+Pianot
+Stranden
+Vintern
+Savannen
+Västern
+Alla hjärtans dag
+Halloween
+Gränden
+Öknen
+Stormen
+Stormen
+Bergen
+Slätterna
+Slätterna
+Labyrinten
+Jorden
+Fyrverkeriparadiset
+Julafton
+Hösten
+Kristallen
+Treårsjubileet
+Femårsjubileet
+Kaoset
+Katedralen
+Katedralen
+Sjömannens berättelse
+Lönnmördarens legend
+Den kinesiska trädgården
+Kapplöpningen
+Kommer snart
+Slutet - Theo5970
+Romantiken
+Våren
+Det kinesiska nyåret
+Samurajen
+Drakonias berättelser
+Den fula ankungen
+Tv-spelet
+Uttåget
+Havet
+Stjärntecknet Oxen
+Dröm om himlen
+Basketbollen
+Julfesten
+Den indiska resan
+Kriget
+Mysteriet
+Fotbollen
+Hiphopens utveckling
+Påsken
+Vårens vaggvisa
+Halloweenpusslet
+Nöjesparken
+Faded - Alan Walker
+Faded (handledningsversion)
+Despacito
+Alone - Alan Walker
+Zenträdgården
+Samurajen HD
+Ranchen
+Faded - Alan Walker
+All About Us
+Utvecklingen (P13)
+Dessertunderland
+Rymden
+Upptäckten - Chronos
+Äventyret
+Apokalypsen
+Resan
+Matematiken
+Duggregnet
+Vandringen
+Tomheten
+Minnet
+Vredens storm
+Ingen
+Tomteluva
+Bambusnurra
+Trollkarlshatt
+Mexikansk hatt
+Plommonstop
+Söt hundhatt
+Ande
+Råtta
+En ny bana laddas ned
+Behåll internetanslutningen
+Inmatningsindikator
+Det gick inte att ladda ned banan
+Rensa cache
+Cachelagrade data, till exempel nedladdade banor och musik, kommer att raderas. Vill du fortsätta?
+Den nuvarande versionen #Current# är för gammal. Du måste uppdatera till minst #Latest# för att spela.
+Det gick inte att läsa in annonsinställningarna
+Försök igen
+Söker efter uppdateringar…
+Uppdaterar inställningar
+Laddar ned uppdateringar
+Resan är inte över…
+Mer är på väg…
+Tack till alla Dancing Line-spelare!
+Uppdatering krävs
+Global synkroniseringsjustering
+Synkroniseringsjustering för bana
+Automatisk korrigering
+Dela
+Kopiera text
+Spara bild
+Kopiera bild
+Välj vad som ska rensas
+Rensa spelframsteg
+Nytt Rekord
+Perfekt
+Inte till salu
+Notutmaning
+Notbutik
+Slutsålt
+Stjärnor × {0}
+Kuber × {0}
+Utmaning
+Tisdag – söndag
+Regler
+Klara den här banan perfekt för att få noter!
+Notutmaningen har avslutats. Försök nästa gång!
+• Under det här evenemanget ska du samla alla diamanter och kronor och klara banan med bara en kub – och kom ihåg att du inte får återupplivas! Antar du utmaningen?\n\n• Hjälplinjer är avstängda under spelet, så allt hänger på din skicklighet!\n\n• När du har klarat banan perfekt, glöm inte att gå tillbaka till evenemangssidan och hämta dina belöningar!
+Det gick inte att ansluta till internet. Kontrollera att anslutningen är stabil och försök igen.
+Föremål inlöst
+#item# har lösts in
+Vill du lösa in #item#?
+Butiken uppdateras varje måndag
+Notbutiken har uppdaterats. Se vad som är nytt!
+Veckans notutmaning är nu tillgänglig. Kom och klara banorna!
+Bowlingklot
+Tennisboll
+Utmaning klarad: #Level#
+Fortsätta nedladdningen via mobildata?
+Varning för mobildata
+Fel
+Ett okänt fel inträffade!
+Dölj markören
+När den är stilla
+Under spelet
+Aldrig
+Officiell
+Remix
+Evenemang
+Säsong
+Original
+Klassisk
+Skapad av fans
+Max Studio
+WINDER Studio
+Logga in på Game Center i systeminställningarna
+Statusfält
+DLRS GAS
+Profil
+Kontoinställningar
+Användarnamn: {0}\nAnvändar-ID: {1}
+Bildfrekvens
+Visa bildfrekvens
+Server
+Stöd för multitouch
+Come & Get It - Selena Gomez
+Låt
+Kopierat till urklipp
+Appikon
+Exportera spelframsteg
+Importera spelframsteg
+Tomhetens träd
+Gå in på den hemliga vägen i Tomheten
+Automatiska tryckningar kanske inte fungerar korrekt förrän banan har laddats ned.
+Uppgraderar speldatabasen
+Standard
+Grön
+Duetten
+QQ-grupp
+QQ-kanal
+Renderingsupplösning
+Auto
+Hattar
+Ta av
+Science fiction
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+klarad
+Blå
+Gul
+Klassisk
+Ljudsessionen avbröts
+Eftersom systemet har avbrutit den aktuella ljudsessionen kan spelet tillfälligt inte fortsätta. Försök undvika appar eller processer som kan störa spelets ljud och försök igen.
+Senast synkroniserad: {0}\nMolndataversion: {1}
+Synkronisera nu
+Synkronisering sker för ofta
+Synkroniseringen lyckades
+Synkroniseringen misslyckades
+Molnsparning
+Senast synkroniserad
+Molndataversion
+Synkroniserar…
+Följ systemspråket
+Kopiera
+Öppna extern mapp
+Det går för närvarande inte att öppna en mapp direkt. Klicka på knappen för att kopiera följande sökväg och öppna den manuellt:\n\n#DIRECTORY#
+DL RS Games kontosystem
+E-post…
+Lösenord…
+Kom ihåg användaren
+Kontoinloggning
+Logga in
+Registrera
+Glömt lösenord
+Loggar in…
+Tidsgränsen för inloggning överskreds
+Fel
+Felaktig e-postadress eller felaktigt lösenord
+Det här kontot finns inte på listan över godkända konton
+Det här kontot måste aktiveras
+Appen är föråldrad. Sök efter uppdateringar.
+Välkommen, {0}!
+Inloggningen lyckades
+Ange e-postadress
+Ange lösenord
+Genom att logga in godkänner du <b><color=#3d6ec0>DLRS GAS användarvillkor</color></b>
+Senaste kontot
+Ny inloggning
+Är du säker på att du vill ta bort kontot #name#?
+Öppnar i en extern webbläsare…
+Det här kontot har stängts av
+Laddar ned användardata…
+Det gick inte att läsa in spelardata
+Logga ut
+Är du säker på att du vill logga ut från #USERNAME#?
+Bibliotek med öppen källkod
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Statistik
+Klarade
+Diamanter
+Kronor
+Dödsfall
+Banförsök
+Återupplivningar
+Antal gånger klarad
+Insamlade diamanter
+Insamlade kronor
+Intjänade stjärnor
+Använda stjärnor
+Intjänade energikuber
+Använda energikuber
+Intjänade noter
+Använda noter
+Ägda utseenden
+Ägda hattar
+Multisampling-kantutjämning (#SHORT#)
+Snabb approximativ kantutjämning (#SHORT#)
+Temporal kantutjämning (#SHORT#)
+Subpixelbaserad morfologisk kantutjämning (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Planet
+Stjärna
+Gå till #LEVELNAME#
+Det här alternativet kan orsaka hack eller felaktig bildvisning under spelet.
+Varning
+Ljudenhet
+Inbyggd högtalare
+Högtalare
+Hittade inga banor som matchar sökorden.
+Matcha alla
+Matcha någon
+Spelbar
+Logga in med e-postadress och lösenord
+Logga in med OAuth
+Auktoriseringen misslyckades. Försök igen.
+Inaktivera
+Aktivera
+När funktionen inaktiveras raderas din statistik och spelet registrerar inga fler data förrän den aktiveras igen.
+Appen är föråldrad. Sök efter uppdateringar.
+Inlösenkod
+Ange inlösenkod…
+Lös in
+Du måste vänta innan du kan lösa in en ny kod. Försök igen senare.
+Inlösenkoden är ogiltig eller har redan använts.
+Följande föremål har lösts in:
+Bana: #NAME#
+Utseende: #NAME#
+Hatt: #NAME#
+Noter × {0}
+Med huvudet bland molnen
+Användarvillkor
+Kontrollen av spelmiljöns integritet misslyckades.
+Steam-överlägg
+Monument Valley
+Cheetah-nalle
+Trollkarlen från Oz
+Den kinesiska draken
+Ljudmixer
+Mono
+Stereo
+4.0-surround
+5.0-surround
+5.1-surround
+7.1-surround
+Välj bana
+Bansamling
+Köp på Steam
+Köp och installera detta DLC i Steam-butiken
+Klassisk
+Skicka in bana
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Nedladdningen av uppdateringar misslyckades. Försöka igen?
+Nya uppdateringar finns tillgängliga. {0} måste laddas ned. Fortsätta?
+Den bortglömda fristaden
+Det gick inte att söka efter uppdateringar. Försöka igen?
+Nedladdningen av uppdateringar misslyckades. Försöker igen…
+Samarbete
+Hoppa över bana
+Använda {0} noter för att hoppa över den här utmaningsbanan?
+Inte tillräckligt med noter. Du behöver minst {0} för att hoppa över.
+{0}d {1}h
+Uppdateras om: {0}
+Dekoration
+VSync är för närvarande aktiverat. Inställningarna för bildfrekvens gäller bara när VSync är avstängt.\nVill du stänga av VSync?
+Servern underhålls för närvarande. Spelet är inte tillgängligt under denna period.\n\nOrsak till underhållet: {0}\nSluttid: {1}
+Håll utkik efter fler officiella meddelanden.
+Din kontosession har löpt ut. Du kan ha loggat in från en annan enhet.\nLogga in igen.
+Servern underhålls för närvarande. Du kan logga in under underhållet, men speltjänsten kan vara instabil.\n\nOrsak till underhållet: {0}\nSluttid: {1}
+Uppdrag
+Uppdateras om: {0}
+Logga in i spelet
+Klara valfri bana {0} gånger
+Använd {0} kuber
+Använd {0} stjärnor
+Dö {0} gånger på valfri bana
+Samla {0} diamanter på valfri bana
+Samla {0} kronor på valfri bana
+Återupplivas {0} gånger på valfri bana
+Få stjärnor
+Särskild baninteraktion
+Den här banan har särskilda interaktioner som kan aktiveras genom att trycka på skärmen eller hålla ned en tangent.
+Det går inte att ansluta till Steam-nätverket
+Steam Cloud
+Låst bana
+Funktion 1
+Funktion 2
+Funktion 3
+Funktion 4
+Funktion 5
+Tillbaka
+Avbryt
+Köp
+Nästa bana
+Huvudmeny
+Starta bana
+Avsluta spelet
+Föregående bana
+Föregående sida
+Nästa sida
+Ljud
+Huvudvolym
+Det gick inte att initiera Steam-klienten. Starta om spelet.
+Det går inte att ansluta till Steam-klienten. Kontrollera att Steam-klienten körs och starta om spelet.
+Steam-klienten verkar vara föråldrad. Kontrollera att din Steam-klient är uppdaterad.
+Steam-fel
+Molnsparfilen i Steam är skadad och kan inte läsas.\nDet kan bero på att du avslutade spelet medan det sparades, så att ofullständiga data skrevs till sparfilen.\nSpelet har försökt läsa sparfilen från den lokala cachen, men misslyckades även där.\nDu kan välja att starta spelet med en ny sparfil. Vill du fortsätta?
+Steam Cloud-fel
+Övningsläget aktiverar hjälplinjen.\n\nFölj hjälplinjen för att lära dig vägen och njuta av allt banan har att erbjuda i din egen takt.\n\nTa god tid på dig att hitta vägen framåt —— ditt rekord kan vänta. Framsteg i övningsläget räknas inte till poäng, uppdrag eller prestationer.\n\nAktivera övningsläget?
+Övningsläge
+Övningsläge
+VARNING: LJUSKÄNSLIGHET/EPILEPTISKA ANFALL
+<b>LÄS DETTA MEDDELANDE INNAN DU SPELAR</b>\n\nEn mycket liten andel människor kan få epileptiska anfall eller förlora medvetandet när de utsätts för vissa typer av blinkande ljus eller ljusmönster. Dessa personer, och även personer utan tidigare anfall eller epilepsi, kan uppleva epileptiska symtom eller anfall när de spelar tv-spel.\n\nOm du eller någon i din familj har epilepsi eller tidigare har haft någon form av anfall ska du rådfråga läkare innan du spelar tv-spel.\n\nSLUTA OMEDELBART att spela och kontakta läkare om du eller ditt barn upplever något av följande symtom: yrsel, synförändringar, ryckningar i ögon eller muskler, ofrivilliga rörelser, medvetandeförlust, desorientering eller kramper. Föräldrar bör vara uppmärksamma på dessa symtom hos sina barn och fråga om dem.\n\nDu kan minska risken för ljuskänslighetsutlösta epileptiska anfall genom att sitta längre från skärmen, använda en mindre skärm, spela i ett väl upplyst rum och undvika att spela när du är sömnig eller trött.
+Steam-topplista
+Hjälplinje
+Lås upp bana

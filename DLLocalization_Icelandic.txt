@@ -1,0 +1,590 @@
+Íslenska
+English
+is
+Dancing Line
+Tungumál
+LÍKAÐU VIÐ OKKUR
+Hleður
+Fá teninga
+til að fá sem besta upplifun\nnotaðu heyrnartól
+Myndband ekki tiltækt
+Horfðu á myndband til að opna þetta tímabundið
+Ókeypis opnun
+Opna
+Nýtt borð opnað:
+Fá {0} ókeypis
+Kaupa {0} teninga
+Óendanlegir teningar
+Endurhleðsla eftir: {0}
+Teningarnir hafa verið endurhlaðnir. Dönsum aftur.
+snertu til að byrja
+Í lagi
+Já
+Nei
+Kveikt
+Slökkt
+Hætta við
+Í hléi
+Gæði
+Mjög lítil
+Lítil
+Miðlungs
+Mikil
+Öfgamikil
+Hámark
+Kantajöfnun
+Hljóð
+Lóðrétt samstilling
+Samstilling
+Sjálfvirk aðlögun
+Tónlistartöf
+Snertiviðbrögð
+Staðfesta lokun
+Viltu hætta í leiknum?
+Um leikinn
+Útgáfa
+Borðahönnuðir
+Þýðingarteymi
+Bilibili
+YouTube
+Notandaleyfissamningur
+Persónuverndarstefna
+Discord
+Skjástilling
+Sérstakur fullur skjár
+Gluggi á öllum skjánum
+Gluggi
+Lóðrétt
+Lárétt
+Upplausn
+Halda áfram frá síðasta eftirlitsstað?
+Vantar #X%# í viðbót fyrir #Nýtt met#
+Vantar #X%# í viðbót fyrir #Næsta eftirlitsstað#
+Vantar #X%# í viðbót til að #Ljúka#
+Ókeypis
+Halda áfram
+Leita
+Eyða gögnum
+Leikgögnin voru endurstillt. Endurræstu leikinn.
+Leikgögnunum þínum verður eytt þegar ferlinu lýkur. Farðu varlega.
+Hafðu í huga að þegar þú lýkur þessu ferli verður öllum Dancing Line-gögnum þínum (þar á meðal persónuupplýsingum og öðrum gögnum sem verða til við notkun Dancing Line-vara) eytt varanlega og ekki verður hægt að endurheimta þau. Veldu af varúð og haltu áfram.
+Eyða
+Eyði gögnum…\nSkýja- og staðbundnar vistanir verða hreinsaðar
+Aðgengi
+Geturðu náð X% í Dancing Line? Komdu og spilaðu með mér!
+Skoða villuleitarskrár
+Endurheimta sjálfgefnar stillingar
+Lögfræði og persónuvernd
+Áður en þú notar forritið þarftu að samþykkja notandaleyfissamninginn og persónuverndarstefnuna.
+Samþykkja og halda áfram
+Hætta í leik
+Stærð inn- og úttaksbiðminnis
+Töf á hljóðúttaki
+Töf á snertiinntaki
+BETAÚTGÁFA ##UID# EKKI LEKA
+Áhrif snúningsskynjara
+Game Center
+Sækja
+Daglegar ókeypis stjörnur
+Hægt að sækja eftir {0}
+Í notkun
+Nota
+Ókeypis endurlífgun: {0}/{1}
+Viltu eyða {0} stjörnum til að opna leiðarlínuna tímabundið?
+Ekki tókst að sækja daglegar ókeypis stjörnur; tímastaðfesting mistókst.
+Ítarlegar stillingar
+Þessi stilling á aðeins við um núverandi borð og gerir kleift að stilla hvert borð sérstaklega út frá almennri tónlistartöf.\n\n<b>Raunveruleg töf = Töf borðs + Almenn töf</b>
+Verðlaun
+Verðlaun: {0}
+Safnað {0} demöntum í borði: {1}
+Safnað {0} krónum í borði: {1}
+Lokið borði: {0}
+Fylgdu taktinum og snertu hvar sem er til að breyta um stefnu.
+Þessi leikur er ætlaður til að spila með tónlistinni í gangi.
+Ekki strjúka. Það virkar ekki.
+Þú þarft ekki að snerta á meðan þú flýgur.
+Ekki snerta þegar þú ferð inn í pýramídann í 45° horni.
+Þú getur breytt útliti persónunnar með því að smella á svífandi teninginn.
+Safnaðu öllum demöntum og krónum til að ljúka borðunum fullkomlega.
+Afrek
+[Falið]
+Lokið: #x#
+#x# - Lokið
+#x# - 10 demantar
+#x# - 3 krónur
+Ljúktu #x#
+Safnaðu öllum demöntum í #x#
+Safnaðu öllum krónum í #x#
+Leyndarmál Dragonia
+Finndu að minnsta kosti eina falda leið í  Sögur Dragonia 
+Er þetta Paimon?
+Hvað með að kanna svæðið fram undan seinna?
+V.Ö.L.U.N.D.A.R.H.Ú.S.
+Finndu földu leiðina í Völundarhúsinu
+Friðarstefna
+Farðu inn á friðarleiðina í Stríðinu
+Tveggja ára afmælisveisla
+Gleðileg jól……\nog tveggja ára afmæli
+Meistari án gimsteina
+Hittu flóttamann úr dýflissu í Ævintýrinu
+Stjörnubjartur himinn
+Stjörnubreiðan lofar skemmtilegum óvæntum uppákomum
+Lyklastillingar
+Bíð eftir inntaki…\nÝttu á takkann sem þú vilt nota á lyklaborðinu
+Til baka
+Gera hlé á leik
+Stjórnun persónu
+Leiðarlína
+Stillingar
+Útlit
+Vinstri
+Hægri
+Staðfesta
+Endurræsa
+Afrek
+Bakktakki
+Enter
+Enter
+ESC
+Bilslá
+Vinstri WIN
+Hægri WIN
+Vinstri CMD
+Hægri CMD
+▲
+▼
+◀
+▶
+Vinstri Shift
+Hægri Shift
+Vinstri Option
+Hægri Option
+Vinstri CTRL
+Hægri CTRL
+Vinstri Option
+Hægri Option
+Valmynd
+Lokið
+Eftirlitsstaður
+Gleðileg jól
+Safna
+Snerta
+Þetta gæti ekki gerst án þín.\nVið erum eitt.
+Hvers vegna…
+Allt versnar…
+Endalok heimsins
+Fylgdu þinni eigin stjörnu! -Dante
+Þegar þú hefur einu sinni flogið muntu ganga með augun til himins \n\t\t\t\t\t\t\t\t Leonardo Da Vinci
+Þú ert ekki ein(n).
+Sjáðu ekki eftir neinu þegar kemur\nað ást og mat.
+Venjulegt
+Heyrnartól
+Pappír
+Seifur
+Óreiða
+Fjöll
+Kínverskur pensill
+Töfranorn
+Skríða
+Dómínókubbar
+Eining
+Ljós
+Snjóbolti
+Ör
+Hvalur
+Snjóþoka
+Dropasteinn
+Trúður
+Fljúgandi ský
+Snákur
+Hlaup
+Töfraskikkja
+Sprengjubeinagrind
+Blaðra
+Eldhnöttur
+Pýramídi
+Bolti
+Blágrænn bolti
+Svartur bolti
+Einfaldur bolti
+Körfubolti
+Stjörnukraftur
+Vélmenni
+Ónefnt borð
+Upphafið
+Tíminn
+Píanóið
+Ströndin
+Veturinn
+Sléttan
+Vestrið
+Valentínusardagurinn
+Hrekkjavakan
+Sundið
+Eyðimörkin
+Stormurinn
+Stormurinn
+Fjöllin
+Slétturnar
+Slétturnar
+Völundarhúsið
+Jörðin
+Flugeldaparadísin
+Aðfangadagskvöld
+Haustið
+Kristallinn
+Þriggja ára afmælið
+Fimm ára afmælið
+Óreiðan
+Dómkirkjan
+Dómkirkjan
+Saga sjómannsins
+Goðsögnin um launmorðingjann
+Kínverski garðurinn
+Kappaksturinn
+Væntanlegt
+Endirinn - Theo5970
+Rómantíkin
+Vorið
+Kínverska nýárið
+Samúræinn
+Sögur Dragonia
+Ljóti andarunginn
+Tölvuleikurinn
+Brottförin
+Hafið
+Nautsmerkið
+Draumur um himininn
+Körfuboltinn
+Jólaveislan
+Ferðin um Indland
+Stríðið
+Leyndardómurinn
+Fótboltinn
+Þróun hipphoppsins
+Páskarnir
+Vorvögguvísan
+Hrekkjavökugátan
+Skemmtigarðurinn
+Faded - Alan Walker
+Faded (Kennsluútgáfa)
+Despacito
+Alone - Alan Walker
+Zen-garðurinn
+Samúræinn HD
+Búgarðurinn
+Faded - Alan Walker
+All About Us
+Þróunin (P13)
+Sælgætisundraland
+Geimurinn
+Uppgötvunin - Chronos
+Ævintýrið
+Heimsslitin
+Ferðalagið
+Stærðfræðin
+Súldin
+Flakkið
+Tómleikinn
+Minningin
+Reiðistormur
+Ekkert
+Jólahúfa
+Bambusþyrla
+Galdrakarlshattur
+Mexíkóskur hattur
+Kúluhattur
+Sætur hundahattur
+Álfur
+Rotta
+Nýtt borð er að hlaðast niður
+Vertu áfram tengd(ur) internetinu
+Inntaksskjámynd
+Ekki tókst að sækja borð
+Hreinsa skyndiminni
+Skyndiminni, svo sem niðurhaluðum borða- og tónlistargögnum, verður eytt. Halda áfram?
+Núverandi útgáfa #Current# er úrelt. Þú þarft að uppfæra í að minnsta kosti #Latest# til að spila.
+Ekki tókst að hlaða auglýsingastillingum
+Reyna aftur
+Leita að uppfærslum…
+Uppfæri stillingar
+Sæki uppfærslur
+Ferðalaginu er ekki lokið…
+Meira er á leiðinni…
+Takk fyrir allt, leikmenn Dancing Line!
+Uppfærsla nauðsynleg
+Almenn samstillingarstilling
+Samstillingarstilling borðs
+Sjálfvirk leiðrétting
+Deila
+Afrita texta
+Vista mynd
+Afrita mynd
+Veldu hvað á að hreinsa
+Hreinsa framvindu leiks
+Nýtt met
+Fullkomið
+Ekki til sölu
+Nótuáskorun
+Nótuverslun
+Uppselt
+Stjörnur × {0}
+Teningar × {0}
+Áskorun
+Þriðjudagur — sunnudagur
+Reglur
+Ljúktu þessu borði fullkomlega til að fá nótur!
+Nótuáskoruninni er lokið, reyndu aftur síðar!
+• Í þessum viðburði er verkefnið þitt að safna hverjum einasta demanti og hverri einustu krónu, sigra borðið með aðeins einum teningi og—mundu—engar endurlífgarnir leyfðar! Ertu tilbúin(n) í áskorunina?\n\n• Leiðarlínur eru óvirkar meðan spilað er, svo þetta veltur allt á hæfileikum þínum!\n\n• Þegar þú hefur lokið borðinu fullkomlega skaltu ekki gleyma að fara aftur á viðburðarsíðuna og sækja verðlaunin þín!
+Ekki tókst að tengjast internetinu. Gakktu úr skugga um að tengingin sé stöðug og reyndu aftur.
+Hlutur innleystur
+#item# innleyst með góðum árangri
+Viltu innleysa #item#?
+Verslunin endurnýjast á hverjum mánudegi
+Nótuverslunin hefur verið endurnýjuð, skoðaðu nýjungarnar!
+Nótuáskorun vikunnar er nú í boði, komdu og sigraðu borðin!
+Keilukúla
+Tennisbolti
+Áskorun lokið: #Level#
+Halda niðurhali áfram með farsímagögnum?
+Viðvörun um farsímagögn
+Villa
+Óþekkt villa kom upp!
+Fela bendil
+Þegar kyrrstæður
+Á meðan spilað er
+Aldrei
+Opinbert
+Endurhljóðblöndun
+Viðburður
+Árstíð
+Upprunalegt
+Eldri útgáfa
+Aðdáendagert
+Max Studio
+WINDER Studio
+Skráðu þig inn á Game Center í kerfisstillingum
+Stöðustika
+DLRS GAS
+Prófíll
+Reikningsstillingar
+Notandanafn: {0}\nNotandaauðkenni: {1}
+Rammatíðni
+Sýna rammatíðni
+Netþjónn
+Stuðningur við margfalda snertingu
+Come & Get It - Selena Gomez
+Lag
+Afritað á klippiborð
+Forritstákn
+Flytja út framvindu leiks
+Flytja inn framvindu leiks
+Tré tómsins
+Farðu inn á leynilegu leiðina í Tómleiknum
+Sjálfvirkar snertingar gætu verið ónákvæmar þar til borðinu hefur verið hlaðið niður.
+Uppfæri gagnagrunn leiks
+Sjálfgefið
+Grænt
+Dúettinn
+QQ-hópur
+QQ-rás
+Myndbirtingarupplausn
+Sjálfvirkt
+Hattar
+Taka af
+Vísindaskáldskapur
+https://dl-community.github.io/Docs/#/en/legal/eula
+https://dl-community.github.io/Docs/#/en/legal/privacy
+https://dl-community.github.io/Docs/#/dlce/level_information
+https://dl-community.github.io/Docs/#/en/dlce/localization
+lokið
+Blátt
+Gult
+Klassískt
+Hljóðlota rofin
+Vegna þess að kerfið truflaði núverandi hljóðlotu getur leikurinn tímabundið ekki haldið áfram. Reyndu að forðast forrit eða ferli sem gætu truflað hljóð leiksins og reyndu aftur.
+Síðast samstillt: {0}\nÚtgáfa skýjagagna: {1}
+Samstilla núna
+Of tíðar samstillingar
+Samstilling tókst
+Samstilling mistókst
+Skýjavistun
+Síðast samstillt
+Útgáfa skýjagagna
+Samstilli…
+Fylgja tungumáli kerfisins
+Afrita
+Opna ytri möppu
+Ekki er hægt að opna möppu beint eins og er. Smelltu á hnappinn til að afrita eftirfarandi slóð og opnaðu hana handvirkt:\n\n#DIRECTORY#
+DL RS Games-reikningskerfi
+Netfang…
+Lykilorð…
+Muna notanda
+Innskráning á reikning
+Skrá inn
+Nýskrá
+Gleymt lykilorð
+Skrái inn…
+Innskráning rann út á tíma
+Villa
+Rangt netfang eða lykilorð
+Þessi reikningur er ekki á leyfislistanum
+Virkja þarf þennan reikning
+Forritið er úrelt, athugaðu uppfærslur.
+Velkomin(n), {0}!
+Innskráning tókst
+Sláðu inn netfang
+Sláðu inn lykilorð
+Með innskráningu samþykkirðu <b><color=#3d6ec0>þjónustuskilmála DLRS GAS</color></b>
+Nýlegur reikningur
+Ný innskráning
+Ertu viss um að þú viljir fjarlægja reikninginn #name#?
+Opna í ytri vafra…
+Þessi reikningur hefur verið bannaður
+Sæki notandagögn…
+Ekki tókst að hlaða gögnum leikmanns
+Skrá út
+Ertu viss um að þú viljir skrá þig út af  #USERNAME#?
+Opinn hugbúnaður
+https://dlce.fengyan.ip-ddns.com/#/en/legal/open-source
+Tölfræði
+Lokið
+Demantar
+Krónur
+Dauðsföll
+Tilraunir við borð
+Endurlífganir
+Fjöldi skipta sem lokið var
+Demantar teknir upp
+Krónur teknar upp
+Stjörnur unnar
+Stjörnum eytt
+Orkuteningar unnir
+Orkuteningar notaðir
+Nótur unnar
+Nótum eytt
+Útlit í eigu
+Hattar í eigu
+Fjölúrtakskantajöfnun (#SHORT#)
+Hröð nálgunarkantajöfnun (#SHORT#)
+Tímabundin kantajöfnun (#SHORT#)
+Undirpixlaformfræðileg kantajöfnun (#SHORT#)
+AMD FidelityFX™ Super Resolution (#SHORT#)
+Reikistjarna
+Stjarna
+Fara í #LEVELNAME#
+Þessi valkostur getur valdið hökti eða rangri myndbirtingu meðan á spilun stendur.
+Viðvörun
+Hljóðtæki
+Innbyggður hátalari
+Hátalarar
+Engin borð fundust sem passa við leitarorðin.
+Passa við öll
+Passa við eitthvert
+Spilanlegt
+Skrá inn með netfangi og lykilorði
+Skrá inn með OAuth
+Heimild mistókst. Reyndu aftur.
+Slökkva
+Kveikja
+Þegar þetta er óvirkt verður tölfræðinni þinni eytt og leikurinn hættir að skrá gögn þar til þú virkjar þetta aftur.
+Forritið er úrelt, athugaðu uppfærslur.
+Innlausnarkóði
+Sláðu inn innlausnarkóða…
+Innleysa
+Biðtími innlausnar er í gangi, reyndu aftur síðar.
+Innlausnarkóðinn er ógildur eða hefur þegar verið notaður.
+Eftirfarandi hlutir voru innleystir:
+Borð: #NAME#
+Útlit: #NAME#
+Hattur: #NAME#
+Nótur × {0}
+Með höfuðið í skýjunum
+Þjónustuskilmálar
+Staðfesting á heilleika leiksumhverfisins mistókst.
+Steam-yfirlag
+Monument Valley
+Cheetah-bangsinn
+Galdrakarlinn í Oz
+Kínverski drekinn
+Hljóðblandari
+Mónó
+Stereó
+4.0 umhverfishljóð
+5.0 umhverfishljóð
+5.1 umhverfishljóð
+7.1 umhverfishljóð
+Velja borð
+Borðasafn
+Kaupa á Steam
+Kauptu og settu upp þessa viðbót í Steam-versluninni
+Eldri útgáfa
+Senda inn borð
+{0}s
+{0}m {1}s
+{0}h {1}m {3}s
+{0}h {1}m
+Niðurhal uppfærslna mistókst. Reyna aftur?
+Nýjar uppfærslur eru í boði, sækja þarf {0}. Halda áfram?
+Gleymda athvarfið
+Ekki tókst að leita að uppfærslum, reyna aftur?
+Niðurhal uppfærslna mistókst. Reyni aftur…
+Samstarf
+Sleppa borði
+Nota {0} nótur til að sleppa þessu áskorunarborði?
+Ekki nægar nótur. Þú þarft að minnsta kosti {0} til að sleppa.
+{0}d {1}h
+Endurnýjast eftir: {0}
+Skreyting
+VSync er nú virkt. Stillingar rammatíðni taka aðeins gildi þegar VSync er óvirkt.\nViltu slökkva á VSync?
+Netþjónninn er í viðhaldi. Ekki verður hægt að spila á meðan.\n\nÁstæða viðhalds: {0}\nLok viðhalds: {1}
+Fylgstu með frekari opinberum tilkynningum.
+Innskráningarlota reikningsins þíns er útrunnin. Þú gætir hafa skráð þig inn úr öðru tæki.\nSkráðu þig inn aftur.
+Netþjónninn er í viðhaldi. Þú getur skráð þig inn á meðan, en þjónusta leiksins gæti verið óstöðug.\n\nÁstæða viðhalds: {0}\nLok viðhalds: {1}
+Verkefni
+Endurnýjast eftir: {0}
+Skráðu þig inn í leikinn
+Ljúktu hvaða borði sem er {0} sinnum
+Notaðu {0} teninga
+Notaðu {0} stjörnur
+Deyðu {0} sinnum í hvaða borði sem er
+Safnaðu {0} demöntum í hvaða borði sem er
+Safnaðu {0} krónum í hvaða borði sem er
+Endurlífgaðu þig {0} sinnum í hvaða borði sem er
+Fá stjörnur
+Sérstök víxlverkun í borði
+Þetta borð inniheldur sérstakar víxlverkanir sem hægt er að virkja með snertiskjá eða með því að halda takka inni.
+Ekki tókst að tengjast Steam-netinu
+Steam-skýið
+Læst borð
+Aðgerð 1
+Aðgerð 2
+Aðgerð 3
+Aðgerð 4
+Aðgerð 5
+Til baka
+Hætta við
+Kaupa
+Næsta borð
+Aðalvalmynd
+Hefja borð
+Hætta í leik
+Fyrra borð
+Fyrri síða
+Næsta síða
+Hljóð
+Aðalhljóðstyrkur
+Ekki tókst að ræsa Steam-biðlarann. Endurræstu leikinn.
+Ekki er hægt að tengjast Steam-biðlaranum. Gakktu úr skugga um að Steam-biðlarinn sé í gangi og endurræstu leikinn.
+Steam-biðlarinn virðist úreltur. Gakktu úr skugga um að hann sé uppfærður.
+Steam-villa
+Skýjavistun Steam er skemmd og ekki hægt að lesa hana.\nÞetta gæti stafað af því að þú hættir í leiknum á meðan vistun stóð yfir og gögnin voru því ekki skrifuð að fullu.\nLeikurinn reyndi að lesa vistunina úr staðbundnu skyndiminni en það mistókst einnig.\nÞú getur valið að hefja leikinn með nýrri vistun. Viltu halda áfram?
+Villa í Steam-skýinu
+Æfingastilling virkjar leiðarlínuna.\n\nFylgdu leiðarlínunni til að læra leiðina og njóta alls þess sem borðið býður upp á án takmarkana.\n\nGefðu þér tíma til að finna leiðina áfram —— metið getur beðið. Framvinda í æfingastillingu telur ekki með í stigum, verkefnum eða afrekum.\n\nVirkja æfingastillingu?
+Æfingastilling
+Æfingastilling
+VIÐVÖRUN: LJÓSNÆMI/FLOGAKÖST
+<b>LESTU ÞESSA VIÐVÖRUN ÁÐUR EN ÞÚ SPILAR</b>\n\nMjög lítill hluti fólks getur fengið flogaköst eða misst meðvitund við ákveðin blikkandi ljós eða ljósmynstur. Þetta fólk, og jafnvel fólk sem hefur aldrei fengið flog eða greinst með flogaveiki, getur fundið fyrir flogaveikiseinkennum eða fengið flogaköst við tölvuleikjaspilun.\n\nEf þú eða einhver í fjölskyldu þinni er með flogaveiki eða hefur fengið flogaköst af einhverju tagi skaltu ráðfæra þig við lækni áður en þú spilar tölvuleiki.\n\nHÆTTU STRAX að spila og leitaðu læknis ef þú eða barnið þitt finnið fyrir einhverjum eftirfarandi einkennum: sundli, sjónbreytingum, kippum í augum eða vöðvum, ósjálfráðum hreyfingum, meðvitundarskerðingu, áttavillu eða krömpum. Foreldrar ættu að fylgjast með þessum einkennum hjá börnum sínum eða spyrja þau um þau.\n\nÞú getur dregið úr hættu á flogaköstum af völdum ljósnæmis með eftirfarandi varúðarráðstöfunum: sitja lengra frá skjánum, nota minni skjá, spila í vel upplýstu herbergi og forðast að spila þegar þú ert syfjuð/syfjaður eða þreytt(ur).
+Stigatafla Steam
+Leiðarlína
+Opnun borðs
